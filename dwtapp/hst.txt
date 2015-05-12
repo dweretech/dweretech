@@ -1,0 +1,220 @@
+    1  ifconfig -a
+    2  nslookup 172.16.2.10
+    3  nslookup yahoo.com
+    4  exit
+    5  ls -l ../
+    6  useradd web
+    7  passwd web
+    8  ls -l ../
+    9  mkdir ../web
+   10  chown web:web ../web/
+   11  ls -l ../
+   12  sudo - web
+   13  su - web
+   14  init 0
+   15  route -n
+   16  init 0
+   17  ifconfig -a
+   18  vi /etc/network/interfaces 
+   19  /etc/init.d/networking restart
+   20  vi /etc/network/interfaces 
+   21  /etc/init.d/networking restart
+   22  vi /etc/resolv.conf 
+   23  route -a
+   24  route -n
+   25  ifconfig -a
+   26  cat /etc/network/interfaces 
+   27  ping 192.168.144.1
+   28  vi /etc/resolv.conf 
+   29  vi /etc/network/interfaces 
+   30  /etc/init.d/networking restart
+   31  ping 192.168.144.1
+   32  mysql -uroot -p
+   33  exit
+   34  exit
+   35  cd /var/www/
+   36  ls -l
+   37  cd apache2-default/
+   38  ls -l
+   39  mv index.html index.php
+   40  cd ..
+   41  mkdir dhr
+   42  cd dhr/
+   43  vi index.php
+   44  init 0
+   45  ln -s /var/www/ www
+   46  cd www
+   47  ls -l
+   48  cd dhr/
+   49  ls -l
+   50  vi index.php 
+   51  cp index.php commty.php
+   52  cp index.php resouces.php
+   53  cp index.php contact.php
+   54  cp index.php country.php
+   55  mv resouces.php resources.php
+   56  setup
+   57  vi /etc/samba/smb.conf 
+   58  /etc/init.d/samba restaRT
+   59  /etc/init.d/samba restart
+   60  vi index.php 
+   61  init 0
+   62  vi /etc/hosts
+   63  /etc/init.d/apache2 restart
+   64  nslookup yahoo.com
+   65  update
+   66  apt-get update
+   67  cd www/dhr/
+   68  vi conn.php
+   69  vi create.php
+   70  vi insert.php 
+   71  ls -ltr
+   72  cat insert.php 
+   73  cat create.php 
+   74  mysql -uroot -p
+   75  vi create.php 
+   76  exit
+   77  route -a
+   78  route -n
+   79  ls -l
+   80  cd www
+   81  ls -l
+   82  exit
+   83  cat create.php 
+   84  mysql -uroot -p
+   85  exit
+   86  mysql -uroot -p
+   87  exit
+   88  cd www
+   89  cd dhr/
+   90  ls -l
+   91  vi create.php 
+   92  vi showusers.php
+   93  ls -l
+   94  groupadd webusers
+   95  vi /etc/group
+   96  chowm g+wr *
+   97  chmod g+wr *
+   98  ls -l
+   99  chgrp -R webusers *
+  100  ls -l
+  101  init 0
+  102  ifconfig -a
+  103  vi /etc/network/interfaces 
+  104  rm  /etc/network/.interfaces.swp 
+  105  vi /etc/network/interfaces 
+  106  /etc/init.d/networking restart
+  107  ifconfig -a
+  108  vi /etc/hosts
+  109  /etc/init.d/networking restart
+  110  route -n
+  111  hostname
+  112  init 6
+  113  vi /etc/nsswitch.conf 
+  114  vi /etc/resolv.conf 
+  115  nslookup yahoo.com
+  116  cd www
+  117  ls -l
+  118  vi /etc/group
+  119  chgrp -R webusers ../www/
+  120  chmod g+wr ../www/
+  121  ls -l
+  122  cd html/
+  123  ls -l
+  124  cd dwtapps/
+  125  ls -l
+  126  mysql
+  127  ps -elf
+  128  /etc/init.d/mysql
+  129  /etc/init.d/mysql status
+  130  /etc/init.d/mysql restart
+  131  mysql -u root
+  132  mysql -u root -p
+  133  ls
+  134  mysqldump --databases webapps<webapps.sql
+  135  mysql  webapps<webapps.sql
+  136  mysql -u root -p dwere4u webapps<webapps.sql
+  137  mysql -u root -p dwere4u --database webapps<webapps.sql
+  138  mysql -u root -p  --database webapps<webapps.sql
+  139  mysql -u root -p dwere4u
+  140  mysql -u root -p
+  141  mysql -u root -p  --database webapps<webapps.sql
+  142  mysql -u root -p
+  143  ls
+  144  vi ../lib/dbinfo.inc 
+  145  mysql -u root -p
+  146  ls
+  147  ls -l
+  148  chmod 777 _R /tmp
+  149  chmod 777 -R /tmp
+  150  ls -l images/
+  151  vi clientupload.php
+  152  chmod 777 images
+  153  ls -l
+  154  ls -l 
+  155  ls -l |mail klagony@gmail.com
+  156  mail
+  157  dpkg-reconfigure exim4-config
+  158  vi /etc/postfix/main.cf
+  159  vi /etc/postfix/master.cf
+  160  aptitude install esmtp
+  161  apt-get update
+  162  aptitude install ca-certificates
+  163  ls -l /usr/bin/esmtp
+  164  apt-get install esmtp
+  165  identity klagony@gmail.com
+  166  vi /etc/esmtprc
+  167  cp /etc/esmtprc /home/klagony/.esmtprc
+  168  vi /home/klagony/.esmtprc
+  169  cd /home/klagony/
+  170  chmod 0600 .esmtprc
+  171  set sendmail="/usr/bin/esmtp"
+  172  set envelope_from=yes
+  173  su - kalgony
+  174  su - klagony
+  175  vi /home/klagony/.esmtprc
+  176  apt-get install xmail
+  177  apt-get install xmail --force
+  178  apt-get installapt-get update  xmail 
+  179  apt-get update 
+  180  apt-get install xmail
+  181  /etc/init.d/postfix 
+  182  /etc/init.d/postfix stop
+  183  vi /etc/postfix/main.cf
+  184  /etc/init.d/postfix stop
+  185  /etc/init.d/postfix restart
+  186  apt-get install xmail
+  187  /etc/init.d/postfix restart
+  188  apt-get install xmail
+  189  /etc/init.d/xmail 
+  190  /etc/init.d/xmail start
+  191  ls -l|mail klagony@gmail.com
+  192  apt-get install postfix
+  193  ls -l|mail klagony@gmail.com
+  194  vi /etc/postfix/main.cf
+  195  cd /var/www/html/dwtapps/
+  196  history
+  197  history>hst.txt
+  198  mysqldump --username root --databases webapps>dwtapps.sql
+  199  mysqldump -u root --databases webapps>dwtapps.sql
+  200  mysqldump -u root -p --databases webapps>dwtapps.sql
+  201  mysqldump -u root -p --databases dwtapps<dwtapps.sql
+  202  mysqldump -u root -p --databases dwtapps<websapps.sql
+  203  mysqldump -u root -p --databases dwtapps<webapps.sql
+  204  mysql -u root -p
+  205  mysqldump -u root -p --database webapps --table client>client.sql
+  206  cat client.sql 
+  207  PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY1;1;112;112;1;0x
+  208  mysqldump -u root -p --database dwtapps <client.sql
+  209  mysql -u root -p
+  210  mysqldump -u root -p --database webapps --table client>client.sql
+  211  mysql -u root -p dwtapps<client.sql
+  212  mysql -u root -p
+  213  mysql -u root -p dwtapps<webapps.sql
+  214  mysql -u root -p
+  215  mysql -u root -p dwtapps<webapps.sql
+  216  mysql -u root -p
+  217  mysqldump -u root -p --database webapps --table users>users.sql
+  218  mysql -u root -p dwtapps<users.sql
+  219  mysql -u root -p
+  220  history>hst.txt

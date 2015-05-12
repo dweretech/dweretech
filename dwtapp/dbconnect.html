@@ -1,0 +1,35 @@
+<!-- test.html -->
+<html>
+<head>
+  <script>
+var req;
+
+function $(id) {
+  return document.getElementById(id);
+}
+
+function servletCallback() {
+  var field = $("debugHtmlId");
+  field.innerHTML += "responseText='" + req.responseText + "' | <br>============================<br><br> ";
+}
+
+req = new XMLHttpRequest();
+req.onreadystatechange = servletCallback;
+
+    function callServlet() {
+      // With async mode off, I get the
+      // Exception listed above.
+      var myURL = $("myURLID").value;
+      req.open("GET", "Connect?f="+myURL, true);
+      req.send(null);
+
+    }
+  </script>
+</head>
+<body>    
+<input type="text" name="url" id="myURLID" value="localhost" />  
+<input id="callserv" type="submit" value="eServlet Check" onclick="callServlet();" />
+  <span id="debugHtmlId"></div>
+</body>
+</html>
+
