@@ -1,0 +1,131 @@
+<style type="text/css">
+
+
+.AVHiLights {
+	font-size: 10px;
+	color: #FF3300;
+	font-weight: bold;
+}
+ 
+.HideMe{
+	font-size: 8px;
+	color: #FF3300;
+	font-weight: bold;
+	visibility: hidden;
+}
+ 
+.ShowMe{
+	font-size: 11px;
+	color: #FF3300;
+	font-weight: bold;
+	visibility: visible;
+	 
+}
+.AVHeaders {
+	font-size: 18px;
+	color: #009966;
+	font-weight: bold;
+}
+
+.AVForms {
+	font-size: 11px;
+	background-color: #C4B484;
+	color: #009966;
+	font-weight: normal;
+	visibility: visible;
+}
+.AVForms1 {
+	font-size: 8px;
+	color: #009966;
+	font-weight: bold;
+	visibility: hidden;
+}
+#AVFormV {
+	position:absolute;
+	width:294px;
+	height:146px;
+	z-index:1;
+	left: 104px;
+	top: 151px;
+	overflow: hidden;
+	visibility: hidden;
+}
+.AVbodyText {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.AVForms2 {
+	font-size: 11px;
+	background-color: #00FF00;
+	color: #333333;
+	font-weight: bold;
+		
+}
+.style6 {color: #009966}
+
+.AVMenu{
+	font-size: 11px;
+	color: #333333;
+	font-weight: bold;
+	visibility: visible;
+}
+.AVSrch{
+	font-size: 11px;
+	color: #333333;
+	font-weight: bold;
+	visibility: hidden;
+}
+ 
+.AVBody {
+	font-size: 11px;
+	background:  #FFFFFF;	 
+	visibility: visible;	
+}
+
+.AVMapHide {
+	font-size: 8px;
+	color: #009966;
+	font-weight: bold;
+	visibility:hidden;
+}
+.AVMapShow {
+	font-size: 8px;
+	color: #009966;
+	font-weight: bold;
+	visibility: visible;
+}
+.AVCopyRights {
+	font-size: 8px;
+	color: #009966;
+	font-weight: bold;
+	visibility: visible;
+}
+
+
+.AVbodyText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+ 
+.AVMsg {
+	color: #FF9900;
+	font-weight: bold;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style6 {
+    color: #009966;
+	font-size: 12px;
+}
+#livesearch
+  { 
+  margin:0px;
+  width:194px; 
+  }
+#txt1
+  { 
+  margin:0px;
+  } 
+
+
+</style>

@@ -1,0 +1,112 @@
+	<h1 id="firstHeading" class="firstHeading">Barter</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub"></div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="http://en.wikipedia.org/wiki/Barter#mw-head">navigation</a>,
+					<a href="http://en.wikipedia.org/wiki/Barter#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Barter_(disambiguation)" title="Barter (disambiguation)">Barter (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="http://en.wikipedia.org/wiki/File:LaborNote.JPG" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LaborNote.JPG/350px-LaborNote.JPG" width="350" height="178" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:LaborNote.JPG" class="internal" title="Enlarge"><img src="http://bits.wikimedia.org/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A 19th-century example of barter: A sample labor for labor note for the <a href="http://en.wikipedia.org/wiki/Cincinnati_Time_Store" title="Cincinnati Time Store">Cincinnati Time Store</a>. Scanned from <i>Equitable Commerce</i> by <a href="http://en.wikipedia.org/wiki/Josiah_Warren" title="Josiah Warren">Josiah Warren</a> (1846)</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks" cellspacing="5" style="float:right; clear:right; color:black; background:#f9f9f9; border:1px solid #aaa; margin:0 0 1.0em 1.0em; padding:0.2em; border-spacing:0.4em 0; text-align:center; line-height:1.4em; font-size:88%;" cellpadding="0">
+<tr>
+<td class="" style="padding:0.4em 0; padding:0;line-height:0.4em;">&#160;</td>
+</tr>
+<tr>
+<td style="padding-top:0.2em; font-size:85%; line-height:1.2em; padding-top:0.2em; border:none;">Part of <a href="http://en.wikipedia.org/wiki/Category:Economic_systems" title="Category:Economic systems">a series</a> on</td>
+</tr>
+<tr>
+<th class="" style="padding:0.2em 0.4em 0.2em; padding-top:0; font-size:145%; line-height:1.15em; font-weight:bold; background:#ccf; padding:0.2em 0.4em 0.2em; background:transparent; padding-top:0; border:none;"><a href="http://en.wikipedia.org/wiki/Economic_system" title="Economic system">Economic systems</a></th>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em; font-weight:bold; padding:0; line-height:0.4em;">&#160;</td>
+</tr>
+<tr>
+<td style="padding-top:0.2em; font-weight:bold; background:#ddf; padding:0.2em 0.4em 0.2em; background:#87cefa;"><a href="http://en.wikipedia.org/wiki/Economic_ideology" title="Economic ideology">Ideological systems</a></td>
+</tr>
+<tr>
+<td style="padding-bottom:0.2em; padding:0.3em 0.4em 0.6em;"><a href="http://en.wikipedia.org/wiki/Anarchist_economics" title="Anarchist economics">Anarchist</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Capitalism" title="Capitalism">Capitalist</a><br />
+<a href="http://en.wikipedia.org/wiki/Communist_economy" title="Communist economy" class="mw-redirect">Communist</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Corporatism" title="Corporatism">Corporatist</a><br />
+<a href="http://en.wikipedia.org/wiki/Economics_of_fascism" title="Economics of fascism">Fascist</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Georgism" title="Georgism">Georgist</a><br />
+<a href="http://en.wikipedia.org/wiki/Islamic_economics" title="Islamic economics" class="mw-redirect">Islamic</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Laissez-faire" title="Laissez-faire">Laissez-faire</a><br />
+<a href="http://en.wikipedia.org/wiki/Market_socialism" title="Market socialism">Market socialist</a><span style="font-weight:bold;">&#160;·</span>  (<a href="http://en.wikipedia.org/wiki/Neomercantilism" title="Neomercantilism">Neo-</a>) <a href="http://en.wikipedia.org/wiki/Mercantilism" title="Mercantilism">Mercantilist</a><br />
+<a href="http://en.wikipedia.org/wiki/Participatory_economics" title="Participatory economics">Participatory</a><br />
+<a href="http://en.wikipedia.org/wiki/Protectionism" title="Protectionism">Protectionist</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Socialist_economics" title="Socialist economics">Socialist</a><br />
+<a href="http://en.wikipedia.org/wiki/Syndicalism" title="Syndicalism">Syndicalist</a></td>
+</tr>
+<tr>
+<td style="padding-top:0.2em; font-weight:bold; background:#ddf; padding:0.2em 0.4em 0.2em; background:#87cefa;">Systems</td>
+</tr>
+<tr>
+<td style="padding-bottom:0.2em; padding:0.3em 0.4em 0.6em;"><a href="http://en.wikipedia.org/wiki/Autarky" title="Autarky">Closed (Autarky)</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Digital_economy" title="Digital economy">Digital</a><br />
+<a href="http://en.wikipedia.org/wiki/Dual_economy" title="Dual economy">Dual</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Gift_economy" title="Gift economy">Gift</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Informal_economy" title="Informal economy" class="mw-redirect">Informal</a><br />
+<a href="http://en.wikipedia.org/wiki/Market_economy" title="Market economy">Market</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Mixed_economy" title="Mixed economy">Mixed</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Natural_economy" title="Natural economy">Natural</a><br />
+<a href="http://en.wikipedia.org/wiki/Open_economy" title="Open economy">Open</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Planned_economy" title="Planned economy">Planned</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Subsistence_economy" title="Subsistence economy">Subsistence</a><br />
+<a href="http://en.wikipedia.org/wiki/Underground_economy" title="Underground economy" class="mw-redirect">Underground</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Virtual_economy" title="Virtual economy">Virtual</a></td>
+</tr>
+<tr>
+<td style="padding-top:0.2em; font-weight:bold; background:#ddf; padding:0.2em 0.4em 0.2em; background:#87cefa;">Sectors</td>
+</tr>
+<tr>
+<td style="padding-bottom:0.2em; padding:0.3em 0.4em 0.6em;"><a href="http://en.wikipedia.org/wiki/Public_sector" title="Public sector">State Sector</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Private_sector" title="Private sector">Private sector</a><br />
+<p><a href="http://en.wikipedia.org/wiki/Voluntary_sector" title="Voluntary sector">Voluntary sector</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Nationalization" title="Nationalization">Nationalization</a><br />
+<a href="http://en.wikipedia.org/wiki/Privatization" title="Privatization">Privatization</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Municipalization" title="Municipalization">Municipalization</a><br />
+<a href="http://en.wikipedia.org/wiki/Liberalization" title="Liberalization">Liberalization</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Corporatization" title="Corporatization">Corporatization</a><br />
+<a href="http://en.wikipedia.org/wiki/Deregulation" title="Deregulation">Deregulation</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Socialization_(economics)" title="Socialization (economics)">Socialization</a><br />
+<a href="http://en.wikipedia.org/wiki/Collectivization" title="Collectivization" class="mw-redirect">Collectivization</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Common_ownership" title="Common ownership">Common ownership</a><br /></p>
+<a href="http://en.wikipedia.org/wiki/Marketization" title="Marketization">Marketization</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Expropriation" title="Expropriation" class="mw-redirect">Expropriation</a><br />
+<a href="http://en.wikipedia.org/wiki/Financialization" title="Financialization">Financialization</a></td>
+</tr>
+<tr>
+<td style="padding-top:0.2em; font-weight:bold; background:#ddf; padding:0.2em 0.4em 0.2em; background:#87cefa;">Other types of economies</td>
+</tr>
+<tr>
+<td style="padding-bottom:0.2em; padding:0.3em 0.4em 0.6em;"><a href="http://en.wikipedia.org/wiki/Anglo-Saxon_economy" title="Anglo-Saxon economy">Anglo-Saxon</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Feudal" title="Feudal" class="mw-redirect">Feudal</a><br />
+<a href="http://en.wikipedia.org/wiki/World_economy" title="World economy">Global</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Hunter-gatherer" title="Hunter-gatherer">Hunter-gatherer</a><br />
+<a href="http://en.wikipedia.org/wiki/Information_economy" title="Information economy">Information</a><br />
+<a href="http://en.wikipedia.org/wiki/Newly_industrialized_country" title="Newly industrialized country">Newly industrialized country</a><br />
+<a href="http://en.wikipedia.org/wiki/Palace_economy" title="Palace economy">Palace</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Plantation_economy" title="Plantation economy">Plantation</a><br />
+<a href="http://en.wikipedia.org/wiki/Post-capitalism" title="Post-capitalism">Post-capitalist</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Post-industrial_economy" title="Post-industrial economy">Post-industrial</a><br />
+<a href="http://en.wikipedia.org/wiki/Social_market_economy" title="Social market economy">Social market</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Socialist_market_economy" title="Socialist market economy">Socialist market</a><br />
+<a href="http://en.wikipedia.org/wiki/Token_economy" title="Token economy">Token</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Traditional_economy" title="Traditional economy">Traditional</a><br />
+<a href="http://en.wikipedia.org/wiki/Transition_economy" title="Transition economy">Transition</a><span style="font-weight:bold;">&#160;·</span>  <strong class="selflink">Barter</strong><br />
+<a href="http://en.wikipedia.org/wiki/State_capitalism" title="State capitalism">State capitalist</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Economic_planning" title="Economic planning">State-directed</a></td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em; font-weight:bold; background:#ddf; padding-top:0.3em; background:#87cefa; line-height:1.1em;"><a href="http://en.wikipedia.org/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Business and<br />
+economics portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right; padding-top:0.4em;">
+<div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;; font-size:xx-small;"><a href="http://en.wikipedia.org/wiki/Template:Economic_systems_sidebar" title="Template:Economic systems sidebar"><span title="View this template" style="">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/wiki/Template_talk:Economic_systems_sidebar" title="Template talk:Economic systems sidebar"><span title="Discuss this template" style="">d</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/w/index.php?title=Template:Economic_systems_sidebar&amp;action=edit" class="external text" rel="nofollow"><span title="Edit this template" style=";">e</span></a></div>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style="">This article <b>needs attention from an expert on the subject</b>. See the <a href="http://en.wikipedia.org/wiki/Talk:Barter" title="Talk:Barter">talk page</a> for details. <a href="http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Business_and_Economics" title="Wikipedia:WikiProject Business and Economics" class="mw-redirect">WikiProject Business_and_Economics</a> or the <a href="http://en.wikipedia.org/wiki/Portal:Business_and_Economics" title="Portal:Business and Economics" class="mw-redirect">Business_and_Economics Portal</a> may be able to help recruit an expert. <small><i>(November 2008)</i></small></td>
+</tr>
+</table>
+<p><b>Barter</b> is a method of exchange by which <a href="http://en.wikipedia.org/wiki/Good_(economics)" title="Good (economics)">goods</a> or <a href="http://en.wikipedia.org/wiki/Service_(economics)" title="Service (economics)">services</a> are directly exchanged for other goods or services without using a <a href="http://en.wikipedia.org/wiki/Medium_of_exchange" title="Medium of exchange">medium of exchange</a>, such as <a href="http://en.wikipedia.org/wiki/Money" title="Money">money</a>.<sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Barter#cite_note-0"><span>[</span>1<span>]</span></a></sup> It is usually <a href="http://en.wiktionary.org/wiki/bilateral" class="extiw" title="wiktionary:bilateral">bilateral</a>, but may be <a href="http://en.wikipedia.org/wiki/Multilateral" title="Multilateral" class="mw-redirect">multilateral</a>, and usually exists parallel to monetary systems in most developed countries, though to a very limited extent. Barter usually replaces money as the method of exchange in times of monetary crisis, when the <a href="http://en.wikipedia.org/wiki/Currency" title="Currency">currency</a> is unstable and devalued by <a href="http://en.wikipedia.org/wiki/Hyperinflation" title="Hyperinflation">hyperinflation</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

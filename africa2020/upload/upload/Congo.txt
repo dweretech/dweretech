@@ -1,0 +1,27 @@
+	<h1 id="firstHeading" class="firstHeading">Congo</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Congo#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Congo#searchInput">search</a></div>			<!-- start content -->
+			<table class="metadata plainlinks mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><a href="http://en.wiktionary.org/wiki/Special:Search/Congo" title="Search Wiktionary"><img alt="Search Wiktionary" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/40px-Wiktionary-logo-en.svg.png" width="40" height="44" /></a></td>
+<td class="mbox-text" style="">Look up <i><b><a href="http://en.wiktionary.org/wiki/Congo" class="extiw" title="wiktionary:Congo">Congo</a></b></i>&#160;or <i><b><a href="http://en.wiktionary.org/wiki/Kongo" class="extiw" title="wiktionary:Kongo">Kongo</a></b></i> in <a href="http://en.wikipedia.org/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>, the free dictionary.</td>
+</tr>
+</table>
+<p><b>Congo</b>, <b>Kongo</b> and <b>Kongō</b> may refer to:<span id="Country"></span></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Congo&amp;action=edit&amp;section=1" title="Edit section: A river and one of two countries in Africa">edit</a>]</span> <span class="mw-headline" id="A_river_and_one_of_two_countries_in_Africa">A river and one of two countries in Africa</span></h2>
+<table align="right">
+<tr>
+<td valign="top">
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="http://en.wikipedia.org/wiki/File:Congo-Brazzaville-Congo-Kinshasa.png" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/5/58/Congo-Brazzaville-Congo-Kinshasa.png" width="250" height="115" class="thumbimage" /></a>
+<div class="thumbcaption"><span style="margin:0px; padding-bottom:1px; font-size:90%; display:block;"><span style="border:#5CD65C solid 1px; background-color:#5CD65C; color:#5CD65C;">&#160;&#160;&#160;&#160;</span>&#160;<a href="http://en.wikipedia.org/wiki/Republic_of_the_Congo" title="Republic of the Congo">Republic of the Congo</a></span><span style="margin:0px; padding-bottom:1px; font-size:90%; display:block;"><span style="border:#3A963A solid 1px; background-color:#3A963A; color:#3A963A;">&#160;&#160;&#160;&#160;</span>&#160;<a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></span></div>
+</div>
+</div>
+</td>
+<td valign="top">
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

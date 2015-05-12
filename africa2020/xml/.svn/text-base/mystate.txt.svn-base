@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLSpy® -->
+<pages>
+<link>
+<title><?=$mystate?></title>
+<url>http://www.africavision2020.com</url>
+</link>
+</pages>

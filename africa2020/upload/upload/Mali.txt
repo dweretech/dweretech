@@ -1,0 +1,180 @@
+	<h1 id="firstHeading" class="firstHeading">Mali</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Mali#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Mali#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Mali_(disambiguation)" title="Mali (disambiguation)">Mali (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Mali
+<div style="padding-top:0.25em;"><i>République du Mali</i></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Mali.svg" class="image" title="Flag of Mali"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/125px-Flag_of_Mali.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Mali_coa.gif" class="image" title="Coat of arms of Mali"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/8/80/Mali_coa.gif" width="85" height="85" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Mali" title="Flag of Mali">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Mali" title="Coat of arms of Mali">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"Un peuple, un but, une foi"<br />
+<small>"One people, one goal, one faith"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Pour_l%27Afrique_et_pour_toi,_Mali" title="Pour l'Afrique et pour toi, Mali" class="mw-redirect">Le Mali</a></i><br />
+<small>"Mali"</small><sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mali#cite_note-0"><span>[</span>1<span>]</span></a></sup><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationMali.svg" class="image" title="Location of Mali"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LocationMali.svg/250px-LocationMali.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Mali" title="Demographics of Mali">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Bamako" title="Bamako">Bamako</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Mali&amp;params=12_39_N_8_0_W_type:country(1,240,192)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">12°39′N</span> <span class="longitude">8°0′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">12.65°N 8°W</span><span style="display:none">﻿ / <span class="geo">12.65; -8</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Vernacular" title="Vernacular">Vernacular languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Bambara_language" title="Bambara language">Bambara</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Malian" title="Malian">Malian</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Semi-presidential_system" title="Semi-presidential system">Semi-presidential republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Mali" title="List of Presidents of Mali" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Amadou_Toumani_Tour%C3%A9" title="Amadou Toumani Touré">Amadou Toumani Touré</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Heads_of_Government_of_Mali" title="Heads of Government of Mali" class="mw-redirect">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Modibo_Sidib%C3%A9" title="Modibo Sidibé">Modibo Sidibé</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/History_of_Mali" title="History of Mali">Independence</a></th>
+<td>from France&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Declared</td>
+<td>September 22, 1960&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E12_m%C2%B2" title="1 E12 m²" class="mw-redirect">1,240,192&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">24th</a>)<br />
+478,839&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>1.6</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>13,010,000<sup id="cite_ref-unpop_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mali#cite_note-unpop-1"><span>[</span>2<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">71st</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>10.5/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">207th</a>)<br />
+27.2/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$15.084 billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mali#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,129<sup id="cite_ref-imf2_2-1" class="reference"><a href="http://en.wikipedia.org/wiki/Mali#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$8.774 billion<sup id="cite_ref-imf2_2-2" class="reference"><a href="http://en.wikipedia.org/wiki/Mali#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$656<sup id="cite_ref-imf2_2-3" class="reference"><a href="http://en.wikipedia.org/wiki/Mali#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(1994)</td>
+<td>50.5&#160;(<font color="red">high</font>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.380&#160;(<font color="#E0584E">low</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">173rd</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/West_African_CFA_franc" title="West African CFA franc">West African CFA franc</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">XOF</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/GMT" title="GMT" class="mw-redirect">GMT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><i>not observed</i>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Mali#cite_note-3"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.ml" title=".ml">.ml</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>223</td>
+</tr>
+</table>
+<p><b>Mali</b>, officially the <b>Republic of Mali</b> (<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>République du Mali</i></span>), is a <a href="http://en.wikipedia.org/wiki/Landlocked" title="Landlocked" class="mw-redirect">landlocked</a> nation in <a href="http://en.wikipedia.org/wiki/West_Africa" title="West Africa">Western Africa</a>. Mali is the seventh largest country in Africa, bordering <a href="http://en.wikipedia.org/wiki/Algeria" title="Algeria">Algeria</a> on the north, <a href="http://en.wikipedia.org/wiki/Niger" title="Niger">Niger</a> on the east, <a href="http://en.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a> and the <a href="http://en.wikipedia.org/wiki/C%C3%B4te_d%27Ivoire" title="Côte d'Ivoire">Côte d'Ivoire</a> on the south, <a href="http://en.wikipedia.org/wiki/Guinea" title="Guinea">Guinea</a> on the south-west, and <a href="http://en.wikipedia.org/wiki/Senegal" title="Senegal">Senegal</a> and <a href="http://en.wikipedia.org/wiki/Mauritania" title="Mauritania">Mauritania</a> on the west. Its size is just over 1,240,000&#160;km² with an estimated population of about 13,000,000. Its capital is <a href="http://en.wikipedia.org/wiki/Bamako" title="Bamako">Bamako</a>.</p>
+<p>Mali consists of eight regions and its borders on the north reach deep into the middle of the <a href="http://en.wikipedia.org/wiki/Sahara" title="Sahara">Sahara</a>, while the country's southern region, where the majority of inhabitants live, features the <a href="http://en.wikipedia.org/wiki/Niger_river" title="Niger river" class="mw-redirect">Niger</a> and <a href="http://en.wikipedia.org/wiki/Senegal_river" title="Senegal river" class="mw-redirect">Senegal</a> rivers. The country's economic structure centers around <a href="http://en.wikipedia.org/wiki/Agriculture" title="Agriculture">agriculture</a> and <a href="http://en.wikipedia.org/wiki/Fishing" title="Fishing">fishing</a>. Some of Mali's natural resources include <a href="http://en.wikipedia.org/wiki/Gold" title="Gold">gold</a>, <a href="http://en.wikipedia.org/wiki/Uranium" title="Uranium">uranium</a>, and <a href="http://en.wikipedia.org/wiki/Salt" title="Salt">salt</a>. Mali is considered to be one of the poorest nations in the world.</p>
+<p>Present-day Mali was once part of three West African empires that controlled <a href="http://en.wikipedia.org/wiki/Trans-Saharan_trade" title="Trans-Saharan trade">trans-Saharan trade</a>: the <a href="http://en.wikipedia.org/wiki/Ghana_Empire" title="Ghana Empire">Ghana Empire</a>, the <a href="http://en.wikipedia.org/wiki/Mali_Empire" title="Mali Empire">Mali Empire</a> (from which Mali is named), and the <a href="http://en.wikipedia.org/wiki/Songhai_Empire" title="Songhai Empire">Songhai Empire</a>. In the late 1800s, Mali fell under French control, becoming part of <a href="http://en.wikipedia.org/wiki/French_Sudan" title="French Sudan">French Sudan</a>. Mali gained independence in 1959 with Senegal, as the <a href="http://en.wikipedia.org/wiki/Mali_Federation" title="Mali Federation">Mali Federation</a>. A year later, the Mali Federation became the independent nation of Mali. After a long period of one-party rule, a 1991 coup led to the writing of a new constitution and the establishment of Mali as a democratic, multi-party state. About half the population live below the international <a href="http://en.wikipedia.org/wiki/Poverty_line" title="Poverty line" class="mw-redirect">poverty line</a> of US$1.25 a day.<sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/Mali#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

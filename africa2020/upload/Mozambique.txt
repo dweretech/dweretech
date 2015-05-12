@@ -1,0 +1,216 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mozambique</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Mozambique#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Mozambique#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="http://en.wikipedia.org/wiki/Mozambique_(disambiguation)" title="Mozambique (disambiguation)" class="mw-disambig">Mozambique (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Republic of Mozambique</span><br />
+<div style="padding-top:0.25em;">
+<div class="plainlist">
+<ul>
+<li style="font-size:88%;"><span lang="pt"><i>República de Moçambique</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>)</span></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Mozambique.svg" class="image" title="Flag of Mozambique"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/125px-Flag_of_Mozambique.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/188px-Flag_of_Mozambique.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/250px-Flag_of_Mozambique.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Emblem_of_Mozambique.svg" class="image" title="Coat of arms of Mozambique"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblem_of_Mozambique.svg/85px-Emblem_of_Mozambique.svg.png" width="85" height="92" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblem_of_Mozambique.svg/128px-Emblem_of_Mozambique.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblem_of_Mozambique.svg/170px-Emblem_of_Mozambique.svg.png 2x" data-file-width="741" data-file-height="800" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Mozambique" title="Flag of Mozambique">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Mozambique" title="Coat of arms of Mozambique" class="mw-redirect">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><i><a href="http://en.wikipedia.org/wiki/P%C3%A1tria_Amada" title="Pátria Amada">Pátria Amada</a></i><br />
+<small style="font-size:85%;"><i>Beloved Homeland</i></small><br />
+<center>
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px" poster="//en.wikipedia.org/static/1.26wmf4/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="62.171428571429" data-startoffset="0" data-mwtitle="National_Anthem_of_Mozambique_by_US_Navy_Band.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/0/0c/National_Anthem_of_Mozambique_by_US_Navy_Band.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (174 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="173904"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/0/0c/National_Anthem_of_Mozambique_by_US_Navy_Band.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_Mozambique_AU_Africa.svg" class="image" title="Location of &#160;Mozambique&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)"><img alt="Location of &#160;Mozambique&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Location_Mozambique_AU_Africa.svg/250px-Location_Mozambique_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Location_Mozambique_AU_Africa.svg/375px-Location_Mozambique_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Location_Mozambique_AU_Africa.svg/500px-Location_Mozambique_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">Mozambique</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b><br />
+and largest city</td>
+<td><a href="http://en.wikipedia.org/wiki/Maputo" title="Maputo">Maputo</a><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mozambique&amp;params=25_57_S_32_35_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">25°57′S</span> <span class="longitude">32°35′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">25.950°S 32.583°E</span><span style="display:none">﻿ / <span class="geo">-25.950; 32.583</span></span></span></a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td><a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Mozambican</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Mozambique" title="Politics of Mozambique">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="http://en.wikipedia.org/wiki/Presidential_system" title="Presidential system">presidential</a> <a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Mozambique" title="List of Presidents of Mozambique" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Filipe_Nyusi" title="Filipe Nyusi">Filipe Nyusi</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/List_of_Prime_Ministers_of_Mozambique" title="List of Prime Ministers of Mozambique" class="mw-redirect">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Carlos_Agostinho_do_Ros%C3%A1rio" title="Carlos Agostinho do Rosário">Carlos Agostinho do Rosário</a><sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Mozambique#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Assembly_of_the_Republic_(Mozambique)" title="Assembly of the Republic (Mozambique)">Assembly of the Republic</a></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Mozambican_War_of_Independence" title="Mozambican War of Independence">Independence</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">from <a href="http://en.wikipedia.org/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td>25 June 1975&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Current constitution</td>
+<td>30 November 1990&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Mozambique" title="Geography of Mozambique">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>801,590&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">35th</a>)<br />
+309,496&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>2.2</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Mozambique" title="Demographics of Mozambique">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2011&#160;estimate</td>
+<td>23,929,708<sup id="cite_ref-databank.worldbank.org_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mozambique#cite_note-databank.worldbank.org-2"><span>[</span>2<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">50th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2007&#160;census</td>
+<td>21,397,000 (52nd)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>28.7/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">178th</a>)<br />
+74.3/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2012&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$26.257 billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mozambique#cite_note-imf2-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$1,169<sup id="cite_ref-imf2_3-1" class="reference"><a href="http://en.wikipedia.org/wiki/Mozambique#cite_note-imf2-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2012&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$14.600 billion<sup id="cite_ref-imf2_3-2" class="reference"><a href="http://en.wikipedia.org/wiki/Mozambique#cite_note-imf2-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$650<sup id="cite_ref-imf2_3-3" class="reference"><a href="http://en.wikipedia.org/wiki/Mozambique#cite_note-imf2-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2008)</td>
+<td>45.7<sup id="cite_ref-wb-gini_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mozambique#cite_note-wb-gini-4"><span>[</span>4<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Increase"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.393<sup id="cite_ref-HDI_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mozambique#cite_note-HDI-5"><span>[</span>5<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:red">low</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">178th</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Mozambican_metical" title="Mozambican metical">Mozambican metical</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">MZN</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/Central_Africa_Time" title="Central Africa Time">CAT</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">left</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Mozambique" title="Telephone numbers in Mozambique">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B258" title="+258" class="mw-redirect">+258</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:MZ" title="ISO 3166-2:MZ">MZ</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.mz" title=".mz">.mz</a></td>
+</tr>
+<tr style="font-size:85%;">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>a.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Makua_people" title="Makua people">Makhuwa</a>, <a href="http://en.wikipedia.org/wiki/Tsonga_people" title="Tsonga people">Tsonga</a>, Lomwe, <a href="http://en.wikipedia.org/wiki/Sena_people" title="Sena people">Sena</a> and others.</td>
+</tr>
+<tr>
+<td colspan="3" style="font-size:85%;">Estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.</td>
+</tr>
+</table>
+<p><b>Mozambique</b> (<span class="nowrap"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'m' in 'my'" style="border-bottom:1px dotted">m</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/oʊ/ long 'o' in 'bode'" style="border-bottom:1px dotted">oʊ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'z' in 'zebra'" style="border-bottom:1px dotted">z</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/æ/ short 'a' in 'bad'" style="border-bottom:1px dotted">æ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'m' in 'my'" style="border-bottom:1px dotted">m</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'b' in 'buy'" style="border-bottom:1px dotted">b</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/iː/ long 'e' in 'bead'" style="border-bottom:1px dotted">iː</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'k' in 'kind'" style="border-bottom:1px dotted">k</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span> or <span class="nowrap"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'m' in 'my'" style="border-bottom:1px dotted">m</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɔː/ 'au' in 'fraud'" style="border-bottom:1px dotted">ɔː</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'z' in 'zebra'" style="border-bottom:1px dotted">z</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/æ/ short 'a' in 'bad'" style="border-bottom:1px dotted">æ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'m' in 'my'" style="border-bottom:1px dotted">m</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'b' in 'buy'" style="border-bottom:1px dotted">b</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/iː/ long 'e' in 'bead'" style="border-bottom:1px dotted">iː</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'k' in 'kind'" style="border-bottom:1px dotted">k</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>), officially the <b>Republic of Mozambique</b> (<a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <span lang="pt"><i>Moçambique</i></span> or <i><span lang="pt">República de Moçambique</span></i>, <small>pronounced:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_Portuguese_and_Galician" title="Help:IPA for Portuguese and Galician">[ʁɛˈpublikɐ di musɐ̃ˈbiki]</a></span>), is a country in <a href="http://en.wikipedia.org/wiki/Southeast_Africa" title="Southeast Africa" class="mw-redirect">Southeast Africa</a> bordered by the <a href="http://en.wikipedia.org/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> to the east, <a href="http://en.wikipedia.org/wiki/Tanzania" title="Tanzania">Tanzania</a> to the north, <a href="http://en.wikipedia.org/wiki/Malawi" title="Malawi">Malawi</a> and <a href="http://en.wikipedia.org/wiki/Zambia" title="Zambia">Zambia</a> to the northwest, <a href="http://en.wikipedia.org/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a> to the west, and <a href="http://en.wikipedia.org/wiki/Swaziland" title="Swaziland">Swaziland</a> and <a href="http://en.wikipedia.org/wiki/South_Africa" title="South Africa">South Africa</a> to the southwest. It is separated from <a href="http://en.wikipedia.org/wiki/Madagascar" title="Madagascar">Madagascar</a> by the <a href="http://en.wikipedia.org/wiki/Mozambique_Channel" title="Mozambique Channel">Mozambique Channel</a> to the east. The capital and largest city is <a href="http://en.wikipedia.org/wiki/Maputo" title="Maputo">Maputo</a> (previously called <a href="http://en.wikipedia.org/wiki/Maputo" title="Maputo">Lourenço Marques</a> before independence).</p>
+<p>Between the 1st and 5th centuries AD, <a href="http://en.wikipedia.org/wiki/Bantu_languages" title="Bantu languages">Bantu</a>-speaking peoples migrated from farther north and west. Swahili, and later also Arab, commercial ports existed along the coasts until the arrival of Europeans. The area was explored by <a href="http://en.wikipedia.org/wiki/Vasco_da_Gama" title="Vasco da Gama">Vasco da Gama</a> in 1498 and colonized by <a href="http://en.wikipedia.org/wiki/Portugal" title="Portugal">Portugal</a> from 1505. After over four centuries of Portuguese rule, Mozambique <a href="http://en.wikipedia.org/wiki/Mozambican_War_of_Independence" title="Mozambican War of Independence">gained independence</a> in 1975, becoming the <a href="http://en.wikipedia.org/wiki/People%27s_Republic_of_Mozambique" title="People's Republic of Mozambique">People's Republic of Mozambique</a> shortly thereafter. After only two years of independence, the country descended into an intense and protracted <a href="http://en.wikipedia.org/wiki/Mozambican_Civil_War" title="Mozambican Civil War">civil war</a> lasting from 1977 to 1992. In 1994, Mozambique held its first multiparty elections and has remained a relatively stable presidential republic since.</p>
+<p>Mozambique is endowed with rich and extensive natural resources. The country's economy is based largely on agriculture, but industry, mainly food and beverages, chemical manufacturing, aluminium and petroleum production, is growing. The country's tourism sector is also growing. South Africa is Mozambique's main trading partner and source of <a href="http://en.wikipedia.org/wiki/Foreign_direct_investment" title="Foreign direct investment">foreign direct investment</a>. Portugal, Brazil, Spain and Belgium are also among the country's most important economic partners. Since 2001, Mozambique's annual average GDP growth has been among the world's highest. However, the country ranks among the lowest in <a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">GDP per capita</a>, <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">human development</a>, measures of <a href="http://en.wikipedia.org/wiki/List_of_countries_by_inequality-adjusted_HDI" title="List of countries by inequality-adjusted HDI">inequality</a>, and average <a href="http://en.wikipedia.org/wiki/Life_expectancy" title="Life expectancy">life expectancy</a>.<sup id="cite_ref-CIA_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mozambique#cite_note-CIA-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>The only official language of Mozambique is Portuguese, which is spoken mostly as a second language by about half of the population. Common native languages include <a href="http://en.wikipedia.org/wiki/Swahili_language" title="Swahili language">Swahili</a>, <a href="http://en.wikipedia.org/wiki/Makhuwa_language" title="Makhuwa language">Makhuwa</a> and <a href="http://en.wikipedia.org/wiki/Sena_language" title="Sena language">Sena</a>. The country's population of around 24 million is composed overwhelmingly of <a href="http://en.wikipedia.org/wiki/Bantu_peoples" title="Bantu peoples">Bantu people</a>. The largest religion in Mozambique is Christianity, with significant minorities following Islam and African traditional religions. Mozambique is a member of the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a>, the <a href="http://en.wikipedia.org/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>, the <a href="http://en.wikipedia.org/wiki/Community_of_Portuguese_Language_Countries" title="Community of Portuguese Language Countries">Community of Portuguese Language Countries</a>, the <a href="http://en.wikipedia.org/wiki/Latin_Union" title="Latin Union">Latin Union</a>, the <a href="http://en.wikipedia.org/wiki/Non-Aligned_Movement" title="Non-Aligned Movement">Non-Aligned Movement</a> and the <a href="http://en.wikipedia.org/wiki/Southern_African_Development_Community" title="Southern African Development Community">Southern African Development Community</a>, and an observer at <a href="http://en.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie" title="Organisation internationale de la Francophonie">La Francophonie</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

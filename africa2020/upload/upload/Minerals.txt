@@ -1,0 +1,18 @@
+	<h1 id="firstHeading" class="firstHeading">Mineral</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Minerals&amp;redirect=no" title="Minerals">Minerals</a>)</div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Minerals#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Minerals#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Mineral_(disambiguation)" title="Mineral (disambiguation)">Mineral (disambiguation)</a>.</div>
+<p>A <b>mineral</b> is a naturally occurring solid formed through <a href="http://en.wikipedia.org/wiki/Geology" title="Geology">geological</a> processes that has a characteristic chemical composition, a highly ordered atomic structure, and specific physical properties. A <a href="http://en.wikipedia.org/wiki/Rock_(geology)" title="Rock (geology)">rock</a>, by comparison, is an aggregate of minerals and/or <a href="http://en.wikipedia.org/wiki/Mineraloid" title="Mineraloid">mineraloids</a>, and need not have a specific chemical composition. Minerals range in composition from pure <a href="http://en.wikipedia.org/wiki/Chemical_element" title="Chemical element">elements</a> and simple <a href="http://en.wikipedia.org/wiki/Salt_(chemistry)" title="Salt (chemistry)">salts</a> to very complex <a href="http://en.wikipedia.org/wiki/Silicate" title="Silicate">silicates</a> with thousands of known forms.<sup id="cite_ref-Klein_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Minerals#cite_note-Klein-0"><span>[</span>1<span>]</span></a></sup> The study of minerals is called <a href="http://en.wikipedia.org/wiki/Mineralogy" title="Mineralogy">mineralogy</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="http://en.wikipedia.org/wiki/File:Different_minerals.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Different_minerals.jpg/300px-Different_minerals.jpg" width="300" height="230" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Different_minerals.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+An assortment of minerals.</div>
+</div>
+</div>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

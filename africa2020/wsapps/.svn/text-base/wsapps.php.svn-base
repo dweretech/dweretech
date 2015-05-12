@@ -1,0 +1,260 @@
+<?php
+// Pull in the NuSOAP code
+require_once('../db/dbinfo.inc'); 
+require_once('../securedata.php'); 
+require_once('../lib/nusoap.php');
+// Create the server instance
+//echo "<br>Trying query ...". $UserInfo;
+//exit;
+//echo '<br> executing ws methods....<br>';
+//facebook API
+ 
+
+$server = new soap_server();
+
+// Initialize WSDL support
+
+$server->configureWSDL('WS Vision 2020, (c) 2008 by Dwere Technologies.'.
+					   'To buy soap_server WS template configured to support your'.
+					   'environment contact our development team at sales@dwere.com.'.
+					   'We would be pleased to support your services', 'urn:avwsdl');
+// Register the method to expose
+$server->register('Get',                // method name
+    array('name' => 'xsd:string'),        // input parameters
+    array('return' => 'xsd:string'),      // output parameters
+    'urn:avwsdl',                      // namespace
+    'urn:avwsdl#hello',                // soapaction
+    'rpc',                                // style
+    'encoded',                            // use
+    'Take name of state and return number of users on line'            // documentation
+);
+$server->register('InsertState',                // method name
+    array('name' => 'xsd:string'),        // input parameters
+    array('return' => 'xsd:string'),      // output parameters
+    'urn:avwsdl',                      // namespace
+    'urn:avwsdl#return session id',                // soapaction
+    'rpc',                                // style
+    'encoded',                            // use
+    'Inserts a new state to the union Africa Vision 2020'            // documentation
+);
+$server->register('Search',                // method name
+    array('name' =>  'xsd:string',
+	      'email' => 'xsd:string',
+		  'state' => 'xsd:string' ),        // input parameters
+    array('return' => 'xsd:string'),      // output parameters
+    'urn:avwsdl',                      // namespace
+    'urn:avwsdl#return session id',                // soapaction
+    'rpc',                                // style
+    'encoded',                            // use
+    'Search for profile in the database'            // documentation
+);
+$server->register('GetState',                // method name
+    array('name' =>  'xsd:string',
+	      'option' => 'xsd:string' ),        // input parameters
+    array('return' => 'xsd:string'),      // output parameters
+    'urn:avwsdl',                      // namespace
+    'urn:avwsdl#return session id',                // soapaction
+    'rpc',                                // style
+    'encoded',                            // use
+    'Search database for the state and returns result status'            // documentation
+);
+$server->register('GetUser',                // method name
+    array('uname' =>  'xsd:string',
+	      'pname' => 'xsd:string',
+		  'state' => 'xsd:string' ),        // input parameters
+    array('return' => 'xsd:string'),      // output parameters
+    'urn:avwsdl',                      // namespace
+    'urn:avwsdl#return session id',                // soapaction
+    'rpc',                                // style
+    'encoded',                            // use
+    'Check for user in the database and returns full name, country and email address'            // documentation
+);
+$server->register('LogOffUser',                // method name
+    array('uname' =>  'xsd:string',
+	      'pname' => 'xsd:string' ),        // input parameters
+    array('return' => 'xsd:string'),      // output parameters
+    'urn:avwsdl',                      // namespace
+    'urn:avwsdl#return session id',                // soapaction
+    'rpc',                                // style
+    'encoded',                            // use
+    'Check for user in the database and setup online=0'            // documentation
+);
+ 
+// Define the method as a PHP function
+function Get($name) {
+     initializedb();
+	 $noUsers = GetAll($name);
+     return  $noUsers;
+}
+
+// Define the method as a PHP function
+function Search($name,$email,$state) {
+     initializedb();
+	 $noUsers = GetAll($name);
+     return $noUsers;
+}
+// Authenticate user and get user details.
+
+function GetUser($uname,$pname ,$state) {
+    // initializedb();
+	   
+	 $srch_sql="select * from webuser where uname like '" . $uname . "'  and  pname =MD5('".$pname."')";
+	 //$srch_sql="select * from webuser where email like 'klagony@dwere.net' and  pname =MD5('dwere4u')";
+	 //$UserInfo =  $srch_sql;
+	//echo "<br>Trying query ...". $srch_sql;
+	 //return  $srch_sql;
+	 //exit;
+    $ssc='false';
+	$result = mysql_query($srch_sql);
+	 while ($rs= mysql_fetch_assoc($result)) {
+			//echo '<br> Name '.$row['id'];
+			//echo '<br> Email '.$row['name'];
+			$ssc='true';
+			$state=str_ireplace("_"," ", $rs['country']); 
+			$UserInfo =	$rs['name'].';'.$state.';'.$rs['email'].';'.$rs['uname'].';'.$rs['pname'].';'.GetAll($rs['country']).';'.$ssc;	
+			
+		}
+	  $row = mysql_num_rows($result);
+	 
+	  if($row){
+		 $updt_sql="update  webuser set online = 1 where uname like '" . $uname . "'  and  pname =MD5('".$pname."')";
+         @mysql_query($updt_sql);
+         return $UserInfo;
+       } 
+	   else 
+	   return  'Guest(<font color=red>No account</font>);African Union;support\@africavision2020.com;guest;guest;1/0/0'; 
+	   //return "<br> Qery: ". $srch_sql ."<br> Row: ".$row."<br> DB Info ".$UserInfo;//
+}
+function LogOffUser($uname,$pname) {
+    // initializedb();
+        // $updt_sql="alter table webuser add online  int(11)";
+		$updt_sql="update  webuser set online = 0 where uname like '" . $uname . "'  and  pname ='".$pname."'";
+		// echo "<br> Qery: ".  $updt_sql;
+         @mysql_query($updt_sql);
+         return 'log off';
+ 
+	   //return "<br> Qery: ". $srch_sql ."<br> Row: ".$row."<br> DB Info ".$UserInfo;//
+}
+function initializedb(){
+	/*  echo "<br>Trying query ...". dbhost;
+	//exit;
+	$connection = mysql_connect(dbhost,dbuser,dbpass) or die(mysql_error());
+   $db = mysql_select_db(dbname) or die(mysql_error());
+	if (!$connection) {
+		die('Could not connect: ' . mysql_error());
+	}
+	mysql_select_db('africa_db');
+	*/
+return 0;
+}
+
+function dbClose(){
+	//mysql_close($connection);
+return 0;
+}
+function GetAll($name){
+$srch_sql="select * from webuser where country like '" . $name . "'";
+	 
+	$result = mysql_query($srch_sql);
+	$MyStateUsers = mysql_num_rows($result);
+	$src09_sql="select state, number from afvisa2009 where upper(state) like'" . strtoupper($name). "'";
+	$rs09 = mysql_query($src09_sql);
+	$row09 = mysql_fetch_assoc($rs09);
+	$rec09 = $row09['number'];
+	
+	$src10_sql="select state, number from afvisa2010 where upper(state) like'" . strtoupper($name). "'";
+	$rs10 = mysql_query($src10_sql);
+	while ($row10 = mysql_fetch_assoc($rs10)){
+	$rec10 = $row10['number'];
+	}
+	/*if (!$row) {				 
+		$inst_sql="insert into state(name) values('" . $name . "')";
+		echo '<br> '.$inst_sql.'<br> ';
+		mysql_query($inst_sql);
+		printf("Last inserted record has id %d\n", mysql_insert_id());
+	    
+    }
+	else{	
+	echo '<br>Country '.$name.' already in the system<br> ';
+	  while ($row = mysql_fetch_assoc($result)) {
+			echo '<br> Name '.$row['id'];
+			echo '<br> Email '.$row['name'];			 
+		}
+
+	 } */
+return $MyStateUsers.'/'.$rec09.'/'.$rec10;
+}
+function InsertState($name){
+$srch_sql="select * from state where name like '".$name."'";
+	 
+	$result = mysql_query($srch_sql);
+	$row = mysql_num_rows($result);
+	if (!$row && !$name=='') {				 
+		$inst_sql="insert into state(name) values('" . $name . "')";
+		//echo '<br> '.$inst_sql.'<br> ';
+		mysql_query($inst_sql);
+		//printf("Last inserted record has id %d\n", mysql_insert_id());
+	    
+    }
+	$state_id =mysql_insert_id();
+	 
+ 
+return $state_id;
+}
+
+function GetState($name,$option){
+     initializedb();
+	
+	 $srch_sql="select * from world where ltrim(rtrim(lower(country))) like '%" .strtolower($name) . "%'";// and  pname =MD5('".$pname."')";
+	if($option=='iCard') { 
+	//echo "<br>Trying query ...". $srch_sql;
+	 //return  $srch_sql;
+	 //exit;
+	$result = mysql_query($srch_sql);
+	 while ($rs= mysql_fetch_assoc($result)) {
+			
+			$UserInfo =	'Country: '.
+						$rs['country'].'<br>Needs: '.
+			 			$option.'<br>Code: '.
+						$rs['areacode'].'<br>Best Card: CTA'.
+						'<br>Rates: $5 75 Minutes, $10 150 Minutes'.
+						'<br><br><u><a href="#" onclick="goBuy()">Click here to buy it now</a><u>';	
+			updateAreaCode(ltrim(rtrim($rs['country'])),ltrim(trim($rs['areacode']))); 
+		}
+
+
+     }	   
+	if($option=='iNews') { 
+	   $result = mysql_query($srch_sql);
+	 while ($rs= mysql_fetch_assoc($result)) {
+	    
+		 $UserInfo = GetAll($name);
+	 
+	    }
+	   
+	   }
+
+	   //return  $srch_sql." Rs ".$result." Row ".$UserInfo." DB Info ".dbuser."Pass ".dbpass;// 
+return $UserInfo;
+ 
+}
+function updateAreaCode($state,$code){
+ 
+    $srch_sql="select * from state where name like '".$state."'";
+    $result = mysql_query($srch_sql);
+	$row = mysql_num_rows($result);
+	if ($row) {				 
+		$updt_sql="update state set code ='" . $code ."'"." where name like '".$state."'";
+		//echo '<br> '.$inst_sql.'<br> ';
+		mysql_query($updt_sql);
+		//printf("Last inserted record has id %d\n", mysql_insert_id());
+	    
+    }
+ return 0;
+
+}
+// Use the request to (try to) invoke the service
+$HTTP_RAW_POST_DATA = isset($HTTP_RAW_POST_DATA) ? $HTTP_RAW_POST_DATA : '';
+$server->service($HTTP_RAW_POST_DATA);
+ dbClose();
+?>

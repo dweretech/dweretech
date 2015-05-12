@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib
+END
+nusoapmime.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/nusoapmime.php
+END
+class.wsdl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/class.wsdl.php
+END
+class.soap_transport_http.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/class.soap_transport_http.php
+END
+class.soap_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/class.soap_parser.php
+END
+class.xmlschema.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/class.xmlschema.php
+END
+xmlrpc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/xmlrpc.inc
+END
+class.soap_server.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/class.soap_server.php
+END
+class.wsdlcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/class.wsdlcache.php
+END
+class.soap_fault.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/class.soap_fault.php
+END
+class.nusoap_base.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/class.nusoap_base.php
+END
+nusoap.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/nusoap.php
+END
+domdoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/domdoc.php
+END
+class.soapclient.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/class.soapclient.php
+END
+class.soap_val.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/class.soap_val.php
+END
+slsconfig.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/slsconfig.inc
+END
+xmlrpc_wrappers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/xmlrpc_wrappers.inc
+END
+xmlrpcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/myproject/!svn/ver/5/dwtapps/africa2020/lib/xmlrpcs.inc
+END

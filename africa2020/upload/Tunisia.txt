@@ -1,0 +1,249 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Tunisia</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Tunisia#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Tunisia#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Tunisian Republic</span><br />
+<div style="padding-top:0.25em;">
+<div class="plainlist">
+<ul>
+<li>
+<hr />
+<span lang="ar">الجمهورية التونسية</span></li>
+<li><i><span title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none">al-Jumhūriyyah at-Tūnisiyyah</span></i></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Tunisia.svg" class="image" title="Flag of Tunisia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/125px-Flag_of_Tunisia.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/188px-Flag_of_Tunisia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/250px-Flag_of_Tunisia.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Tunisia.svg" class="image" title="Coat of arms of Tunisia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Tunisia.svg/85px-Coat_of_arms_of_Tunisia.svg.png" width="85" height="134" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Tunisia.svg/128px-Coat_of_arms_of_Tunisia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Tunisia.svg/170px-Coat_of_arms_of_Tunisia.svg.png 2x" data-file-width="618" data-file-height="975" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Tunisia" title="Flag of Tunisia">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Tunisia" title="Coat of arms of Tunisia">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b><span lang="ar">حرية، كرامة، عدالة، نظام</span><br />
+"<span title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none">Ḥurriyyah, Karama, ‘Adālah, Niẓām</span>"<br />
+<small style="font-size:85%;">"Liberty, Dignity, Justice, Order"</small><sup id="cite_ref-art4_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-art4-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><span lang="ar">حماة الحمى</span><br />
+<i><a href="http://en.wikipedia.org/wiki/Humat_al-Hima" title="Humat al-Hima">Humat al-Hima</a></i><br />
+<small style="font-size:85%;"><i>Defenders of the Homeland</i></small><br />
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px" poster="//en.wikipedia.org/static/1.26wmf4/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="52.401632653061" data-startoffset="0" data-mwtitle="Humat_al-Hima.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/2/23/Humat_al-Hima.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (119 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="119321"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/2/23/Humat_al-Hima.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_Tunisia_AU_Africa.svg" class="image" title="Location of &#160;Tunisia&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)"><img alt="Location of &#160;Tunisia&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Location_Tunisia_AU_Africa.svg/250px-Location_Tunisia_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Location_Tunisia_AU_Africa.svg/375px-Location_Tunisia_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Location_Tunisia_AU_Africa.svg/500px-Location_Tunisia_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">Tunisia</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b><br />
+and largest city</td>
+<td><a href="http://en.wikipedia.org/wiki/Tunis" title="Tunis">Tunis</a><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Tunisia&amp;params=36_50_N_10_9_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">36°50′N</span> <span class="longitude">10°9′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">36.833°N 10.150°E</span><span style="display:none">﻿ / <span class="geo">36.833; 10.150</span></span></span></a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td><a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a><sup id="cite_ref-art1_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-art1-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Spoken languages</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Tunisian_Arabic" title="Tunisian Arabic">Tunisian Arabic</a> <small>(vernacular)</small></li>
+<li><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a> <small>(commercial and educational)</small></li>
+<li><a href="http://en.wikipedia.org/wiki/Berber_languages" title="Berber languages">Berber</a> <small>(minorities in south)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_groups" title="Ethnic groups" class="mw-redirect">Ethnic&#160;groups</a></b> (<span style="position: relative; top: 0.2em;"><sup id="cite_ref-CIA_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-CIA-4"><span>[</span>4<span>]</span></a></sup></span> 2014<sup id="cite_ref-cia.gov_3-1" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-cia.gov-3"><span>[</span>3<span>]</span></a></sup>)</td>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Arab-Berber" title="Arab-Berber">Arab-Berber</a> 99%</li>
+<li><a href="http://en.wikipedia.org/wiki/White_Africans_of_European_ancestry" title="White Africans of European ancestry">European</a> 1%</li>
+<li><a href="http://en.wikipedia.org/wiki/History_of_the_Jews_in_Tunisia" title="History of the Jews in Tunisia">Jewish</a> and other &lt;1%</li>
+</ul>
+</div>
+<sup id="cite_ref-cia.gov_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-cia.gov-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Tunisian_people" title="Tunisian people" class="mw-redirect">Tunisian</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Tunisia" title="Politics of Tunisia">Government</a></th>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="http://en.wikipedia.org/wiki/Unicameralism" title="Unicameralism">unicameral</a> <a href="http://en.wikipedia.org/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a></span> <a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a><sup id="cite_ref-art1_2-1" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-art1-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_Tunisia" title="President of Tunisia">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Beji_Caid_Essebsi" title="Beji Caid Essebsi">Beji Caid Essebsi</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Head_of_Government_of_Tunisia" title="Head of Government of Tunisia">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Habib_Essid" title="Habib Essid">Habib Essid</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/Assembly_of_the_Representatives_of_the_People_(Tunisia)" title="Assembly of the Representatives of the People (Tunisia)" class="mw-redirect">Assembly of the Representatives of the People</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/History_of_Tunisia" title="History of Tunisia">Formation</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Husainid_Dynasty" title="Husainid Dynasty">Husainid Dynasty</a> inaugurated</td>
+<td>15 July 1705&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Independence from <a href="http://en.wikipedia.org/wiki/French_Fourth_Republic" title="French Fourth Republic">France</a></td>
+<td>20 March 1956&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/History_of_modern_Tunisia" title="History of modern Tunisia">Republic declared</a></td>
+<td>25 July 1957&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Tunisian_Revolution" title="Tunisian Revolution">Revolution Day</a></td>
+<td>14 January 2011&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Tunisia" title="Geography of Tunisia">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>163,610&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">93rd</a>)<br />
+63,170&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>5.0</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Tunisia" title="Demographics of Tunisia">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2014&#160;estimate</td>
+<td>10,982,754<sup id="cite_ref-ins_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-ins-5"><span>[</span>5<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">79th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>63/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">133rd</a>)<br />
+163/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2012&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$105.347 billion<sup id="cite_ref-imf2_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-imf2-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$9,774<sup id="cite_ref-imf2_6-1" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-imf2-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2012&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$45.611 billion<sup id="cite_ref-imf2_6-2" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-imf2-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$4,232<sup id="cite_ref-imf2_6-3" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-imf2-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2010)</td>
+<td>36.1<sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-7"><span>[</span>7<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td>0.721<sup id="cite_ref-HDI_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-HDI-8"><span>[</span>8<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">90th</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Tunisian_dinar" title="Tunisian dinar">Tunisian dinar</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">TND</a>)</td>
+</tr>
+<tr>
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/Central_European_Time" title="Central European Time">CET</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</span></td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Tunisia" title="Telephone numbers in Tunisia">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B216" title="+216" class="mw-redirect">+216</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:TN" title="ISO 3166-2:TN">TN</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/.tn" title=".tn">.tn</a></li>
+<li><span lang="ar" dir="rtl"><a href="http://en.wikipedia.org/wiki/.%D8%AA%D9%88%D9%86%D8%B3" title=".تونس" class="mw-redirect">.تونس</a></span>‎<sup id="cite_ref-iana_9-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-iana-9"><span>[</span>9<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Tunisia</b> (<span class="nowrap"><small><a href="http://en.wikipedia.org/wiki/American_English" title="American English">US</a></small> <span class="noexcerpt"><a href="//upload.wikimedia.org/wikipedia/commons/5/53/En-us-Tunisia.ogg" title="Listen"><img alt="Listen" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/11px-Speakerlink-new.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/17px-Speakerlink-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/22px-Speakerlink-new.svg.png 2x" data-file-width="11" data-file-height="11" /></a><sup><span style="color: #00e; font: bold 80% sans-serif; padding: 0 .1em;" class="IPA"><a href="http://en.wikipedia.org/wiki/File:En-us-Tunisia.ogg" title="File:En-us-Tunisia.ogg">i</a></span></sup></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'t' in 'tie'" style="border-bottom:1px dotted">t</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/uː/ long 'oo' in 'food'" style="border-bottom:1px dotted">uː</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/iː/ long 'e' in 'bead'" style="border-bottom:1px dotted">iː</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ʒ/ 's' in 'pleasure'" style="border-bottom:1px dotted">ʒ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span> <span title="English pronunciation respelling" class="Unicode"><a href="http://en.wikipedia.org/wiki/Wikipedia:Pronunciation_respelling_key" title="Wikipedia:Pronunciation respelling key"><i>too-<b><span class="smallcaps"><span class="SMALLCAPS" style="FONT-VARIANT:SMALL-CAPS;"><span class="NOCAPS" style="TEXT-TRANSFORM:LOWERCASE;">NEE</span></span></span></b>-zhə</i></a></span> or <span class="nowrap"><small><a href="http://en.wikipedia.org/wiki/British_English" title="British English">UK</a></small> <span class="noexcerpt"><a href="//upload.wikimedia.org/wikipedia/commons/4/45/UK_Pronunciation_of_Tunisia2.ogg" title="Listen"><img alt="Listen" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/11px-Speakerlink-new.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/17px-Speakerlink-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/22px-Speakerlink-new.svg.png 2x" data-file-width="11" data-file-height="11" /></a><sup><span style="color: #00e; font: bold 80% sans-serif; padding: 0 .1em;" class="IPA"><a href="http://en.wikipedia.org/wiki/File:UK_Pronunciation_of_Tunisia2.ogg" title="File:UK Pronunciation of Tunisia2.ogg">i</a></span></sup></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/tj/ 't' in 'tune'" style="border-bottom:1px dotted">tj</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/uː/ long 'oo' in 'food'" style="border-bottom:1px dotted">uː</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɪ/ short 'i' in 'bid'" style="border-bottom:1px dotted">ɪ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'z' in 'zebra'" style="border-bottom:1px dotted">z</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/i/ 'y' in 'happy'" style="border-bottom:1px dotted">i</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span> <span title="English pronunciation respelling" class="Unicode"><a href="http://en.wikipedia.org/wiki/Wikipedia:Pronunciation_respelling_key" title="Wikipedia:Pronunciation respelling key"><i>tew-<b><span class="smallcaps"><span class="SMALLCAPS" style="FONT-VARIANT:SMALL-CAPS;"><span class="NOCAPS" style="TEXT-TRANSFORM:LOWERCASE;">NIZ</span></span></span></b>-i-ə</i></a></span>; <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl">تونس</span>‎ <i><span title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none">Tūnis</span></i> <small>pronounced&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_Arabic" title="Help:IPA for Arabic">[ˈtuːnɪs]</a></span>; <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr"><i>Tunisie</i></span>;<sup id="cite_ref-French_10-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-French-10"><span>[</span>Notes 1<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/Berber_languages" title="Berber languages">Berber</a>: <span lang="ber">ⵜⵓⵏⴻⵙ</span>), officially the <b>Tunisian Republic</b> (though often referred to in English as the <b>Republic of Tunisia</b>;<sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-11"><span>[</span>10<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl">الجمهورية التونسية</span>‎ <i><span title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none">al-Jumhūriyyah at-Tūnisiyyah</span></i>; <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr"><i>République tunisienne</i></span>; <a href="http://en.wikipedia.org/wiki/Berber_languages" title="Berber languages">Berber</a>: <span lang="ber">ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵜⵓⵏⴻⵙ</span>) is the northernmost country in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a> and, at almost 165,000 square kilometres (64,000&#160;sq&#160;mi) in area, the smallest country in the <a href="http://en.wikipedia.org/wiki/Maghreb" title="Maghreb">Maghreb</a> region of <a href="http://en.wikipedia.org/wiki/North_Africa" title="North Africa">North Africa</a>.<sup id="cite_ref-Ras_ben_Sakka_12-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-Ras_ben_Sakka-12"><span>[</span>Notes 2<span>]</span></a></sup> It is bordered by <a href="http://en.wikipedia.org/wiki/Algeria" title="Algeria">Algeria</a> to the west, <a href="http://en.wikipedia.org/wiki/Libya" title="Libya">Libya</a> to the southeast, and the <a href="http://en.wikipedia.org/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> to the north and east.</p>
+<p>As of 2013, its population is estimated at just under 10.8 million.<sup id="cite_ref-ins_5-1" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-ins-5"><span>[</span>5<span>]</span></a></sup> Its name is derived from its capital city, <a href="http://en.wikipedia.org/wiki/Tunis" title="Tunis">Tunis</a>, located on the country's northeast coast.</p>
+<p>Geographically, Tunisia contains the eastern end of the <a href="http://en.wikipedia.org/wiki/Atlas_Mountains" title="Atlas Mountains">Atlas Mountains</a> and the northern reaches of the <a href="http://en.wikipedia.org/wiki/Sahara" title="Sahara">Sahara</a> desert. Much of the rest of the country's land is fertile soil. Its 1,300 kilometres (810&#160;mi) of coastline includes the African conjunction of the western and eastern parts of the <a href="http://en.wikipedia.org/wiki/Mediterranean_Basin" title="Mediterranean Basin">Mediterranean Basin</a> and, by means of the <a href="http://en.wikipedia.org/wiki/Sicilian_Strait" title="Sicilian Strait" class="mw-redirect">Sicilian Strait</a> and <a href="http://en.wikipedia.org/wiki/Sardinia" title="Sardinia">Sardinian</a> Channel, features the African mainland's second and third nearest points to Europe after <a href="http://en.wikipedia.org/wiki/Gibraltar" title="Gibraltar">Gibraltar</a>.</p>
+<p>Tunisia has a high human development index.<sup id="cite_ref-HDI_8-1" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-HDI-8"><span>[</span>8<span>]</span></a></sup> It has an <a href="http://en.wikipedia.org/wiki/European_Union_Association_Agreement" title="European Union Association Agreement">association agreement</a> with the <a href="http://en.wikipedia.org/wiki/European_Union" title="European Union">European Union</a> and is a member of <a href="http://en.wikipedia.org/wiki/La_Francophonie" title="La Francophonie" class="mw-redirect">La Francophonie</a>, the <a href="http://en.wikipedia.org/wiki/Arab_Maghreb_Union" title="Arab Maghreb Union">Arab Maghreb Union</a>, the <a href="http://en.wikipedia.org/wiki/Arab_League" title="Arab League">Arab League</a>, and the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a>. Close relations with Europe &#160;–  in particular <a href="http://en.wikipedia.org/wiki/France-Tunisia_relations" title="France-Tunisia relations" class="mw-redirect">with France</a><sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-13"><span>[</span>11<span>]</span></a></sup> and <a href="http://en.wikipedia.org/wiki/Italy-Tunisia_relations" title="Italy-Tunisia relations" class="mw-redirect">with Italy</a><sup id="cite_ref-14" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-14"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-15"><span>[</span>13<span>]</span></a></sup>&#160;–  have been forged through economic cooperation, <a href="http://en.wikipedia.org/wiki/Privatisation" title="Privatisation" class="mw-redirect">privatisation</a> and industrial modernization.</p>
+<p>In 2011, <a href="http://en.wikipedia.org/wiki/Tunisian_Revolution" title="Tunisian Revolution">a revolution</a> resulted in the overthrow of the <a href="http://en.wikipedia.org/wiki/Autocracy" title="Autocracy">autocratic</a> President <a href="http://en.wikipedia.org/wiki/Zine_El_Abidine_Ben_Ali" title="Zine El Abidine Ben Ali">Zine El Abidine Ben Ali</a> followed by the country's first <a href="http://en.wikipedia.org/wiki/Tunisian_Constituent_Assembly_election,_2011" title="Tunisian Constituent Assembly election, 2011">free elections</a>. Since then, Tunisia has been <a href="http://en.wikipedia.org/wiki/Democratic_consolidation" title="Democratic consolidation">consolidating democracy</a>. The country held its first Parliamentary elections since the 2011 <a href="http://en.wikipedia.org/wiki/Arab_Spring" title="Arab Spring">Arab Spring</a> on October 26, 2014,<sup id="cite_ref-16" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-16"><span>[</span>14<span>]</span></a></sup> and its Presidentials on November 23, 2014.<sup id="cite_ref-17" class="reference"><a href="http://en.wikipedia.org/wiki/Tunisia#cite_note-17"><span>[</span>15<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

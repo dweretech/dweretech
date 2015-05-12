@@ -1,0 +1,70 @@
+	<h1 id="firstHeading" class="firstHeading">São Tomé</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Sao_Tome&amp;redirect=no" title="Sao Tome">Sao Tome</a>)</div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Sao_Tome#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Sao_Tome#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_(disambiguation)" title="São Tomé (disambiguation)">São Tomé (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:23em; text-align:left">
+<tr>
+<th colspan="2" style="width:100%; text-align:center; font-size:1.25em; white-space:nowrap"><span class="fn org">São Tomé</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; padding:0.7em 0.8em">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Sao_tome_palace.jpg" class="image" title="São Tomé palace"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sao_tome_palace.jpg/300px-Sao_tome_palace.jpg" width="300" height="212" /></a></div>
+<small>São Tomé palace</small></td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align:center" align="center">
+<center>
+<div style="width: 252px; float:none; clear:none;">
+<div style="position: relative; padding: 0px; width: 250px"><a href="http://en.wikipedia.org/wiki/File:S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_location_map.svg" class="image" title="São Tomé is located in São Tomé and Príncipe"><img alt="São Tomé is located in São Tomé and Príncipe" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_location_map.svg/250px-S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_location_map.svg.png" width="250" height="350" /></a><br />
+<div style="position: absolute; z-index: 2; top: 74.5%; left: 32.1%; height: 0; width: 0; margin: 0; padding: 0;">
+<div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px;"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" width="6" height="6" /></div>
+<div style="font-size: 90%; line-height: 110%; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px;">São Tomé</span></div>
+</div>
+</div>
+<div style="font-size: 90%"></div>
+</div>
+</center>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center; padding-bottom:0.7em">Coordinates: <span style="white-space: nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=S%C3%A3o_Tom%C3%A9&amp;params=0_20_10_N_6_40_53_E_type:city_region:" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">0°20′10″N</span> <span class="longitude">6°40′53″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">0.33611°N 6.68139°E</span><span style="display:none">﻿ / <span class="geo">0.33611; 6.68139</span></span></span></a></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th>Country</th>
+<td><a href="http://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="São Tomé and Príncipe">São Tomé and Príncipe</a></td>
+</tr>
+<tr class="mergedrow">
+<th><a href="http://en.wikipedia.org/wiki/Provinces_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="Provinces of São Tomé and Príncipe">Province</a></th>
+<td><a href="http://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_Island" title="São Tomé Island">São Tomé Island</a></td>
+</tr>
+<tr class="mergedrow">
+<th><a href="http://en.wikipedia.org/wiki/Districts_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="Districts of São Tomé and Príncipe">District</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%C3%81gua_Grande_District" title="Água Grande District">Água Grande</a></td>
+</tr>
+<tr class="mergedrow">
+<th>Settled</th>
+<td>1485</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Population</b> (2005)</td>
+</tr>
+<tr class="mergedrow">
+<th>&#160;-&#160;Total</th>
+<td>56,166</td>
+</tr>
+<tr class="mergedtoprow">
+<th><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a> (<a href="http://en.wikipedia.org/wiki/UTC%2B0" title="UTC+0" class="mw-redirect">UTC+0</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th><a href="http://en.wikipedia.org/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th>
+<td>+239-11x-xxxx through 14x-xxxx</td>
+</tr>
+</table>
+<p><b>São Tomé</b> (<a href="http://en.wikipedia.org/wiki/Population" title="Population">population</a> 56,166 in 2005) is the <a href="http://en.wikipedia.org/wiki/Capital_city" title="Capital city" class="mw-redirect">capital city</a> of <a href="http://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="São Tomé and Príncipe">São Tomé and Príncipe</a> and is by far that nation's largest town. Its name is <a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> for "<a href="http://en.wikipedia.org/wiki/Thomas_(Apostle)" title="Thomas (Apostle)" class="mw-redirect">Saint Thomas</a>".</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

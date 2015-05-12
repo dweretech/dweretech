@@ -1,0 +1,24 @@
+	<h1 id="firstHeading" class="firstHeading">Non-governmental organization</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub"></div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=NGO&amp;redirect=no" title="NGO">NGO</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="http://en.wikipedia.org/wiki/NGO#mw-head">navigation</a>,
+					<a href="http://en.wikipedia.org/wiki/NGO#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div class="dablink">"NGO" redirects here. For other uses, see <a href="http://en.wikipedia.org/wiki/NGO_(disambiguation)" title="NGO (disambiguation)">NGO (disambiguation)</a>.</div>
+<p>A <b>non-governmental organization</b> (<b>NGO</b>) is a legally constituted organization created by <a href="http://en.wikipedia.org/wiki/Natural_person" title="Natural person">natural</a> or <a href="http://en.wikipedia.org/wiki/Legal_person" title="Legal person" class="mw-redirect">legal persons</a> that operates independently from any <a href="http://en.wikipedia.org/wiki/Government" title="Government">government</a> and a term usually used by governments to refer to entities that have no government status. In the cases in which NGOs are funded totally or partially by governments, the NGO maintains its non-governmental status by excluding government representatives from membership in the organization. The term is usually applied only to organizations that pursue some wider <a href="http://en.wikipedia.org/wiki/Society" title="Society">social</a> aim that has <a href="http://en.wikipedia.org/wiki/Politics" title="Politics">political</a> aspects, but that are not overtly political organizations such as <a href="http://en.wikipedia.org/wiki/Political_party" title="Political party">political parties</a>. Unlike the term "<a href="http://en.wikipedia.org/wiki/Intergovernmental_organization" title="Intergovernmental organization">intergovernmental organization</a>", the term "non-governmental organization" has no generally agreed legal definition. In many jurisdictions, these types of organization are called "civil society organizations" or referred to by other names.</p>
+<p>The number of <a href="http://en.wikipedia.org/wiki/International_nongovernmental_organization" title="International nongovernmental organization">internationally operating NGOs</a> is estimated at 40,000.<sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/NGO#cite_note-0"><span>[</span>1<span>]</span></a></sup> National numbers are even higher: <a href="http://en.wikipedia.org/wiki/Russia" title="Russia">Russia</a> has 277,000 NGOs;<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/NGO#cite_note-1"><span>[</span>2<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/India" title="India">India</a> is estimated to have around 3.3 million NGOs.<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/NGO#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

@@ -1,0 +1,33 @@
+	<h1 id="firstHeading" class="firstHeading">The Ninety-Five Theses</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub">  (Redirected from <a href="/w/index.php?title=The_95_Theses&amp;redirect=no" title="The 95 Theses">The 95 Theses</a>)</div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/The_95_Theses#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/The_95_Theses#searchInput">search</a></div>			<!-- start content -->
+			<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:95Thesen.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/95Thesen.jpg/180px-95Thesen.jpg" width="180" height="137" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:95Thesen.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+The Ninety Five Theses</div>
+</div>
+</div>
+<table class="metadata plainlinks mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><a href="http://en.wikisource.org/wiki/Special:Search/The_Ninety-Five_Theses" title="Search Wikisource"><img alt="Search Wikisource" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png" width="40" height="42" /></a></td>
+<td class="mbox-text" style="">Latin <a href="http://en.wikipedia.org/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><b><a href="http://en.wikisource.org/wiki/la:Disputatio_pro_declaratione_virtutis_indulgentiarum" class="extiw" title="s:la:Disputatio pro declaratione virtutis indulgentiarum">Disputatio pro declaratione virtutis indulgentiarum</a></b></div>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><a href="http://en.wikisource.org/wiki/Special:Search/The_Ninety-Five_Theses" title="Search Wikisource"><img alt="Search Wikisource" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png" width="40" height="42" /></a></td>
+<td class="mbox-text" style=""><a href="http://en.wikipedia.org/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><i><b><a href="http://en.wikisource.org/wiki/95_Theses" class="extiw" title="wikisource:95 Theses">95 Theses</a></b></i></div>
+</td>
+</tr>
+</table>
+<p>The <i><b>Ninety-Five Theses on the Power and Efficacy of Indulgences</b></i> (<a href="http://en.wikipedia.org/wiki/Latin_language" title="Latin language" class="mw-redirect">Latin</a>: <span lang="la" xml:lang="la"><i>Disputatio pro declaratione virtutis indulgentiarum</i></span>), commonly known as <i>The Ninety-Five Theses</i>, were written by <a href="http://en.wikipedia.org/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a> in 1517 and are widely regarded as the primary catalyst for the <a href="http://en.wikipedia.org/wiki/Protestant_Reformation" title="Protestant Reformation">Protestant Reformation</a>. Luther used these theses to display his displeasure with some of the <a href="http://en.wikipedia.org/wiki/Roman_Catholic" title="Roman Catholic" class="mw-redirect">Roman Catholic</a> clergy's abuses, most notably the sale of <a href="http://en.wikipedia.org/wiki/Indulgence" title="Indulgence">indulgences</a>; this ultimately gave birth to <a href="http://en.wikipedia.org/wiki/Protestantism" title="Protestantism">Protestantism</a>. Luther's popularity encouraged others to share their doubts about <a href="http://en.wikipedia.org/wiki/Catholicism" title="Catholicism">Catholicism</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

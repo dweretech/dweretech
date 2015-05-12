@@ -1,0 +1,188 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Barter</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Barter#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Barter#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="http://en.wikipedia.org/wiki/Barter_(disambiguation)" title="Barter (disambiguation)" class="mw-disambig">Barter (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="http://en.wikipedia.org/wiki/File:Barter-Chickens_for_Subscription.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Barter-Chickens_for_Subscription.jpg/220px-Barter-Chickens_for_Subscription.jpg" width="220" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Barter-Chickens_for_Subscription.jpg/330px-Barter-Chickens_for_Subscription.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Barter-Chickens_for_Subscription.jpg/440px-Barter-Chickens_for_Subscription.jpg 2x" data-file-width="2241" data-file-height="1738" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Barter-Chickens_for_Subscription.jpg" class="internal" title="Enlarge"></a></div>
+An 1874 newspaper illustration from <a href="http://en.wikipedia.org/wiki/Harper%27s_Weekly" title="Harper's Weekly">Harper's Weekly</a>, showing a man engaging in barter: offering chickens in exchange for his yearly newspaper subscription.</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em"><i>Part of <a href="http://en.wikipedia.org/wiki/Category:Economic_anthropology" title="Category:Economic anthropology">a series</a> on</i></td>
+</tr>
+<tr>
+<th class="navbox-title" style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="http://en.wikipedia.org/wiki/Economic_anthropology" title="Economic anthropology">Economic</a>, <a href="http://en.wikipedia.org/wiki/Applied_anthropology" title="Applied anthropology">applied</a> and <a href="http://en.wikipedia.org/wiki/Anthropology_of_development" title="Anthropology of development">development<br />
+anthropology</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center">Basic concepts</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Commodification" title="Commodification">Commodification</a></li>
+<li><strong class="selflink">Barter</strong></li>
+<li><a href="http://en.wikipedia.org/wiki/Debt:_The_First_5000_Years" title="Debt: The First 5000 Years">Debt</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Social_studies_of_finance" title="Social studies of finance">Finance</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Embeddedness" title="Embeddedness">Embeddedness</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Reciprocity_(cultural_anthropology)" title="Reciprocity (cultural anthropology)">Reciprocity</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Redistribution_(cultural_anthropology)" title="Redistribution (cultural anthropology)">Redistribution</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Anthropological_theories_of_value" title="Anthropological theories of value">Value</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Wealth#Anthropological_views" title="Wealth">Wealth</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gift_economy" title="Gift economy">Gift economy</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Limited_good" title="Limited good">Limited good</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Inalienable_possessions" title="Inalienable possessions">Inalienable possessions</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Commodity_pathway_diversion" title="Commodity pathway diversion">Singularization <small style="font-size:85%;">(commodity pathway)</small></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Spheres_of_exchange" title="Spheres of exchange">Spheres of exchange</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Social_capital" title="Social capital">Social capital</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Cultural_capital" title="Cultural capital">Cultural capital</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center">Provisioning systems</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Hunter-gatherer" title="Hunter-gatherer">Hunting-gathering</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Pastoralism" title="Pastoralism">Pastoralism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Nomadic_pastoralism" title="Nomadic pastoralism">Nomadic pastoralism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Shifting_cultivation" title="Shifting cultivation">Shifting cultivation</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Moral_economy" title="Moral economy">Moral economy</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Peasant_economics" title="Peasant economics">Peasant economics</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center">Case studies</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<dl>
+<dt><i>Prestations</i></dt>
+</dl>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Kula_ring" title="Kula ring">Kula ring</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Moka_exchange" title="Moka exchange">Moka exchange</a></li>
+</ul>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Potlatch" title="Potlatch">Potlatch</a></li>
+</ul>
+<dl>
+<dt><i>Gifting</i></dt>
+</dl>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Gifting_remittances" title="Gifting remittances">Gifting remittances</a></li>
+</ul>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Organ_gifting" title="Organ gifting">Organ gifting</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Shell_money" title="Shell money">Shell money</a></li>
+</ul>
+<dl>
+<dt><i>Provisioning</i></dt>
+</dl>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Ach%C3%A9_people" title="Aché people">Aché people</a> (hunter-gatherers)</li>
+<li><a href="http://en.wikipedia.org/wiki/Batek_people" title="Batek people">Batek people</a></li>
+</ul>
+<dl>
+<dt><i>Colonialism and development</i></dt>
+</dl>
+<ul>
+<li><i><a href="http://en.wikipedia.org/wiki/The_Anti-Politics_Machine" title="The Anti-Politics Machine">The Anti-Politics Machine</a></i></li>
+</ul>
+<ul>
+<li><i><a href="http://en.wikipedia.org/wiki/Europe_and_the_People_Without_History" title="Europe and the People Without History">Europe and the<br />
+People Without History</a></i></li>
+</ul>
+<dl>
+<dt><i>Political economy</i></dt>
+</dl>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Jim_Crow_economy" title="Jim Crow economy">Jim Crow economy</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center">Related articles</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Original_affluent_society" title="Original affluent society">Original affluent society</a></li>
+<li><a href="http://en.wikipedia.org/wiki/The_formalist_vs_substantivist_debate" title="The formalist vs substantivist debate">Formalist vs substantivist debate</a></li>
+<li><i><a href="http://en.wikipedia.org/wiki/The_Great_Transformation_(book)" title="The Great Transformation (book)">The Great Transformation</a></i></li>
+<li><a href="http://en.wikipedia.org/wiki/Peasant_economics" title="Peasant economics">Peasant economics</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Culture_of_poverty" title="Culture of poverty">Culture of poverty</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Political_economy_in_anthropology" title="Political economy in anthropology">Political economy</a></li>
+<li><a href="http://en.wikipedia.org/wiki/State_formation" title="State formation">State formation</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Nutritional_anthropology" title="Nutritional anthropology">Nutritional anthropology</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Heritage_commodification" title="Heritage commodification">Heritage commodification</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Anthropology_of_development" title="Anthropology of development">Anthropology of development</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center">Major theorists</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Paul_Bohannan" title="Paul Bohannan">Paul Bohannan</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Alexander_Chayanov" title="Alexander Chayanov">Alexander Chayanov</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Stanley_Diamond" title="Stanley Diamond">Stanley Diamond</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Raymond_Firth" title="Raymond Firth">Raymond Firth</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Maurice_Godelier" title="Maurice Godelier">Maurice Godelier</a></li>
+<li><a href="http://en.wikipedia.org/wiki/David_Graeber" title="David Graeber">David Graeber</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Jane_I._Guyer" title="Jane I. Guyer">Jane I. Guyer</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Keith_Hart_(anthropologist)" title="Keith Hart (anthropologist)">Keith Hart</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Marvin_Harris" title="Marvin Harris">Marvin Harris</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Bronis%C5%82aw_Malinowski" title="Bronisław Malinowski">Bronisław Malinowski</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Marcel_Mauss" title="Marcel Mauss">Marcel Mauss</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Sidney_Mintz" title="Sidney Mintz">Sidney Mintz</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Karl_Polanyi" title="Karl Polanyi">Karl Polanyi</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Marshall_Sahlins" title="Marshall Sahlins">Marshall Sahlins</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Harold_K._Schneider" title="Harold K. Schneider">Harold K. Schneider</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Eric_Wolf" title="Eric Wolf">Eric Wolf</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="http://en.wikipedia.org/wiki/Social_anthropology" title="Social anthropology">Social</a> and <a href="http://en.wikipedia.org/wiki/Cultural_anthropology" title="Cultural anthropology">cultural anthropology</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="http://en.wikipedia.org/wiki/Template:Economic_%26_development_anthropology" title="Template:Economic &amp; development anthropology"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="http://en.wikipedia.org/wiki/Template_talk:Economic_%26_development_anthropology" title="Template talk:Economic &amp; development anthropology"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Economic_%26_development_anthropology&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Barter</b> is a system of exchange by which <a href="http://en.wikipedia.org/wiki/Good_(economics)" title="Good (economics)">goods</a> or <a href="http://en.wikipedia.org/wiki/Service_(economics)" title="Service (economics)">services</a> are directly exchanged for other goods or services without using a <a href="http://en.wikipedia.org/wiki/Medium_of_exchange" title="Medium of exchange">medium of exchange</a>, such as <a href="http://en.wikipedia.org/wiki/Money" title="Money">money</a>.<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Barter#cite_note-1"><span>[</span>1<span>]</span></a></sup> It is distinguishable from gift economies in many ways; one of them is that the <a href="http://en.wikipedia.org/wiki/Reciprocity_(cultural_anthropology)" title="Reciprocity (cultural anthropology)">reciprocal exchange</a> is immediate and not delayed in time. It is usually <a href="//en.wiktionary.org/wiki/bilateral" class="extiw" title="wiktionary:bilateral">bilateral</a>, but may be <a href="http://en.wikipedia.org/wiki/Multilateralism" title="Multilateralism">multilateral</a> (i.e., mediated through barter organizations) and usually exists parallel to monetary systems in most developed countries, though to a very limited extent. Barter usually replaces money as the method of exchange in times of monetary crisis, such as when the <a href="http://en.wikipedia.org/wiki/Currency" title="Currency">currency</a> may be either unstable (e.g., <a href="http://en.wikipedia.org/wiki/Hyperinflation" title="Hyperinflation">hyperinflation</a> or <a href="http://en.wikipedia.org/wiki/Deflation#Deflationary_spiral" title="Deflation">deflationary spiral</a>) or simply unavailable for conducting commerce.</p>
+<p>The inefficiency of barter in archaic society has been used by economists since <a href="http://en.wikipedia.org/wiki/Adam_Smith" title="Adam Smith">Adam Smith</a> to explain the emergence of money, the economy, and hence the discipline of economics itself.<sup id="cite_ref-Graeber-p21-41_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Barter#cite_note-Graeber-p21-41-2"><span>[</span>2<span>]</span></a></sup> However, no present or past society has ever been seen through <a href="http://en.wikipedia.org/wiki/Ethnographic" title="Ethnographic" class="mw-redirect">ethnographic</a> studies to use pure barter without any medium of exchange, nor the emergence of money from barter.<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Barter#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>Since the 1830s, direct barter in western market economies has been aided by exchanges which frequently utilize alternative currencies based on the <a href="http://en.wikipedia.org/wiki/Labour_theory_of_value" title="Labour theory of value" class="mw-redirect">labour theory of value</a>, and designed to prevent profit taking by intermediators. Examples include the <a href="http://en.wikipedia.org/wiki/Owenite" title="Owenite" class="mw-redirect">Owenite</a> socialists, the <a href="http://en.wikipedia.org/wiki/Cincinnati_Time_Store" title="Cincinnati Time Store">Cincinnati Time store</a>, and more recently <a href="http://en.wikipedia.org/wiki/Ithaca_Hours" title="Ithaca Hours">Ithaca HOURS</a> (<a href="http://en.wikipedia.org/wiki/Time_banking" title="Time banking" class="mw-redirect">Time banking</a>) and the <a href="http://en.wikipedia.org/wiki/LETS_system" title="LETS system" class="mw-redirect">LETS system</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

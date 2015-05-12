@@ -1,0 +1,176 @@
+	<h1 id="firstHeading" class="firstHeading">Botswana</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Botswana#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Botswana#searchInput">search</a></div>			<!-- start content -->
+			<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#move" title="This article is move-protected due to vandalism."><img alt="This article is move-protected due to vandalism." src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Padlock-olive.svg/20px-Padlock-olive.svg.png" width="20" height="20" /></a></div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Botswana
+<div style="padding-top:0.25em;"><i>Lefatshe la Botswana</i></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Botswana.svg" class="image" title="Flag of Botswana"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/125px-Flag_of_Botswana.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Arms_of_Botswana.svg" class="image" title="Coat of arms of Botswana"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Arms_of_Botswana.svg/85px-Arms_of_Botswana.svg.png" width="85" height="65" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Botswana" title="Flag of Botswana">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Botswana" title="Coat of arms of Botswana">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b><i>Pula</i><br />
+<small>Rain</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Fatshe_leno_la_rona" title="Fatshe leno la rona">Fatshe leno la rona</a></i><br />
+<small><i>This Land of Ours</i></small><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationBotswana.svg" class="image" title="Location of Botswana"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LocationBotswana.svg/250px-LocationBotswana.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Botswana" title="Demographics of Botswana">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Gaborone" title="Gaborone">Gaborone</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Botswana&amp;params=24_40_S_25_55_E_type:country(600,370)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">24°40′S</span> <span class="longitude">25°55′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">24.667°S 25.917°E</span><span style="display:none">﻿ / <span class="geo">-24.667; 25.917</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/English_Language" title="English Language" class="mw-redirect">English</a>, <a href="http://en.wikipedia.org/wiki/Tswana_language" title="Tswana language">Tswana</a>&#160;<small>(national)</small></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Tswana_people" title="Tswana people">Batswana</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Parliamentary_republic" title="Parliamentary republic">Parliamentary republic</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/President_of_Botswana" title="President of Botswana" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Ian_Khama" title="Ian Khama">Ian Khama</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from the United Kingdom&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Date</td>
+<td>30 September 1966&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">600,370&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">46th</a>)<br />
+224,606&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>2.5</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>1,950,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Botswana#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">147th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2001&#160;census</td>
+<td>1,680,863&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>3.2/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">231st</a>)<br />
+8.7/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$26.563 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Botswana#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$14,906<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Botswana#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$13.461 billion<sup id="cite_ref-imf2_1-2" class="reference"><a href="http://en.wikipedia.org/wiki/Botswana#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$7,554<sup id="cite_ref-imf2_1-3" class="reference"><a href="http://en.wikipedia.org/wiki/Botswana#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2007/08)</td>
+<td>60.5&#160;(<font color="#E0584E">high</font>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.654&#160;(<font color="#FFCC00">medium</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">124th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Botswanan_pula" title="Botswanan pula" class="mw-redirect">Pula</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">BWP</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Central_Africa_Time" title="Central Africa Time">CAT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>left</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.bw" title=".bw">.bw</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B267" title="+267" class="mw-redirect">+267</a></td>
+</tr>
+</table>
+<p>The <b>Republic of Botswana</b> (<a href="http://en.wikipedia.org/wiki/Tswana_language" title="Tswana language">Tswana</a>: <span lang="tn" xml:lang="tn"><i>Lefatshe la Botswana</i></span>) is a <a href="http://en.wikipedia.org/wiki/Landlocked" title="Landlocked" class="mw-redirect">landlocked</a> country in <a href="http://en.wikipedia.org/wiki/Southern_Africa" title="Southern Africa">Southern Africa</a>. Citizens of Botswana are called "Batswana" (singular: Motswana), regardless of ethnicity. Formerly a British <a href="http://en.wikipedia.org/wiki/Protectorate" title="Protectorate">protectorate</a> of <a href="http://en.wikipedia.org/wiki/Bechuanaland_Protectorate" title="Bechuanaland Protectorate">Bechuanaland</a>, Botswana adopted its new name after becoming independent within the <a href="http://en.wikipedia.org/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth</a> on 30 September 1966. It is bordered by <a href="http://en.wikipedia.org/wiki/South_Africa" title="South Africa">South Africa</a> to the south and southeast, <a href="http://en.wikipedia.org/wiki/Namibia" title="Namibia">Namibia</a> to the west and north, and <a href="http://en.wikipedia.org/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a> to the northeast. It meets <a href="http://en.wikipedia.org/wiki/Zambia" title="Zambia">Zambia</a> at a single point.</p>
+<p>Geographically the country is flat and up to 70% of Botswana is covered by the <a href="http://en.wikipedia.org/wiki/Kalahari_Desert" title="Kalahari Desert">Kalahari Desert</a>. Botswana was one of the most impoverished countries in Africa when it became independent in 1966. Today, it is home to a relatively stable political system and a rapidly developing <a href="http://en.wikipedia.org/wiki/Market_economy" title="Market economy">market economy</a>. Being closely tied with the economy of South Africa, the country's economy is one of the most successful in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a> and is dominated by the fast-growing service sector, world-renowned diamond industry, tourism, and manufacturing.</p>
+<p>About 60% of the population live above the international poverty line of US$1.25 a day.<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Botswana#cite_note-2"><span>[</span>3<span>]</span></a></sup> Botswana's economic growth rate has outpaced the economic growth of even the <a href="http://en.wikipedia.org/wiki/Asian_Tigers" title="Asian Tigers" class="mw-redirect">Asian Tigers</a>, and the World Bank cites Botswana as one of the world's great development success stories.<sup id="cite_ref-worldbankbotswana_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Botswana#cite_note-worldbankbotswana-3"><span>[</span>4<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

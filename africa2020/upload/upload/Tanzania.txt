@@ -1,0 +1,247 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Tanzania</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Tanzania#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Tanzania#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><span style="font-size: small;"><span id="coordinates"><a href="http://en.wikipedia.org/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Tanzania&amp;params=-6.307_N_34.854_E_scale:5000000"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">6°18′25″S</span> <span class="longitude">34°51′14″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">6.307°S 34.854°E</span><span style="display:none">﻿ / <span class="geo">-6.307; 34.854</span></span></span></a></span></span></span></p>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">United Republic of Tanzania</span><br />
+<div style="padding-top:0.25em;"><span lang="sw"><i>Jamhuri ya Muungano wa Tanzania</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Swahili_language" title="Swahili language">Swahili</a>)</span></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Tanzania.svg" class="image" title="Flag of Tanzania"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/125px-Flag_of_Tanzania.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/188px-Flag_of_Tanzania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/250px-Flag_of_Tanzania.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Tanzania.svg" class="image" title="Coat of arms of Tanzania"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_Tanzania.svg/85px-Coat_of_arms_of_Tanzania.svg.png" width="85" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_Tanzania.svg/128px-Coat_of_arms_of_Tanzania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_Tanzania.svg/170px-Coat_of_arms_of_Tanzania.svg.png 2x" data-file-width="251" data-file-height="291" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Tanzania" title="Flag of Tanzania">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Tanzania" title="Coat of arms of Tanzania">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b><span lang="sw">"Uhuru na Umoja"</span>&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(Swahili)</span><br />
+"<a href="http://en.wikipedia.org/wiki/Freedom_and_Unity" title="Freedom and Unity">Freedom and Unity</a>"</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Mungu_ibariki_Afrika" title="Mungu ibariki Afrika">Mungu ibariki Afrika</a></i><br />
+<small style="font-size:85%;"><i>God Bless Africa</i></small><br />
+<center>
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px" poster="//en.wikipedia.org/static/1.26wmf4/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="51.565714285714" data-startoffset="0" data-mwtitle="National_Anthem_of_Tanzania_by_US_Navy_Band.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/2/22/National_Anthem_of_Tanzania_by_US_Navy_Band.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (114 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="114495"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/2/22/National_Anthem_of_Tanzania_by_US_Navy_Band.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_Tanzania_AU_Africa.svg" class="image" title="Location of &#160;Tanzania&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)"><img alt="Location of &#160;Tanzania&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Location_Tanzania_AU_Africa.svg/250px-Location_Tanzania_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Location_Tanzania_AU_Africa.svg/375px-Location_Tanzania_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Location_Tanzania_AU_Africa.svg/500px-Location_Tanzania_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">Tanzania</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Tanzania_-_Location_Map_(2013)_-_TZA_-_UNOCHA.svg" class="image" title="Location of Tanzania"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tanzania_-_Location_Map_%282013%29_-_TZA_-_UNOCHA.svg/250px-Tanzania_-_Location_Map_%282013%29_-_TZA_-_UNOCHA.svg.png" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tanzania_-_Location_Map_%282013%29_-_TZA_-_UNOCHA.svg/375px-Tanzania_-_Location_Map_%282013%29_-_TZA_-_UNOCHA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tanzania_-_Location_Map_%282013%29_-_TZA_-_UNOCHA.svg/500px-Tanzania_-_Location_Map_%282013%29_-_TZA_-_UNOCHA.svg.png 2x" data-file-width="254" data-file-height="254" /></a></div>
+</div>
+<div style="position:relative;top:0.3em;line-height:1.2em;font-size:85%;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b></td>
+<td><a href="http://en.wikipedia.org/wiki/Dodoma" title="Dodoma">Dodoma</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2">Largest city</th>
+<td><a href="http://en.wikipedia.org/wiki/Dar_es_Salaam" title="Dar es Salaam">Dar es Salaam</a></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Swahili_language" title="Swahili language">Swahili</a></li>
+<li><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a><sup id="cite_ref-sim_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-sim-1"><span>[</span>1<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Tanzanian_people" title="Tanzanian people" class="mw-redirect">Tanzanian</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Tanzania" title="Politics of Tanzania">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="http://en.wikipedia.org/wiki/Presidential_system" title="Presidential system">presidential</a> <a href="http://en.wikipedia.org/wiki/Constitutional_republic" title="Constitutional republic" class="mw-redirect">constitutional republic</a><sup id="cite_ref-Lawrence2009_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-Lawrence2009-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_Tanzania" title="President of Tanzania">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Jakaya_Kikwete" title="Jakaya Kikwete">Jakaya Kikwete</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Tanzania" title="Prime Minister of Tanzania">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Mizengo_Pinda" title="Mizengo Pinda">Mizengo Pinda</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Speaker_of_the_National_Assembly_of_Tanzania" title="Speaker of the National Assembly of Tanzania" class="mw-redirect">Speaker</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Anne_Makinda" title="Anne Makinda">Anne Makinda</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Chief_Justice_of_Tanzania" title="Chief Justice of Tanzania">Chief Justice</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Mohamed_Chande_Othman" title="Mohamed Chande Othman">Mohamed Othman</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/National_Assembly_(Tanzania)" title="National Assembly (Tanzania)">National Assembly</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3">Independence <span style="font-weight:normal;">from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Tanganyika" title="Tanganyika">Tanganyika</a></td>
+<td>9 December 1961&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><span class="nowrap"><a href="http://en.wikipedia.org/wiki/People%27s_Republic_of_Zanzibar_and_Pemba" title="People's Republic of Zanzibar and Pemba" class="mw-redirect">Zanzibar and Pemba</a></span></td>
+<td>10 December 1963&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Merger</td>
+<td>26 April 1964&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Current constitution</td>
+<td>25 April 1977&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Tanzania" title="Geography of Tanzania">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>947,303&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">31</a>)<br />
+365,756<sup id="cite_ref-BFF_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-BFF-4"><span>[</span>4<span>]</span></a></sup>&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>6.4<sup id="cite_ref-BFF_4-1" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-BFF-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Tanzania" title="Demographics of Tanzania">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2014&#160;estimate</td>
+<td>47.4 million<sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-5"><span>[</span>5<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">29</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2012&#160;census</td>
+<td>44,928,923<sup id="cite_ref-2012_census_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-2012_census-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>47.5/km<sup><small>2</small></sup><br />
+123.1/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2014&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$86.4 billion<sup id="cite_ref-imf2_7-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-imf2-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$1,813<sup id="cite_ref-imf2_7-1" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-imf2-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2014&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$43.8 billion<sup id="cite_ref-8" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$768<sup id="cite_ref-imf2_7-2" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-imf2-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2012)</td>
+<td>37.8<sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-9"><span>[</span>9<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Increase"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.488<sup id="cite_ref-HDI_10-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-HDI-10"><span>[</span>10<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:red">low</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">159</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Tanzanian_shilling" title="Tanzanian shilling">Tanzanian shilling</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">TZS</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/East_Africa_Time" title="East Africa Time">EAT</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">left</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Tanzania" title="Telephone numbers in Tanzania">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B255" title="+255" class="mw-redirect">+255</a><sup id="cite_ref-c_11-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-c-11"><span>[</span>note 1<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:TZ" title="ISO 3166-2:TZ">TZ</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.tz" title=".tz">.tz</a></td>
+</tr>
+<tr style="font-size:85%;">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>a.</sup></span></td>
+<td colspan="2" style="padding-left:0;">Revised to $41.33 billion<sup id="cite_ref-12" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-12"><span>[</span>11<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><b>Tanzania</b> <span class="nowrap"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˌ/ secondary stress follows" style="border-bottom:1px dotted">ˌ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'t' in 'tie'" style="border-bottom:1px dotted">t</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/æ/ short 'a' in 'bad'" style="border-bottom:1px dotted">æ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'z' in 'zebra'" style="border-bottom:1px dotted">z</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/iː/ long 'e' in 'bead'" style="border-bottom:1px dotted">iː</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>,<sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-13"><span>[</span>12<span>]</span></a></sup> officially the <b>United Republic of Tanzania</b> (<a href="http://en.wikipedia.org/wiki/Swahili_language" title="Swahili language">Swahili</a>: <span lang="sw"><i>Jamhuri ya Muungano wa Tanzania</i></span>), is a country in <a href="http://en.wikipedia.org/wiki/East_Africa" title="East Africa">East Africa</a> within the <a href="http://en.wikipedia.org/wiki/African_Great_Lakes" title="African Great Lakes">African Great Lakes</a> region. It is bordered by <a href="http://en.wikipedia.org/wiki/Kenya" title="Kenya">Kenya</a> and <a href="http://en.wikipedia.org/wiki/Uganda" title="Uganda">Uganda</a> to the north; <a href="http://en.wikipedia.org/wiki/Rwanda" title="Rwanda">Rwanda</a>, <a href="http://en.wikipedia.org/wiki/Burundi" title="Burundi">Burundi</a>, and the <a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a> to the west; <a href="http://en.wikipedia.org/wiki/Zambia" title="Zambia">Zambia</a>, <a href="http://en.wikipedia.org/wiki/Malawi" title="Malawi">Malawi</a>, and <a href="http://en.wikipedia.org/wiki/Mozambique" title="Mozambique">Mozambique</a> to the south; and the <a href="http://en.wikipedia.org/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> to the east. <a href="http://en.wikipedia.org/wiki/Kilimanjaro" title="Kilimanjaro" class="mw-redirect">Kilimanjaro</a>, Africa's highest mountain, is in northeastern Tanzania.</p>
+<p>Tanzania's population of 44.9 million is highly diverse, composed of numerous ethnic, linguistic, and religious groups. Islam is biggest religion followed by Christianity. Tanzania is a presidential constitutional republic, and since 1996, its official capital has been <a href="http://en.wikipedia.org/wiki/Dodoma" title="Dodoma">Dodoma</a>, where the President's Office, the <a href="http://en.wikipedia.org/wiki/National_Assembly_(Tanzania)" title="National Assembly (Tanzania)">National Assembly</a>, and some government ministries are located.<sup id="cite_ref-14" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-14"><span>[</span>13<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/Dar_es_Salaam" title="Dar es Salaam">Dar es Salaam</a>, the former capital, retains most government offices and is the country's largest city, principal port, and leading commercial center.<sup id="cite_ref-factbook_15-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-factbook-15"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-official_website_16-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-official_website-16"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-17"><span>[</span>16<span>]</span></a></sup></p>
+<p>European colonialism began in mainland Tanzania during the late 19th century when Germany formed <a href="http://en.wikipedia.org/wiki/German_East_Africa" title="German East Africa">German East Africa</a>, which gave way to British rule following <a href="http://en.wikipedia.org/wiki/World_War_I" title="World War I">World War I</a>. The mainland was governed as <a href="http://en.wikipedia.org/wiki/Tanganyika" title="Tanganyika">Tanganyika</a>, with the <a href="http://en.wikipedia.org/wiki/Zanzibar_Archipelago" title="Zanzibar Archipelago">Zanzibar Archipelago</a> remaining a separate colonial jurisdiction. Following their respective independence in 1961 and 1963, the two entities merged in April 1964 to form the United Republic of Tanzania.<sup id="cite_ref-factbook_15-1" class="reference"><a href="http://en.wikipedia.org/wiki/Tanzania#cite_note-factbook-15"><span>[</span>14<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

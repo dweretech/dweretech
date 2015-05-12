@@ -1,0 +1,177 @@
+	<h1 id="firstHeading" class="firstHeading">Seychelles</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Seychelles#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Seychelles#searchInput">search</a></div>			<!-- start content -->
+			<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="http://en.wikipedia.org/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></a></div>
+</td>
+<td class="mbox-text" style="">This article <b>needs additional <a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a>.</b><br />
+<small>Please help <a href="http://en.wikipedia.org/w/index.php?title=Seychelles&amp;action=edit" class="external text" rel="nofollow">improve this article</a> by adding <a href="http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable references</a>. Unsourced material may be <a href="http://en.wikipedia.org/wiki/Template:Fact" title="Template:Fact" class="mw-redirect">challenged</a> and <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>. <small><i>(June 2009)</i></small></small></td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Seychelles
+<div style="padding-top:0.25em;"><i>Repiblik Sesel<br />
+République des Seychelles</i></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_the_Seychelles.svg" class="image" title="Flag of Seychelles"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Seychelles.svg/125px-Flag_of_the_Seychelles.svg.png" width="125" height="63" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Seychelles.png" class="image" title="Coat of arms of Seychelles"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Coat_of_arms_of_Seychelles.png/85px-Coat_of_arms_of_Seychelles.png" width="85" height="88" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Seychelles" title="Flag of Seychelles" class="mw-redirect">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Seychelles" title="Coat of arms of Seychelles" class="mw-redirect">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"Finis Coronat Opus"<span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/Latin_language" title="Latin language" class="mw-redirect">Latin</a>)<br />
+"The End Crowns the Work"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Koste_Seselwa" title="Koste Seselwa">Koste Seselwa</a></i><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationSeychelles.png" class="image" title="Location of Seychelles"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/4/4c/LocationSeychelles.png" width="250" height="119" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Seychelles" title="Demographics of Seychelles">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Victoria,_Seychelles" title="Victoria, Seychelles">Victoria</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Seychelles&amp;params=4_37_S_55_27_E_type:country(451)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">4°37′S</span> <span class="longitude">55°27′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">4.617°S 55.45°E</span><span style="display:none">﻿ / <span class="geo">-4.617; 55.45</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Seychellois_Creole" title="Seychellois Creole">Seychellois Creole</a>, <a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a> and <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Vernacular" title="Vernacular">Vernacular</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Seychellois_Creole" title="Seychellois Creole">Seychellois Creole</a>, <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>, <a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Seychellois, Seychelloise</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Republic" title="Republic">Republic</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/President_of_Seychelles" title="President of Seychelles" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/James_Michel" title="James Michel">James Michel</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from the United Kingdom&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Date</td>
+<td>29 June 1976&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E%2B8_m%C2%B2" title="1 E+8 m²">451&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">197th</a>)<br />
+174&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>84,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Seychelles#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">195th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>186.2/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">60th</a>)<br />
+482.7/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$1.775 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Seychelles#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$20,829<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Seychelles#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$822 million<sup id="cite_ref-imf2_1-2" class="reference"><a href="http://en.wikipedia.org/wiki/Seychelles#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$9,640<sup id="cite_ref-imf2_1-3" class="reference"><a href="http://en.wikipedia.org/wiki/Seychelles#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.843&#160;(<font color="green">high</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">50th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Seychellois_rupee" title="Seychellois rupee">Seychellois rupee</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">SCR</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Seychelles_Time" title="Seychelles Time">SCT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+4)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><i>not observed</i>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+4)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>left</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.sc" title=".sc">.sc</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>248</td>
+</tr>
+</table>
+<p><b>Seychelles</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/seɪˈʃɛl/</a></span> or <small>IPA:&#160;</small><span title="Pronunciation in IPA" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA" title="Wikipedia:IPA">[/seɪˈʃɛlz/]</a></span> in English and <span title="Pronunciation in IPA" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_French" title="Wikipedia:IPA for French">[seʃɛl]</a></span> in French), officially the <b>Republic of Seychelles</b> (<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>République des Seychelles</i></span>; <a href="http://en.wikipedia.org/wiki/Seychellois_Creole" title="Seychellois Creole">Creole</a>: <i>Repiblik Sesel</i>), is an <a href="http://en.wikipedia.org/wiki/Archipelago" title="Archipelago">archipelago</a> <a href="http://en.wikipedia.org/wiki/Country" title="Country">nation</a> of 115 islands in the <a href="http://en.wikipedia.org/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a>, some 1,500&#160;kilometres (932&#160;mi) east of mainland <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a>, northeast of the island of <a href="http://en.wikipedia.org/wiki/Madagascar" title="Madagascar">Madagascar</a>. Other nearby island countries and territories include <a href="http://en.wikipedia.org/wiki/Zanzibar" title="Zanzibar">Zanzibar</a> to the west, <a href="http://en.wikipedia.org/wiki/Mauritius" title="Mauritius">Mauritius</a> and <a href="http://en.wikipedia.org/wiki/R%C3%A9union" title="Réunion">Réunion</a> to the south, <a href="http://en.wikipedia.org/wiki/Comoros" title="Comoros">Comoros</a> and <a href="http://en.wikipedia.org/wiki/Mayotte" title="Mayotte">Mayotte</a> to the southwest, and the <a href="http://en.wikipedia.org/wiki/Maldives" title="Maldives">Maldives</a> to the northeast. The Seychelles has the smallest population of any African state <a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" class="external autonumber" rel="nofollow">[1]</a>, <a href="http://goafrica.about.com/od/africatraveltips/a/africafacts.htm" class="external autonumber" rel="nofollow">[2]</a></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

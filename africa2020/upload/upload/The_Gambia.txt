@@ -1,0 +1,171 @@
+	<h1 id="firstHeading" class="firstHeading">The Gambia</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/The_Gambia#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/The_Gambia#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">"Gambia" redirects here. For the river, see <a href="http://en.wikipedia.org/wiki/Gambia_River" title="Gambia River">Gambia River</a>.</div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of The Gambia</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_The_Gambia.svg" class="image" title="Flag of The Gambia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/125px-Flag_of_The_Gambia.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_the_Gambia.png" class="image" title="Coat of arms of The Gambia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coat_of_arms_of_the_Gambia.png/85px-Coat_of_arms_of_the_Gambia.png" width="85" height="83" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_The_Gambia" title="Flag of The Gambia">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_The_Gambia" title="Coat of arms of The Gambia">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"Progress, Peace, Prosperity"</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/For_The_Gambia_Our_Homeland" title="For The Gambia Our Homeland">For The Gambia Our Homeland</a></i><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationGambia.svg" class="image" title="Location of The Gambia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LocationGambia.svg/250px-LocationGambia.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Banjul" title="Banjul">Banjul</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=The_Gambia&amp;params=13_28_N_16_36_W_type:country(10,380)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°28′N</span> <span class="longitude">16°36′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.467°N 16.6°W</span><span style="display:none">﻿ / <span class="geo">13.467; -16.6</span></span></span></a></span></span></small></td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demographics_of_The_Gambia" title="Demographics of The Gambia">Largest city</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Serrekunda" title="Serrekunda" class="mw-redirect">Serrekunda</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Gambian</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Republic" title="Republic">Republic</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Heads_of_State_of_The_Gambia" title="Heads of State of The Gambia" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Yahya_Jammeh" title="Yahya Jammeh">Yahya Jammeh</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td>February 18, 1965&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Republic declared</td>
+<td>April 24, 1970&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E10_m%C2%B2" title="1 E10 m²" class="mw-redirect">10,380&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">164th</a>)<br />
+4,007&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>11.5</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>1,705,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/The_Gambia#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">146th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>164.2/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">74th</a>)<br />
+425.5/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$2.274 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/The_Gambia#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,395<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/The_Gambia#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$810 million<sup id="cite_ref-imf2_1-2" class="reference"><a href="http://en.wikipedia.org/wiki/The_Gambia#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$496<sup id="cite_ref-imf2_1-3" class="reference"><a href="http://en.wikipedia.org/wiki/The_Gambia#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(1998)</td>
+<td>50.2&#160;(<font color="red">high</font>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2006)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.471&#160;(<font color="red">low</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">160th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Dalasi" title="Dalasi" class="mw-redirect">Dalasi</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">GMD</a></code>)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Greenwich_Mean_Time" title="Greenwich Mean Time">GMT</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.gm" title=".gm">.gm</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>220</td>
+</tr>
+</table>
+<p><b>The Gambia</b> (officially the <b>Republic of The Gambia</b>), commonly known as <b>Gambia</b>, is a country in <a href="http://en.wikipedia.org/wiki/West_Africa" title="West Africa">Western Africa</a>. The Gambia is the smallest country on mainland Africa, <a href="http://en.wikipedia.org/wiki/Enclave" title="Enclave" class="mw-redirect">bordered to the north, east, and south</a> by <a href="http://en.wikipedia.org/wiki/Senegal" title="Senegal">Senegal</a>, and has a small coast on the <a href="http://en.wikipedia.org/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> in the west.</p>
+<p>Its borders roughly correspond to the path of the <a href="http://en.wikipedia.org/wiki/Gambia_River" title="Gambia River">Gambia River</a>, the nation's namesake, which flows through the country's center and empties into the Atlantic Ocean. Its size is almost 10,500&#160;km² with an estimated population of	1,700,000.</p>
+<p>On 18 February 1965, Gambia was granted independence from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> and joined <a href="http://en.wikipedia.org/wiki/The_Commonwealth" title="The Commonwealth" class="mw-redirect">The Commonwealth</a>. <a href="http://en.wikipedia.org/wiki/Banjul" title="Banjul">Banjul</a> is Gambia's capital, but the largest <a href="http://en.wikipedia.org/wiki/Conurbation" title="Conurbation">conurbation</a> is <a href="http://en.wikipedia.org/wiki/Serrekunda" title="Serrekunda" class="mw-redirect">Serrekunda</a>.</p>
+<p>The Gambia shares historical roots with many other west African nations in the <a href="http://en.wikipedia.org/wiki/Slave_trade" title="Slave trade" class="mw-redirect">slave trade</a>, which was key to the establishment of a colony on the Gambia river, first by the <a href="http://en.wikipedia.org/wiki/Portugal" title="Portugal">Portuguese</a> and later by the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">British</a>. Since gaining independence in 1965, The Gambia has enjoyed relative stability, with the exception of a brief period of <a href="http://en.wikipedia.org/wiki/Military_rule" title="Military rule">military rule</a> in 1994.</p>
+<p>An agriculturally rich country, its economy is dominated by farming, fishing, and tourism. About a third of the population live below the <a href="http://en.wikipedia.org/wiki/International_poverty_line" title="International poverty line" class="mw-redirect">international poverty line</a> of US$1.25 a day.<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/The_Gambia#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

@@ -1,0 +1,32 @@
+ </form>   </div><div id="formAVJoinUs"  class="AVForms2">
+      <form action="joinavcom.php" method="POST" enctype="multipart/form-data" name="formjoinAVNet" target="_self">
+        
+              Full Name:<br>
+                <input name="name" type="text" id="myname" value="<?=$myname?>"  size="32">              
+                <br> 
+              Email Address:  
+              <input name="email" type="text" id="myemail" value="<?=$myemail?>"  size="32">
+              <br>
+              Username:<br>
+                <input name="uname" type="text" id="username" value="<?=$myusername?>"  size="32">
+                <br>
+                Password:<br>
+                <input name="pname" type="password" id="userpass" value="<?=$mypass?>" size="32">
+                <br>  
+                Password Verify:<br>
+                <input type="password" name="pverify" id="passverify" value="<?=$mypass?>"  size="32"> 
+      			<input name="knownstates" type="hidden" value="<?=$myknownstates?>" id="knownStates">
+                <br> 
+              Country: <br> 
+              <input name="country" type="text" id="mystate" value="<?=$_SESSION[$challenge]?>" size="32" >
+               
+          <div align="left">
+            <br>
+           
+            <p align="center"><span class="AVForms2">
+			<a href="#" onClick="javascript:document.formjoinAVNet.submit()">Update My Profile</a> | <a href="#" onClick="MM_showHideLayers('formAVJoinUs','','hide');getText(document.AVFormContent.file.value='home')">Cancel</a></span> 
+            <p><br>
+            </span></div>
+              </p>
+      </form>
+  

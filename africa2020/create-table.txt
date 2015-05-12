@@ -1,0 +1,40 @@
+CREATE TABLE notes (
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(30),
+    notes text,
+    sdate timestamp default now(),
+    userid varchar(20) 
+  
+);
+ 
+CREATE TABLE `myalbum` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `title` varchar(64) character SET utf8 NOT NULL,
+  `ext` varchar(8) character SET utf8 NOT NULL,
+  `image_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `data` mediumblob NOT NULL,
+   `userid` varchar(20), 
+  PRIMARY KEY  (`id`)
+);
+==========================
+
+Hi odongo. we should attempt to observe individual during a sustained period''.prolonged periods of abstinence are often difficult to achieve'', and people are in a rush thought,majority emotion cost damage and sinning our doing. it just disorderly it's can't make us received progress in the community.thank's N.what going on'.or any new from protest
+2:30pmGeorge
+
+George Okello October 7 at 9:03am
+Hi odongo,
+intervention about calm and dignity, it's sound very positive',enemy with not' negative symptoms ,judge others biologically,related to the delusion or hallucinations''. I' Accepted enemy friend.
+2:34pmGeorge
+
+Hi odongo,
+intervention about calm and dignity, it's sound very positive',enemy with not' negative symptoms ,judge others biologically,related to the delusion or hallucinations''. I' Accepted enemy friend
+
+George Okello September 28 at 3:21pm
+This is ur friend george,u ask where i leave in united state(u.s.a) hi i'know u feel so stress " ufeel that people r always watching at u behavior ,word of encouragement,u must do good".Dear flor,i'didn't know hwo u're,nobert is my friend and jacob.? Political trial get ready to answer the foundamental question; it's speculated that u r the bast decendant of the leader'hw is u profile compared with that of other decendant of some major communist party leader/hw r gona diagnosed condition presenting complaintand'. what is u status, george waiting to hear from u.
+
+Dear Honorable Mao.Thank for you genuine public's service to all people of northern Uganda.'word of praise to you,'and prayers. I' enjoyed seeing the photo of the family.I' would like to extend my greetings to the family.i appreciation your communication I'll look forward to hearing from you again.
+--------
+George Okello September 25 at 9:41am
+Hey when can u chart with me, hw r u d'ing i am ding my master in human development and interpersonal relationship.you 're gona be the{to make treaties.or the constitution.who were the founders of nothern uganda?(2) who is the chief justice of the uganda. thank's
+==============
+update `notes` set notes='Jump to: navigation, searchThis article is semi-protected.This article is about the country in northeastern Africa. For the geographical region known as The Sudan, see Sudan (region). For other uses, see Sudan (disambiguation).---- Details of project ----', title ='Sudan ',sdate=now() where userid like 'glanyero' and id =''

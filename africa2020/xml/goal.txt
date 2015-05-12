@@ -1,0 +1,20 @@
+<span  class="AVbodyText">Our focus</span><br>
+ 
+ <div class="AVbodyText" id="AVbodyV"   >
+        <p class="style12">In the continent of Africa we are committed to work with the various local governments, non-government organizations (NGOs) and the local communities to bring simple ideas in planning for tomorrow. The standards of the world communities are changing by the hour and we are working bring you aboard.</p>
+        <p class="style12"> We are constantly working with professionals, business entrepreneurs and NGOs from in United States, Europe, China, Russian, Japan and the Middle Eastern countries to embrace changes of globalization, peace and economic stability taking place across the continent of Africa. </p>
+        <p class="style12">We work with others engaged in pursuing practical goals for Africa and the future. Be apart of projects such as: </p>
+        <ul class="style12">
+          <li class="style12">Shipping, and Freight clearance.</li>
+          <li class="style12">Commodity Trading.</li>
+          <li class="style12">Technology Trading and Recycling.</li>
+          <li class="style12">Minerals and Exploration Resources.</li>
+          <li class="style12">Import and Export Resources.</li>
+          <li>Development projects.
+              <ul>
+                <li class="style12">Children and education.</li>
+                <li class="style12">Peace and resettlement.</li>
+                <li class="style12">HIV/Aids. </li>
+              </ul>
+          </li>
+        </ul>

@@ -1,0 +1,7 @@
+
+       <form name="formjoinAVNet" method="post" action="addstate.php"  target="http://www.africatvision2020.net">
+         <br> <input type="text" name="name" id="myname">
+		 <br>  <input type="text" name="email" id="myemail">
+		 <br>  <input type="text" name="country" id="mystate">
+          <br> <input type="submit" name="button" id="button" value="Search" onClick="return javascript:document.formjoinAVNet.submit()">      
+      </form>

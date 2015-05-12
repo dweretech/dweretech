@@ -1,0 +1,177 @@
+	<h1 id="firstHeading" class="firstHeading">Chad</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Chad#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Chad#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Chad_(disambiguation)" title="Chad (disambiguation)">Chad (disambiguation)</a>.</div>
+<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected indefinitely in response to an ongoing high risk of vandalism."><img alt="This article is semi-protected indefinitely in response to an ongoing high risk of vandalism." src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/20px-Padlock-silver-medium.svg.png" width="20" height="20" /></a></div>
+<div style="right:10px; display:none;" class="metadata topicon" id="featured-star"><a href="http://en.wikipedia.org/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."><img alt="This is a featured article. Click here for more information." src="http://upload.wikimedia.org/wikipedia/en/6/60/LinkFA-star.png" width="14" height="14" /></a></div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Chad
+<div style="padding-top:0.25em;"><span lang="fr" xml:lang="fr"><i>République du Tchad</i></span><br />
+<span lang="ar" dir="rtl" xml:lang="ar"><big>جمهورية تشاد</big></span> ‎<br />
+<span lang="ar-Latn" title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none" xml:lang="ar-Latn"><i>Jumhūriyyat Tshād</i></span></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Chad.svg" class="image" title="Flag of Chad"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/125px-Flag_of_Chad.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Chad.png" class="image" title="coat of arms of Chad"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Coat_of_arms_of_Chad.png/85px-Coat_of_arms_of_Chad.png" width="85" height="79" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Chad" title="Flag of Chad">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Chad" title="Coat of arms of Chad">coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"<span lang="fr" xml:lang="fr"><i>Unité, Travail, Progrès</i></span>"<span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>)<br />
+"Unity, Work, Progress"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b>"<span lang="fr" xml:lang="fr"><i><a href="http://en.wikipedia.org/wiki/La_Tchadienne" title="La Tchadienne">La Tchadienne</a></i></span>"<br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationChad.svg" class="image" title="Location of Chad"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LocationChad.svg/250px-LocationChad.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Chad" title="Demographics of Chad">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/N%27Djamena" title="N'Djamena">N'Djamena</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Chad&amp;params=12_06_N_15_02_E_type:country(1,284,000)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">12°06′N</span> <span class="longitude">15°02′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">12.1°N 15.033°E</span><span style="display:none">﻿ / <span class="geo">12.1; 15.033</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>, <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Chadian_people" title="Chadian people" class="mw-redirect">Chadian</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Republic" title="Republic">Republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Heads_of_state_of_Chad" title="Heads of state of Chad" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Idriss_D%C3%A9by" title="Idriss Déby">Idriss Déby</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Chad" title="Prime Minister of Chad" class="mw-redirect">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Youssouf_Saleh_Abbas" title="Youssouf Saleh Abbas">Youssouf Saleh Abbas</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/History_of_Chad" title="History of Chad">Independence</a></th>
+<td>from France&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Date</td>
+<td>August 11, 1960&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E12_m%C2%B2" title="1 E12 m²" class="mw-redirect">1,284,000&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">21st</a>)<br />
+495,753&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>1.9</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>11,206,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Chad#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">75th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">1993&#160;census</td>
+<td>6,279,921&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>8.7/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">212th</a>)<br />
+22.6/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$16.180 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Chad#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,663<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Chad#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$8.400 billion<sup id="cite_ref-imf2_1-2" class="reference"><a href="http://en.wikipedia.org/wiki/Chad#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$863<sup id="cite_ref-imf2_1-3" class="reference"><a href="http://en.wikipedia.org/wiki/Chad#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.388&#160;(<font color="#E0584E">low</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">170th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Central_African_CFA_franc" title="Central African CFA franc">CFA franc</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">XAF</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/West_Africa_Time" title="West Africa Time">WAT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.td" title=".td">.td</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>235</td>
+</tr>
+</table>
+<p><b>Chad</b> (<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>Tchad</i></span>, <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" xml:lang="ar"><big>تشاد</big></span>‎ <i>Tshād</i>), officially known as the <b>Republic of Chad</b>, is a <a href="http://en.wikipedia.org/wiki/Landlocked_country" title="Landlocked country">landlocked country</a> in <a href="http://en.wikipedia.org/wiki/Central_Africa" title="Central Africa">central Africa</a>. It is bordered by <a href="http://en.wikipedia.org/wiki/Libya" title="Libya">Libya</a> to the north, <a href="http://en.wikipedia.org/wiki/Sudan" title="Sudan">Sudan</a> to the east, the <a href="http://en.wikipedia.org/wiki/Central_African_Republic" title="Central African Republic">Central African Republic</a> to the south, <a href="http://en.wikipedia.org/wiki/Cameroon" title="Cameroon">Cameroon</a> and <a href="http://en.wikipedia.org/wiki/Nigeria" title="Nigeria">Nigeria</a> to the southwest, and <a href="http://en.wikipedia.org/wiki/Niger" title="Niger">Niger</a> to the west. Due to its distance from the sea and its largely <a href="http://en.wikipedia.org/wiki/Desert" title="Desert">desert</a> climate, the country is sometimes referred to as the "Dead Heart of Africa". Chad is divided into three major geographical regions: a desert zone in the north, an arid <a href="http://en.wikipedia.org/wiki/Sahel" title="Sahel">Sahelian</a> belt in the centre and a more fertile <a href="http://en.wikipedia.org/wiki/Sudan_(region)" title="Sudan (region)">Sudanese</a> <a href="http://en.wikipedia.org/wiki/Savanna" title="Savanna">savanna</a> zone in the south. <a href="http://en.wikipedia.org/wiki/Lake_Chad" title="Lake Chad">Lake Chad</a>, after which the country is named, is the largest <a href="http://en.wikipedia.org/wiki/Wetland" title="Wetland">wetland</a> in Chad and the second largest in Africa. Chad's highest peak is the <a href="http://en.wikipedia.org/wiki/Emi_Koussi" title="Emi Koussi">Emi Koussi</a> in the <a href="http://en.wikipedia.org/wiki/Sahara" title="Sahara">Sahara</a>, and <a href="http://en.wikipedia.org/wiki/N%27Djamena" title="N'Djamena">N'Djamena</a>, (formerly <i>Fort-Lamy</i>), the capital, is the largest city. Chad is home to over 200 different <a href="http://en.wikipedia.org/wiki/List_of_ethnic_groups_in_Chad" title="List of ethnic groups in Chad">ethnic</a> and <a href="http://en.wikipedia.org/wiki/Languages_of_Chad" title="Languages of Chad">linguistic groups</a>. Arabic and French are the official languages. <a href="http://en.wikipedia.org/wiki/Islam" title="Islam">Islam</a> and <a href="http://en.wikipedia.org/wiki/Christianity" title="Christianity">Christianity</a> are the most widely practiced religions.</p>
+<p>Beginning in the 7th millennium BC, human populations moved into the Chadian basin in great numbers. By the end of the 1st millennium BC, a series of states and empires rose and fell in Chad's Sahelian strip, each focused on controlling the <a href="http://en.wikipedia.org/wiki/Trans-Saharan_trade" title="Trans-Saharan trade">trans-Saharan trade</a> routes that passed through the region. France conquered the territory by 1920 and incorporated it as part of <a href="http://en.wikipedia.org/wiki/French_Equatorial_Africa" title="French Equatorial Africa">French Equatorial Africa</a>. In 1960 Chad obtained independence under the leadership of <a href="http://en.wikipedia.org/wiki/Fran%C3%A7ois_Tombalbaye" title="François Tombalbaye">François Tombalbaye</a>. Resentment towards his policies in the Muslim north culminated in the eruption of a long-lasting <a href="http://en.wikipedia.org/wiki/The_Tombalbaye_Regime#Rebellion_in_Chad" title="The Tombalbaye Regime" class="mw-redirect">civil war</a> in 1965. In 1979 <a href="http://en.wikipedia.org/wiki/Transitional_Government_of_National_Unity" title="Transitional Government of National Unity">the rebels</a> conquered the capital and put an end to the south's hegemony. However, the rebel commanders fought amongst themselves until <a href="http://en.wikipedia.org/wiki/Hiss%C3%A8ne_Habr%C3%A9" title="Hissène Habré">Hissène Habré</a> defeated his rivals. He was overthrown in 1990 by his general <a href="http://en.wikipedia.org/wiki/Idriss_D%C3%A9by" title="Idriss Déby">Idriss Déby</a>. Recently, the <a href="http://en.wikipedia.org/wiki/Darfur_conflict" title="Darfur conflict" class="mw-redirect">Darfur crisis</a> in Sudan has spilt over the border and <a href="http://en.wikipedia.org/wiki/War_in_Chad_(2005%E2%80%93present)" title="War in Chad (2005–present)" class="mw-redirect">destabilised the nation</a>, with hundreds of thousands of Sudanese refugees living in and around camps in eastern Chad.</p>
+<p>While <a href="http://en.wikipedia.org/wiki/List_of_political_parties_in_Chad" title="List of political parties in Chad">many political parties</a> are active, power lies firmly in the hands of President Déby and his political party, the <a href="http://en.wikipedia.org/wiki/Patriotic_Salvation_Movement" title="Patriotic Salvation Movement">Patriotic Salvation Movement</a>. Chad remains plagued by political violence and recurrent attempted <a href="http://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat" title="Coup d'état">coups d'état</a> (see <a href="http://en.wikipedia.org/wiki/Battle_of_N%27Djamena_(2006)" title="Battle of N'Djamena (2006)">Battle of N'Djamena (2006)</a> and <a href="http://en.wikipedia.org/wiki/Battle_of_N%27Djamena_(2008)" title="Battle of N'Djamena (2008)">Battle of N'Djamena (2008)</a>).</p>
+<p>The country is one of the <a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">poorest</a> and <a href="http://en.wikipedia.org/wiki/Corruption_Perceptions_Index" title="Corruption Perceptions Index">most corrupt</a> countries in the world; most Chadians live in poverty as <a href="http://en.wikipedia.org/wiki/Agriculture_in_Chad" title="Agriculture in Chad">subsistence herders and farmers</a>. Since 2003 <a href="http://en.wikipedia.org/wiki/Petroleum" title="Petroleum">crude oil</a> has become the country's primary source of export earnings, superseding the traditional <a href="http://en.wikipedia.org/wiki/Cotton" title="Cotton">cotton</a> industry.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

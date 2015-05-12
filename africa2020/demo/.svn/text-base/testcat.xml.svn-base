@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<catalog>
+<item>
+<name>Item One</name>
+<price>55.00</price>
+</item>
+<item>
+<name>Item Two</name>
+<price>43.34</price>
+</item>
+<item>
+<name>Item Three</name>
+<price>23.53</price>
+</item>
+<item>
+<name>Item Four</name>
+<price>13.11</price>
+</item>
+</catalog>

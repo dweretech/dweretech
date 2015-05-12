@@ -1,0 +1,281 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Morocco</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Morocco#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Morocco#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="http://en.wikipedia.org/wiki/Morocco_(disambiguation)" title="Morocco (disambiguation)" class="mw-disambig">Morocco (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Kingdom of Morocco<br />
+المملكة المغربية<br />
+ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ</span><br /></th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Morocco.svg" class="image" title="Flag of Morocco"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/125px-Flag_of_Morocco.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/188px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/250px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Morocco.svg" class="image" title="Coat of arms of Morocco"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coat_of_arms_of_Morocco.svg/85px-Coat_of_arms_of_Morocco.svg.png" width="85" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coat_of_arms_of_Morocco.svg/128px-Coat_of_arms_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coat_of_arms_of_Morocco.svg/170px-Coat_of_arms_of_Morocco.svg.png 2x" data-file-width="550" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Morocco" title="Flag of Morocco">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Morocco" title="Coat of arms of Morocco">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b>
+<div style="padding-top:0.2em;padding-bottom:0.5em;"><span lang="ar"><span style="position: relative; top: 0.1em;"><span style="font-size: 120%;">الله، الوطن، الملك&#160;</span></span></span>&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(Arabic)</span><br />
+<i><span title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none">Allāh, al-Watan, al-Malik</span></i></div>
+<i><span title="Berber transliteration" class="Unicode" style="white-space:normal; text-decoration: none">Akush, Amur, Agllid</span></i><br />
+<small style="font-size:85%;">"God, Homeland, King"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><br />
+<span lang="ar"><span style="position: relative; top: 0.1em;"><span style="font-size: 120%;">النشيد الوطني المغربي&#160;</span></span></span>&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(Arabic)</span><br />
+<small style="font-size:85%;"><i><a href="http://en.wikipedia.org/wiki/Cherifian_Anthem" title="Cherifian Anthem">Cherifian Anthem</a></i></small><br />
+<center>
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px" poster="//en.wikipedia.org/static/1.26wmf4/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="67.735510204082" data-startoffset="0" data-mwtitle="National_Anthem_of_Morocco.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/3/3f/National_Anthem_of_Morocco.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (121 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="121098"></source><track kind="subtitles" data-mwtitle="TimedText:National_Anthem_of_Morocco.ogg.ar.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:National+Anthem+of+Morocco.ogg.ar.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="ar" data-dir="rtl" label="العربية (ar) subtitles"></track><track kind="subtitles" data-mwtitle="TimedText:National_Anthem_of_Morocco.ogg.en.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:National+Anthem+of+Morocco.ogg.en.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="en" data-dir="ltr" label="English (en) subtitles"></track>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/3/3f/National_Anthem_of_Morocco.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Morocco_(orthographic_projection).svg" class="image" title="Dark green: Internationally recognized territory of Morocco.Lighter striped green: Western Sahara, a non-decolonized territory claimed by Morocco as its Southern Provinces."><img alt="Dark green: Internationally recognized territory of Morocco.Lighter striped green: Western Sahara, a non-decolonized territory claimed by Morocco as its Southern Provinces." src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Morocco_%28orthographic_projection%29.svg/250px-Morocco_%28orthographic_projection%29.svg.png" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Morocco_%28orthographic_projection%29.svg/375px-Morocco_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Morocco_%28orthographic_projection%29.svg/500px-Morocco_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">Dark green: Internationally recognized territory of Morocco.<br />
+Lighter striped green: <a href="http://en.wikipedia.org/wiki/Western_Sahara" title="Western Sahara">Western Sahara</a>, a <a href="http://en.wikipedia.org/wiki/United_Nations_list_of_Non-Self-Governing_Territories" title="United Nations list of Non-Self-Governing Territories">non-decolonized</a> territory claimed by Morocco <span class="nowrap">as its <a href="http://en.wikipedia.org/wiki/Southern_Provinces" title="Southern Provinces">Southern Provinces</a>.</span></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b></td>
+<td><a href="http://en.wikipedia.org/wiki/Rabat" title="Rabat">Rabat</a><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Morocco&amp;params=34_02_N_6_51_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">34°02′N</span> <span class="longitude">6°51′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">34.033°N 6.850°W</span><span style="display:none">﻿ / <span class="geo">34.033; -6.850</span></span></span></a></span></span></td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2">Largest city</th>
+<td><a href="http://en.wikipedia.org/wiki/Casablanca" title="Casablanca">Casablanca</a><br />
+<small style="font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Morocco&amp;params=33_32_N_7_35_E_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">33°32′N</span> <span class="longitude">7°35′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">33.533°N 7.583°E</span><span style="display:none">﻿ / <span class="geo">33.533; 7.583</span></span></span></a></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a><sup id="cite_ref-const2011_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-const2011-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-French_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-French-2"><span>[</span>Notes 1<span>]</span></a></sup></li>
+<li><a href="http://en.wikipedia.org/wiki/Standard_Moroccan_Tamazight" title="Standard Moroccan Tamazight">Berber</a><sup id="cite_ref-const2011_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-const2011-1"><span>[</span>1<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">Recognised national&#160;languages</td>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Native Languages<sup class="reference" id="ref_Native_languages"><a href="http://en.wikipedia.org/wiki/Morocco#endnote_Native_languages">[a]</a></sup></th>
+<td>
+<div class="plainlist nowrap">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Moroccan_Arabic" title="Moroccan Arabic">Moroccan Arabic</a><sup class="reference" id="ref_Arabic_dialects"><a href="http://en.wikipedia.org/wiki/Morocco#endnote_Arabic_dialects">[b]</a></sup></li>
+<li><a href="http://en.wikipedia.org/wiki/Berber_languages" title="Berber languages">Berber dialects</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_groups" title="Ethnic groups" class="mw-redirect">Ethnic&#160;groups</a></b> (2014<span style="position: relative; top: 0.2em;"><sup id="cite_ref-CIA_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-CIA-3"><span>[</span>2<span>]</span></a></sup></span>)</td>
+<td>
+<div class="plainlist nowrap">
+<ul>
+<li>Arab-Berber 99%, other 1%</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2">Religion</th>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Sunni_Islam" title="Sunni Islam">Sunni Islam</a><sup class="reference" id="ref_Official_religion"><a href="http://en.wikipedia.org/wiki/Morocco#endnote_Official_religion">[c]</a></sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Moroccan_people" title="Moroccan people" class="mw-redirect">Moroccan</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Morocco" title="Politics of Morocco">Government</a></th>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="http://en.wikipedia.org/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a><br />
+<span style="position:relative; bottom:0.25em;"><a href="http://en.wikipedia.org/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a><sup id="cite_ref-Const1_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-Const1-4"><span>[</span>3<span>]</span></a></sup></span></span></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/King_of_Morocco" title="King of Morocco" class="mw-redirect">King</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Mohammed_VI_of_Morocco" title="Mohammed VI of Morocco">Mohammed VI</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Morocco" title="Prime Minister of Morocco" class="mw-redirect">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Abdelilah_Benkirane" title="Abdelilah Benkirane">Abdelilah Benkirane</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/Parliament_of_Morocco" title="Parliament of Morocco">Parliament</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Upper_house" title="Upper house">Upper house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/House_of_Councillors_(Morocco)" title="House of Councillors (Morocco)">House of Councillors</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Lower_house" title="Lower house">Lower house</a></td>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/House_of_Representatives_(Morocco)" title="House of Representatives (Morocco)">House of Representatives</a></span></td>
+</tr>
+<tr>
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/History_of_Morocco" title="History of Morocco">Formation</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Idrisid_Dynasty" title="Idrisid Dynasty" class="mw-redirect">Idrisid Dynasty</a> <small style="font-size:85%;">(founding)</small></span></td>
+<td>789&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Alaouite_dynasty" title="Alaouite dynasty">Alaouite dynasty</a> <small style="font-size:85%;">(current)</small></span></td>
+<td>1666&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><span class="nowrap"><a href="http://en.wikipedia.org/wiki/History_of_Morocco#European_influence" title="History of Morocco">Protectorate established</a></span></td>
+<td>30 March 1912&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><span class="nowrap"><a href="http://en.wikipedia.org/wiki/History_of_Morocco#Independent_Morocco:_since_1956" title="History of Morocco">Protectorate abolished</a></span></td>
+<td>7 April 1956&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Morocco" title="Geography of Morocco">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>446 550&#160;km<sup><small>2</small></sup><span class="nowrap"><br />
+<span style="position:relative; bottom:0.15em;">or 710,850 km<sup>2</sup><sup class="reference" id="ref_Territory"><a href="http://en.wikipedia.org/wiki/Morocco#endnote_Territory">[d]</a></sup></span></span> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">58th or 40th</a>)<br />
+172,487&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td><span class="nowrap">0.056 <small style="font-size:85%;">(250 km<sup>2</sup>)</small></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Morocco" title="Demographics of Morocco">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2014&#160;estimate</td>
+<td>33,848,242<sup id="cite_ref-Haut_Commisariat_au_Plan_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-Haut_Commisariat_au_Plan-5"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">39th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>73.1/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">122nd</a>)<br />
+189.3/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2014&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$252.366 billion<sup id="cite_ref-imf2_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-imf2-6"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$7,606<sup id="cite_ref-imf2_6-1" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-imf2-6"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2014&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$109.201 billion<sup id="cite_ref-imf2_6-2" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-imf2-6"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$3,291<sup id="cite_ref-imf2_6-3" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-imf2-6"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2007)</td>
+<td>40.9<sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-7"><span>[</span>6<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Increase"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.617<sup id="cite_ref-HDI_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-HDI-8"><span>[</span>7<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">129th</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Moroccan_dirham" title="Moroccan dirham">Moroccan dirham</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">MAD</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/Western_European_Time" title="Western European Time">WET</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><a href="http://en.wikipedia.org/wiki/Western_European_Summer_Time" title="Western European Summer Time">WEST</a>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Morocco" title="Telephone numbers in Morocco">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B212" title="+212" class="mw-redirect">+212</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:MA" title="ISO 3166-2:MA">MA</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.ma" title=".ma">.ma</a></td>
+</tr>
+<tr style="font-size:85%;">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>a.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><span class="citation wikicite" id="endnote_Native_languages"><b><a href="http://en.wikipedia.org/wiki/Morocco#ref_Native_languages">^</a></b></span> See <a href="http://en.wikipedia.org/wiki/Languages_of_Morocco" title="Languages of Morocco">Languages of Morocco</a>.</td>
+</tr>
+<tr style="font-size:85%;" class="mergedrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>b.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><span class="citation wikicite" id="endnote_Arabic_dialects"><b><a href="http://en.wikipedia.org/wiki/Morocco#ref_Arabic_dialects">^</a></b></span> Primarily <a href="http://en.wikipedia.org/wiki/Moroccan_Arabic" title="Moroccan Arabic">Darija</a> and <a href="http://en.wikipedia.org/wiki/Hass%C4%81n%C4%ABya_language" title="Hassānīya language" class="mw-redirect">Hassaniya</a>.</td>
+</tr>
+<tr style="font-size:85%;" class="mergedrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>c.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><span class="citation wikicite" id="endnote_Official_religion"><b><a href="http://en.wikipedia.org/wiki/Morocco#ref_Official_religion">^</a></b></span> <a href="http://en.wikipedia.org/wiki/State_religion" title="State religion">Official religion</a>.</td>
+</tr>
+<tr style="font-size:85%;" class="mergedbottomrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>d.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><span class="citation wikicite" id="endnote_Territory"><b><a href="http://en.wikipedia.org/wiki/Morocco#ref_Territory">^</a></b></span> The area 446,550&#160;km<sup>2</sup> (172,410&#160;sq&#160;mi) excludes all disputed territories, while 710,850&#160;km<sup>2</sup> (274,460&#160;sq&#160;mi) includes the Moroccan-administered parts of <a href="http://en.wikipedia.org/wiki/Western_Sahara" title="Western Sahara">Western Sahara</a> (claimed as the <a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic" title="Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a> by the <a href="http://en.wikipedia.org/wiki/Polisario_Front" title="Polisario Front">Polisario Front</a>).</td>
+</tr>
+</table>
+<p><b>Morocco</b> (<span class="nowrap"><span class="noexcerpt"><a href="//upload.wikimedia.org/wikipedia/commons/3/34/En-us-Morocco.ogg" title="Listen"><img alt="Listen" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/11px-Speakerlink-new.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/17px-Speakerlink-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/22px-Speakerlink-new.svg.png 2x" data-file-width="11" data-file-height="11" /></a><sup><span style="color: #00e; font: bold 80% sans-serif; padding: 0 .1em;" class="IPA"><a href="http://en.wikipedia.org/wiki/File:En-us-Morocco.ogg" title="File:En-us-Morocco.ogg">i</a></span></sup></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'m' in 'my'" style="border-bottom:1px dotted">m</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'r' in 'rye'" style="border-bottom:1px dotted">r</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɒ/ short 'o' in 'body'" style="border-bottom:1px dotted">ɒ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'k' in 'kind'" style="border-bottom:1px dotted">k</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/oʊ/ long 'o' in 'bode'" style="border-bottom:1px dotted">oʊ</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>; <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl"><span style="font-size:large;">المغرب</span></span>‎ <i><span title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none">al-Maġrib</span></i>, <a href="http://en.wikipedia.org/wiki/Berber_languages" title="Berber languages">Berber</a>: <span lang="ber">ⵍⵎⴰⵖⵔⵉⴱ</span><sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-9"><span>[</span>8<span>]</span></a></sup> <span title="Berber transliteration" class="Unicode" style="white-space:normal; text-decoration: none"><i>Lmaġrib</i></span>, <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr"><i>Maroc</i></span><sup id="cite_ref-French_2-1" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-French-2"><span>[</span>Notes 1<span>]</span></a></sup>), officially the <b>Kingdom of Morocco</b>,<sup id="cite_ref-CIA_3-1" class="reference"><a href="http://en.wikipedia.org/wiki/Morocco#cite_note-CIA-3"><span>[</span>2<span>]</span></a></sup> is a country in the <a href="http://en.wikipedia.org/wiki/Maghreb" title="Maghreb">Maghreb</a> region of <a href="http://en.wikipedia.org/wiki/North_Africa" title="North Africa">North Africa</a>. Geographically, Morocco is characterized by a rugged mountainous interior and large portions of desert. It is one of only three countries (with Spain and France) to have both Atlantic and Mediterranean coastlines. The Arabic name <i>al-Mamlakah al-Maghribiyah</i> (<a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl"><span style="font-size:large;">المملكة المغربية</span></span>‎, meaning "The Western Kingdom") and <i>Al-<a href="http://en.wikipedia.org/wiki/Maghreb" title="Maghreb">Maghrib</a></i> (<a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl"><span style="font-size:large;">المغرب</span></span>‎, meaning "The West") are commonly used as alternate names.</p>
+<p>Morocco has a population of over 33 million and an area of 446,550&#160;km<sup>2</sup> (172,410&#160;sq&#160;mi). Its political capital is <a href="http://en.wikipedia.org/wiki/Rabat" title="Rabat">Rabat</a>, although the largest city is <a href="http://en.wikipedia.org/wiki/Casablanca" title="Casablanca">Casablanca</a>; other major cities include <a href="http://en.wikipedia.org/wiki/Marrakesh" title="Marrakesh">Marrakesh</a>, <a href="http://en.wikipedia.org/wiki/Tangier" title="Tangier">Tangier</a>, <a href="http://en.wikipedia.org/wiki/Tetouan" title="Tetouan" class="mw-redirect">Tetouan</a>, <a href="http://en.wikipedia.org/wiki/Sal%C3%A9" title="Salé">Salé</a>, <a href="http://en.wikipedia.org/wiki/Fes" title="Fes">Fes</a>, <a href="http://en.wikipedia.org/wiki/Agadir" title="Agadir">Agadir</a>, <a href="http://en.wikipedia.org/wiki/Meknes" title="Meknes">Meknes</a>, <a href="http://en.wikipedia.org/wiki/Oujda" title="Oujda">Oujda</a>, <a href="http://en.wikipedia.org/wiki/Kenitra" title="Kenitra">Kenitra</a>, and <a href="http://en.wikipedia.org/wiki/Nador" title="Nador">Nador</a>. A historically prominent regional power, Morocco has a history of independence not shared by its neighbours. Its distinct culture is a blend of <a href="http://en.wikipedia.org/wiki/Arab_people" title="Arab people" class="mw-redirect">Arab</a>, <a href="http://en.wikipedia.org/wiki/Berber_people" title="Berber people" class="mw-redirect">indigenous Berber</a>, Sub-Saharan African, and European influences.</p>
+<p>Morocco claims the <a href="http://en.wikipedia.org/wiki/United_Nations_list_of_Non-Self-Governing_Territories" title="United Nations list of Non-Self-Governing Territories">non-self-governing territory</a> of <a href="http://en.wikipedia.org/wiki/Western_Sahara" title="Western Sahara">Western Sahara</a> as its <a href="http://en.wikipedia.org/wiki/Southern_Provinces" title="Southern Provinces">Southern Provinces</a>. Morocco annexed the territory in 1975, leading to a guerrilla war with indigenous forces until a cease-fire in 1991. <a href="http://en.wikipedia.org/wiki/Western_Sahara_peace_process" title="Western Sahara peace process">Peace processes</a> have thus far failed to break the political deadlock.</p>
+<p>Morocco is a <a href="http://en.wikipedia.org/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a> with an elected parliament. The <a href="http://en.wikipedia.org/wiki/List_of_rulers_of_Morocco" title="List of rulers of Morocco">King of Morocco</a> holds vast executive and legislative powers, especially over the <a href="http://en.wikipedia.org/wiki/Military_of_Morocco" title="Military of Morocco" class="mw-redirect">military</a>, foreign policy and religious affairs. <a href="http://en.wikipedia.org/wiki/Executive_power" title="Executive power" class="mw-redirect">Executive power</a> is exercised by the <a href="http://en.wikipedia.org/wiki/Moroccan_government" title="Moroccan government" class="mw-redirect">government</a>, while <a href="http://en.wikipedia.org/wiki/Legislature" title="Legislature">legislative power</a> is vested in both the government and the two chambers of parliament, the <a href="http://en.wikipedia.org/wiki/Assembly_of_Representatives_of_Morocco" title="Assembly of Representatives of Morocco" class="mw-redirect">Assembly of Representatives</a> and the <a href="http://en.wikipedia.org/wiki/Assembly_of_Councillors" title="Assembly of Councillors" class="mw-redirect">Assembly of Councillors</a>. The king can issue decrees called <a href="http://en.wikipedia.org/wiki/Moroccan_Dahir" title="Moroccan Dahir">dahirs</a> which have the force of law. He can also dissolve the parliament after consulting the <a href="http://en.wikipedia.org/wiki/List_of_heads_of_government_of_Morocco" title="List of heads of government of Morocco">Prime Minister</a> and the president of the Constitutional court.</p>
+<p>Morocco's predominant religion is Islam, while the official languages are <a href="http://en.wikipedia.org/wiki/Berber_languages" title="Berber languages">Berber</a> and <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>. <a href="http://en.wikipedia.org/wiki/Moroccan_Arabic" title="Moroccan Arabic">Moroccan Arabic</a>, referred to as <i>Darija</i>, and <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a> are also widely spoken.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

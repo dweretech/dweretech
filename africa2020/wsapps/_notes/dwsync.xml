@@ -1,0 +1,70 @@
+<<<<<<< .mine
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="wsapps.php" server="171.64.210.247//var/www/html/slsconnect/" local="128625522820000000" remote="128631474730000000" />
+<file name="index.php" server="171.64.210.247//var/www/html/slsconnect/" local="128625522820000000" remote="128631474730000000" />
+<file name="voka.php" server="171.64.210.247//var/www/html/slsconnect/" local="128625522820000000" remote="128631474730000000" />
+<file name="index.php" server="sls-connect//var/www/html/slsconnect/" local="128625522820000000" remote="128631478000000000" />
+<file name="voka.php" server="sls-connect//var/www/html/slsconnect/" local="128625522820000000" remote="128631478000000000" />
+<file name="wsapps.php" server="sls-connect//var/www/html/slsconnect/" local="128625522820000000" remote="128631478000000000" />
+<file name="wsapps.php" server="192.168.226.20//var/www/html/" local="129009873535530000" remote="129002036170000000" />
+<file name="avwsapps.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011181380000000" remote="129011181380000000" />
+<file name="index2.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011181390000000" remote="129011181390000000" />
+<file name="index.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011181390000000" remote="129011181390000000" />
+<file name="wsapps.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011184420000000" remote="129011184420000000" />
+<file name="Copy of wsapps.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011181390000000" remote="129011181390000000" />
+<file name="voka.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011181400000000" remote="129011181400000000" />
+<file name="wsapps.php" server="172.16.2.20//var/www/html/" local="129142884654299602" remote="129125376520000000" />
+<file name="avwsapps.php" server="172.16.2.20//var/www/html/" local="129011001380000000" remote="129123799380000000" />
+<file name="Copy of wsapps.php" server="172.16.2.20//var/www/html/" local="129011001390000000" remote="129123799380000000" />
+<file name="index.php" server="172.16.2.20//var/www/html/" local="129011001390000000" remote="129123799380000000" />
+<file name="index2.php" server="172.16.2.20//var/www/html/" local="129011001390000000" remote="129123799380000000" />
+<file name="voka.php" server="172.16.2.20//var/www/html/" local="129011001400000000" remote="129123799380000000" />
+<file name="avwsapps.php" server="172.16.2.22//var/www/html/" local="129011001380000000" remote="129284384110000000" />
+<file name="Copy of wsapps.php" server="172.16.2.22//var/www/html/" local="129011001390000000" remote="129284384110000000" />
+<file name="index.php" server="172.16.2.22//var/www/html/" local="129011001390000000" remote="129284384110000000" />
+<file name="index2.php" server="172.16.2.22//var/www/html/" local="129011001390000000" remote="129284384110000000" />
+<file name="voka.php" server="172.16.2.22//var/www/html/" local="129011001400000000" remote="129284384110000000" />
+<file name="wsapps.php" server="172.16.2.22//var/www/html/" local="129142884654299602" remote="129284384110000000" />
+<file name="avwsapps.php" server="172.16.10.15/html/" local="129939691750000000" remote="129939691750000000" />
+<file name="Copy of wsapps.php" server="172.16.10.15/html/" local="129939691750000000" remote="129939691750000000" />
+<file name="index.php" server="172.16.10.15/html/" local="129939691750000000" remote="129939691750000000" />
+<file name="index2.php" server="172.16.10.15/html/" local="129939691750000000" remote="129939691750000000" />
+<file name="voka.php" server="172.16.10.15/html/" local="129939691750000000" remote="129939691750000000" />
+<file name="wsapps.php" server="172.16.10.15/html/" local="129939691750000000" remote="129939691750000000" />
+=======
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="wsapps.php" server="171.64.210.247//var/www/html/slsconnect/" local="128625522820000000" remote="128631474730000000" />
+<file name="index.php" server="171.64.210.247//var/www/html/slsconnect/" local="128625522820000000" remote="128631474730000000" />
+<file name="voka.php" server="171.64.210.247//var/www/html/slsconnect/" local="128625522820000000" remote="128631474730000000" />
+<file name="index.php" server="sls-connect//var/www/html/slsconnect/" local="128625522820000000" remote="128631478000000000" />
+<file name="voka.php" server="sls-connect//var/www/html/slsconnect/" local="128625522820000000" remote="128631478000000000" />
+<file name="wsapps.php" server="sls-connect//var/www/html/slsconnect/" local="128625522820000000" remote="128631478000000000" />
+<file name="wsapps.php" server="192.168.226.20//var/www/html/" local="129009873535530000" remote="129002036170000000" />
+<file name="avwsapps.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011181380000000" remote="129011181380000000" />
+<file name="index2.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011181390000000" remote="129011181390000000" />
+<file name="index.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011181390000000" remote="129011181390000000" />
+<file name="wsapps.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011184420000000" remote="129011184420000000" />
+<file name="Copy of wsapps.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011181390000000" remote="129011181390000000" />
+<file name="voka.php" server="192.168.226.20//var/www/html/afrika2020/" local="129011181400000000" remote="129011181400000000" />
+<file name="wsapps.php" server="172.16.2.20//var/www/html/" local="129142884654299602" remote="129125376520000000" />
+<file name="avwsapps.php" server="172.16.2.20//var/www/html/" local="129011001380000000" remote="129123799380000000" />
+<file name="Copy of wsapps.php" server="172.16.2.20//var/www/html/" local="129011001390000000" remote="129123799380000000" />
+<file name="index.php" server="172.16.2.20//var/www/html/" local="129011001390000000" remote="129123799380000000" />
+<file name="index2.php" server="172.16.2.20//var/www/html/" local="129011001390000000" remote="129123799380000000" />
+<file name="voka.php" server="172.16.2.20//var/www/html/" local="129011001400000000" remote="129123799380000000" />
+<file name="avwsapps.php" server="172.16.2.22//var/www/html/" local="129011001380000000" remote="129284384110000000" />
+<file name="Copy of wsapps.php" server="172.16.2.22//var/www/html/" local="129011001390000000" remote="129284384110000000" />
+<file name="index.php" server="172.16.2.22//var/www/html/" local="129011001390000000" remote="129284384110000000" />
+<file name="index2.php" server="172.16.2.22//var/www/html/" local="129011001390000000" remote="129284384110000000" />
+<file name="voka.php" server="172.16.2.22//var/www/html/" local="129011001400000000" remote="129284384110000000" />
+<file name="wsapps.php" server="172.16.2.22//var/www/html/" local="129142884654299602" remote="129284384110000000" />
+<file name="avwsapps.php" server="172.16.10.15/html/" local="129939647993175845" remote="129939691750000000" />
+<file name="Copy of wsapps.php" server="172.16.10.15/html/" local="129939647991915902" remote="129939691750000000" />
+<file name="index.php" server="172.16.10.15/html/" local="129939647993300936" remote="129939691750000000" />
+<file name="index2.php" server="172.16.10.15/html/" local="129939647991803382" remote="129939691750000000" />
+<file name="voka.php" server="172.16.10.15/html/" local="129939647992240959" remote="129939691750000000" />
+<file name="wsapps.php" server="172.16.10.15/html/" local="129939647992078430" remote="129939691750000000" />
+>>>>>>> .r50
+</dwsync>

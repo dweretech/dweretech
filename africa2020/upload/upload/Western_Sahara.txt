@@ -1,0 +1,117 @@
+	<h1 id="firstHeading" class="firstHeading">Western Sahara</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Western_Sahara#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Western_Sahara#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For the partially recognised state, see <a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic" title="Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a>.</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="http://en.wikipedia.org/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Western_Sahara&amp;params=25_N_13_W_type:country" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">25°N</span> <span class="longitude">13°W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">25°N 13°W</span><span style="display:none">﻿ / <span class="geo">25; -13</span></span></span></a></span></span></span></p>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Western Sahara
+<div style="padding-top:0.25em;"><big>الصحراء الغربية</big><br />
+<i><span class="Unicode">As-Ṣaḥrā' al-Ġarbiyyah</span></i><br />
+<i>Sahara Occidental</i></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Western_Sahara.svg" class="image" title="Flag of Western Sahara"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Western_Sahara.svg/125px-Flag_of_Western_Sahara.svg.png" width="125" height="63" class="thumbborder" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Western_Sahara" title="Flag of Western Sahara" class="mw-redirect">Flag</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationWesternSahara.svg" class="image" title="Location of Western Sahara"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/LocationWesternSahara.svg/250px-LocationWesternSahara.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b></td>
+<td>N/A</td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demographics_of_Western_Sahara" title="Demographics of Western Sahara">Largest city</a></th>
+<td><a href="http://en.wikipedia.org/wiki/El_Aai%C3%BAn" title="El Aaiún">El Aaiún</a> (Laâyoune)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a> <i>de jure</i><sup>1</sup>, <a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a> <i>de facto</i></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Sahrawi_people" title="Sahrawi people">Sahrawi</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3">Disputed sovereignty<sup>2</sup></th>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Relinquished by <a href="http://en.wikipedia.org/wiki/Spain" title="Spain">Spain</a></td>
+<td>November 14, 1975&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">266,000&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">77th</a>)<br />
+103,000&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>513,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Western_Sahara#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">168th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>1.9/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">238th</a>)<br />
+5/sq&#160;mi</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Moroccan_Dirham" title="Moroccan Dirham" class="mw-redirect">Moroccan</a> <a href="http://en.wikipedia.org/wiki/Dirham" title="Dirham">dirham</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">MAD</a></code>)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0)</span></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.eh" title=".eh">.eh</a> is reserved but not used</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>+212<sup>3</sup></td>
+</tr>
+<tr>
+<td colspan="3"><small><br />
+<sup>1</sup>Arabic is the only official language of both <a href="http://en.wikipedia.org/wiki/Morocco" title="Morocco">Morocco</a> and the <a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic" title="Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a> which claim sovereignty over the territory.<br />
+<sup>2</sup> Mostly under administration of Morocco as its <a href="http://en.wikipedia.org/wiki/Southern_Provinces" title="Southern Provinces">Southern Provinces</a>. The Polisario Front controls border areas behind the <a href="http://en.wikipedia.org/wiki/Berm_(Western_Sahara)" title="Berm (Western Sahara)" class="mw-redirect">border wall</a> as the <a href="http://en.wikipedia.org/wiki/Free_Zone_(Western_Sahara_region)" title="Free Zone (Western Sahara region)" class="mw-redirect">Free Zone</a>, on behalf of the <a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic" title="Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a>.<br />
+<sup>3</sup> Code for Morocco; no code specific to Western Sahara has been issued by the <a href="http://en.wikipedia.org/wiki/International_Telecommunication_Union" title="International Telecommunication Union">ITU</a>.</small></td>
+</tr>
+</table>
+<p><b>Western Sahara</b> (<span class="unicode" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/File:Assahhraalgharbiyya.ogg" title="assahhraalgharbiyya.ogg"><img alt="assahhraalgharbiyya.ogg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" /></a> <a href="http://upload.wikimedia.org/wikipedia/en/b/b6/Assahhraalgharbiyya.ogg" class="internal" title="Assahhraalgharbiyya.ogg">Arabic: <big><b>الصحراء الغربية</b></big></a> <small class="metadata audiolinkinfo" style="cursor:help;">(<a href="http://en.wikipedia.org/wiki/Wikipedia:Media_help" title="Wikipedia:Media help"><span style="cursor:help;">help</span></a>·<a href="http://en.wikipedia.org/wiki/File:Assahhraalgharbiyya.ogg" title="File:Assahhraalgharbiyya.ogg"><span style="cursor:help;">info</span></a>)</small></span>; <a href="http://en.wikipedia.org/wiki/Arabic_transliteration" title="Arabic transliteration" class="mw-redirect">transliterated</a>: <b><span class="Unicode">as-Ṣaḥrā' al-Gharbīyah</span></b>; <a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a>: <span lang="es" xml:lang="es"><i>Sahara Occidental</i></span>) is a territory of <a href="http://en.wikipedia.org/wiki/North_Africa" title="North Africa">North Africa</a>, bordered by <a href="http://en.wikipedia.org/wiki/Morocco" title="Morocco">Morocco</a> to the north, <a href="http://en.wikipedia.org/wiki/Algeria" title="Algeria">Algeria</a> to the northeast, <a href="http://en.wikipedia.org/wiki/Mauritania" title="Mauritania">Mauritania</a> to the east and south, and the <a href="http://en.wikipedia.org/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> to the west. Its surface area amounts to 266,000&#160;square kilometres (103,000&#160;sq&#160;mi). It is one of the <a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">most sparsely populated territories in the world</a>, mainly consisting of <a href="http://en.wikipedia.org/wiki/Desert" title="Desert">desert</a> flatlands. The largest city is <a href="http://en.wikipedia.org/wiki/El_Aai%C3%BAn" title="El Aaiún">El Aaiún</a> (Laâyoune), which is home to over half of the population of the territory, in total estimated at just more than 500,000.<sup id="cite_ref-unpop_0-1" class="reference"><a href="http://en.wikipedia.org/wiki/Western_Sahara#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>Western Sahara has been on the <a href="http://en.wikipedia.org/wiki/United_Nations_list_of_Non-Self-Governing_Territories" title="United Nations list of Non-Self-Governing Territories">United Nations list of non-self-governing territories</a> since the 1960s when it was a Spanish colony.<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Western_Sahara#cite_note-1"><span>[</span>2<span>]</span></a></sup> The Kingdom of <a href="http://en.wikipedia.org/wiki/Morocco" title="Morocco">Morocco</a> and the <a href="http://en.wikipedia.org/wiki/Polisario_Front" title="Polisario Front">Polisario Front</a> independence movement, with its <a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic" title="Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a> (SADR) government, dispute control of the territory.</p>
+<p>Since a <a href="http://en.wikipedia.org/wiki/United_Nations" title="United Nations">United Nations</a>-sponsored ceasefire agreement in 1991, most of the territory has been controlled by Morocco, and the remainder by the Polisario/SADR, backed by <a href="http://en.wikipedia.org/wiki/Algeria" title="Algeria">Algeria</a>.<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Western_Sahara#cite_note-2"><span>[</span>3<span>]</span></a></sup> Internationally, major powers such as the <a href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a> have taken a generally ambiguous and neutral position on each side's claims, and have pressed both parties to agree on a peaceful resolution. Both Morocco and Polisario have sought to boost their claims by accumulating formal recognition, essentially from African, Asian, and Latin American states in the developing world. Polisario has won formal recognition for SADR from <a href="http://en.wikipedia.org/wiki/Legal_status_of_Western_Sahara#States_recognizing_the_SADR" title="Legal status of Western Sahara">46 states</a>, and was extended membership in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a>, while Morocco has won recognition for its position from the <a href="http://en.wikipedia.org/wiki/Arab_League" title="Arab League">Arab League</a>.<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Western_Sahara#cite_note-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/Western_Sahara#cite_note-4"><span>[</span>5<span>]</span></a></sup> In both instances, recognitions have over the past two decades been extended and withdrawn according to changing international trends.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

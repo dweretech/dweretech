@@ -1,0 +1,12 @@
+	<h1 id="firstHeading" class="firstHeading">Jewish Encyclopedia</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Jewish_Encyclopedia#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Jewish_Encyclopedia#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">Not to be confused with <a href="http://en.wikipedia.org/wiki/Encyclopaedia_Judaica" title="Encyclopaedia Judaica">Encyclopaedia Judaica</a>.</div>
+<p>The <i><b>Jewish Encyclopedia</b></i> was an <a href="http://en.wikipedia.org/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> originally published between 1901 and 1906 by <a href="http://en.wikipedia.org/wiki/Funk_and_Wagnalls" title="Funk and Wagnalls" class="mw-redirect">Funk and Wagnalls</a>. It contained over 15,000 articles in 12 volumes on the history and then-current state of <a href="http://en.wikipedia.org/wiki/Judaism" title="Judaism">Judaism</a> and the <a href="http://en.wikipedia.org/wiki/Jew" title="Jew">Jews</a> as of 1901. It is now a <a href="http://en.wikipedia.org/wiki/Public_domain" title="Public domain">public domain</a> resource.</p>
+<p>Jenny Mendelsohn, of <a href="http://en.wikipedia.org/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a> Libraries, in an online guide to major sources of information about Jews and Judaism says of this work, "Although published in the early 1900s, this was a work highly regarded for its scholarship. Much of the material is still of value to researchers in Jewish History." <sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Jewish_Encyclopedia#cite_note-0"><span>[</span>1<span>]</span></a></sup> Rabbi Joshua L. Segal of the <a href="http://en.wikipedia.org/wiki/Reform_Judaism" title="Reform Judaism">Reform movement</a> called it, "a remarkable piece of Jewish scholarship" and added, "For events prior to 1900, it is considered to offer a level of scholarship superior to either of the more recent Jewish Encyclopedias written in English."<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Jewish_Encyclopedia#cite_note-1"><span>[</span>2<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

@@ -1,0 +1,188 @@
+	<h1 id="firstHeading" class="firstHeading">Cameroon</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Cameroon#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Cameroon#searchInput">search</a></div>			<!-- start content -->
+			<div style="right:10px; display:none;" class="metadata topicon" id="featured-star"><a href="http://en.wikipedia.org/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."><img alt="This is a featured article. Click here for more information." src="http://upload.wikimedia.org/wikipedia/en/6/60/LinkFA-star.png" width="14" height="14" /></a></div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Cameroon
+<div style="padding-top:0.25em;"><span lang="fr" xml:lang="fr"><i>République du Cameroun</i></span></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Cameroon.svg" class="image" title="Flag of Cameroon"><img alt="Vertical tricolor (green, red, yellow) with a five-pointed gold star in the center of the red." src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/125px-Flag_of_Cameroon.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Cameroon_COA.svg" class="image" title="Emblem of Cameroon"><img alt="Tricolor shield before two crossed fasces. Its center is an inverted red kite shape covered with a purple outline of Cameroon below a gold star, with the scales of justice superimposed. Its left is green and its right is gold. Banners with fine print are above and below." src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cameroon_COA.svg/85px-Cameroon_COA.svg.png" width="85" height="96" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Cameroon" title="Flag of Cameroon">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Emblem_of_Cameroon" title="Emblem of Cameroon">Emblem</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"<span lang="fr" xml:lang="fr"><i>Paix - Travail - Patrie</i></span>"<span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>)<br />
+"Peace - Work - Fatherland"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><span style="line-height:1.33em;"><span lang="fr" xml:lang="fr"><i><a href="http://en.wikipedia.org/wiki/O_Cameroon,_Cradle_of_our_Forefathers" title="O Cameroon, Cradle of our Forefathers" class="mw-redirect">Ô Cameroun, Berceau de nos Ancêtres</a></i></span><span style="white-space:nowrap;">&#160;&#160;</span><small>(French)<br />
+<i>O Cameroon, Cradle of our Forefathers</i>&#160;<sup>1</sup></small></span><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationCameroon.svg" class="image" title="Location of Cameroon"><img alt="Political map of central Africa with Cameroon in red. An inset shows a world map with the main map's edges outlined." src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LocationCameroon.svg/250px-LocationCameroon.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Yaound%C3%A9" title="Yaoundé">Yaoundé</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Cameroon&amp;params=3_52_N_11_31_E_type:country(475,442)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">3°52′N</span> <span class="longitude">11°31′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">3.867°N 11.517°E</span><span style="display:none">﻿ / <span class="geo">3.867; 11.517</span></span></span></a></span></span></small></td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demographics_of_Cameroon" title="Demographics of Cameroon">Largest city</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Douala" title="Douala">Douala</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>, <a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Cameroonian</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Republic" title="Republic">Republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Heads_of_state_of_Cameroon" title="Heads of state of Cameroon" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Paul_Biya" title="Paul Biya">Paul Biya</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Cameroon" title="Prime Minister of Cameroon">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Phil%C3%A9mon_Yang" title="Philémon Yang">Philémon Yang</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from <a href="http://en.wikipedia.org/wiki/France" title="France">France</a> and the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">UK</a>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Date</td>
+<td>1 January 1960, 1 October 1961&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">475,442&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">53rd</a>)<br />
+183,568&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>1.3</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>19,522,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Cameroon#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">58th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2003&#160;census</td>
+<td>15,746,179&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>41.1/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">167th</a>)<br />
+106.3/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$41.467 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Cameroon#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$2,139<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Cameroon#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$23.732 billion<sup id="cite_ref-imf2_1-2" class="reference"><a href="http://en.wikipedia.org/wiki/Cameroon#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,224<sup id="cite_ref-imf2_1-3" class="reference"><a href="http://en.wikipedia.org/wiki/Cameroon#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2001)</td>
+<td>44.5&#160;(<font color="#FFCC00">medium</font>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.532&#160;(<font color="#FFCC00">medium</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">144th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Central_African_CFA_franc" title="Central African CFA franc">Central African CFA franc</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">XAF</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/West_Africa_Time" title="West Africa Time">WAT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.cm" title=".cm">.cm</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>237</td>
+</tr>
+<tr style="font-size:80%;">
+<td align="right"><span style="position:relative; top:0.3em;"><sup>1</sup></span></td>
+<td colspan="2" style="padding-left:0em;">These are the titles as given in the <i>Constitution of the Republic of Cameroon</i>, Article X. The French version of the song is sometimes called "<span lang="fr" xml:lang="fr"><i>Chant de Ralliement</i></span>", as in <i>National Anthems of the World</i>, and the English version "O Cameroon, Cradle of Our Forefathers", as in DeLancey and DeLancey 61.</td>
+</tr>
+</table>
+<p>The <b>Republic of Cameroon</b> (<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>République du Cameroun</i></span>) is a <a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">unitary republic</a> of central and western <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a>. It is bordered by <a href="http://en.wikipedia.org/wiki/Nigeria" title="Nigeria">Nigeria</a> to the west; <a href="http://en.wikipedia.org/wiki/Chad" title="Chad">Chad</a> to the northeast; the <a href="http://en.wikipedia.org/wiki/Central_African_Republic" title="Central African Republic">Central African Republic</a> to the east; and <a href="http://en.wikipedia.org/wiki/Equatorial_Guinea" title="Equatorial Guinea">Equatorial Guinea</a>, <a href="http://en.wikipedia.org/wiki/Gabon" title="Gabon">Gabon</a>, and the <a href="http://en.wikipedia.org/wiki/Republic_of_the_Congo" title="Republic of the Congo">Republic of the Congo</a> to the south. Cameroon's coastline lies on the <a href="http://en.wikipedia.org/wiki/Bight_of_Bonny" title="Bight of Bonny">Bight of Bonny</a>, part of the <a href="http://en.wikipedia.org/wiki/Gulf_of_Guinea" title="Gulf of Guinea">Gulf of Guinea</a> and the <a href="http://en.wikipedia.org/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a>. The country is called "<a href="http://en.wikipedia.org/wiki/Tourism_in_Cameroon" title="Tourism in Cameroon">Africa in miniature</a>" for its geological and cultural diversity. Natural features include beaches, deserts, mountains, rainforests, and savannas. The highest point is <a href="http://en.wikipedia.org/wiki/Mount_Cameroon" title="Mount Cameroon">Mount Cameroon</a> in the southwest, and the largest cities are <a href="http://en.wikipedia.org/wiki/Douala" title="Douala">Douala</a>, <a href="http://en.wikipedia.org/wiki/Yaound%C3%A9" title="Yaoundé">Yaoundé</a>, and <a href="http://en.wikipedia.org/wiki/Garoua" title="Garoua">Garoua</a>. Cameroon is home to over 200 different ethnic and linguistic groups. The country is well known for its native styles of music, particularly <a href="http://en.wikipedia.org/wiki/Makossa" title="Makossa">makossa</a> and <a href="http://en.wikipedia.org/wiki/Bikutsi" title="Bikutsi">bikutsi</a>, and for its successful <a href="http://en.wikipedia.org/wiki/Cameroon_national_football_team" title="Cameroon national football team">national football team</a>. English and French are the official languages.</p>
+<p>Early inhabitants of the territory included the <a href="http://en.wikipedia.org/wiki/Sao_civilisation" title="Sao civilisation">Sao civilisation</a> around <a href="http://en.wikipedia.org/wiki/Lake_Chad" title="Lake Chad">Lake Chad</a> and the <a href="http://en.wikipedia.org/wiki/Baka_(Cameroon_and_Gabon)" title="Baka (Cameroon and Gabon)">Baka</a> hunter-gatherers in the southeastern rainforest. Portuguese explorers reached the coast in the 15th century and named the area <i>Rio dos Camarões</i> ("River of <a href="http://en.wikipedia.org/wiki/Prawns" title="Prawns" class="mw-redirect">Prawns</a>"), the name from which <i>Cameroon</i> derives. <a href="http://en.wikipedia.org/wiki/Fula_people" title="Fula people">Fulani</a> soldiers founded the <a href="http://en.wikipedia.org/wiki/Adamawa_Emirate" title="Adamawa Emirate">Adamawa Emirate</a> in the north in the 19th century, and various ethnic groups of the west and northwest established powerful chiefdoms and <a href="http://en.wikipedia.org/wiki/Fon_(Cameroon)" title="Fon (Cameroon)">fondoms</a>. Cameroon became a <a href="http://en.wikipedia.org/wiki/German_Empire" title="German Empire">German</a> <a href="http://en.wikipedia.org/wiki/Colonialism" title="Colonialism">colony</a> in 1884. After World War I, the territory was divided between <a href="http://en.wikipedia.org/wiki/French_Third_Republic" title="French Third Republic">France</a> and <a href="http://en.wikipedia.org/wiki/British_Empire" title="British Empire">Britain</a> as <a href="http://en.wikipedia.org/wiki/League_of_Nations_mandate" title="League of Nations mandate">League of Nations mandates</a>. The <a href="http://en.wikipedia.org/wiki/Union_of_the_Peoples_of_Cameroon" title="Union of the Peoples of Cameroon">Union des Populations du Cameroun</a> political party advocated independence but was outlawed in the 1950s. It waged war on French and Cameroonian forces until 1971. In 1960, French <a href="http://en.wikipedia.org/wiki/Cameroun" title="Cameroun">Cameroun</a> became independent as the Republic of Cameroun under President <a href="http://en.wikipedia.org/wiki/Ahmadou_Ahidjo" title="Ahmadou Ahidjo">Ahmadou Ahidjo</a>. The <a href="http://en.wikipedia.org/wiki/Southern_Cameroons" title="Southern Cameroons">southern part</a> of British <a href="http://en.wikipedia.org/wiki/Cameroons" title="Cameroons">Cameroons</a> merged with it in 1961 to form the <a href="http://en.wikipedia.org/wiki/Federal_republic" title="Federal republic">Federal Republic</a> of Cameroon. The country was renamed the <a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">United Republic</a> of Cameroon in 1972 and the Republic of Cameroon in 1984.</p>
+<p>Compared to other African countries, Cameroon enjoys relatively high political and social stability. This has permitted the development of agriculture, roads, railways, and large petroleum and timber industries. Nevertheless, large numbers of Cameroonians live in poverty as subsistence farmers. Power lies firmly in the hands of the president, <a href="http://en.wikipedia.org/wiki/Paul_Biya" title="Paul Biya">Paul Biya</a>, and his <a href="http://en.wikipedia.org/wiki/Cameroon_People%27s_Democratic_Movement" title="Cameroon People's Democratic Movement">Cameroon People's Democratic Movement</a> party, and <a href="http://en.wikipedia.org/wiki/Political_corruption" title="Political corruption">corruption</a> is widespread. The <a href="http://en.wikipedia.org/wiki/Anglophone_Cameroonian" title="Anglophone Cameroonian">Anglophone</a> community has grown increasingly alienated from the government, and Anglophone politicians have called for greater decentralisation and even the <a href="http://en.wikipedia.org/wiki/Southern_Cameroons" title="Southern Cameroons">secession</a> of the former British-governed territories.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

@@ -1,0 +1,335 @@
+	<h1 id="firstHeading" class="firstHeading">Main Page</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/#searchInput">search</a></div>			<!-- start content -->
+			<table id="mp-topbanner" style="width:100%; background:#fcfcfc; margin-top:1.2em; border:1px solid #ccc;">
+<tr>
+<td style="width:56%; color:#000;">
+<table style="width:280px; border:none; background:none;">
+<tr>
+<td style="width:280px; text-align:center; white-space:nowrap; color:#000;">
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Welcome to <a href="http://en.wikipedia.org/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>,</div>
+<div style="top:+0.2em; font-size:95%;">the <a href="http://en.wikipedia.org/wiki/Free_content" title="Free content">free</a> <a href="http://en.wikipedia.org/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> that <a href="http://en.wikipedia.org/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">anyone&#160;can&#160;edit</a>.</div>
+<div id="articlecount" style="width:100%; text-align:center; font-size:85%;"><a href="http://en.wikipedia.org/wiki/Special:Statistics" title="Special:Statistics">3,068,846</a> articles in <a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="width:11%; font-size:95%;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Portal:Arts" title="Portal:Arts">Arts</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Portal:Biography" title="Portal:Biography">Biography</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Portal:Geography" title="Portal:Geography">Geography</a></li>
+</ul>
+</td>
+<td style="width:11%; font-size:95%;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Portal:History" title="Portal:History">History</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Portal:Science" title="Portal:Science">Science</a></li>
+</ul>
+</td>
+<td style="width:11%; font-size:95%;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Portal:Society" title="Portal:Society">Society</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Portal:Technology" title="Portal:Technology">Technology</a></li>
+<li><b><a href="http://en.wikipedia.org/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">All&#160;portals</a></b></li>
+</ul>
+</td>
+</tr>
+</table>
+<table id="mp-strapline" style="width:100%; background:none; margin:-.8em 0 -.7em 0;">
+<tr>
+<td style="font-size:95%; padding:10px 0; margin:0; text-align:left; white-space:nowrap; color:#000;"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Wikipedia:About">Overview</a>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/Wikipedia:Tutorial" title="Wikipedia:Tutorial">Editing</a>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/Wikipedia:Questions" title="Wikipedia:Questions">Questions</a>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/Help:Contents" title="Help:Contents">Help</a></td>
+<td style="font-size:95%; padding:10px 0; margin:0; text-align:right; white-space:nowrap; color:#000;">
+<p><a href="http://en.wikipedia.org/wiki/Portal:Contents" title="Portal:Contents">Contents</a>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/Portal:Contents/Categorical_index" title="Portal:Contents/Categorical index">Categories</a>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/Portal:Featured_content" title="Portal:Featured content">Featured content</a>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/Portal:Contents/Quick_index" title="Portal:Contents/Quick index">A–Z index</a></p>
+</td>
+</tr>
+</table>
+<table id="mp-upper" style="margin:0; background:none;">
+<tr>
+<td class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;">
+<table id="mp-left" style="width:100%; vertical-align:top; background:#f5fffa;">
+<tr>
+<th style="padding:2px">
+<h2 id="mp-tfa-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="Today.27s_featured_article">Today's featured article</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;">
+<div id="mp-tfa" style="padding:2px 5px">
+<div style="float:left;margin:0.5em 0.9em 0.4em 0;"><a href="http://en.wikipedia.org/wiki/File:HPHTdiamonds2.JPG" class="image" title="Synthetic diamonds"><img alt="Synthetic diamonds" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/HPHTdiamonds2.JPG/100px-HPHTdiamonds2.JPG" width="100" height="56" /></a></div>
+<p><b><a href="http://en.wikipedia.org/wiki/Synthetic_diamond" title="Synthetic diamond">Synthetic diamond</a></b> is <a href="http://en.wikipedia.org/wiki/Diamond" title="Diamond">diamond</a> produced in a <a href="http://en.wikipedia.org/wiki/Technology" title="Technology">technological</a> process, as opposed to natural diamond which is created in <a href="http://en.wikipedia.org/wiki/Geology" title="Geology">geological</a> processes. Numerous claims of diamond synthesis were documented between 1879 and 1928; every attempt has been carefully analyzed and none has been confirmed. In the 1940s, systematic research began in the United States, Sweden and the Soviet Union to grow diamond using <a href="http://en.wikipedia.org/wiki/Chemical_vapor_deposition" title="Chemical vapor deposition">chemical vapor deposition</a> (CVD) and high-pressure high-temperature synthesis (HPHT) processes. The first reproducible synthesis was reported around 1953. Those two processes still dominate the production of synthetic diamond. The properties of synthetic diamond depend on the details of the manufacturing processes, and can be inferior or superior to those of natural diamond; the <a href="http://en.wikipedia.org/wiki/Hardness" title="Hardness">hardness</a>, <a href="http://en.wikipedia.org/wiki/Thermal_conductivity" title="Thermal conductivity">thermal conductivity</a> and <a href="http://en.wikipedia.org/wiki/Electron_mobility" title="Electron mobility">electron mobility</a> are superior in some synthetic diamonds. Consequently, synthetic diamond is widely used in <a href="http://en.wikipedia.org/wiki/Abrasive" title="Abrasive">abrasives</a>, cutting and polishing tools and in <a href="http://en.wikipedia.org/wiki/Heat_sink" title="Heat sink">heat sinks</a>. Electronic applications of synthetic diamond are being developed, including high-power <a href="http://en.wikipedia.org/wiki/Switch" title="Switch">switches</a> at <a href="http://en.wikipedia.org/wiki/Power_station" title="Power station">power stations</a>, high-frequency <a href="http://en.wikipedia.org/wiki/Field-effect_transistor" title="Field-effect transistor">field-effect transistors</a> and <a href="http://en.wikipedia.org/wiki/Light-emitting_diode" title="Light-emitting diode">light-emitting diodes</a>. Both CVD and HPHT diamonds can be cut into gems and various colors can be produced: clear white, yellow, brown, blue, green and orange. (<b><a href="http://en.wikipedia.org/wiki/Synthetic_diamond" title="Synthetic diamond">more...</a></b>)</p>
+<p>Recently featured: <a href="http://en.wikipedia.org/wiki/James_Bowie" title="James Bowie">James Bowie</a> – <a href="http://en.wikipedia.org/wiki/Ruff" title="Ruff">Ruff</a> – <a href="http://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky" title="Pyotr Ilyich Tchaikovsky">Pyotr Ilyich Tchaikovsky</a></p>
+<div style="float:right" class="noprint"><b><a href="http://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/October_2009" title="Wikipedia:Today's featured article/October 2009">Archive</a></b> – <b><a href="https://lists.wikimedia.org/mailman/listinfo/daily-article-l" class="extiw" title="mail:daily-article-l">By email</a></b> – <b><a href="http://en.wikipedia.org/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">More featured articles...</a></b></div>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:2px">
+<h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="Did_you_know...">Did you know...</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;padding:2px 5px 5px">
+<div id="mp-dyk">
+<p><i>From Wikipedia's <a href="http://en.wikipedia.org/wiki/Wikipedia:Recent_additions" title="Wikipedia:Recent additions">newest articles</a>:</i></p>
+<div style="float:right;margin-left:0.5em;">
+<p><a href="http://en.wikipedia.org/wiki/File:Emperor_Showa.jpg" class="image" title="Emperor Hirohito"><img alt="Emperor Hirohito" src="http://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Emperor_Showa.jpg/77px-Emperor_Showa.jpg" width="77" height="100" /></a></p>
+</div>
+<ul>
+<li style="-moz-float-edge: content-box">... that the ritual baton called a <b><a href="http://en.wikipedia.org/wiki/Shaku_(Japanese_ritual_baton)" title="Shaku (Japanese ritual baton)" class="mw-redirect">shaku</a></b> held by Japanese officials like Emperor <a href="http://en.wikipedia.org/wiki/Hirohito" title="Hirohito">Hirohito</a> <i>(pictured)</i> was originally meant just to keep small sheets for <a href="http://en.wikipedia.org/wiki/Memorandum" title="Memorandum">memoranda</a> and other notes?</li>
+<li style="-moz-float-edge: content-box">... that <b><a href="http://en.wikipedia.org/wiki/Thomas_Trantino" title="Thomas Trantino">Thomas Trantino</a></b> spent 38 years in the prison system for the murder of two <a href="http://en.wikipedia.org/wiki/Lodi,_New_Jersey" title="Lodi, New Jersey">Lodi, New Jersey</a>, police officers, making him the longest-serving prisoner in the state as of his parole in 2002?</li>
+<li style="-moz-float-edge: content-box">... that <b><a href="http://en.wikipedia.org/wiki/Zhenguo_Temple" title="Zhenguo Temple">Zhenguo Temple</a></b>'s Wanfo Hall is the only surviving building that was built during <a href="http://en.wikipedia.org/wiki/China%27s" title="China's" class="mw-redirect">China's</a> <a href="http://en.wikipedia.org/wiki/Northern_Han" title="Northern Han">Northern Han</a> dynasty?</li>
+<li style="-moz-float-edge: content-box">... that <b><a href="http://en.wikipedia.org/wiki/Julius_Beerbohm" title="Julius Beerbohm">Julius Beerbohm</a></b>, a <a href="http://en.wikipedia.org/wiki/Victorian_author" title="Victorian author" class="mw-redirect">Victorian author</a> and explorer, traveled to <a href="http://en.wikipedia.org/wiki/Patagonia" title="Patagonia">Patagonia</a> in 1877 to survey the land between <a href="http://en.wikipedia.org/wiki/Port_Desire" title="Port Desire" class="mw-redirect">Port Desire</a> and <a href="http://en.wikipedia.org/wiki/Santa_Cruz_Province_(Argentina)" title="Santa Cruz Province (Argentina)">Santa Cruz</a> in the footsteps of <a href="http://en.wikipedia.org/wiki/Ferdinand_Magellan" title="Ferdinand Magellan">Ferdinand Magellan</a>?</li>
+<li style="-moz-float-edge: content-box">... that the name of the <b><a href="http://en.wikipedia.org/wiki/Black_Abbey" title="Black Abbey">Black Abbey</a></b> is based on the fact that the <a href="http://en.wikipedia.org/wiki/Dominican_Order" title="Dominican Order">Dominicans</a> were often referred to as Black Friars, because of the black <i>cappa</i> or cloak which they wear over their white <a href="http://en.wikipedia.org/wiki/Religious_habit" title="Religious habit">habits</a>?</li>
+<li style="-moz-float-edge: content-box">... that the former <a href="http://en.wikipedia.org/wiki/Louisiana_State_Legislature" title="Louisiana State Legislature">Louisiana State Representative</a> <b><a href="http://en.wikipedia.org/wiki/Peppi_Bruneau" title="Peppi Bruneau">Peppi Bruneau</a></b> of <a href="http://en.wikipedia.org/wiki/New_Orleans,_Louisiana" title="New Orleans, Louisiana" class="mw-redirect">New Orleans</a> secured passage of a bill clarifying the right of a victim to shoot <a href="http://en.wikipedia.org/wiki/Carjackers" title="Carjackers" class="mw-redirect">carjackers</a>?</li>
+<li style="-moz-float-edge: content-box">... that although <b><a href="http://en.wikipedia.org/wiki/Saint-Thomas,_Quebec" title="Saint-Thomas, Quebec">Saint-Thomas</a></b> once was the largest <a href="http://en.wikipedia.org/wiki/Tobacco" title="Tobacco">tobacco</a> producer in the province of <a href="http://en.wikipedia.org/wiki/Quebec" title="Quebec">Quebec</a>, <a href="http://en.wikipedia.org/wiki/Canada" title="Canada">Canada</a>, it no longer is cultivated there?</li>
+<li style="-moz-float-edge: content-box">... that the skills of <a href="http://en.wikipedia.org/wiki/Michigan_Wolverines_football" title="Michigan Wolverines football">Michigan Wolverines football</a> <a href="http://en.wikipedia.org/wiki/Punter_(American_football)" title="Punter (American football)">punter</a> <b><a href="http://en.wikipedia.org/wiki/Zoltan_Mesko_(American_football)" title="Zoltan Mesko (American football)">Zoltan Mesko</a></b> were discovered in seventh grade gym class when he knocked out a light during a <a href="http://en.wikipedia.org/wiki/Kickball" title="Kickball">kickball</a> game?<br style="clear:both" />
+<div style="text-align: right;" class="noprint"><b><a href="http://en.wikipedia.org/wiki/Wikipedia:Recent_additions" title="Wikipedia:Recent additions">Archive</a></b> – <b><a href="http://en.wikipedia.org/wiki/Wikipedia:Your_first_article" title="Wikipedia:Your first article">Start a new article</a></b> – <b><a href="http://en.wikipedia.org/wiki/Template_talk:Did_you_know" title="Template talk:Did you know">Nominate an article</a></b></div>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td style="border:1px solid transparent;"></td>
+<td class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top;">
+<table id="mp-right" style="width:100%; vertical-align:top; background:#f5faff;">
+<tr>
+<th style="padding:2px">
+<h2 id="mp-itn-h2" style="margin:3px; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="In_the_news">In the news</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;padding:2px 5px">
+<div id="mp-itn">
+<div style="float:right;margin-left:0.5em;">
+<p><a href="http://en.wikipedia.org/wiki/File:Jenson_Button_2006_cropped.jpg" class="image" title="Jenson Button"><img alt="Jenson Button" src="http://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Jenson_Button_2006_cropped.jpg/100px-Jenson_Button_2006_cropped.jpg" width="100" height="100" /></a></p>
+</div>
+<ul>
+<li style="-moz-float-edge: content-box">A <b><a href="http://en.wikipedia.org/wiki/2009_Pishin_bombing" title="2009 Pishin bombing">suicide bombing</a></b> in <a href="http://en.wikipedia.org/wiki/Pishin,_Iran" title="Pishin, Iran">Pishin</a>, <a href="http://en.wikipedia.org/wiki/Iran" title="Iran">Iran</a>, kills 48 people, including several <a href="http://en.wikipedia.org/wiki/Army_of_the_Guardians_of_the_Islamic_Revolution" title="Army of the Guardians of the Islamic Revolution">Revolutionary Guard</a> commanders.</li>
+<li style="-moz-float-edge: content-box"><a href="http://en.wikipedia.org/wiki/Jenson_Button" title="Jenson Button">Jenson Button</a> <i>(pictured)</i> and <a href="http://en.wikipedia.org/wiki/Brawn_GP" title="Brawn GP">Brawn GP</a> win the <b><a href="http://en.wikipedia.org/wiki/2009_Formula_One_season" title="2009 Formula One season">2009 Formula One World Championships</a></b>.</li>
+<li style="-moz-float-edge: content-box">The <b><a href="http://en.wikipedia.org/wiki/Neues_Museum" title="Neues Museum">Neues Museum</a></b> in <a href="http://en.wikipedia.org/wiki/Berlin" title="Berlin">Berlin</a>, <a href="http://en.wikipedia.org/wiki/Germany" title="Germany">Germany</a>, reopens after 70 years.</li>
+<li style="-moz-float-edge: content-box"><a href="http://en.wikipedia.org/wiki/President_of_Botswana" title="President of Botswana" class="mw-redirect">President</a> <a href="http://en.wikipedia.org/wiki/Ian_Khama" title="Ian Khama">Ian Khama</a> leads the <a href="http://en.wikipedia.org/wiki/Botswana_Democratic_Party" title="Botswana Democratic Party">Democratic Party</a> to victory in a <b><a href="http://en.wikipedia.org/wiki/Botswana_general_election,_2009" title="Botswana general election, 2009">general election</a></b> in <a href="http://en.wikipedia.org/wiki/Botswana" title="Botswana">Botswana</a>.</li>
+<li style="-moz-float-edge: content-box">The <a href="http://en.wikipedia.org/wiki/Pakistan_Army" title="Pakistan Army">Pakistan Army</a> begins <b><a href="http://en.wikipedia.org/wiki/Operation_Rah-e-Nijat#Second_phase" title="Operation Rah-e-Nijat">an operation</a></b> against the <a href="http://en.wikipedia.org/wiki/Taliban" title="Taliban">Taliban</a> in <a href="http://en.wikipedia.org/wiki/South_Waziristan" title="South Waziristan">South Waziristan</a>, <a href="http://en.wikipedia.org/wiki/Pakistan" title="Pakistan">Pakistan</a>.</li>
+<li style="-moz-float-edge: content-box">In one of <a href="http://en.wikipedia.org/wiki/Australia" title="Australia">Australia</a>'s longest trials, five men are found guilty of <b><a href="http://en.wikipedia.org/wiki/2005_Sydney_terrorism_plot" title="2005 Sydney terrorism plot">plotting a terrorist attack</a></b> in <a href="http://en.wikipedia.org/wiki/Sydney" title="Sydney">Sydney</a>.</li>
+<li style="-moz-float-edge: content-box">The <a href="http://en.wikipedia.org/wiki/United_Nations" title="United Nations">United Nations</a> <a href="http://en.wikipedia.org/wiki/United_Nations_Human_Rights_Council" title="United Nations Human Rights Council">Human Rights Council</a> endorses the <b><a href="http://en.wikipedia.org/wiki/United_Nations_Fact_Finding_Mission_on_the_Gaza_Conflict" title="United Nations Fact Finding Mission on the Gaza Conflict">Goldstone Report</a></b> on the <a href="http://en.wikipedia.org/wiki/Gaza_War" title="Gaza War">Gaza War</a>.</li>
+<li style="-moz-float-edge: content-box">Under the <b><a href="http://en.wikipedia.org/wiki/One_Laptop_per_Child" title="One Laptop per Child">One Laptop per Child</a></b> initiative, <a href="http://en.wikipedia.org/wiki/Uruguay" title="Uruguay">Uruguay</a> becomes the first country to deliver a free <a href="http://en.wikipedia.org/wiki/Laptop" title="Laptop">laptop</a> to each child of <a href="http://en.wikipedia.org/wiki/Primary_school" title="Primary school">primary school</a> age.
+<div style="text-align: right;" class="noprint"><b><a href="http://en.wikinews.org/wiki/Main_Page" class="extiw" title="n:Main Page">Wikinews</a></b> – <b><a href="http://en.wikipedia.org/wiki/Deaths_in_2009" title="Deaths in 2009">Recent deaths</a></b> – <b><a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Portal:Current events">More current events...</a></b></div>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:2px">
+<h2 id="mp-otd-h2" style="margin:3px; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="On_this_day...">On this day...</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;padding:2px 5px 5px">
+<div id="mp-otd">
+<p><b><span class="mw-formatted-date" title="10-20"><a href="http://en.wikipedia.org/wiki/October_20" title="October 20">October 20</a></span></b>: Birth of the <b><a href="http://en.wikipedia.org/wiki/B%C3%A1b" title="Báb">Báb</a></b>, a <a href="http://en.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD_calendar#Holy_Days" title="Bahá'í calendar">holy day</a> in the <a href="http://en.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá'í Faith">Bahá'í Faith</a></p>
+<div style="float:right;margin-left: 1em;">
+<p><a href="http://en.wikipedia.org/wiki/File:Andreas_Moeller_001.jpg" class="image" title="Maria Theresa of Austria"><img alt="Maria Theresa of Austria" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Andreas_Moeller_001.jpg/81px-Andreas_Moeller_001.jpg" width="81" height="100" /></a></p>
+</div>
+<ul>
+<li style="-moz-float-edge: content-box"><a href="http://en.wikipedia.org/wiki/1708" title="1708">1708</a> – Having burned down in the <a href="http://en.wikipedia.org/wiki/Great_Fire_of_London" title="Great Fire of London">1666 Great Fire of London</a>, the rebuilt <b><a href="http://en.wikipedia.org/wiki/St_Paul%27s_Cathedral" title="St Paul's Cathedral">St Paul's Cathedral</a></b> was completed on the 76th birthday of its architect, <a href="http://en.wikipedia.org/wiki/Christopher_Wren" title="Christopher Wren">Christopher Wren</a>.</li>
+<li style="-moz-float-edge: content-box"><a href="http://en.wikipedia.org/wiki/1740" title="1740">1740</a> – Per the terms of the <a href="http://en.wikipedia.org/wiki/Pragmatic_Sanction_of_1713" title="Pragmatic Sanction of 1713">Pragmatic Sanction of 1713</a>, <b><a href="http://en.wikipedia.org/wiki/Maria_Theresa_of_Austria" title="Maria Theresa of Austria">Maria Theresa</a></b> <i>(pictured)</i> assumed the <a href="http://en.wikipedia.org/wiki/List_of_rulers_of_Austria" title="List of rulers of Austria">throne</a> of the <a href="http://en.wikipedia.org/wiki/Habsburg_Monarchy" title="Habsburg Monarchy">Habsburg Monarchy in Austria</a>.</li>
+<li style="-moz-float-edge: content-box"><a href="http://en.wikipedia.org/wiki/1818" title="1818">1818</a> – The <a href="http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">United Kingdom</a> and the <a href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a> signed the <b><a href="http://en.wikipedia.org/wiki/Treaty_of_1818" title="Treaty of 1818">Treaty of 1818</a></b>, which settled the <a href="http://en.wikipedia.org/wiki/Canada_%E2%80%93_United_States_border" title="Canada – United States border">Canada – United States border</a> on the <a href="http://en.wikipedia.org/wiki/49th_parallel_north" title="49th parallel north">49th parallel</a> for most of its length.</li>
+<li style="-moz-float-edge: content-box"><a href="http://en.wikipedia.org/wiki/1827" title="1827">1827</a> – An allied <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">British</a>, <a href="http://en.wikipedia.org/wiki/France" title="France">French</a>, and <a href="http://en.wikipedia.org/wiki/Russia" title="Russia">Russian</a> naval force destroyed a combined <a href="http://en.wikipedia.org/wiki/Ottoman_Empire" title="Ottoman Empire">Turkish</a> and <a href="http://en.wikipedia.org/wiki/Egypt" title="Egypt">Egyptian</a> fleet at the <b><a href="http://en.wikipedia.org/wiki/Battle_of_Navarino" title="Battle of Navarino">Battle of Navarino</a></b>, a decisive moment in the <a href="http://en.wikipedia.org/wiki/Greek_War_of_Independence" title="Greek War of Independence">Greek War of Independence</a>.</li>
+<li style="-moz-float-edge: content-box"><a href="http://en.wikipedia.org/wiki/1967" title="1967">1967</a> – <b><a href="http://en.wikipedia.org/wiki/Patterson-Gimlin_film" title="Patterson-Gimlin film">Roger Patterson and Robert Gimlin</a></b> filmed an unidentified subject at <a href="http://en.wikipedia.org/wiki/Six_Rivers_National_Forest" title="Six Rivers National Forest">Six Rivers National Forest</a> in <a href="http://en.wikipedia.org/wiki/California" title="California">California</a> who they claimed was a <a href="http://en.wikipedia.org/wiki/Bigfoot" title="Bigfoot">bigfoot</a>.</li>
+<li style="-moz-float-edge: content-box"><a href="http://en.wikipedia.org/wiki/1973" title="1973">1973</a> – <a href="http://en.wikipedia.org/wiki/Elizabeth_II_of_the_United_Kingdom" title="Elizabeth II of the United Kingdom">Elizabeth II</a>, in her capacity as <a href="http://en.wikipedia.org/wiki/Monarchy_of_Australia" title="Monarchy of Australia">Queen of Australia</a>, formally opened the <b><a href="http://en.wikipedia.org/wiki/Sydney_Opera_House" title="Sydney Opera House">Sydney Opera House</a></b> on <a href="http://en.wikipedia.org/wiki/Bennelong_Point,_New_South_Wales" title="Bennelong Point, New South Wales">Bennelong Point</a> in <a href="http://en.wikipedia.org/wiki/Port_Jackson" title="Port Jackson">Sydney Harbour</a>.</li>
+</ul>
+<p>More anniversaries: <span class="mw-formatted-date" title="10-19"><a href="http://en.wikipedia.org/wiki/October_19" title="October 19">October 19</a></span> – <b><span class="mw-formatted-date" title="10-20"><a href="http://en.wikipedia.org/wiki/October_20" title="October 20">October 20</a></span></b> – <span class="mw-formatted-date" title="10-21"><a href="http://en.wikipedia.org/wiki/October_21" title="October 21">October 21</a></span></p>
+<div style="text-align: right;" class="noprint"><b><a href="http://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/October" title="Wikipedia:Selected anniversaries/October">Archive</a></b> – <b><a href="https://lists.wikimedia.org/mailman/listinfo/daily-article-l" class="extiw" title="mail:daily-article-l">By email</a></b> – <b><a href="http://en.wikipedia.org/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">List of historical anniversaries</a></b></div>
+<div style="text-align: right;"><small>It is now <span class="mw-formatted-date" title="2009-10-20"><span class="mw-formatted-date" title="10-20"><a href="http://en.wikipedia.org/wiki/October_20" title="October 20">October 20</a></span>, <a href="http://en.wikipedia.org/wiki/2009" title="2009">2009</a></span> (<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>) – <span class="plainlinks" id="purgelink"><a href="http://en.wikipedia.org/w/index.php?title=Main_Page&amp;action=purge" class="external text" rel="nofollow">Refresh this page</a></span></small></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table id="mp-tfp" style="margin:4px 0 0 0; width:100%; background:none;">
+<tr>
+<td class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;">
+<table style="vertical-align:top; background:#faf5ff; color:#000; width:100%">
+<tr>
+<th style="padding:2px">
+<h2 id="mp-tfp-h2" style="margin:3px; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em"><span class="mw-headline" id="Today.27s_featured_picture">Today's featured picture</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000;padding: 2px">
+<table style="margin:0 3px 3px; width:100%; text-align:left; background-color:transparent; border-collapse: collapse;">
+<tr>
+<td style="padding:0 0.9em 0 0;"><a href="http://en.wikipedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_22_(Canto_VII_-_Hoarders_and_Wasters).jpg" class="image" title="Canto VII of Dante's Inferno"><img alt="Canto VII of Dante's Inferno" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_22_%28Canto_VII_-_Hoarders_and_Wasters%29.jpg/250px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_22_%28Canto_VII_-_Hoarders_and_Wasters%29.jpg" width="250" height="199" /></a></td>
+<td style="padding:0 6px 0 0">
+<p><a href="http://en.wikipedia.org/wiki/Gustave_Dor%C3%A9" title="Gustave Doré">Gustave Doré</a>'s depiction of Canto VII of <a href="http://en.wikipedia.org/wiki/Dante_Alighieri" title="Dante Alighieri">Dante</a>'s <i><b><a href="http://en.wikipedia.org/wiki/Inferno_(Dante)" title="Inferno (Dante)">Inferno</a></b></i>, the first part of the <i><a href="http://en.wikipedia.org/wiki/Divine_Comedy" title="Divine Comedy">Divine Comedy</a></i>. Here, we see the fourth circle (out of nine) of <a href="http://en.wikipedia.org/wiki/Hell_in_Christian_beliefs" title="Hell in Christian beliefs">Hell</a>, in which <a href="http://en.wikipedia.org/wiki/Greed" title="Greed">hoarders</a> and <a href="http://en.wikipedia.org/wiki/Spendthrift" title="Spendthrift">wasters</a> are forced to move around giant bags of gold, similar to the mythological story of <a href="http://en.wikipedia.org/wiki/Sisyphus" title="Sisyphus">Sisyphus</a>. Allegorically, the <i>Divine Comedy</i> represents the journey of the soul towards <a href="http://en.wikipedia.org/wiki/God" title="God">God</a>, with the <i>Inferno</i> describing the recognition and rejection of <a href="http://en.wikipedia.org/wiki/Sin" title="Sin">sin</a>.</p>
+<small>Restoration: <a href="http://commons.wikimedia.org/wiki/User:Adam_Cuerden" class="extiw" title="commons:User:Adam Cuerden">Adam Cuerden</a></small>
+<div style="text-align:right;">
+<p>Recently featured: <a href="http://en.wikipedia.org/wiki/Template:POTD/2009-10-19" title="Template:POTD/2009-10-19">Oranges</a> – <a href="http://en.wikipedia.org/wiki/Template:POTD/2009-10-18" title="Template:POTD/2009-10-18">Peruvian Lily</a> – <a href="http://en.wikipedia.org/wiki/Template:POTD/2009-10-17" title="Template:POTD/2009-10-17">Golden stag beetle</a><br /></p>
+<div class="noprint"><b><a href="http://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day/October_2009" title="Wikipedia:Picture of the day/October 2009">Archive</a></b> – <b><a href="http://en.wikipedia.org/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">More featured pictures...</a></b></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div id="mp-other" style="padding-top:4px; padding-bottom:2px;">
+<h2><span class="mw-headline" id="Other_areas_of_Wikipedia">Other areas of Wikipedia</span></h2>
+<ul>
+<li><b><a href="http://en.wikipedia.org/wiki/Wikipedia:Help_desk" title="Wikipedia:Help desk">Help desk</a></b> – Ask questions about using Wikipedia.</li>
+<li><b><a href="http://en.wikipedia.org/wiki/Wikipedia:Reference_desk" title="Wikipedia:Reference desk">Reference desk</a></b> – Serving as virtual librarians, Wikipedia volunteers tackle your questions on a wide range of subjects.</li>
+<li><b><a href="http://en.wikipedia.org/wiki/Wikipedia:Village_pump" title="Wikipedia:Village pump">Village pump</a></b> – For discussions about Wikipedia itself, including areas for technical issues and policies.</li>
+<li><b><a href="http://en.wikipedia.org/wiki/Wikipedia:Community_portal" title="Wikipedia:Community portal">Community portal</a></b> – Bulletin board, projects, resources and activities covering a wide range of Wikipedia areas.</li>
+<li><b><a href="http://en.wikipedia.org/wiki/Wikipedia:News" title="Wikipedia:News">Site news</a></b> – Announcements, updates, articles and press releases on Wikipedia and the Wikimedia Foundation.</li>
+<li><b><a href="http://en.wikipedia.org/wiki/Wikipedia:Local_Embassy" title="Wikipedia:Local Embassy">Local embassy</a></b> – For Wikipedia-related communication in languages other than English.</li>
+</ul>
+</div>
+<div id="mp-sister">
+<h2><span class="mw-headline" id="Wikipedia.27s_sister_projects">Wikipedia's sister projects</span></h2>
+<p>Wikipedia is hosted by the <a href="http://en.wikipedia.org/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, a non-profit organization that also hosts a range of other <a href="http://wikimediafoundation.org/wiki/Our_projects" class="extiw" title="wikimedia:Our projects">projects</a>:</p>
+<table class="layout plainlinks" style="width:100%; margin:auto; text-align:left; background:transparent;">
+<tr>
+<td style="text-align:center;padding:4px"><a href="http://commons.wikimedia.org/wiki/" title="Commons"><img alt="Commons" src="http://upload.wikimedia.org/wikipedia/en/9/9d/Commons-logo-31px.png" width="31" height="41" /></a></td>
+<td style="width:33%;padding:4px"><b><a href="http://commons.wikimedia.org/" class="external text" rel="nofollow">Commons</a></b><br />
+Free media repository</td>
+<td style="text-align:center;padding:4px"><a href="http://en.wikinews.org/wiki/" title="Wikinews"><img alt="Wikinews" src="http://upload.wikimedia.org/wikipedia/en/6/60/Wikinews-logo-51px.png" width="51" height="30" /></a></td>
+<td style="width:33%;padding:4px"><b><a href="http://en.wikinews.org/" class="external text" rel="nofollow">Wikinews</a></b><br />
+Free-content news</td>
+<td style="text-align:center;padding:4px"><a href="http://en.wiktionary.org/wiki/" title="Wiktionary"><img alt="Wiktionary" src="http://upload.wikimedia.org/wikipedia/en/f/f2/Wiktionary-logo-51px.png" width="51" height="35" /></a></td>
+<td style="width:33%;padding:4px"><b><a href="http://en.wiktionary.org/" class="external text" rel="nofollow">Wiktionary</a></b><br />
+Dictionary and thesaurus</td>
+</tr>
+<tr>
+<td style="text-align:center;padding:4px"><a href="http://en.wikiquote.org/wiki/" title="Wikiquote"><img alt="Wikiquote" src="http://upload.wikimedia.org/wikipedia/en/4/46/Wikiquote-logo-51px.png" width="51" height="41" /></a></td>
+<td style="padding:4px"><b><a href="http://en.wikiquote.org/" class="external text" rel="nofollow">Wikiquote</a></b><br />
+Collection of quotations</td>
+<td style="text-align:center;padding:4px"><a href="http://en.wikibooks.org/wiki/" title="Wikibooks"><img alt="Wikibooks" src="http://upload.wikimedia.org/wikipedia/en/7/7f/Wikibooks-logo-35px.png" width="35" height="35" /></a></td>
+<td style="padding:4px"><b><a href="http://en.wikibooks.org/" class="external text" rel="nofollow">Wikibooks</a></b><br />
+Free textbooks and manuals</td>
+<td style="text-align:center;padding:4px"><a href="http://en.wikisource.org/wiki/" title="Wikisource"><img alt="Wikisource" src="http://upload.wikimedia.org/wikipedia/en/b/b6/Wikisource-logo-35px.png" width="35" height="37" /></a></td>
+<td style="padding:4px"><b><a href="http://en.wikisource.org/" class="external text" rel="nofollow">Wikisource</a></b><br />
+Free-content library</td>
+</tr>
+<tr>
+<td style="text-align:center;padding:4px"><a href="http://species.wikimedia.org/wiki/" title="Wikispecies"><img alt="Wikispecies" src="http://upload.wikimedia.org/wikipedia/en/b/bf/Wikispecies-logo-35px.png" width="35" height="41" /></a></td>
+<td style="padding:4px"><b><a href="http://species.wikimedia.org/" class="external text" rel="nofollow">Wikispecies</a></b><br />
+Directory of species</td>
+<td style="text-align:center;padding:4px"><a href="http://en.wikiversity.org/wiki/" title="Wikiversity"><img alt="Wikiversity" src="http://upload.wikimedia.org/wikipedia/en/e/e3/Wikiversity-logo-41px.png" width="41" height="32" /></a></td>
+<td style="padding:4px"><b><a href="http://en.wikiversity.org/" class="external text" rel="nofollow">Wikiversity</a></b><br />
+Free learning materials and activities</td>
+<td style="text-align:center;padding:4px"><a href="http://meta.wikimedia.org/wiki/" title="Meta-Wiki"><img alt="Meta-Wiki" src="http://upload.wikimedia.org/wikipedia/en/b/bc/Meta-logo-35px.png" width="35" height="35" /></a></td>
+<td style="padding:4px"><b><a href="http://meta.wikimedia.org/" class="external text" rel="nofollow">Meta-Wiki</a></b><br />
+Wikimedia project coordination</td>
+</tr>
+</table>
+</div>
+<div id="mp-lang">
+<h2><span class="mw-headline" id="Wikipedia_languages">Wikipedia languages</span></h2>
+<div id="lang" class="nowraplinks">
+<p>This Wikipedia is written in <a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a>. Started in 2001, it currently contains <a href="http://en.wikipedia.org/wiki/Special:Statistics" title="Special:Statistics">3,068,846</a> articles. <a href="http://meta.wikimedia.org/wiki/List_of_Wikipedias" class="extiw" title="m:List of Wikipedias">Many other Wikipedias</a> are available; some of the largest are listed below.</p>
+<ul>
+<li id="lang-3">More than 250,000 articles: <a href="http://de.wikipedia.org/wiki/" class="extiw" title="de:"><span title="German (de:)">Deutsch</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://es.wikipedia.org/wiki/" class="extiw" title="es:"><span title="Spanish (es:)">Español</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://fr.wikipedia.org/wiki/" class="extiw" title="fr:"><span title="French (fr:)">Français</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://it.wikipedia.org/wiki/" class="extiw" title="it:"><span title="Italian (it:)">Italiano</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://nl.wikipedia.org/wiki/" class="extiw" title="nl:"><span title="Dutch (nl:)">Nederlands</span></a><span style="font-weight:bold;">&#160;·</span> <span lang="ja" xml:lang="ja"><a href="http://ja.wikipedia.org/wiki/" class="extiw" title="ja:"><span title="Japanese (ja:)">日本語</span></a></span><span style="font-weight:bold;">&#160;·</span> <a href="http://pl.wikipedia.org/wiki/" class="extiw" title="pl:"><span title="Polish (pl:)">Polski</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://pt.wikipedia.org/wiki/" class="extiw" title="pt:"><span title="Portuguese (pt:)">Português</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://ru.wikipedia.org/wiki/" class="extiw" title="ru:"><span title="Russian (ru:)">Русский</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://sv.wikipedia.org/wiki/" class="extiw" title="sv:"><span title="Swedish (sv:)">Svenska</span></a><span style="font-weight:bold;">&#160;·</span> <span lang="zh" xml:lang="zh"><a href="http://zh.wikipedia.org/wiki/" class="extiw" title="zh:"><span title="Chinese (zh:)">中文</span></a></span></li>
+<li id="lang-2">More than 100,000 articles: <a href="http://ar.wikipedia.org/wiki/" class="extiw" title="ar:"><span title="Arabic (ar:)">العربية</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://id.wikipedia.org/wiki/" class="extiw" title="id:"><span title="Indonesian (id:)">Bahasa Indonesia</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://ca.wikipedia.org/wiki/" class="extiw" title="ca:"><span title="Catalan (ca:)">Català</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://cs.wikipedia.org/wiki/" class="extiw" title="cs:"><span title="Czech (cs:)">Čeština</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://da.wikipedia.org/wiki/" class="extiw" title="da:"><span title="Danish (da:)">Dansk</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://eo.wikipedia.org/wiki/" class="extiw" title="eo:"><span title="Esperanto (eo:)">Esperanto</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://ko.wikipedia.org/wiki/" class="extiw" title="ko:"><span title="Korean (ko:)">한국어</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://hu.wikipedia.org/wiki/" class="extiw" title="hu:"><span title="Hungarian (hu:)">Magyar</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://no.wikipedia.org/wiki/" class="extiw" title="no:"><span title="Norwegian, bokmål standard (no:)">Norsk (bokmål)</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://ro.wikipedia.org/wiki/" class="extiw" title="ro:"><span title="Romanian (ro:)">Română</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://sk.wikipedia.org/wiki/" class="extiw" title="sk:"><span title="Slovak (sk:)">Slovenčina</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://fi.wikipedia.org/wiki/" class="extiw" title="fi:"><span title="Finnish (fi:)">Suomi</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://vi.wikipedia.org/wiki/" class="extiw" title="vi:"><span title="Vietnamese (vi:)">Tiếng Việt</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://tr.wikipedia.org/wiki/" class="extiw" title="tr:"><span title="Turkish (tr:)">Türkçe</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://uk.wikipedia.org/wiki/" class="extiw" title="uk:"><span title="Ukrainian (uk:)">Українська</span></a></li>
+<li id="lang-1">More than 40,000 articles: <a href="http://ms.wikipedia.org/wiki/" class="extiw" title="ms:"><span title="Malay (ms:)">Bahasa Melayu</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://bg.wikipedia.org/wiki/" class="extiw" title="bg:"><span title="Bulgarian (bg:)">Български</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://et.wikipedia.org/wiki/" class="extiw" title="et:"><span title="Estonian (et:)">Eesti</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://el.wikipedia.org/wiki/" class="extiw" title="el:"><span title="Greek (el:)">Ελληνικά</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://simple.wikipedia.org/wiki/" class="extiw" title="simple:"><span title="Simple English (simple:)">English (simple)</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://eu.wikipedia.org/wiki/" class="extiw" title="eu:"><span title="Basque (eu:)">Euskara</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://fa.wikipedia.org/wiki/" class="extiw" title="fa:"><span title="Persian (fa:)">فارسی</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://gl.wikipedia.org/wiki/" class="extiw" title="gl:"><span title="Galician (gl:)">Galego</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://he.wikipedia.org/wiki/" class="extiw" title="he:"><span title="Hebrew (he:)">עברית</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://hr.wikipedia.org/wiki/" class="extiw" title="hr:"><span title="Croatian (hr:)">Hrvatski</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://lt.wikipedia.org/wiki/" class="extiw" title="lt:"><span title="Lithuanian (lt:)">Lietuvių</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://nn.wikipedia.org/wiki/" class="extiw" title="nn:"><span title="Norwegian, nynorsk standard (nn:)">Norsk (nynorsk)</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://sl.wikipedia.org/wiki/" class="extiw" title="sl:"><span title="Slovene (sl:)">Slovenščina</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://sr.wikipedia.org/wiki/" class="extiw" title="sr:"><span title="Serbian (sr:)">Српски / Srpski</span></a><span style="font-weight:bold;">&#160;·</span> <a href="http://th.wikipedia.org/wiki/" class="extiw" title="th:"><span title="Thai (th:)">ไทย</span></a></li>
+</ul>
+</div>
+</div>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 475/1000000
+Post-expand include size: 22836/2048000 bytes
+Template argument size: 273/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!1!0!default!!en!2!edit=0 and timestamp 20091020184847 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/Main_Page">http://en.wikipedia.org/wiki/Main_Page</a>"</div>
+			<div id='catlinks' class='catlinks catlinks-allhidden'><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:Articles_containing_Japanese_language_text" title="Category:Articles containing Japanese language text">Articles containing Japanese language text</a></span> | <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:Articles_containing_Chinese_language_text" title="Category:Articles containing Chinese language text">Articles containing Chinese language text</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul lang="en" xml:lang="en">
+	
+				 <li id="ca-nstab-main" class="selected"><a href="http://en.wikipedia.org/wiki/Main_Page" title="View the content page [c]" accesskey="c">Article</a></li>
+				 <li id="ca-talk"><a href="http://en.wikipedia.org/wiki/Talk:Main_Page" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/w/index.php?title=Main_Page&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Main_Page&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul lang="en" xml:lang="en">
+				<li id="pt-optin-try"><a href="http://en.wikipedia.org/w/index.php?title=Special:UsabilityInitiativeOptIn&amp;from=Main_Page" title="Try out new features" class="no-text-transform">Try Beta</a></li>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Main_Page" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5 lang="en" xml:lang="en">Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-contents"><a href="http://en.wikipedia.org/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+				<li id="n-featuredcontent"><a href="http://en.wikipedia.org/wiki/Portal:Featured_content" title="Featured content — the best of Wikipedia">Featured content</a></li>
+				<li id="n-currentevents"><a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-randompage"><a href="http://en.wikipedia.org/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5 lang="en" xml:lang="en"><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search Wikipedia" accesskey="f" value="" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if one exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search Wikipedia for this text" />
+			</form>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-interaction'>
+		<h5 lang="en" xml:lang="en">Interaction</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+				<li id="n-portal"><a href="http://en.wikipedia.org/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-recentchanges"><a href="http://en.wikipedia.org/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-contact"><a href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+				<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous_donation" title="Support us">Donate to Wikipedia</a></li>
+				<li id="n-help"><a href="http://en.wikipedia.org/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5 lang="en" xml:lang="en">Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/Main_Page" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Main_Page" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-upload"><a href="http://en.wikipedia.org/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+<li id="t-specialpages"><a href="http://en.wikipedia.org/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Main_Page&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Main_Page&amp;oldid=314438361" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-cite"><a

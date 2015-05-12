@@ -1,0 +1,210 @@
+	<h1 id="firstHeading" class="firstHeading">Swaziland</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Swaziland#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Swaziland#searchInput">search</a></div>			<!-- start content -->
+			<table class="metadata plainlinks ambox ambox-style" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="http://en.wikipedia.org/wiki/File:Ambox_style.png" class="image"><img alt="Ambox style.png" src="http://upload.wikimedia.org/wikipedia/en/d/d6/Ambox_style.png" width="40" height="40" /></a></div>
+</td>
+<td class="mbox-text" style="">This article's <a href="http://en.wikipedia.org/wiki/Wikipedia:LEDE" title="Wikipedia:LEDE" class="mw-redirect">introduction section</a> <b>may not adequately <a href="http://en.wikipedia.org/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> its contents</b>. To comply with Wikipedia's <a href="http://en.wikipedia.org/wiki/Wikipedia:Lead_section#Length" title="Wikipedia:Lead section">lead section guidelines</a>, please consider expanding the lead to <a href="http://en.wikipedia.org/wiki/Wikipedia:Lead_section#Provide_an_accessible_overview" title="Wikipedia:Lead section">provide an accessible overview</a> of the article's key points. <small><i>(July 2008)</i></small></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="http://en.wikipedia.org/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></a></div>
+</td>
+<td class="mbox-text" style="">This article <b>needs additional <a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a>.</b><br />
+<small>Please help <a href="http://en.wikipedia.org/w/index.php?title=Swaziland&amp;action=edit" class="external text" rel="nofollow">improve this article</a> by adding <a href="http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable references</a>. Unsourced material may be <a href="http://en.wikipedia.org/wiki/Template:Fact" title="Template:Fact" class="mw-redirect">challenged</a> and <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>. <small><i>(February 2008)</i></small></small></td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Kingdom of Swaziland
+<div style="padding-top:0.25em;">Umbuso weSwatini</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Swaziland.svg" class="image" title="Flag of Swaziland"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/125px-Flag_of_Swaziland.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Swaziland.png" class="image" title="Coat of arms of Swaziland"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Coat_of_arms_of_Swaziland.png/85px-Coat_of_arms_of_Swaziland.png" width="85" height="59" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Swaziland" title="Flag of Swaziland">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Swaziland" title="Coat of arms of Swaziland">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"Siyinqaba"<span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/Swati_language" title="Swati language">SiSwati</a>)<br />
+"We are a fortress"</small><br />
+<small>"We are a mystery/riddle" "We hide ourselves away"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Nkulunkulu_Mnikati_wetibusiso_temaSwati" title="Nkulunkulu Mnikati wetibusiso temaSwati">Nkulunkulu Mnikati wetibusiso temaSwati</a></i><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationSwaziland.svg" class="image" title="Location of Swaziland"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/LocationSwaziland.svg/250px-LocationSwaziland.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Lobamba" title="Lobamba">Lobamba</a>&#160;<small>(royal and legislative)</small><br />
+<a href="http://en.wikipedia.org/wiki/Mbabane" title="Mbabane">Mbabane</a>&#160;<small>(administrative; coordinates below)</small><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Swaziland&amp;params=26_19_S_31_8_E_type:country(17,364)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">26°19′S</span> <span class="longitude">31°8′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">26.317°S 31.133°E</span><span style="display:none">﻿ / <span class="geo">-26.317; 31.133</span></span></span></a></span></span></small></td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demographics_of_Swaziland" title="Demographics of Swaziland">Largest city</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Mbabane" title="Mbabane">Mbabane</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a>, <a href="http://en.wikipedia.org/wiki/SiSwati_language" title="SiSwati language" class="mw-redirect">SiSwati</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Swazi_people" title="Swazi people" class="mw-redirect">Swazi</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Absolute_Monarchy" title="Absolute Monarchy" class="mw-redirect">Absolute Monarchy</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Kings_of_Swaziland" title="List of Kings of Swaziland" class="mw-redirect">King</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Mswati_III_of_Swaziland" title="Mswati III of Swaziland">Mswati III</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Indlovukazi" title="Indlovukazi" class="mw-redirect">Indlovukazi</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Queen_Ntombi" title="Queen Ntombi" class="mw-redirect">Queen Ntombi</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Prime_Ministers_of_Swaziland" title="List of Prime Ministers of Swaziland" class="mw-redirect">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Barnabas_Sibusiso_Dlamini" title="Barnabas Sibusiso Dlamini">Barnabas Sibusiso Dlamini</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Deputy_Prime_Minister" title="Deputy Prime Minister">Deputy Prime Minister</a></td>
+<td>Themba N. Masuku</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td>6 September 1968&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E10_m%C2%B2" title="1 E10 m²" class="mw-redirect">17,364&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">157th</a>)<br />
+6,704&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>0.9</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>1,185,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Swaziland#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">154th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2007&#160;census</td>
+<td>1,018,449&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>68.2/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">135th</a>)<br />
+176.8/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$5.878 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Swaziland#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$5,749<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Swaziland#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$2.840 billion<sup id="cite_ref-imf2_1-2" class="reference"><a href="http://en.wikipedia.org/wiki/Swaziland#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$2,778<sup id="cite_ref-imf2_1-3" class="reference"><a href="http://en.wikipedia.org/wiki/Swaziland#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(1994)</td>
+<td>60.9&#160;(<font color="red">high</font>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.547&#160;(<font color="#FFCC00">medium</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">141st</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Lilangeni" title="Lilangeni" class="mw-redirect">Lilangeni</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">SZL</a></code>)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</span></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>left</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.sz" title=".sz">.sz</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>268</td>
+</tr>
+<tr style="font-size:80%;">
+<td align="right"><span style="position:relative; top:0.3em;"><sup>1</sup></span></td>
+<td colspan="2" style="padding-left:0em;">Estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.</td>
+</tr>
+</table>
+<p>The <b>Kingdom of Swaziland</b> (<i>Umbuso weSwatini</i>), sometimes called <b>Ngwane</b>, is a <a href="http://en.wikipedia.org/wiki/Landlocked" title="Landlocked" class="mw-redirect">landlocked</a> country in Southern Africa, bordered to the north, south, and west by <a href="http://en.wikipedia.org/wiki/South_Africa" title="South Africa">South Africa</a>, and to the east by <a href="http://en.wikipedia.org/wiki/Mozambique" title="Mozambique">Mozambique</a>. The nation, as well as its people, are named after the 19th century king <a href="http://en.wikipedia.org/wiki/Mswati_II_of_Swaziland" title="Mswati II of Swaziland">Mswati II</a>.</p>
+<p>Swaziland is a small country, no more than 200km north to south, and 130km east to west. The western half is mountainous, descending to a lowveld region to the east. The eastern border with Mozambique and South Africa is dominated by the escarpment of the <a href="http://en.wikipedia.org/wiki/Lebombo_Mountains" title="Lebombo Mountains">Lebombo Mountains</a>. The climate is temperate in the west, but may reach 40 degrees in summer in the lowveld. Rainfall occurs mainly in the summer and may reach 2m in the west.</p>
+<p>The area that Swaziland now covers has been continuously inhabited since prehistory. Today, the population is primarily ethnic <a href="http://en.wikipedia.org/wiki/Swazi" title="Swazi">Swazis</a> whose language is <a href="http://en.wikipedia.org/wiki/SiSwati" title="SiSwati" class="mw-redirect">siSwati</a>, though English is spoken as a second language. The Swazi people descend from the southern <a href="http://en.wikipedia.org/wiki/Bantu" title="Bantu">Bantu</a> who migrated from Central Africa in the 15th and 16th centuries. The <a href="http://en.wikipedia.org/wiki/Anglo_Boer_war" title="Anglo Boer war" class="mw-redirect">Anglo Boer war</a> saw <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">Britain</a> make Swaziland a <a href="http://en.wikipedia.org/wiki/Protectorate" title="Protectorate">protectorate</a> under its direct control. Swaziland gained independence in 1968. Swaziland is a member of the <a href="http://en.wikipedia.org/wiki/Southern_African_Development_Community" title="Southern African Development Community">Southern African Development Community</a>, the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a>, and the <a href="http://en.wikipedia.org/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>. The head of state is the king, who appoints the prime minister and a small number of representatives for both chambers of parliament. Elections are held every five years to determine the majority of the representatives. A new <a href="http://en.wikipedia.org/wiki/Constitution_of_Swaziland" title="Constitution of Swaziland" class="mw-redirect">constitution</a> was adopted in 2005.</p>
+<p>Swaziland's economy is dominated by the service industry, manufacturing and agriculture. Some 75% of the population are employed in subsistence farming, and 60% of the population live on less than US$ 1.25 per day.<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Swaziland#cite_note-2"><span>[</span>3<span>]</span></a></sup> Swaziland's main trading partner is South Africa, and it currency is pegged to the South African rand. Growth has been hampered by the effects of <a href="http://en.wikipedia.org/wiki/HIV" title="HIV">HIV</a> and <a href="http://en.wikipedia.org/wiki/AIDS" title="AIDS">AIDS</a>, the prevalence of which is the highest in the world at 26.1%.<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Swaziland#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

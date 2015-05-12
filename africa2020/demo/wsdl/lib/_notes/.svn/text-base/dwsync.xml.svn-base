@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="changelog" server="171.64.210.247//var/www/html/slsconnect/" local="128388348340000000" remote="128633983430000000" />
+<file name="class.nusoap_base.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348350000000" remote="128633983470000000" />
+<file name="class.soapclient.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348350000000" remote="128633983490000000" />
+<file name="class.soap_fault.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348350000000" remote="128633983490000000" />
+<file name="class.soap_parser.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348350000000" remote="128633983490000000" />
+<file name="class.soap_server.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348350000000" remote="128633983510000000" />
+<file name="class.soap_transport_http.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348350000000" remote="128633983520000000" />
+<file name="class.soap_val.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348350000000" remote="128633983520000000" />
+<file name="class.wsdl.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348360000000" remote="128633983570000000" />
+<file name="class.wsdlcache.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348360000000" remote="128633983580000000" />
+<file name="class.xmlschema.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348360000000" remote="128633983590000000" />
+<file name="nusoap.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348360000000" remote="128633983670000000" />
+<file name="nusoapmime.php" server="171.64.210.247//var/www/html/slsconnect/" local="128388348360000000" remote="128633983680000000" />
+<file name="changelog" server="sls-connect//var/www/html/slsconnect/" local="128388348340000000" remote="128631477980000000" />
+<file name="class.nusoap_base.php" server="sls-connect//var/www/html/slsconnect/" local="128388348350000000" remote="128631477980000000" />
+<file name="class.soap_fault.php" server="sls-connect//var/www/html/slsconnect/" local="128388348350000000" remote="128631477980000000" />
+<file name="class.soap_parser.php" server="sls-connect//var/www/html/slsconnect/" local="128388348350000000" remote="128631477980000000" />
+<file name="class.soap_server.php" server="sls-connect//var/www/html/slsconnect/" local="128388348350000000" remote="128631477980000000" />
+<file name="class.soap_transport_http.php" server="sls-connect//var/www/html/slsconnect/" local="128388348350000000" remote="128631477980000000" />
+<file name="class.soap_val.php" server="sls-connect//var/www/html/slsconnect/" local="128388348350000000" remote="128631477980000000" />
+<file name="class.soapclient.php" server="sls-connect//var/www/html/slsconnect/" local="128388348350000000" remote="128631477980000000" />
+<file name="class.wsdl.php" server="sls-connect//var/www/html/slsconnect/" local="128388348360000000" remote="128631477980000000" />
+<file name="class.wsdlcache.php" server="sls-connect//var/www/html/slsconnect/" local="128388348360000000" remote="128631477980000000" />
+<file name="class.xmlschema.php" server="sls-connect//var/www/html/slsconnect/" local="128388348360000000" remote="128631477980000000" />
+<file name="nusoap.php" server="sls-connect//var/www/html/slsconnect/" local="128388348360000000" remote="128631477980000000" />
+<file name="nusoapmime.php" server="sls-connect//var/www/html/slsconnect/" local="128388348360000000" remote="128631477980000000" />
+<file name="changelog" server="172.16.2.22//var/www/html/" local="128830186610000000" remote="129284383580000000" />
+<file name="class.nusoap_base.php" server="172.16.2.22//var/www/html/" local="128830186630000000" remote="129284383580000000" />
+<file name="class.soapclient.php" server="172.16.2.22//var/www/html/" local="128830186650000000" remote="129284383580000000" />
+<file name="class.soap_fault.php" server="172.16.2.22//var/www/html/" local="128830186650000000" remote="129284383580000000" />
+<file name="class.soap_parser.php" server="172.16.2.22//var/www/html/" local="128830186690000000" remote="129284383590000000" />
+<file name="class.soap_server.php" server="172.16.2.22//var/www/html/" local="128830186710000000" remote="129284383590000000" />
+<file name="class.soap_transport_http.php" server="172.16.2.22//var/www/html/" local="128830186730000000" remote="129284383590000000" />
+<file name="class.soap_val.php" server="172.16.2.22//var/www/html/" local="128830186730000000" remote="129284383600000000" />
+<file name="class.wsdl.php" server="172.16.2.22//var/www/html/" local="128830186760000000" remote="129284383600000000" />
+<file name="class.wsdlcache.php" server="172.16.2.22//var/www/html/" local="128830186770000000" remote="129284383600000000" />
+<file name="class.xmlschema.php" server="172.16.2.22//var/www/html/" local="128830186790000000" remote="129284383610000000" />
+<file name="nusoap.php" server="172.16.2.22//var/www/html/" local="128830186870000000" remote="129284383610000000" />
+<file name="nusoapmime.php" server="172.16.2.22//var/www/html/" local="128830186890000000" remote="129284383620000000" />
+</dwsync>

@@ -1,0 +1,29 @@
+<div id="formAVJoinUs"  class="AVForms2">
+<form action="joinavcom.php" method="POST" enctype="multipart/form-data" name="formjoinAVNet" target="_self">
+        
+              Product:
+                <input name="name" type="text" id="myname" value=" "  size="58" />
+              <br>
+  <br> 
+              Description:  
+              <input name="describe" type="text" id="myemail"  size="55">
+  <br>
+              Details:
+              <br>
+              <textarea name="details" align="center" cols="50" rows="10" id="details"> 
+              </textarea>
+              <br>
+              <br> 
+              Country where produced:  
+              <input name="country" type="text" id="mystate"  size="40" onclick="javascript:alert(document.formSearch.txtSearch.value)" >
+               
+          <div align="left">
+            <br>
+           
+            <p align="center"><span class="AVForms2">
+			<a href="#" onClick="javascript:document.formjoinAVNet.submit()">Update product</a> | <a href="#" onClick="MM_showHideLayers('formAVJoinUs','','hide');MM_showHideLayers('AVMap','','show');MM_showHideLayers('mycommunity','','hide');getText(document.AVFormContent.file.value='home');getCountryText('avnetwork')">Cancel</a></span> 
+            <p><br>
+            </span></div>
+              </p>
+</form>
+  

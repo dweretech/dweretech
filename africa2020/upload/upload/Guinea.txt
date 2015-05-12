@@ -1,0 +1,181 @@
+	<h1 id="firstHeading" class="firstHeading">Guinea</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Guinea#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Guinea#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">Not to be confused with <a href="http://en.wikipedia.org/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a>, <a href="http://en.wikipedia.org/wiki/Equatorial_Guinea" title="Equatorial Guinea">Equatorial Guinea</a>, <a href="http://en.wikipedia.org/wiki/Ghana" title="Ghana">Ghana</a>, or <a href="http://en.wikipedia.org/wiki/Guyana" title="Guyana">Guyana</a>.</div>
+<div class="dablink">"Gn" redirects here. For information on the letters themselves, see <a href="http://en.wikipedia.org/wiki/Gn_(digraph)" title="Gn (digraph)" class="mw-redirect">Gn (digraph)</a>. For the acronym, see <a href="http://en.wikipedia.org/wiki/GN" title="GN">GN</a>.</div>
+<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Guinea_(disambiguation)" title="Guinea (disambiguation)">Guinea (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Guinea
+<div style="padding-top:0.25em;"><i>République de Guinée</i></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Guinea.svg" class="image" title="Flag of Guinea"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/125px-Flag_of_Guinea.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_Arms_of_Guinea.png" class="image" title="Coat of arms of Guinea"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Coat_of_Arms_of_Guinea.png/85px-Coat_of_Arms_of_Guinea.png" width="85" height="102" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Guinea" title="Flag of Guinea">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Guinea" title="Coat of arms of Guinea">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b><i>"Travail, Justice, Solidarité"</i><span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>)<br />
+"Work, Justice, Solidarity"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Libert%C3%A9" title="Liberté">Liberté</a></i><span style="white-space:nowrap;">&#160;&#160;</span><small>(French)<br />
+"Freedom"</small><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationGuinea.svg" class="image" title="Location of Guinea"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/LocationGuinea.svg/250px-LocationGuinea.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Guinea" title="Demographics of Guinea">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Conakry" title="Conakry">Conakry</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Guinea&amp;params=9_31_N_13_42_W_type:country(245,857)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">9°31′N</span> <span class="longitude">13°42′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">9.517°N 13.7°W</span><span style="display:none">﻿ / <span class="geo">9.517; -13.7</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Vernacular" title="Vernacular">Vernacular languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Pular_language" title="Pular language">Pular</a>, <a href="http://en.wikipedia.org/wiki/Mandinka_language" title="Mandinka language">Mandinka</a> and <a href="http://en.wikipedia.org/wiki/Susu_language" title="Susu language">Susu</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Guinean</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Military_junta" title="Military junta">Military junta</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Guinea" title="List of Presidents of Guinea" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Moussa_Dadis_Camara" title="Moussa Dadis Camara">Moussa Dadis Camara</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_heads_of_government_of_Guinea" title="List of heads of government of Guinea">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Kabin%C3%A9_Komara" title="Kabiné Komara">Kabiné Komara</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">from <a href="http://en.wikipedia.org/wiki/French_Union" title="French Union">France</a>¹</td>
+<td>October 2, 1958&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">245,857&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">78th</a>)<br />
+94,926&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>10,069,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">85</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">1996&#160;census</td>
+<td>7,156,406&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>40.9/km<sup>2</sup>&#160;<br />
+106.1/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$10.422 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,014<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$4.517 billion<sup id="cite_ref-imf2_1-2" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$439<sup id="cite_ref-imf2_1-3" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(1994)</td>
+<td>40.3&#160;(<font color="#FFCC00">medium</font>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.456&#160;(<span style="color:#e0584e">low</span>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">160th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Guinean_franc" title="Guinean franc">Guinean franc</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">GNF</a></code>)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0)</span></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.gn" title=".gn">.gn</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>224</td>
+</tr>
+</table>
+<p><b>Guinea</b>, officially <b>Republic of Guinea</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ɡɪni/</a></span>, <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>République de Guinée</i></span>), is a country in <a href="http://en.wikipedia.org/wiki/West_Africa" title="West Africa">West Africa</a> formerly known as <a href="http://en.wikipedia.org/wiki/French_Guinea" title="French Guinea">French Guinea</a> (<i>Guinée française</i>). The country's current population is estimated at 10,211,437 (<a href="http://en.wikipedia.org/wiki/CIA" title="CIA" class="mw-redirect">CIA</a> 2008 estimate).<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>Guinea's size is almost 246,000&#160;square kilometres (94,981&#160;sq&#160;mi). Its territory has a crescent shape, with its western border on the <a href="http://en.wikipedia.org/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a>, curving inland to the east and south. The Atlantic coast borders Guinea to the west, along with <a href="http://en.wikipedia.org/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a>. <a href="http://en.wikipedia.org/wiki/Senegal" title="Senegal">Senegal</a> forms its inland northern border, along with <a href="http://en.wikipedia.org/wiki/Mali" title="Mali">Mali</a>, to the north and north-east. <a href="http://en.wikipedia.org/wiki/C%C3%B4te_d%27Ivoire" title="Côte d'Ivoire">Côte d'Ivoire</a> is to the south-east, <a href="http://en.wikipedia.org/wiki/Liberia" title="Liberia">Liberia</a> to the south and <a href="http://en.wikipedia.org/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a> to the southwest. The <a href="http://en.wikipedia.org/wiki/Niger_River" title="Niger River">Niger River</a> runs through the nation, providing both water and irregular transportation.</p>
+<p><a href="http://en.wikipedia.org/wiki/Conakry" title="Conakry">Conakry</a> is the capital, seat of the national government, and largest city. The nation is sometimes called <b>Guinea-Conakry</b> to distinguish it from its neighbor <a href="http://en.wikipedia.org/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a>.<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea#cite_note-3"><span>[</span>4<span>]</span></a></sup> Guinea is home to twenty four ethnic groups, the three largest and most dominant are the <a href="http://en.wikipedia.org/wiki/Fula_people" title="Fula people">Fula</a>, <a href="http://en.wikipedia.org/wiki/Mandinka_people" title="Mandinka people">Mandinka</a> and <a href="http://en.wikipedia.org/wiki/Susu_people" title="Susu people">Susu</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

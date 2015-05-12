@@ -1,0 +1,197 @@
+	<h1 id="firstHeading" class="firstHeading">Algeria</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Algeria#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Algeria#searchInput">search</a></div>			<!-- start content -->
+			<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">People's Democratic Republic of Algeria
+<div style="padding-top:0.25em;"><span lang="ar" xml:lang="ar">الجمهورية الجزائرية الديمقراطية الشعبية</span> <span style="white-space:nowrap;">&#160;&#160;</span><span style="font-size:75%;">(<a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>)</span><br />
+<i>al Jumhuriyya al Jazaa'iriyya al Dimuqratiyya ash Sha'biyya</i> <span style="white-space:nowrap;">&#160;&#160;</span><span style="font-size:75%;">(<a href="http://en.wikipedia.org/wiki/Arabic" title="Arabic" class="mw-redirect">Arabic</a>)</span></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Algeria.svg" class="image" title="Flag of Algeria"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/125px-Flag_of_Algeria.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Algeria.svg" class="image" title="Emblem of Algeria"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Coat_of_arms_of_Algeria.svg/85px-Coat_of_arms_of_Algeria.svg.png" width="85" height="85" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Algeria" title="Flag of Algeria">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Emblem_of_Algeria" title="Emblem of Algeria">Emblem</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b><big>بالشعب وللشعب</big><span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>)<br />
+"By the people and for the people"</small><sup id="cite_ref-CONST-AR_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Algeria#cite_note-CONST-AR-0"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-CONST-EN_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Algeria#cite_note-CONST-EN-1"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><a href="http://en.wikipedia.org/wiki/Kassaman" title="Kassaman">Kassaman</a><i><span style="white-space:nowrap;">&#160;&#160;</span><small>(Arabic)<br /></small></i><small>The Pledge</small><i><br /></i></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationAlgeria.svg" class="image" title="Location of Algeria"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/LocationAlgeria.svg/250px-LocationAlgeria.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Algeria" title="Demographics of Algeria">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Algiers" title="Algiers">Algiers</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Algeria&amp;params=36_42_N_3_13_E_type:country(2381741)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">36°42′N</span> <span class="longitude">3°13′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">36.7°N 3.217°E</span><span style="display:none">﻿ / <span class="geo">36.7; 3.217</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2"><a href="http://en.wikipedia.org/wiki/Regional_language" title="Regional language">Recognised regional&#160;languages</a></td>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Tamazight_language" title="Tamazight language" class="mw-redirect">Tamazight</a> (National languages)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Second_language" title="Second language">Second language</a></th>
+<td><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Algerian_people" title="Algerian people" class="mw-redirect">Algerian</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Semi-presidential_republic" title="Semi-presidential republic" class="mw-redirect">Semi-presidential republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/President_of_Algeria" title="President of Algeria">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Abdelaziz_Bouteflika" title="Abdelaziz Bouteflika">Abdelaziz Bouteflika</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Algeria" title="Prime Minister of Algeria">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Ahmed_Ouyahia" title="Ahmed Ouyahia">Ahmed Ouyahia</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/History_of_Algeria" title="History of Algeria">Establishment</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Hammadid" title="Hammadid">Hammadid</a> dynasty</td>
+<td>from&#160;1014&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a>&#160;rule</td>
+<td>from&#160;1516&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/French_colonial_empires" title="French colonial empires" class="mw-redirect">French</a>&#160;rule</td>
+<td>from&#160;1830&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Independence from <a href="http://en.wikipedia.org/wiki/France" title="France">France</a></td>
+<td>5 July 1962&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E12_m%C2%B2" title="1 E12 m²" class="mw-redirect">2,381,741&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">11th</a>)<br />
+919,595&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>34,895,000<sup id="cite_ref-unpop_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Algeria#cite_note-unpop-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">1998&#160;census</td>
+<td>29,100,867&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>14.6/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">204th</a>)<br />
+37.9/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$233.479 billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Algeria#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">38th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$6,709<sup id="cite_ref-imf2_3-1" class="reference"><a href="http://en.wikipedia.org/wiki/Algeria#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">88th</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$159.669 billion<sup id="cite_ref-imf2_3-2" class="reference"><a href="http://en.wikipedia.org/wiki/Algeria#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">48th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$4,588<sup id="cite_ref-imf2_3-3" class="reference"><a href="http://en.wikipedia.org/wiki/Algeria#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">84th</a>)</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(1995)</td>
+<td>35.3&#160;(<span style="color:#fc0;">medium</span>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.754<sup id="cite_ref-UN_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Algeria#cite_note-UN-4"><span>[</span>5<span>]</span></a></sup>&#160;(<span style="color:#fc0;">medium</span>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">104th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Algerian_dinar" title="Algerian dinar">Algerian dinar</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">DZD</a></code>)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Central_European_Time" title="Central European Time">CET</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</span></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.dz" title=".dz">.dz</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>213</td>
+</tr>
+</table>
+<p><b>Algeria</b> (<span lang="ar" xml:lang="ar"><a href="http://en.wikipedia.org/wiki/Formal_Arabic" title="Formal Arabic" class="mw-redirect">Formal Arabic</a>: الجزائر</span>, <i>al-Jazā’ir</i>; ), officially the <b>People's Democratic Republic of Algeria</b>, is a country located in <a href="http://en.wikipedia.org/wiki/North_Africa" title="North Africa">North Africa</a>. It is the largest country on the Mediterranean sea, the second largest on the African continent<sup id="cite_ref-cia_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Algeria#cite_note-cia-5"><span>[</span>6<span>]</span></a></sup> and the eleventh-largest country in the world in terms of land area.<sup id="cite_ref-6" class="reference"><a href="http://en.wikipedia.org/wiki/Algeria#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>It is bordered by <a href="http://en.wikipedia.org/wiki/Tunisia" title="Tunisia">Tunisia</a> in the northeast, <a href="http://en.wikipedia.org/wiki/Libya" title="Libya">Libya</a> in the east, <a href="http://en.wikipedia.org/wiki/Niger" title="Niger">Niger</a> in the southeast, <a href="http://en.wikipedia.org/wiki/Mali" title="Mali">Mali</a> and <a href="http://en.wikipedia.org/wiki/Mauritania" title="Mauritania">Mauritania</a> in the southwest, a few kilometers of the Moroccan-controlled <a href="http://en.wikipedia.org/wiki/Western_Sahara" title="Western Sahara">Western Sahara</a> in the southwest, <a href="http://en.wikipedia.org/wiki/Morocco" title="Morocco">Morocco</a> in the west and northwest, and the <a href="http://en.wikipedia.org/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> in the north. Its size is almost 2,400,000&#160;km<sup>2</sup> with an estimated population near to 35,000,000. The capital of Algeria is <a href="http://en.wikipedia.org/wiki/Algiers" title="Algiers">Algiers</a>.</p>
+<p>Algeria is a member of the <a href="http://en.wikipedia.org/wiki/United_Nations" title="United Nations">United Nations</a>, <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a>, <a href="http://en.wikipedia.org/wiki/OPEC" title="OPEC">OPEC</a> and the <a href="http://en.wikipedia.org/wiki/Arab_League" title="Arab League">Arab League</a>. It also contributed towards the creation of the <a href="http://en.wikipedia.org/wiki/Arab_Maghreb_Union" title="Arab Maghreb Union">Arab Maghreb Union</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

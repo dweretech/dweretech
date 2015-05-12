@@ -1,0 +1,251 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mauritius</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Mauritius#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Mauritius#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">Not to be confused with <a href="http://en.wikipedia.org/wiki/Mauritania" title="Mauritania">Mauritania</a>.</div>
+<div class="hatnote">For other uses, see <a href="http://en.wikipedia.org/wiki/Mauritius_(disambiguation)" title="Mauritius (disambiguation)" class="mw-disambig">Mauritius (disambiguation)</a>.</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="http://en.wikipedia.org/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mauritius&amp;params=-20.2_N_57.5_E_type:country"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">20°12′S</span> <span class="longitude">57°30′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">20.2°S 57.5°E</span><span style="display:none">﻿ / <span class="geo">-20.2; 57.5</span></span></span></a></span></span></span></p>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Republic of Mauritius</span><br />
+<div style="padding-top:0.25em;"><span lang="fr"><i>République de Maurice</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>)</span><br />
+<p><span lang="mfe"><i>Republik Moris</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Mauritian_creole_language" title="Mauritian creole language" class="mw-redirect">Mauritian creole</a>)</span></p>
+</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Mauritius.svg" class="image" title="Flag of Mauritius"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/125px-Flag_of_Mauritius.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/188px-Flag_of_Mauritius.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/250px-Flag_of_Mauritius.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Mauritius_(Original_version).svg" class="image" title="Coat of arms of Mauritius"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Mauritius_%28Original_version%29.svg/85px-Coat_of_arms_of_Mauritius_%28Original_version%29.svg.png" width="85" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Mauritius_%28Original_version%29.svg/128px-Coat_of_arms_of_Mauritius_%28Original_version%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Mauritius_%28Original_version%29.svg/170px-Coat_of_arms_of_Mauritius_%28Original_version%29.svg.png 2x" data-file-width="420" data-file-height="392" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Mauritius" title="Flag of Mauritius">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Mauritius" title="Coat of arms of Mauritius">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b><span lang="la">"Stella Clavisque Maris Indici"</span>&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Latin_language" title="Latin language" class="mw-redirect">Latin</a>)</span><br />
+<small style="font-size:85%;">"Star and Key of the Indian Ocean"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Motherland_(anthem)" title="Motherland (anthem)">Motherland</a></i><br />
+<center>
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px" poster="//en.wikipedia.org/static/1.26wmf4/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="58.775510204082" data-startoffset="0" data-mwtitle="National_Anthem_of_Mauritius_by_US_Navy_Band.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/4/45/National_Anthem_of_Mauritius_by_US_Navy_Band.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (123 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="123063"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/4/45/National_Anthem_of_Mauritius_by_US_Navy_Band.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Mauritius_(orthographic_projection_with_inset).svg" class="image" title="Islands of the Republic of Mauritius on the globe excluding the Chagos Archipelago and Tromelin island."><img alt="Islands of the Republic of Mauritius on the globe excluding the Chagos Archipelago and Tromelin island." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mauritius_%28orthographic_projection_with_inset%29.svg/250px-Mauritius_%28orthographic_projection_with_inset%29.svg.png" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mauritius_%28orthographic_projection_with_inset%29.svg/375px-Mauritius_%28orthographic_projection_with_inset%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mauritius_%28orthographic_projection_with_inset%29.svg/500px-Mauritius_%28orthographic_projection_with_inset%29.svg.png 2x" data-file-width="550" data-file-height="550" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">Islands of the Republic of Mauritius on the globe excluding the Chagos Archipelago and Tromelin island.</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Mauritius_(%2Bclaim_islands).svg" class="image" title="Islands of the Republic of Mauritius labelled in black, Tromelin and Chagos archipelago are claimed by Mauritius."><img alt="Islands of the Republic of Mauritius labelled in black, Tromelin and Chagos archipelago are claimed by Mauritius." src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mauritius_%28%2Bclaim_islands%29.svg/250px-Mauritius_%28%2Bclaim_islands%29.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mauritius_%28%2Bclaim_islands%29.svg/375px-Mauritius_%28%2Bclaim_islands%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mauritius_%28%2Bclaim_islands%29.svg/500px-Mauritius_%28%2Bclaim_islands%29.svg.png 2x" data-file-width="500" data-file-height="463" /></a></div>
+</div>
+<div style="position:relative;top:0.3em;line-height:1.2em;font-size:85%;">Islands of the Republic of Mauritius labelled in black, Tromelin and Chagos archipelago are claimed by Mauritius.</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b><br />
+and largest city</td>
+<td><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Port_Louis,_Mauritius.svg" class="image"><img alt="Coat of arms of Port Louis, Mauritius.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Coat_of_arms_of_Port_Louis%2C_Mauritius.svg/30px-Coat_of_arms_of_Port_Louis%2C_Mauritius.svg.png" width="30" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Coat_of_arms_of_Port_Louis%2C_Mauritius.svg/45px-Coat_of_arms_of_Port_Louis%2C_Mauritius.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Coat_of_arms_of_Port_Louis%2C_Mauritius.svg/60px-Coat_of_arms_of_Port_Louis%2C_Mauritius.svg.png 2x" data-file-width="751" data-file-height="528" /></a> <a href="http://en.wikipedia.org/wiki/Port_Louis" title="Port Louis">Port Louis</a><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Mauritius&amp;params=20_10_S_57_31_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">20°10′S</span> <span class="longitude">57°31′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">20.167°S 57.517°E</span><span style="display:none">﻿ / <span class="geo">-20.167; 57.517</span></span></span></a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td>None <sup>a</sup></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Vernacular" title="Vernacular">Vernacular languages</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></li>
+<li><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Mauritian_Creole" title="Mauritian Creole">Mauritian Creole</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Bhojpuri_language" title="Bhojpuri language">Mauritian Bhojpuri</a><sup id="cite_ref-2011_Census_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-2011_Census-1"><span>[</span>1<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Other languages</th>
+<td>
+<div class="NavFrame collapsed" style="border:none; padding:0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left;">List of languages</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Agalega_Creole" title="Agalega Creole" class="mw-redirect">Agalega Creole</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Chagossian_Creole" title="Chagossian Creole" class="mw-redirect">Chagossian Creole</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Rodriguan_Creole" title="Rodriguan Creole" class="mw-redirect">Rodriguan Creole</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Arabic" title="Arabic" class="mw-redirect">Arabic</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Hindi_language" title="Hindi language" class="mw-redirect">Hindi</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Marathi_language" title="Marathi language">Marathi</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Mandarin_Chinese" title="Mandarin Chinese">Mandarin</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Tamil_language" title="Tamil language">Tamil</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Telugu_language" title="Telugu language">Telugu</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Urdu_language" title="Urdu language" class="mw-redirect">Urdu</a><sup id="cite_ref-Media_languages_in_Mauritius_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-Media_languages_in_Mauritius-2"><span>[</span>2<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Mauritian" title="Mauritian" class="mw-redirect">Mauritian</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Mauritius" title="Politics of Mauritius">Government</a></th>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Parliamentary_republic" title="Parliamentary republic">Parliamentary republic</a></span></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_Mauritius" title="President of Mauritius">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Kailash_Purryag" title="Kailash Purryag">Kailash Purryag</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Mauritius" title="Prime Minister of Mauritius">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Anerood_Jugnauth" title="Anerood Jugnauth">Anerood Jugnauth</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/National_Assembly_(Mauritius)" title="National Assembly (Mauritius)">National Assembly</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a>&#160;<span style="font-weight:normal;">from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Constitution_of_Mauritius" title="Constitution of Mauritius">Constitution of Mauritius</a></td>
+<td>12 March 1968&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Republic</td>
+<td>12 March 1992&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Mauritius" title="Geography of Mauritius">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>2,040&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">179th</a>)<br />
+787&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>0.07</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Mauritius" title="Demographics of Mauritius">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2014&#160;estimate</td>
+<td>1,261,208<sup id="cite_ref-2014_Population_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-2014_Population-3"><span>[</span>3<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">156th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2011&#160;census</td>
+<td>1,236,817<sup id="cite_ref-2013_Digest_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-2013_Digest-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>618/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">19th</a>)<br />
+238.611/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2015&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$23.322 billion<sup id="cite_ref-imf_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-imf-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$17,716<sup id="cite_ref-imf_5-1" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-imf-5"><span>[</span>5<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">66th</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2015&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>US$13.551 billion<sup id="cite_ref-imf_5-2" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-imf-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>US$10,294<sup id="cite_ref-imf_5-3" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-imf-5"><span>[</span>5<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">68th</a>)</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Increase"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.771<sup id="cite_ref-HDI_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-HDI-6"><span>[</span>6<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">63rd</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Mauritian_rupee" title="Mauritian rupee">Mauritian rupee</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">MUR</a>)</td>
+</tr>
+<tr>
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/Mauritius_Time" title="Mauritius Time">MUT</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+4)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>)</td>
+</tr>
+<tr>
+<th colspan="2">Date format</th>
+<td>dd/mm/yyyy (<a href="http://en.wikipedia.org/wiki/Anno_Domini" title="Anno Domini">AD</a>)</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">left</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Mauritius" title="Telephone numbers in Mauritius">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B230" title="+230" class="mw-redirect">+230</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:MU" title="ISO 3166-2:MU">MU</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.mu" title=".mu">.mu</a></td>
+</tr>
+<tr style="font-size:85%;">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>a.</sup></span></td>
+<td colspan="2" style="padding-left:0;">In parliament English is official and French can be used.<big><sup id="cite_ref-article49_7-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-article49-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-govmu.org_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-govmu.org-8"><span>[</span>8<span>]</span></a></sup></big></td>
+</tr>
+</table>
+<p><b>Mauritius</b> (<span class="nowrap"><span class="noexcerpt"><a href="//upload.wikimedia.org/wikipedia/commons/a/a9/En-us-Mauritius.ogg" title="Listen"><img alt="Listen" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/11px-Speakerlink-new.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/17px-Speakerlink-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/22px-Speakerlink-new.svg.png 2x" data-file-width="11" data-file-height="11" /></a><sup><span style="color: #00e; font: bold 80% sans-serif; padding: 0 .1em;" class="IPA"><a href="http://en.wikipedia.org/wiki/File:En-us-Mauritius.ogg" title="File:En-us-Mauritius.ogg">i</a></span></sup></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'m' in 'my'" style="border-bottom:1px dotted">m</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'r' in 'rye'" style="border-bottom:1px dotted">r</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɪ/ short 'i' in 'bid'" style="border-bottom:1px dotted">ɪ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ʃ/ 'sh' in 'shy'" style="border-bottom:1px dotted">ʃ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'s' in 'sigh'" style="border-bottom:1px dotted">s</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>; <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr"><i>Maurice</i></span>), officially the <b>Republic of Mauritius</b> (<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr"><i>République de Maurice</i></span>), is an <a href="http://en.wikipedia.org/wiki/Island_nation" title="Island nation" class="mw-redirect">island nation</a> in the <a href="http://en.wikipedia.org/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> about 2,000 kilometres (1,200&#160;mi) off the southeast coast of the <a href="http://en.wikipedia.org/wiki/African_continent" title="African continent" class="mw-redirect">African continent</a>. The country includes the island of Mauritius, <a href="http://en.wikipedia.org/wiki/Rodrigues" title="Rodrigues">Rodrigues</a> (560 kilometres (350&#160;mi) east), the islands of <a href="http://en.wikipedia.org/wiki/Agalega" title="Agalega" class="mw-redirect">Agalega</a>, and the archipelago of <a href="http://en.wikipedia.org/wiki/St_Brandon" title="St Brandon" class="mw-redirect">Saint Brandon</a>. The islands of Mauritius, Rodrigues, and <a href="http://en.wikipedia.org/wiki/R%C3%A9union" title="Réunion">Réunion</a> (170&#160;km (110&#160;mi) southwest) form part of the <a href="http://en.wikipedia.org/wiki/Mascarene_Islands" title="Mascarene Islands">Mascarene Islands</a>. The area of the country is 2,040&#160;km<sup>2</sup>. The capital and largest city is <a href="http://en.wikipedia.org/wiki/Port_Louis" title="Port Louis">Port Louis</a>.</p>
+<p>Mauritius claims sovereignty over the <a href="http://en.wikipedia.org/wiki/Chagos_Archipelago" title="Chagos Archipelago">Chagos Archipelago</a> (United Kingdom) and <a href="http://en.wikipedia.org/wiki/Tromelin" title="Tromelin" class="mw-redirect">Tromelin</a> Island (France). The United Kingdom excised the Chagos Archipelago from Mauritian territory prior to Mauritian independence in 1965. The UK gradually <a href="http://en.wikipedia.org/wiki/Depopulation_of_Diego_Garcia" title="Depopulation of Diego Garcia" class="mw-redirect">depopulated the archipelago's indigenous population</a> and leased its biggest island, <a href="http://en.wikipedia.org/wiki/Diego_Garcia" title="Diego Garcia">Diego Garcia</a>, to the United States. The US soon thereafter established a military base on Diego Garcia.</p>
+<p>The island of Mauritius was visited during the medieval period by the <a href="http://en.wikipedia.org/wiki/Arab_people" title="Arab people" class="mw-redirect">Arabs</a> and then by the <a href="http://en.wikipedia.org/wiki/Kingdom_of_Portugal" title="Kingdom of Portugal">Portuguese</a>, who named it <i>Dina Arobi</i> and <i>Cirne</i>, respectively. The island was uninhabited until the <a href="http://en.wikipedia.org/wiki/Dutch_Republic" title="Dutch Republic">Dutch Republic</a> established a colony in 1638, with the Dutch naming the island after <a href="http://en.wikipedia.org/wiki/Maurice_of_Nassau,_Prince_of_Orange" title="Maurice of Nassau, Prince of Orange" class="mw-redirect">Prince Maurice van Nassau</a>. The Dutch colony was abandoned in 1710, and, five years later, the island became a French colony and was named <a href="http://en.wikipedia.org/wiki/Isle_de_France_(Mauritius)" title="Isle de France (Mauritius)">Isle de France</a>. Due to its strategic position, Mauritius was known as the "star and key" of the Indian Ocean.<sup id="cite_ref-nao_9-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mauritius#cite_note-nao-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>Mauritius became an important base on the trade routes from Europe to the East before the opening of the <a href="http://en.wikipedia.org/wiki/Suez_Canal" title="Suez Canal">Suez Canal</a> and was involved in the power struggle between the French and the British. The French won the <a href="http://en.wikipedia.org/wiki/Battle_of_Grand_Port" title="Battle of Grand Port">Battle of Grand Port</a>, their only naval victory over the British during these wars, but they <a href="http://en.wikipedia.org/wiki/Invasion_of_Isle_de_France" title="Invasion of Isle de France">could not prevent the British from landing</a> at Cap Malheureux three months later, and formally surrendered on the fifth day of the invasion, 3 December 1810, on terms allowing settlers to keep their land and property, the use of the French language, and the law of France in criminal and civil matters. Under British rule, the island's name reverted to Mauritius. The country became an independent state on 12 March 1968, following the adoption of <a href="http://en.wikipedia.org/wiki/Constitution_of_Mauritius" title="Constitution of Mauritius">a new constitution</a> and became a republic in 1992 within the <a href="http://en.wikipedia.org/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth</a>.</p>
+<p>The <a href="http://en.wikipedia.org/wiki/Mauritians" title="Mauritians">people of Mauritius</a> are <a href="http://en.wikipedia.org/wiki/Multiracial" title="Multiracial">multiethnic</a> and <a href="http://en.wikipedia.org/wiki/Multiculturalism" title="Multiculturalism">multicultural</a>. Most Mauritians are multilingual; <a href="http://en.wikipedia.org/wiki/Mauritian_Creole" title="Mauritian Creole">Mauritian Creole</a>, English, French, and Asian languages are used. The island's government is closely modelled on the Westminster parliamentary system, and Mauritius is highly ranked for <a href="http://en.wikipedia.org/wiki/Democracy_Index" title="Democracy Index">democracy</a> and for <a href="http://en.wikipedia.org/wiki/List_of_countries_by_economic_freedom" title="List of countries by economic freedom">economic</a> and <a href="http://en.wikipedia.org/wiki/Freedom_in_the_World" title="Freedom in the World">political freedom</a>. Along with the other Mascarene Islands, Mauritius is known for <a href="http://en.wikipedia.org/wiki/Wildlife_of_Mauritius" title="Wildlife of Mauritius">its varied flora and fauna</a>, with many species <a href="http://en.wikipedia.org/wiki/Endemism" title="Endemism">endemic</a> to the island. The island is widely known as the only known home of the <a href="http://en.wikipedia.org/wiki/Dodo" title="Dodo">dodo</a>, which, along with several other avian species, was made extinct by human activities relatively shortly after the island's settlement.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

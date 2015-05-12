@@ -1,0 +1,52 @@
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+	<html lang="en">
+	<head>
+	<link rel="stylesheet" type="text/css" href="development-bundle/themes/ui-lightness/jquery.ui.all.css">
+	<style type="text/css">
+	.ui-datepicker .preBooked_class { background:#111111; }
+	.ui-datepicker .preBooked_class span { color:#999999; }
+	</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>jQuery UI Datepicker</title>
+	<script type="text/javascript" src="development-bundle/jquery-1.4.2.js"></script>
+	<script type="text/javascript" src="development-bundle/ui/jquery.ui.core.js"></script>
+	<script type="text/javascript" src="development-bundle/ui/jquery.ui.widget.js"></script>
+	<script type="text/javascript" src="development-bundle/ui/jquery.ui.datepicker.js"></script>
+
+	<script type="text/javascript">
+	    $(function(){
+	        var months = [], days = [];
+	        $.getJSON("server.php?jsoncallback=?",
+	            function(data) {
+	            for (x = 0; x < data.dates.length; x++) {
+	            months.push(data.dates[x].month);
+	            days.push(data.dates[x].day);
+	            }
+	        });
+
+	        function addDates(date){
+	            if (date.getDay() == 0 || date.getDay() == 6) {
+	                return [false, ""];
+	            }
+	            for (x = 0; x < days.length; x++) {
+	                if (date.getMonth() == months[x] - 1 &&
+	                    date.getDate() == days[x]) {
+	                    return [false, "preBooked_class"];
+	                }
+	            }
+	            return [true, ""];
+
+	        }
+	         
+	        var pickerOpts = {
+	            beforeShowDay: addDates,
+	            minDate: "+1"
+	        };
+	        $("#date").datepicker(pickerOpts);
+	    });
+	</script>
+	</head>
+	<body>
+	<input id="date">
+	</body>
+	</html>

@@ -1,0 +1,186 @@
+	<h1 id="firstHeading" class="firstHeading">Madagascar</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Madagascar#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Madagascar#searchInput">search</a></div>			<!-- start content -->
+			<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected indefinitely in response to an ongoing high risk of vandalism."><img alt="This article is semi-protected indefinitely in response to an ongoing high risk of vandalism." src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/20px-Padlock-silver-medium.svg.png" width="20" height="20" /></a></div>
+<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Madagascar_(disambiguation)" title="Madagascar (disambiguation)">Madagascar (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">
+<div style="padding-top:0.25em;">Republic of Madagascar<br />
+Repoblikan'i Madagasikara<br />
+République de Madagascar</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Madagascar.svg" class="image" title="Flag of Madagascar"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/125px-Flag_of_Madagascar.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Madagascar.svg" class="image" title="Coat of arms of Madagascar"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Coat_of_arms_of_Madagascar.svg/85px-Coat_of_arms_of_Madagascar.svg.png" width="85" height="84" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Madagascar" title="Flag of Madagascar">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Madagascar" title="Coat of arms of Madagascar">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b><i>Tanindrazana, Fahafahana, Fandrosoana</i><span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/Malagasy_language" title="Malagasy language">Malagasy</a>)</small><br />
+<i>Patrie, liberté, progrès</i><span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>)<br />
+"Fatherland, Liberty, Progress"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Ry_Tanindrazanay_malala_%C3%B4!" title="Ry Tanindrazanay malala ô!">Ry Tanindrazanay malala ô!</a></i><small><br />
+<i>Oh, Our Beloved Fatherland</i></small><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationMadagascar.svg" class="image" title="Location of Madagascar"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/LocationMadagascar.svg/250px-LocationMadagascar.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Madagascar" title="Demographics of Madagascar">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Antananarivo" title="Antananarivo">Antananarivo</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Madagascar&amp;params=18_55_S_47_31_E_type:country(587,041)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">18°55′S</span> <span class="longitude">47°31′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">18.917°S 47.517°E</span><span style="display:none">﻿ / <span class="geo">-18.917; 47.517</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Malagasy_language" title="Malagasy language">Malagasy</a>, <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>, <a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a><sup>1</sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Malagasy_people" title="Malagasy people">Malagasy</a><sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Madagascar#cite_note-0"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Caretaker_government" title="Caretaker government">Caretaker government</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><small><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Madagascar" title="List of Presidents of Madagascar">President of the High Authority of Transition</a></small></td>
+<td><small><a href="http://en.wikipedia.org/wiki/Andry_Rajoelina" title="Andry Rajoelina">Andry Rajoelina</a></small></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Madagascar" title="Prime Minister of Madagascar">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Eug%C3%A8ne_Mangalaza" title="Eugène Mangalaza">Eugène Mangalaza</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from <a href="http://en.wikipedia.org/wiki/France" title="France">France</a>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Date</td>
+<td><span class="mw-formatted-date" title="1960-06-26"><a href="http://en.wikipedia.org/wiki/June_26" title="June 26">26 June</a> <a href="http://en.wikipedia.org/wiki/1960" title="1960">1960</a></span>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">587,041&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">45th</a>)<br />
+226,597&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>0.13%</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>19,625,000<sup id="cite_ref-unpop_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Madagascar#cite_note-unpop-1"><span>[</span>2<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">55th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">1993&#160;census</td>
+<td>12,238,914&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>33.4/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">171st</a>)<br />
+86.6/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$20.135 billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Madagascar#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$996<sup id="cite_ref-imf2_2-1" class="reference"><a href="http://en.wikipedia.org/wiki/Madagascar#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$9.463 billion<sup id="cite_ref-imf2_2-2" class="reference"><a href="http://en.wikipedia.org/wiki/Madagascar#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$468<sup id="cite_ref-imf2_2-3" class="reference"><a href="http://en.wikipedia.org/wiki/Madagascar#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2001)</td>
+<td>47.5&#160;(<span style="color:#e0584e;">high</span>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.533&#160;(<span style="color:#fc0;">medium</span>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">143rd</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Malagasy_ariary" title="Malagasy ariary">Malagasy ariary</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">MGA</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/East_Africa_Time" title="East Africa Time">EAT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><i>not observed</i>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.mg" title=".mg">.mg</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>261</td>
+</tr>
+<tr>
+<td colspan="3"><small><sup>1</sup>Official languages since 27 April 2007.</small></td>
+</tr>
+</table>
+<p><b>Madagascar</b>, or <b>Republic of Madagascar</b> (older name <b>Malagasy Republic</b>, <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <i><span lang="fr" xml:lang="fr">République malgache</span></i>), is an <a href="http://en.wikipedia.org/wiki/Island_nation" title="Island nation" class="mw-redirect">island nation</a> in the <a href="http://en.wikipedia.org/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> off the southeastern coast of <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a>. The main island, also called Madagascar, is the <a href="http://en.wikipedia.org/wiki/List_of_islands_by_area" title="List of islands by area">fourth-largest island in the world</a>, and is home to 5% of the world's plant and animal species, of which more than 80% are <a href="http://en.wikipedia.org/wiki/Endemism" title="Endemism">endemic</a> to Madagascar.<sup class="noprint Template-Fact" title="This claim needs references to reliable sources from June 2008" style="white-space:nowrap;">[<i><a href="http://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</a></i>]</sup> They include the <a href="http://en.wikipedia.org/wiki/Lemur" title="Lemur">lemur</a> infraorder of primates, the carnivorous <a href="http://en.wikipedia.org/wiki/Fossa_(animal)" title="Fossa (animal)">fossa</a>, three bird families and six <a href="http://en.wikipedia.org/wiki/Baobab" title="Baobab" class="mw-redirect">baobab</a> species. Two thirds of the population live below the international poverty line of US$1.25 a day.<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Madagascar#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

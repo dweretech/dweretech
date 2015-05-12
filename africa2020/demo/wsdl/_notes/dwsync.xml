@@ -1,0 +1,56 @@
+<<<<<<< .mine
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="server.php" server="171.64.210.247//var/www/html/slsconnect/" local="128624641670000000" remote="128633983830000000" />
+<file name="nusoap-0.7.3.zip" server="171.64.210.247//var/www/html/slsconnect/" local="128388357210000000" remote="128633983760000000" />
+<file name="wsclient.php" server="171.64.210.247//var/www/html/slsconnect/" local="128624661630000000" remote="128633983840000000" />
+<file name="readme.txt" server="171.64.210.247//var/www/html/slsconnect/" local="128624644610000000" remote="128633983760000000" />
+<file name="slsclient.php" server="171.64.210.247//var/www/html/slsconnect/" local="128624666460000000" remote="128633983840000000" />
+<file name="sampleclient.php" server="171.64.210.247//var/www/html/slsconnect/" local="128624664400000000" remote="128633983760000000" />
+<file name="nusoap-0.7.3.zip" server="sls-connect//var/www/html/slsconnect/" local="128388357210000000" remote="128631477990000000" />
+<file name="readme.txt" server="sls-connect//var/www/html/slsconnect/" local="128624644610000000" remote="128631477990000000" />
+<file name="sampleclient.php" server="sls-connect//var/www/html/slsconnect/" local="128624664400000000" remote="128631477990000000" />
+<file name="server.php" server="sls-connect//var/www/html/slsconnect/" local="128624641670000000" remote="128631477990000000" />
+<file name="slsclient.php" server="sls-connect//var/www/html/slsconnect/" local="128624666460000000" remote="128631477990000000" />
+<file name="wsclient.php" server="sls-connect//var/www/html/slsconnect/" local="128624661630000000" remote="128631477990000000" />
+<file name="nusoap-0.7.3.zip" server="172.16.2.22//var/www/html/" local="128830187260000000" remote="129284383620000000" />
+<file name="readme.txt" server="172.16.2.22//var/www/html/" local="128830187270000000" remote="129284383630000000" />
+<file name="sampleclient.php" server="172.16.2.22//var/www/html/" local="128830187280000000" remote="129284383630000000" />
+<file name="server.php" server="172.16.2.22//var/www/html/" local="128830187290000000" remote="129284383650000000" />
+<file name="slsclient.php" server="172.16.2.22//var/www/html/" local="128830187300000000" remote="129284383660000000" />
+<file name="wsclient.php" server="172.16.2.22//var/www/html/" local="128830187310000000" remote="129284383660000000" />
+<file name="nusoap-0.7.3.zip" server="172.16.10.15/html/" local="129939691630000000" remote="129939691630000000" />
+<file name="readme.txt" server="172.16.10.15/html/" local="129939691630000000" remote="129939691630000000" />
+<file name="sampleclient.php" server="172.16.10.15/html/" local="129939691630000000" remote="129939691630000000" />
+<file name="server.php" server="172.16.10.15/html/" local="129939691630000000" remote="129939691630000000" />
+<file name="slsclient.php" server="172.16.10.15/html/" local="129939691630000000" remote="129939691630000000" />
+<file name="wsclient.php" server="172.16.10.15/html/" local="129939691630000000" remote="129939691630000000" />
+=======
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="server.php" server="171.64.210.247//var/www/html/slsconnect/" local="128624641670000000" remote="128633983830000000" />
+<file name="nusoap-0.7.3.zip" server="171.64.210.247//var/www/html/slsconnect/" local="128388357210000000" remote="128633983760000000" />
+<file name="wsclient.php" server="171.64.210.247//var/www/html/slsconnect/" local="128624661630000000" remote="128633983840000000" />
+<file name="readme.txt" server="171.64.210.247//var/www/html/slsconnect/" local="128624644610000000" remote="128633983760000000" />
+<file name="slsclient.php" server="171.64.210.247//var/www/html/slsconnect/" local="128624666460000000" remote="128633983840000000" />
+<file name="sampleclient.php" server="171.64.210.247//var/www/html/slsconnect/" local="128624664400000000" remote="128633983760000000" />
+<file name="nusoap-0.7.3.zip" server="sls-connect//var/www/html/slsconnect/" local="128388357210000000" remote="128631477990000000" />
+<file name="readme.txt" server="sls-connect//var/www/html/slsconnect/" local="128624644610000000" remote="128631477990000000" />
+<file name="sampleclient.php" server="sls-connect//var/www/html/slsconnect/" local="128624664400000000" remote="128631477990000000" />
+<file name="server.php" server="sls-connect//var/www/html/slsconnect/" local="128624641670000000" remote="128631477990000000" />
+<file name="slsclient.php" server="sls-connect//var/www/html/slsconnect/" local="128624666460000000" remote="128631477990000000" />
+<file name="wsclient.php" server="sls-connect//var/www/html/slsconnect/" local="128624661630000000" remote="128631477990000000" />
+<file name="nusoap-0.7.3.zip" server="172.16.2.22//var/www/html/" local="128830187260000000" remote="129284383620000000" />
+<file name="readme.txt" server="172.16.2.22//var/www/html/" local="128830187270000000" remote="129284383630000000" />
+<file name="sampleclient.php" server="172.16.2.22//var/www/html/" local="128830187280000000" remote="129284383630000000" />
+<file name="server.php" server="172.16.2.22//var/www/html/" local="128830187290000000" remote="129284383650000000" />
+<file name="slsclient.php" server="172.16.2.22//var/www/html/" local="128830187300000000" remote="129284383660000000" />
+<file name="wsclient.php" server="172.16.2.22//var/www/html/" local="128830187310000000" remote="129284383660000000" />
+<file name="nusoap-0.7.3.zip" server="172.16.10.15/html/" local="129939647923497058" remote="129939691630000000" />
+<file name="readme.txt" server="172.16.10.15/html/" local="129939647924001525" remote="129939691630000000" />
+<file name="sampleclient.php" server="172.16.10.15/html/" local="129939647921634374" remote="129939691630000000" />
+<file name="server.php" server="172.16.10.15/html/" local="129939647924226584" remote="129939691630000000" />
+<file name="slsclient.php" server="172.16.10.15/html/" local="129939647921809388" remote="129939691630000000" />
+<file name="wsclient.php" server="172.16.10.15/html/" local="129939647924376615" remote="129939691630000000" />
+>>>>>>> .r50
+</dwsync>

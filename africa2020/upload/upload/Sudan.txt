@@ -1,0 +1,186 @@
+	<h1 id="firstHeading" class="firstHeading">Sudan</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Sudan#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Sudan#searchInput">search</a></div>			<!-- start content -->
+			<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="This article is semi-protected." src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/20px-Padlock-silver-medium.svg.png" width="20" height="20" /></a></div>
+<div class="dablink">This article is about the country in northeastern Africa.  For the geographical region known as The Sudan, see <a href="http://en.wikipedia.org/wiki/Sudan_(region)" title="Sudan (region)">Sudan (region)</a>.  For other uses, see <a href="http://en.wikipedia.org/wiki/Sudan_(disambiguation)" title="Sudan (disambiguation)">Sudan (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;"><big>جمهورية السودان</big><br />
+<i>Jumhūrīyat as Sūdān</i><br />
+Republic of the Sudan</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Sudan.svg" class="image" title="Flag of Sudan"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/125px-Flag_of_Sudan.svg.png" width="125" height="63" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Sudan.gif" class="image" title="Coat of arms of Sudan"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/6/6e/Coat_of_arms_of_Sudan.gif" width="85" height="97" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Sudan" title="Flag of Sudan">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Sudan" title="Coat of arms of Sudan">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>النصر لنا <i>An Naşr Lanā</i><span style="white-space:nowrap;">&#160;&#160;</span><small><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Arabic)</span><br />
+"Victory is Ours"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b>نحن جند لله جند الوطن &#160;<small><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Arabic)</span><br />
+<i><a href="http://en.wikipedia.org/wiki/Nahnu_Jund_Allah_Jund_Al-watan" title="Nahnu Jund Allah Jund Al-watan">We are the Army of God and of Our Land</a></i></small><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationSudan.svg" class="image" title="Location of Sudan"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LocationSudan.svg/250px-LocationSudan.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Khartoum" title="Khartoum">Khartoum</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Sudan&amp;params=15_31_N_32_35_E_type:country(2,505,813)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">15°31′N</span> <span class="longitude">32°35′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">15.517°N 32.583°E</span><span style="display:none">﻿ / <span class="geo">15.517; 32.583</span></span></span></a></span></span></small></td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demographics_of_Sudan" title="Demographics of Sudan" class="mw-redirect">Largest city</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Omdurman" title="Omdurman">Omdurman</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a> and <a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Vernacular" title="Vernacular">Vernacular languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Dinka" title="Dinka">Dinka</a>, <a href="http://en.wikipedia.org/wiki/Nuer" title="Nuer">Nuer</a> and <a href="http://en.wikipedia.org/wiki/Bari_people_(Sudan)" title="Bari people (Sudan)">Bari</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Sudanese_people" title="Sudanese people" class="mw-redirect">Sudanese</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Authoritarianism" title="Authoritarianism">Authoritarian</a> <a href="http://en.wikipedia.org/wiki/Democracy" title="Democracy">democracy</a>, <a href="http://en.wikipedia.org/wiki/Consociationalism" title="Consociationalism">consociationalist</a> <a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Sudan" title="List of Presidents of Sudan">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Omar_al-Bashir" title="Omar al-Bashir">Omar al-Bashir</a> (<a href="http://en.wikipedia.org/wiki/National_Congress_(Sudan)" title="National Congress (Sudan)">NCP</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">First <a href="http://en.wikipedia.org/wiki/List_of_Vice_Presidents_of_Sudan" title="List of Vice Presidents of Sudan" class="mw-redirect">Vice President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Salva_Kiir_Mayardit" title="Salva Kiir Mayardit">Salva Kiir Mayardit</a> (<a href="http://en.wikipedia.org/wiki/Sudan_People%27s_Liberation_Movement" title="Sudan People's Liberation Movement" class="mw-redirect">SPLM</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Second Vice President</td>
+<td><a href="http://en.wikipedia.org/wiki/Ali_Osman_Taha" title="Ali Osman Taha">Ali Osman Taha</a> (<a href="http://en.wikipedia.org/wiki/National_Congress_(Sudan)" title="National Congress (Sudan)">NCP</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td><br />
+January 1, 1956&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E12_m%C2%B2" title="1 E12 m²" class="mw-redirect">2,505,813&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">10th</a>)<br />
+967,495&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>6</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>42,272,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">33rd</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>16.9/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">194th</a>)<br />
+43.7/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$88.037 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$2,309<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$58.029 billion<sup id="cite_ref-imf2_1-2" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,522<sup id="cite_ref-imf2_1-3" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.521&#160;(<font color="#FFCC00">medium</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">148th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Sudanese_pound" title="Sudanese pound">Sudanese pound</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">SDG</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/East_Africa_Time" title="East Africa Time">East Africa Time</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.sd" title=".sd">.sd</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>249</td>
+</tr>
+</table>
+<p><b>Sudan</b> (officially the <b>Republic of the Sudan</b>) (<a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" xml:lang="ar"><big>السودان</big></span> ‎As Sūdān)<sup id="cite_ref-etym_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-etym-2"><span>[</span>3<span>]</span></a></sup> is a country in northeastern <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a>. It is the largest country in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a> and in the <a href="http://en.wikipedia.org/wiki/Arab_World" title="Arab World">Arab World</a>,<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-3"><span>[</span>4<span>]</span></a></sup> and <a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">tenth largest in the world</a> by area. It is bordered by <a href="http://en.wikipedia.org/wiki/Egypt" title="Egypt">Egypt</a> to the north, the <a href="http://en.wikipedia.org/wiki/Red_Sea" title="Red Sea">Red Sea</a> to the northeast, <a href="http://en.wikipedia.org/wiki/Eritrea" title="Eritrea">Eritrea</a> and <a href="http://en.wikipedia.org/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> to the east, <a href="http://en.wikipedia.org/wiki/Kenya" title="Kenya">Kenya</a> and <a href="http://en.wikipedia.org/wiki/Uganda" title="Uganda">Uganda</a> to the southeast, the <a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a> and the <a href="http://en.wikipedia.org/wiki/Central_African_Republic" title="Central African Republic">Central African Republic</a> to the southwest, <a href="http://en.wikipedia.org/wiki/Chad" title="Chad">Chad</a> to the west and <a href="http://en.wikipedia.org/wiki/Libya" title="Libya">Libya</a> to the northwest. The world's longest river, the <a href="http://en.wikipedia.org/wiki/Nile" title="Nile">Nile</a>, bisects the country from south to north.<sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>Sudan is home to one of the world's oldest continuous major civilizations, with historical and urban settlements dating back to 3000 BC.<sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-7"><span>[</span>8<span>]</span></a></sup> The people of Sudan have a long history extending from antiquity, which is intertwined with the <a href="http://en.wikipedia.org/wiki/History_of_Egypt" title="History of Egypt">history of Egypt</a>, with which it was united politically over several periods. After gaining independence from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> in 1956, Sudan suffered <a href="http://en.wikipedia.org/wiki/First_Sudanese_Civil_War" title="First Sudanese Civil War">a civil war</a>, lasting 17 years, subsequently followed by <a href="http://en.wikipedia.org/wiki/Ethnicity" title="Ethnicity" class="mw-redirect">ethnic</a>, <a href="http://en.wikipedia.org/wiki/Religion" title="Religion">religious</a>, and <a href="http://en.wikipedia.org/wiki/Economy" title="Economy">economic</a> conflict between the Northern Sudanese (with Arab and Nubian roots), and the <a href="http://en.wikipedia.org/wiki/Christianity" title="Christianity">Christian</a> and <a href="http://en.wikipedia.org/wiki/Animism" title="Animism">animist</a> <a href="http://en.wikipedia.org/wiki/Nilotes" title="Nilotes" class="mw-redirect">Nilotes</a> of <a href="http://en.wikipedia.org/wiki/Southern_Sudan" title="Southern Sudan">Southern Sudan</a>.<sup id="cite_ref-Shami_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-Shami-8"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-UNEP_9-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-UNEP-9"><span>[</span>10<span>]</span></a></sup> Thus this led to a <a href="http://en.wikipedia.org/wiki/Second_Sudanese_Civil_War" title="Second Sudanese Civil War">second civil war</a> in 1983, and due to continuing political and military struggles, Sudan was seized in a bloodless <a href="http://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat" title="Coup d'état">coup d'état</a> by colonel <a href="http://en.wikipedia.org/wiki/Omar_al-Bashir" title="Omar al-Bashir">Omar al-Bashir</a> in 1989, who thereafter proclaimed himself <a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Sudan" title="List of Presidents of Sudan">President of Sudan</a>, achieved great <a href="http://en.wikipedia.org/wiki/Economic_growth" title="Economic growth">economic growth</a> by implementing <a href="http://en.wikipedia.org/wiki/Macroeconomics" title="Macroeconomics">macroeconomic</a> reforms and finally ended the civil war in 2005 by adopting <a href="http://en.wikipedia.org/wiki/Comprehensive_Peace_Agreement" title="Comprehensive Peace Agreement">a new constitution</a> with rebel groups in the south. Rich of natural resources such as <a href="http://en.wikipedia.org/wiki/Petroleum" title="Petroleum">petroleum</a> and <a href="http://en.wikipedia.org/wiki/Crude_oil" title="Crude oil" class="mw-redirect">crude oil</a>, Sudan's economy is amongst the fastest growing in the world.<sup id="cite_ref-10" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-10"><span>[</span>11<span>]</span></a></sup></p>
+<p>However, after introducing an <a href="http://en.wikipedia.org/wiki/Sharia" title="Sharia">Islamic legal code</a> on the national level, establishing the ruling <a href="http://en.wikipedia.org/wiki/National_Congress_(Sudan)" title="National Congress (Sudan)">National Congress Party</a> (NCP) as the only political party and supporting the usage of recruited Arab militias in guerrilla warfare, such as in the ongoing <a href="http://en.wikipedia.org/wiki/War_in_Darfur" title="War in Darfur">Darfur conflict</a>, al-Bashir's presidency has been marked by thousands of people being displaced and killed, in what has been described as a <a href="http://en.wikipedia.org/wiki/Genocide" title="Genocide">genocide</a>.<sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-11"><span>[</span>12<span>]</span></a></sup> Though officially a <a href="http://en.wikipedia.org/wiki/Presidential_system" title="Presidential system">presidential</a> <a href="http://en.wikipedia.org/wiki/Representative_democracy" title="Representative democracy">representative democratic</a> <a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a>, Sudan is widely considered to be controlled by an <a href="http://en.wikipedia.org/wiki/Authoritarianism" title="Authoritarianism">authoritarian regime</a>, which has led to armed conflict with Chad, obstructed humanitarian assistance to the civilian population and has even led to <a href="http://en.wikipedia.org/wiki/War_crimes" title="War crimes" class="mw-redirect">war crimes</a> charges being issued against members of the government.<sup id="cite_ref-12" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-12"><span>[</span>13<span>]</span></a></sup> This has been followed by severe economic sanctions being put on the country, especially by the <a href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a>.<sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-13"><span>[</span>14<span>]</span></a></sup></p>
+<p>A member of the <a href="http://en.wikipedia.org/wiki/United_Nations" title="United Nations">United Nations</a>, Sudan also maintains membership with the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">AU</a>, <a href="http://en.wikipedia.org/wiki/Arab_League" title="Arab League">LAS</a>, <a href="http://en.wikipedia.org/wiki/Organisation_of_the_Islamic_Conference" title="Organisation of the Islamic Conference">OIC</a> and <a href="http://en.wikipedia.org/wiki/Non-Aligned_Movement" title="Non-Aligned Movement">NAM</a>, as well as serving as an observer in <a href="http://en.wikipedia.org/wiki/World_Trade_Organization" title="World Trade Organization">WTO</a>.<sup id="cite_ref-14" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-14"><span>[</span>15<span>]</span></a></sup> Its capital is <a href="http://en.wikipedia.org/wiki/Khartoum" title="Khartoum">Khartoum</a>, which serves as the political, cultural and commercial center of the nation, while <a href="http://en.wikipedia.org/wiki/Omdurman" title="Omdurman">Omdurman</a> remains the largest city. Among Sudan's population of 42 million people, <a href="http://en.wikipedia.org/wiki/Sunni_islam" title="Sunni islam" class="mw-redirect">Sunni islam</a> is the official and largest religion, while Arabic and <a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a> are the official languages.<sup id="cite_ref-15" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-15"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="http://en.wikipedia.org/wiki/Sudan#cite_note-16"><span>[</span>17<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

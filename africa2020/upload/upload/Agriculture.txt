@@ -1,0 +1,144 @@
+	<h1 id="firstHeading" class="firstHeading">Agriculture</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Agriculture#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Agriculture#searchInput">search</a></div>			<!-- start content -->
+			<table style="line-height:140%; font-size:90%; text-align:center; padding:0px 3px 0px 3px; background:#FeFDF6; border:1px solid #aaaaaa; margin:0.2em 0 0.5em 0.5em; clear:right; float:right;" cellpadding="0" cellspacing="0">
+<tr>
+<td style="padding:3px 0 0 0; margin:0 0 0 0;"><a href="http://en.wikipedia.org/wiki/File:Rice_Field2.jpg" class="image"><img alt="Rice Field2.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rice_Field2.jpg/160px-Rice_Field2.jpg" width="160" height="80" /></a></td>
+</tr>
+<tr>
+<th style="font-size:120%; padding:3px 5px 3px 5px; margin:0 0 0 0;"><strong class="selflink">Agriculture</strong></th>
+</tr>
+<tr>
+<th style="font-size:95%; padding:3px 3px 0px 3px; margin:0 0 0 0; border-top:solid 1px #aaaaaa;">General</th>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Agribusiness" title="Agribusiness">Agribusiness</a> · <strong class="selflink">Agriculture</strong></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Agricultural_science" title="Agricultural science">Agricultural science</a> · <a href="http://en.wikipedia.org/wiki/Agronomy" title="Agronomy">Agronomy</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Animal_husbandry" title="Animal husbandry">Animal husbandry</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Extensive_farming" title="Extensive farming">Extensive farming</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Factory_farming" title="Factory farming">Factory farming</a> · <a href="http://en.wikipedia.org/wiki/Free_range" title="Free range">Free range</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Industrial_agriculture" title="Industrial agriculture">Industrial agriculture</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Intensive_farming" title="Intensive farming">Intensive farming</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Organic_farming" title="Organic farming">Organic farming</a> · <a href="http://en.wikipedia.org/wiki/Permaculture" title="Permaculture">Permaculture</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></td>
+</tr>
+<tr>
+<td style="padding:0px 3px 3px 3px;"><a href="http://en.wikipedia.org/wiki/Urban_agriculture" title="Urban agriculture">Urban agriculture</a></td>
+</tr>
+<tr>
+<th style="font-size:95%; padding:3px 3px 0px 3px; margin:0 0 0 0; border-top:solid 1px #aaaaaa;">History</th>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/History_of_agriculture" title="History of agriculture">History of agriculture</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Neolithic_Revolution" title="Neolithic Revolution">Neolithic Revolution</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Muslim_Agricultural_Revolution" title="Muslim Agricultural Revolution">Muslim Agricultural Revolution</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/British_Agricultural_Revolution" title="British Agricultural Revolution">British Agricultural Revolution</a></td>
+</tr>
+<tr>
+<td style="padding:0px 3px 3px 3px;"><a href="http://en.wikipedia.org/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a></td>
+</tr>
+<tr>
+<th style="font-size:95%; padding:3px 3px 0px 3px; margin:0 0 0 0; border-top:solid 1px #aaaaaa;">Particular</th>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Aquaculture" title="Aquaculture">Aquaculture</a> · <a href="http://en.wikipedia.org/wiki/Dairy_farming" title="Dairy farming">Dairy farming</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Grazing" title="Grazing">Grazing</a> · <a href="http://en.wikipedia.org/wiki/Hydroponics" title="Hydroponics">Hydroponics</a> · <a href="http://en.wikipedia.org/wiki/Integrated_Multi-trophic_Aquaculture" title="Integrated Multi-trophic Aquaculture" class="mw-redirect">IMTA</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Intensive_pig_farming" title="Intensive pig farming">Intensive pig farming</a> · <a href="http://en.wikipedia.org/wiki/Lumber" title="Lumber">Lumber</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Maize" title="Maize">Maize</a> · <a href="http://en.wikipedia.org/wiki/Orchard" title="Orchard">Orchard</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Poultry_farming" title="Poultry farming">Poultry farming</a> · <a href="http://en.wikipedia.org/wiki/Ranch" title="Ranch">Ranching</a> · <a href="http://en.wikipedia.org/wiki/Rice" title="Rice">Rice</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Sheep_husbandry" title="Sheep husbandry">Sheep husbandry</a> · <a href="http://en.wikipedia.org/wiki/Soybean" title="Soybean">Soybean</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/System_of_Rice_Intensification" title="System of Rice Intensification">System of Rice Intensification</a></td>
+</tr>
+<tr>
+<td style="padding:0px 3px 3px 3px;"><a href="http://en.wikipedia.org/wiki/Wheat" title="Wheat">Wheat</a></td>
+</tr>
+<tr>
+<th style="font-size:95%; padding:3px 3px 0px 3px; margin:0 0 0 0; border-top:solid 1px #aaaaaa;">Categories</th>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Category:Agriculture_by_country" title="Category:Agriculture by country">Agriculture by country</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Category:Agriculture_companies" title="Category:Agriculture companies">Agriculture companies</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Category:Biotechnology" title="Category:Biotechnology">Biotechnology</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Category:Farming_history" title="Category:Farming history">Farming history</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Category:Livestock" title="Category:Livestock">Livestock</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Category:Meat_processing" title="Category:Meat processing">Meat processing</a></td>
+</tr>
+<tr>
+<td style="padding:0px 3px 3px 3px;"><a href="http://en.wikipedia.org/wiki/Category:Poultry_farming" title="Category:Poultry farming">Poultry farming</a></td>
+</tr>
+<tr>
+<td>
+<center>
+<div class="portal" style="line-height:100%; font-size:100%; padding:0 3px 0 3px; margin:0 0 0 0; border-top:solid 1px #aaaaaa; border-bottom:solid 1px #aaaaaa;">
+<table style="padding:0 0 0 0; background:#FFFAF8;">
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/File:Farmer_plowing.jpg" class="image"><img alt="Farmer plowing.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Farmer_plowing.jpg/28px-Farmer_plowing.jpg" width="28" height="21" /></a></td>
+<td style="padding:0 3px 0 3px;"><i><b><a href="http://en.wikipedia.org/wiki/Portal:Agropedia" title="Portal:Agropedia" class="mw-redirect">Agropedia portal</a></b></i></td>
+</tr>
+</table>
+</div>
+</center>
+</td>
+</tr>
+<tr>
+<td>
+<div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;; font-size:xx-small;">This box: <a href="http://en.wikipedia.org/wiki/Template:Agriculture" title="Template:Agriculture"><span title="View this template" style="">view</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/wiki/Template_talk:Agriculture" title="Template talk:Agriculture"><span title="Discuss this template" style="">talk</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/w/index.php?title=Template:Agriculture&amp;action=edit" class="external text" rel="nofollow"><span title="Edit this template" style=";">edit</span></a></div>
+</td>
+</tr>
+</table>
+<p><br />
+<b>Agriculture</b> is the production of food and goods through farming and forestry. Agriculture was the key development that led to the rise of human <a href="http://en.wikipedia.org/wiki/Civilization" title="Civilization">civilization</a>, with the <a href="http://en.wikipedia.org/wiki/Animal_husbandry" title="Animal husbandry">husbandry</a> of <a href="http://en.wikipedia.org/wiki/Domestication" title="Domestication">domesticated</a> <a href="http://en.wikipedia.org/wiki/Animal" title="Animal">animals</a> and plants (i.e. <a href="http://en.wikipedia.org/wiki/Crops" title="Crops" class="mw-redirect">crops</a>) creating food <a href="http://en.wikipedia.org/wiki/Surplus" title="Surplus">surpluses</a> that enabled the development of more <a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">densely populated</a> and <a href="http://en.wikipedia.org/wiki/Social_stratification" title="Social stratification">stratified</a> societies. The study of agriculture is known as <a href="http://en.wikipedia.org/wiki/Agricultural_science" title="Agricultural science">agricultural science</a>.</p>
+<p>Agriculture encompasses a wide variety of specialties and techniques, including ways to expand the lands suitable for plant raising, by digging water-channels and other forms of irrigation. <a href="http://en.wikipedia.org/wiki/Cultivation" title="Cultivation">Cultivation</a> of crops on <a href="http://en.wikipedia.org/wiki/Arable_land" title="Arable land">arable land</a> and the <a href="http://en.wikipedia.org/wiki/Pastoralism" title="Pastoralism">pastoral</a> <a href="http://en.wikipedia.org/wiki/Herding" title="Herding">herding</a> of <a href="http://en.wikipedia.org/wiki/Livestock" title="Livestock">livestock</a> on <a href="http://en.wikipedia.org/wiki/Rangeland" title="Rangeland">rangeland</a> remain at the foundation of agriculture. In the past century there has been increasing concern to identify and quantify various forms of agriculture. In the developed world the range usually extends between <a href="http://en.wikipedia.org/wiki/Sustainable_agriculture" title="Sustainable agriculture">sustainable agriculture</a> (e.g. <a href="http://en.wikipedia.org/wiki/Permaculture" title="Permaculture">permaculture</a> or <a href="http://en.wikipedia.org/wiki/Organic_agriculture" title="Organic agriculture" class="mw-redirect">organic agriculture</a>) and <a href="http://en.wikipedia.org/wiki/Intensive_farming" title="Intensive farming">intensive farming</a> (e.g. <a href="http://en.wikipedia.org/wiki/Industrial_agriculture" title="Industrial agriculture">industrial agriculture</a>).</p>
+<p>Modern <a href="http://en.wikipedia.org/wiki/Agronomy" title="Agronomy">agronomy</a>, <a href="http://en.wikipedia.org/wiki/Plant_breeding" title="Plant breeding">plant breeding</a>, <a href="http://en.wikipedia.org/wiki/Pesticides" title="Pesticides" class="mw-redirect">pesticides</a> and <a href="http://en.wikipedia.org/wiki/Fertilizers" title="Fertilizers" class="mw-redirect">fertilizers</a>, and technological improvements have sharply increased yields from cultivation, and at the same time have caused widespread ecological damage and negative human health effects.<sup class="noprint Template-Fact" title="This claim needs references to reliable sources from July 2009" style="white-space:nowrap;">[<i><a href="http://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</a></i>]</sup> <a href="http://en.wikipedia.org/wiki/Selective_breeding" title="Selective breeding">Selective breeding</a> and modern practices in animal husbandry such as <a href="http://en.wikipedia.org/wiki/Intensive_pig_farming" title="Intensive pig farming">intensive pig farming</a> (and similar practices applied to the <a href="http://en.wikipedia.org/wiki/Chicken" title="Chicken">chicken</a>) have similarly increased the output of <a href="http://en.wikipedia.org/wiki/Meat" title="Meat">meat</a>, but have raised concerns about <a href="http://en.wikipedia.org/wiki/Animal_cruelty" title="Animal cruelty" class="mw-redirect">animal cruelty</a> and the health effects of the <a href="http://en.wikipedia.org/wiki/Antibiotics" title="Antibiotics" class="mw-redirect">antibiotics</a>, <a href="http://en.wikipedia.org/wiki/Growth_hormones" title="Growth hormones" class="mw-redirect">growth hormones</a>, and other chemicals commonly used in industrial meat production.<sup class="noprint Template-Fact" title="This claim needs references to reliable sources from July 2009" style="white-space:nowrap;">[<i><a href="http://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</a></i>]</sup></p>
+<p>The major agricultural products can be broadly grouped into <a href="http://en.wikipedia.org/wiki/Food" title="Food">foods</a>, <a href="http://en.wikipedia.org/wiki/Fiber" title="Fiber">fibers</a>, <a href="http://en.wikipedia.org/wiki/Fuel" title="Fuel">fuels</a>, <a href="http://en.wikipedia.org/wiki/Raw_material" title="Raw material">raw materials</a>, <a href="http://en.wikipedia.org/wiki/Pharmaceuticals" title="Pharmaceuticals" class="mw-redirect">pharmaceuticals</a> and <a href="http://en.wikipedia.org/wiki/Stimulants" title="Stimulants" class="mw-redirect">stimulants</a>, and an assortment of ornamental or exotic panget products. In the 2000s, plants have been used to grow <a href="http://en.wikipedia.org/wiki/Biofuel" title="Biofuel">biofuels</a>, <a href="http://en.wikipedia.org/wiki/Biopharmaceutical" title="Biopharmaceutical">biopharmaceuticals</a>, <a href="http://en.wikipedia.org/wiki/Bioplastic" title="Bioplastic">bioplastics</a>,<sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Agriculture#cite_note-0"><span>[</span>1<span>]</span></a></sup> and pharmaceuticals.<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Agriculture#cite_note-1"><span>[</span>2<span>]</span></a></sup> Specific foods include <a href="http://en.wikipedia.org/wiki/Cereal" title="Cereal">cereals</a>, <a href="http://en.wikipedia.org/wiki/Vegetables" title="Vegetables" class="mw-redirect">vegetables</a>, <a href="http://en.wikipedia.org/wiki/Fruit" title="Fruit">fruits</a>, and <a href="http://en.wikipedia.org/wiki/Meat" title="Meat">meat</a>. <a href="http://en.wikipedia.org/wiki/Fiber" title="Fiber">Fibers</a> include <a href="http://en.wikipedia.org/wiki/Cotton" title="Cotton">cotton</a>, <a href="http://en.wikipedia.org/wiki/Wool" title="Wool">wool</a>, <a href="http://en.wikipedia.org/wiki/Hemp" title="Hemp">hemp</a>, <a href="http://en.wikipedia.org/wiki/Silk" title="Silk">silk</a> and <a href="http://en.wikipedia.org/wiki/Flax" title="Flax">flax</a>. <a href="http://en.wikipedia.org/wiki/Raw_material" title="Raw material">Raw materials</a> include lumber and bamboo. Stimulants include <a href="http://en.wikipedia.org/wiki/Tobacco" title="Tobacco">tobacco</a>, <a href="http://en.wikipedia.org/wiki/Alcohol" title="Alcohol">alcohol</a>, <a href="http://en.wikipedia.org/wiki/Opium" title="Opium">opium</a>, <a href="http://en.wikipedia.org/wiki/Cocaine" title="Cocaine">cocaine</a>,and <a href="http://en.wikipedia.org/wiki/Digitalis" title="Digitalis">digitalis</a>. Other useful materials are produced by plants, such as <a href="http://en.wikipedia.org/wiki/Resin" title="Resin">resins</a>. Biofuels include <a href="http://en.wikipedia.org/wiki/Methane" title="Methane">methane</a> from <a href="http://en.wikipedia.org/wiki/Biomass" title="Biomass">biomass</a>, <a href="http://en.wikipedia.org/wiki/Ethanol" title="Ethanol">ethanol</a>, and <a href="http://en.wikipedia.org/wiki/Biodiesel" title="Biodiesel">biodiesel</a>. <a href="http://en.wikipedia.org/wiki/Flower" title="Flower">Cut flowers</a>, <a href="http://en.wikipedia.org/wiki/Nursery_(horticulture)" title="Nursery (horticulture)" class="mw-redirect">nursery plants</a>, tropical fish and birds for the pet trade are some of the ornamental products.</p>
+<p>In 2007, about one third of the world's workers were employed in agriculture. though in 2003agricultural emoloyes are less but due 2 the agricultural awareness it increased rapidly in 2008– the <a href="http://en.wikipedia.org/wiki/Service_(economics)" title="Service (economics)">services</a> sector overtook agriculture as the <a href="http://en.wikipedia.org/wiki/Economic_sector" title="Economic sector">economic sector</a> employing the most people worldwide.<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Agriculture#cite_note-2"><span>[</span>3<span>]</span></a></sup> Despite the fact that agriculture employs over one-third of the world's population, agricultural production accounts for less than five percent of the <a href="http://en.wikipedia.org/wiki/Gross_world_product" title="Gross world product">gross world product</a> (an aggregate of all <a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">gross domestic products</a>).</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

@@ -1,0 +1,562 @@
+	<h1 id="firstHeading" class="firstHeading">South Africa</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/South_Africa#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/South_Africa#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">This article is about the country in southern Africa.  For its predecessor, see <a href="http://en.wikipedia.org/wiki/Union_of_South_Africa" title="Union of South Africa">Union of South Africa</a>.  For the southern region of Africa, see <a href="http://en.wikipedia.org/wiki/Southern_Africa" title="Southern Africa">Southern Africa</a>.</div>
+<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected due to vandalism."><img alt="This article is semi-protected due to vandalism." src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/20px-Padlock-silver-medium.svg.png" width="20" height="20" /></a></div>
+<table style="background:transparent; float:right; margin:0 0 0.5em 1em;&#160;;">
+<tr>
+<td>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">
+<div class="NavFrame collapsed" style="border:none; padding:0;">
+<div class="NavHead" style="width:100%; background:transparent;" align="left">
+<center><b>Republic of South Africa</b></center>
+</div>
+<div class="NavContent" style="text-align:left;">
+<center><small>Republiek&#160;van&#160;Suid-Afrika&#160;(<a href="http://en.wikipedia.org/wiki/Afrikaans_language" title="Afrikaans language" class="mw-redirect">Afrikaans</a>)<br />
+iRiphabliki&#160;yeSewula&#160;Afrika&#160;(<a href="http://en.wikipedia.org/wiki/Southern_Ndebele_language" title="Southern Ndebele language">S. Ndebele</a>)<br />
+iRiphabliki&#160;yomZantsi&#160;Afrika&#160;(<a href="http://en.wikipedia.org/wiki/Xhosa_language" title="Xhosa language">Xhosa</a>)<br />
+iRiphabhuliki&#160;yaseNingizimu&#160;Afrika&#160;(<a href="http://en.wikipedia.org/wiki/Zulu_language" title="Zulu language">Zulu</a>)<br />
+iRiphabhulikhi&#160;yeNingizimu&#160;Afrika&#160;(<a href="http://en.wikipedia.org/wiki/Swazi_language" title="Swazi language" class="mw-redirect">Swazi</a>)<br />
+Repabliki&#160;ya&#160;Afrika-Borwa&#160;(<a href="http://en.wikipedia.org/wiki/Northern_Sotho_language" title="Northern Sotho language">N. Sotho</a>)<br />
+Rephaboliki&#160;ya&#160;Afrika&#160;Borwa&#160;(<a href="http://en.wikipedia.org/wiki/Southern_Sotho_language" title="Southern Sotho language" class="mw-redirect">S. Sotho</a>)<br />
+Rephaboliki&#160;ya&#160;Aforika&#160;Borwa&#160;(<a href="http://en.wikipedia.org/wiki/Tswana_language" title="Tswana language">Tswana</a>)<br />
+Riphabliki&#160;ra&#160;Afrika&#160;Dzonga&#160;(<a href="http://en.wikipedia.org/wiki/Tsonga_language" title="Tsonga language">Tsonga</a>)<br />
+<span class="Unicode">Riphabuḽiki&#160;ya&#160;Afurika&#160;Tshipembe</span>&#160;(<a href="http://en.wikipedia.org/wiki/Venda_language" title="Venda language">Venda</a>)<br />
+<small><i><b>(all 11 names are official)</b></i><sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></small></center>
+</div>
+</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_South_Africa.svg" class="image" title="Flag of South Africa"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/125px-Flag_of_South_Africa.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_South_Africa.svg" class="image" title="Coat of arms of South Africa"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/2/21/Coat_of_arms_of_South_Africa.svg/85px-Coat_of_arms_of_South_Africa.svg.png" width="85" height="112" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_South_Africa" title="Flag of South Africa">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_South_Africa" title="Coat of arms of South Africa">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b><i><span class="Unicode">!ke e: ǀxarra ǁke</span></i><span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/%C7%80Xam_language" title="ǀXam language">ǀXam</a>)<br />
+"Unity In Diversity"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><a href="http://en.wikipedia.org/wiki/National_anthem_of_South_Africa" title="National anthem of South Africa">National anthem of South Africa</a><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationSouthAfrica.svg" class="image" title="Location of South Africa"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/LocationSouthAfrica.svg/250px-LocationSouthAfrica.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Pretoria" title="Pretoria">Pretoria</a> (executive)<br />
+<a href="http://en.wikipedia.org/wiki/Bloemfontein" title="Bloemfontein">Bloemfontein</a> (judicial)<br />
+<a href="http://en.wikipedia.org/wiki/Cape_Town" title="Cape Town">Cape Town</a> (legislative)</td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demographics_of_South_Africa" title="Demographics of South Africa">Largest city</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Johannesburg" title="Johannesburg">Johannesburg</a> <small>(2006)&#160;<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-1"><span>[</span>2<span>]</span></a></sup></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td>
+<div class="NavFrame collapsed" style="border:none; padding:0;">
+<div class="NavHead" style="width:100%; background:transparent;" align="left"><a href="http://en.wikipedia.org/wiki/Languages_of_South_Africa" title="Languages of South Africa">11</a><sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-2"><span>[</span>3<span>]</span></a></sup></div>
+<div class="NavContent" style="text-align:left;"><a href="http://en.wikipedia.org/wiki/Afrikaans" title="Afrikaans">Afrikaans</a><br />
+<a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a><br />
+<a href="http://en.wikipedia.org/wiki/Southern_Ndebele_language" title="Southern Ndebele language">Southern Ndebele</a><br />
+<a href="http://en.wikipedia.org/wiki/Northern_Sotho_language" title="Northern Sotho language">Northern Sotho</a><br />
+<a href="http://en.wikipedia.org/wiki/Sotho_language" title="Sotho language">Southern Sotho</a><br />
+<a href="http://en.wikipedia.org/wiki/Swati_language" title="Swati language">Swazi</a><br />
+<a href="http://en.wikipedia.org/wiki/Tsonga_language" title="Tsonga language">Tsonga</a><br />
+<a href="http://en.wikipedia.org/wiki/Tswana_language" title="Tswana language">Tswana</a><br />
+<a href="http://en.wikipedia.org/wiki/Venda_language" title="Venda language">Venda</a><br />
+<a href="http://en.wikipedia.org/wiki/Xhosa_language" title="Xhosa language">Xhosa</a><br />
+<a href="http://en.wikipedia.org/wiki/Zulu_language" title="Zulu language">Zulu</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_group" title="Ethnic group">Ethnic groups</a></b>&#160;</td>
+<td>79.3% <a href="http://en.wikipedia.org/wiki/Black_people" title="Black people">Black</a><br />
+9.1% <a href="http://en.wikipedia.org/wiki/White_South_African" title="White South African">White</a><br />
+9.0% <a href="http://en.wikipedia.org/wiki/Coloured" title="Coloured">Coloured</a><br />
+2.6% <a href="http://en.wikipedia.org/wiki/Asians_in_South_Africa" title="Asians in South Africa" class="mw-redirect">Asian</a><sup id="cite_ref-statssa-midyear2009_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-statssa-midyear2009-3"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/South_African_people" title="South African people" class="mw-redirect">South African</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Constitutional_democracy" title="Constitutional democracy" class="mw-redirect">Constitutional democracy</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/President_of_South_Africa" title="President of South Africa">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Jacob_Zuma" title="Jacob Zuma">Jacob Zuma</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Deputy_President_of_South_Africa" title="Deputy President of South Africa">Deputy President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Kgalema_Motlanthe" title="Kgalema Motlanthe">Kgalema Motlanthe</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Chairperson_of_the_National_Council_of_Provinces" title="Chairperson of the National Council of Provinces" class="mw-redirect">NCOP Chairman</a></td>
+<td><a href="http://en.wikipedia.org/wiki/M._J._Mahlangu" title="M. J. Mahlangu">M. J. Mahlangu</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Speaker_of_the_South_African_National_Assembly" title="Speaker of the South African National Assembly" class="mw-redirect">National Assembly Speaker</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Max_Sisulu" title="Max Sisulu">Max Sisulu</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Chief_Justice_of_South_Africa" title="Chief Justice of South Africa">Chief Justice</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Pius_Langa" title="Pius Langa">Pius Langa</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from the <a href="http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">United Kingdom</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Union_of_South_Africa" title="Union of South Africa">Union</a></td>
+<td>31 May 1910&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Statute_of_Westminster_1931" title="Statute of Westminster 1931">Statute of Westminster</a></td>
+<td>11 December 1931&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/South_African_referendum,_1960" title="South African referendum, 1960" class="mw-redirect">Republic</a></td>
+<td>31 May 1961&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E12_m%C2%B2" title="1 E12 m²" class="mw-redirect">1 221 037&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">25<sup>th</sup></a>)<br />
+471 443&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>Negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>49,320,000<sup id="cite_ref-statssa-midyear2009_3-1" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-statssa-midyear2009-3"><span>[</span>4<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">25<sup>th</sup></a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2001&#160;census</td>
+<td>44 819 778<sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-4"><span>[</span>5<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>41/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">170<sup>th</sup></a>)<br />
+106.2/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$493.490 billion<sup id="cite_ref-imf2_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-imf2-5"><span>[</span>6<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$10,136<sup id="cite_ref-imf2_5-1" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-imf2-5"><span>[</span>6<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$276.764 billion<sup id="cite_ref-imf2_5-2" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-imf2-5"><span>[</span>6<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$5,684<sup id="cite_ref-imf2_5-3" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-imf2-5"><span>[</span>6<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2000)</td>
+<td>57.8&#160;(<font color="#E0584E">high</font>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td>0.674 <span style="color: #0c0; font-size: larger;">▲</span>&#160;(<font style="color:#fc0">medium</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">121<sup>st</sup></a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/South_African_Rand" title="South African Rand" class="mw-redirect">Rand</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">ZAR</a></code>)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/SAST" title="SAST" class="mw-redirect">SAST</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</span></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>left</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.za" title=".za">.za</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B27" title="+27" class="mw-redirect">+27</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="infobox" cellspacing="5" style="width:22em; text-align:left; font-size:88%; line-height:1.5em;">
+<tr>
+<th colspan="2" class="" style="text-align:center; font-size:125%; font-weight:bold; background:lightblue; align:right;">Historical <a href="http://en.wikipedia.org/wiki/State_(law)" title="State (law)">states</a><br />
+<small>in present-day</small><br />
+<strong class="selflink">South Africa</strong></th>
+</tr>
+<tr>
+<td colspan="2" class="" style="text-align:center;"><a href="http://en.wikipedia.org/wiki/File:South_Africa_topo_continent.png" class="image"><img alt="South Africa topo continent.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/South_Africa_topo_continent.png/150px-South_Africa_topo_continent.png" width="150" height="94" /></a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; background:lightblue;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";text-align:left;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span class="" style="font-size:100%;">before 1600</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Mapungubwe" title="Mapungubwe" class="mw-redirect">Mapungubwe</a> (1050–1270)</div>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; background:lightblue;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";text-align:left;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span class="" style="font-size:100%;">1600-1700</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Cape_Colony" title="Cape Colony">Cape Colony</a> (1652–1910)</div>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; background:lightblue;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";text-align:left;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span class="" style="font-size:100%;">1700-1800</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Swellendam" title="Swellendam">Swellendam</a> (1795)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Graaff_Reinet,_Eastern_Cape" title="Graaff Reinet, Eastern Cape">Graaff Reinet</a> (1795–1796)</div>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; background:lightblue;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";text-align:left;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span class="" style="font-size:100%;">1800-1850</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Griquatown" title="Griquatown" class="mw-redirect">Waterboer's Land</a> (1813–1871)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Zulu_Kingdom" title="Zulu Kingdom">Zulu Kingdom</a> (1818–1897)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Philippolis" title="Philippolis">Adam Kok's Land</a> (1825–1861)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Winburg" title="Winburg">Winburg</a> (1836–1844)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Potchefstroom,_North_West" title="Potchefstroom, North West">Potchefstroom</a> (1837–1848)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Natalia_Republic" title="Natalia Republic">Natalia Republic</a> (1839–1843)</div>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; background:lightblue;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";text-align:left;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span class="" style="font-size:100%;">1850-1875</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Orange_Free_State" title="Orange Free State">Orange Free State</a> (1854–1902)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Utrecht,_KwaZulu-Natal" title="Utrecht, KwaZulu-Natal">Republic of Utrecht</a> (1854–1858)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Lydenburg" title="Lydenburg">Lydenburg Republic</a> (1856–1860)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/South_African_Republic" title="South African Republic">South African Republic</a> (1857–1902)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Griqualand_East" title="Griqualand East">Griqualand East</a> (1861–1879)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Griqualand_West" title="Griqualand West">Griqualand West</a> (1870)</div>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; background:lightblue;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";text-align:left;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span class="" style="font-size:100%;">1875-1900</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Stellaland" title="Stellaland">Stellaland</a> (1882–1885)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Goshen_(South_Africa)" title="Goshen (South Africa)" class="mw-redirect">Goshen</a> (1882–1883)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Vryheid,_KwaZulu-Natal" title="Vryheid, KwaZulu-Natal">Nieuw Republiek</a> (1884–1888)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Klein_Vrystaat" title="Klein Vrystaat">Klein Vrystaat</a> (1886–1891)</div>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; background:lightblue;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="width:100%;;;;">
+<tr>
+<th style=";text-align:left;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">&#160;</div>
+<span class="" style="font-size:100%;">1900-present</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Cape_Colony" title="Cape Colony">Cape Colony</a> (1652–1910)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Union_of_South_Africa" title="Union of South Africa">Union of South Africa</a> (1910–1961)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Transkei" title="Transkei">Transkei</a> (1976–1994)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Bophuthatswana" title="Bophuthatswana">Bophuthatswana</a> (1977–1994)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Venda" title="Venda">Venda</a> (1979–1994)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="http://en.wikipedia.org/wiki/Ciskei" title="Ciskei">Ciskei</a> (1981–1994)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><strong class="selflink">Republic of South Africa</strong> (1961–present)</div>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="" style="text-align:center; background:lightblue; text-align:right;"><a href="http://en.wikipedia.org/wiki/History_of_South_Africa" title="History of South Africa">more</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The <b>Republic of South Africa</b> is a country located at the southern tip of <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a>, with a 2,798&#160;kilometres (1,739&#160;mi) coastline<sup id="cite_ref-6" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-7"><span>[</span>8<span>]</span></a></sup> on the <a href="http://en.wikipedia.org/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a> and <a href="http://en.wikipedia.org/wiki/Indian_Ocean" title="Indian Ocean">Indian Oceans</a>.<sup id="cite_ref-safacts_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-safacts-8"><span>[</span>9<span>]</span></a></sup> To the north lie <a href="http://en.wikipedia.org/wiki/Namibia" title="Namibia">Namibia</a>, <a href="http://en.wikipedia.org/wiki/Botswana" title="Botswana">Botswana</a> and <a href="http://en.wikipedia.org/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a>, to the east are <a href="http://en.wikipedia.org/wiki/Mozambique" title="Mozambique">Mozambique</a> and <a href="http://en.wikipedia.org/wiki/Swaziland" title="Swaziland">Swaziland</a>, while <a href="http://en.wikipedia.org/wiki/Lesotho" title="Lesotho">Lesotho</a> is an independent country surrounded by South Africa.<sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-9"><span>[</span>10<span>]</span></a></sup></p>
+<p>Modern humans have <a href="http://en.wikipedia.org/wiki/Klasies_River_Caves" title="Klasies River Caves">inhabited Southern Africa</a> for more than 100,000 years. At the time of European contact, the indigenous peoples reflected migrations from other parts of Africa, where new tribes had become dominant. Two major groups were <a href="http://en.wikipedia.org/wiki/Xhosa" title="Xhosa">Xhosa</a> and <a href="http://en.wikipedia.org/wiki/Zulu" title="Zulu">Zulu</a> peoples.</p>
+<p>In 1652, a century and a half after the discovery of the Cape Sea Route, the <a href="http://en.wikipedia.org/wiki/Dutch_East_India_Company" title="Dutch East India Company">Dutch East India Company</a> <a href="http://en.wikipedia.org/wiki/History_of_Cape_Colony" title="History of Cape Colony" class="mw-redirect">founded</a> a refreshment station at what would become Cape Town.<sup id="cite_ref-10" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-10"><span>[</span>11<span>]</span></a></sup> Cape Town became a British colony in 1806. European settlement expanded during the 1820s as the <a href="http://en.wikipedia.org/wiki/Boers" title="Boers" class="mw-redirect">Boers</a> (original <a href="http://en.wikipedia.org/wiki/Dutch_people" title="Dutch people">Dutch</a>, <a href="http://en.wikipedia.org/wiki/Flemish_people" title="Flemish people">Flemish</a>, <a href="http://en.wikipedia.org/wiki/German_people" title="German people" class="mw-redirect">German</a> and <a href="http://en.wikipedia.org/wiki/French_people" title="French people">French</a> settlers) and the British <a href="http://en.wikipedia.org/wiki/1820_Settlers" title="1820 Settlers">1820 Settlers</a> claimed land in the north and east of the country. Conflicts arose among the Xhosa, Zulu and <a href="http://en.wikipedia.org/wiki/Afrikaner" title="Afrikaner">Afrikaner</a> groups who competed for territory.</p>
+<p>The discovery of diamonds and later gold triggered the conflict known as the <a href="http://en.wikipedia.org/wiki/Anglo-Boer_War" title="Anglo-Boer War" class="mw-redirect">Anglo-Boer War</a>, as the Boers and the British fought for the control of the South African mineral wealth. Although the Boers were defeated, the British gave limited independence to South Africa in 1910 as a British dominion. Within the country, anti-British policies among white South Africans focused on independence. During the Dutch and British colonial years, racial segregation was mostly informal, though some legislation were enacted to control the settlement and movement of native people, including the <i>Native Location Act of 1879</i> and the system of <i>pass laws</i>.<sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-11"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-12"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-13"><span>[</span>14<span>]</span></a></sup> Power was held by the colonists. In the Boer republics,<sup id="cite_ref-14" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-14"><span>[</span>15<span>]</span></a></sup> from as early as the <a href="http://en.wikipedia.org/wiki/Pretoria_Convention" title="Pretoria Convention">Pretoria Convention</a> (<i>chapter XXVI</i>),<sup id="cite_ref-15" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-15"><span>[</span>16<span>]</span></a></sup> and subsequent South African governments, the system became legally institutionalised <a href="http://en.wikipedia.org/wiki/Racial_segregation" title="Racial segregation">segregation</a>, later known as <i><a href="http://en.wikipedia.org/wiki/Apartheid" title="Apartheid" class="mw-redirect">apartheid</a></i>, which established three classes of racial stratification. South Africa achieved its political independence in 1961 when it was declared a republic. The government legislated for a continuation of apartheid, despite opposition both in and outside of the country. In 1990, South African government began <a href="http://en.wikipedia.org/wiki/Negotiations_to_end_apartheid_in_South_Africa" title="Negotiations to end apartheid in South Africa">negotiations</a> that led to dismantling of discriminative laws, and democratic <a href="http://en.wikipedia.org/wiki/South_African_general_election,_1994" title="South African general election, 1994">elections in 1994</a>. The country then rejoined the <a href="http://en.wikipedia.org/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>.</p>
+<p>South Africa is known for its diversity in cultures, languages, and religious beliefs. Eleven official languages are recognised in the <a href="http://en.wikipedia.org/wiki/Constitution_of_South_Africa" title="Constitution of South Africa">constitution</a>.<sup id="cite_ref-safacts_8-1" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-safacts-8"><span>[</span>9<span>]</span></a></sup> English is the most commonly spoken language in official and commercial public life; however, it is only the fifth most-spoken home language.<sup id="cite_ref-safacts_8-2" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-safacts-8"><span>[</span>9<span>]</span></a></sup> South Africa is ethnically diverse, with the largest <a href="http://en.wikipedia.org/wiki/Whites_in_South_Africa" title="Whites in South Africa" class="mw-redirect">Caucasian</a>, Indian, and racially mixed communities in Africa. Although 79.5% of the South African population is Black,<sup id="cite_ref-statssa-midyear2009_3-2" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-statssa-midyear2009-3"><span>[</span>4<span>]</span></a></sup> this represents a variety of ethnic groups and different <a href="http://en.wikipedia.org/wiki/Bantu_languages" title="Bantu languages">Bantu languages</a>, nine of which have official status.<sup id="cite_ref-safacts_8-3" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-safacts-8"><span>[</span>9<span>]</span></a></sup> About a quarter of the population is unemployed<sup id="cite_ref-16" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-16"><span>[</span>17<span>]</span></a></sup> and lives on less than US$ 1.25 a day.<sup id="cite_ref-17" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-17"><span>[</span>18<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

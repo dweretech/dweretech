@@ -1,0 +1,186 @@
+	<h1 id="firstHeading" class="firstHeading">Zambia</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Zambia#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Zambia#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">Not to be confused with <a href="http://en.wikipedia.org/wiki/Sambia" title="Sambia">Sambia</a>.</div>
+<dl>
+<dd><i>"ZMB" redirects here. This can also refer to the <a href="http://en.wikipedia.org/wiki/Berlin_Zoological_Museum" title="Berlin Zoological Museum" class="mw-redirect">Berlin Zoological Museum</a>.</i></dd>
+</dl>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">
+<div style="padding-top:0.25em;">Republic of Zambia</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Zambia.svg" class="image" title="Flag of Zambia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/125px-Flag_of_Zambia.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_zambia.jpg" class="image" title="Coat of arms of Zambia"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Coat_of_arms_of_zambia.jpg/85px-Coat_of_arms_of_zambia.jpg" width="85" height="95" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Zambia" title="Flag of Zambia">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Zambia" title="Coat of arms of Zambia">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"One Zambia, One Nation"</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Stand_and_Sing_of_Zambia,_Proud_and_Free" title="Stand and Sing of Zambia, Proud and Free">Stand and Sing of Zambia, Proud and Free</a></i><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationZambia.svg" class="image" title="Location of Zambia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/LocationZambia.svg/250px-LocationZambia.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Zambia" title="Demographics of Zambia">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Lusaka" title="Lusaka">Lusaka</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Zambia&amp;params=15_25_S_28_17_E_type:country(752,618)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">15°25′S</span> <span class="longitude">28°17′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">15.417°S 28.283°E</span><span style="display:none">﻿ / <span class="geo">-15.417; 28.283</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2"><a href="http://en.wikipedia.org/wiki/Regional_language" title="Regional language">Recognised regional&#160;languages</a></td>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Nyanja" title="Nyanja" class="mw-redirect">Nyanja</a>, <a href="http://en.wikipedia.org/wiki/Bemba_language" title="Bemba language">Bemba</a>, <a href="http://en.wikipedia.org/wiki/Lunda" title="Lunda">Lunda</a>, <a href="http://en.wikipedia.org/wiki/Tonga_language_(Zambia)" title="Tonga language (Zambia)">Tonga</a>, <a href="http://en.wikipedia.org/wiki/Nkoya" title="Nkoya">Nkoya</a>, <a href="http://en.wikipedia.org/wiki/Lozi" title="Lozi">Lozi</a>, <a href="http://en.wikipedia.org/wiki/Luvale" title="Luvale" class="mw-redirect">Luvale</a>, <a href="http://en.wikipedia.org/wiki/Kaonde" title="Kaonde" class="mw-redirect">Kaonde</a>, and about 65 other indigenous languages.</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Zambian_people" title="Zambian people" class="mw-redirect">Zambian</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Republic" title="Republic">Republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Zambia" title="List of Presidents of Zambia">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Rupiah_Banda" title="Rupiah Banda">Rupiah Banda</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Vice_Presidents_of_Zambia" title="List of Vice Presidents of Zambia">Vice President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/George_Kunda" title="George Kunda">George Kunda</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Date</td>
+<td>24 October 1964&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">752,618&#160;km<sup>2</sup></a>&#160;<sup id="cite_ref-area_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Zambia#cite_note-area-0"><span>[</span>1<span>]</span></a></sup>(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">39th</a>)<br />
+290,587&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>1</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>12,935,000<sup id="cite_ref-unpop_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Zambia#cite_note-unpop-1"><span>[</span>2<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">71st</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2000&#160;census</td>
+<td>9,885,591<sup id="cite_ref-censubibpibjnii_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Zambia#cite_note-censubibpibjnii-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>17.2/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">191st</a>)<br />
+44.5/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$17.409 billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Zambia#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,482<sup id="cite_ref-imf2_3-1" class="reference"><a href="http://en.wikipedia.org/wiki/Zambia#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$14.654 billion<sup id="cite_ref-imf2_3-2" class="reference"><a href="http://en.wikipedia.org/wiki/Zambia#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,247<sup id="cite_ref-imf2_3-3" class="reference"><a href="http://en.wikipedia.org/wiki/Zambia#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2002–03)</td>
+<td>42.1&#160;(<span style="color:#fc0;">medium</span>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.434&#160;(<span style="color:#e0584e;">low</span>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">165th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Zambian_kwacha" title="Zambian kwacha">Zambian kwacha</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">ZMK</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Central_Africa_Time" title="Central Africa Time">CAT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><i>not observed</i>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>left</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.zm" title=".zm">.zm</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>260</td>
+</tr>
+</table>
+<p>The <b>Republic of Zambia</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ˈzæmbiə/</a></span>) is a <a href="http://en.wikipedia.org/wiki/Landlocked_country" title="Landlocked country">landlocked country</a> in <a href="http://en.wikipedia.org/wiki/Southern_Africa" title="Southern Africa">Southern Africa</a>. The neighbouring countries are the <a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a> to the north, <a href="http://en.wikipedia.org/wiki/Tanzania" title="Tanzania">Tanzania</a> to the north-east, <a href="http://en.wikipedia.org/wiki/Malawi" title="Malawi">Malawi</a> to the east, <a href="http://en.wikipedia.org/wiki/Mozambique" title="Mozambique">Mozambique</a>, <a href="http://en.wikipedia.org/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a>, <a href="http://en.wikipedia.org/wiki/Botswana" title="Botswana">Botswana</a>, and <a href="http://en.wikipedia.org/wiki/Namibia" title="Namibia">Namibia</a> to the south, and <a href="http://en.wikipedia.org/wiki/Angola" title="Angola">Angola</a> to the west. The capital city is <a href="http://en.wikipedia.org/wiki/Lusaka" title="Lusaka">Lusaka</a>, located in the southeast of the country. The population is concentrated mainly around the capital <a href="http://en.wikipedia.org/wiki/Lusaka" title="Lusaka">Lusaka</a> in the south and the <a href="http://en.wikipedia.org/wiki/Copperbelt" title="Copperbelt">Copperbelt</a> to the northwest.</p>
+<p>Zambia has been inhabited for thousands of years by <a href="http://en.wikipedia.org/wiki/Hunter-gatherer" title="Hunter-gatherer">hunter-gatherers</a> and migrating tribes. After sporadic visits by <a href="http://en.wikipedia.org/wiki/European_exploration_of_Africa" title="European exploration of Africa">European explorers</a> starting in the 18th century, Zambia was gradually claimed and occupied by the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">British</a> as <a href="http://en.wikipedia.org/wiki/Protectorate" title="Protectorate">protectorate</a> of <a href="http://en.wikipedia.org/wiki/Northern_Rhodesia" title="Northern Rhodesia">Northern Rhodesia</a> towards the end of the nineteenth century.</p>
+<p>On 24 October 1964, the protectorate gained independence with the new name of Zambia, derived from the <a href="http://en.wikipedia.org/wiki/Zambezi" title="Zambezi">Zambezi</a> river which flows through the country. Zambia was governed the <a href="http://en.wikipedia.org/wiki/Single-party_state" title="Single-party state">single-party</a> rule of President <a href="http://en.wikipedia.org/wiki/Kenneth_Kaunda" title="Kenneth Kaunda">Kenneth Kaunda</a> whose 27 years of <a href="http://en.wikipedia.org/wiki/Socialist" title="Socialist" class="mw-redirect">socialist</a> policies are said to have hurt the economy.<sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/Zambia#cite_note-4"><span>[</span>5<span>]</span></a></sup> Kaunda acceded to opposition demands for multiparty elections, and in 1991 peacefully relinquished power. Zambia has been a multiparty <a href="http://en.wikipedia.org/wiki/Democracy" title="Democracy">democracy</a> since 1991. Today the country still faces steep challenges from poverty and AIDS. An estimated one in five adults is <a href="http://en.wikipedia.org/wiki/HIV/AIDS_in_Zambia" title="HIV/AIDS in Zambia">infected with HIV</a>. The average per capita income is US $1150 (World Bank, 2008). About 60&#160;% of the population are reportedly living on less than 1.25 dollars per day.<sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Zambia#cite_note-5"><span>[</span>6<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

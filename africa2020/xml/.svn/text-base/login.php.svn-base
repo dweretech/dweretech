@@ -1,0 +1,19 @@
+ <div id="userlogin" class="AVForms">
+      <form   name="formUserAuth"  id="LoginForm"  >
+        <table  >
+          <tr>
+            <td > Username:</td>
+            <td><input type="text" name="uname" id="uname2"></td>
+          </tr>
+          <tr>
+            <td>Password:</td>
+            <td><input type="password" name="pname" id="pname2"></td>
+          </tr>
+        </table>
+        <div align="center"><a href="#" onClick="return checkform();">Login</a> | 
+        <a href="#" onClick=" getMainContentStatus('AVLoginV','newuser.php');
+        clearForm(document.formjoinAVNet);
+        clearForm(document.formUserAuth)"> Create account</a> | 
+        <a href="#" onClick="getText('AVLoginV',document.formSearch.txtSearch.value)">Cancel</a></div>
+      </form>
+      </div>

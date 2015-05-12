@@ -1,0 +1,108 @@
+	<h1 id="firstHeading" class="firstHeading">Trading</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub"></div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="http://en.wikipedia.org/wiki/Trading#mw-head">navigation</a>,
+					<a href="http://en.wikipedia.org/wiki/Trading#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" width="37" height="40" /></td>
+<td class="mbox-text" style="">Look up <i><b><a href="http://en.wiktionary.org/wiki/Special:Search/trading" class="extiw" title="wiktionary:Special:Search/trading">trading</a></b></i> in <a href="http://en.wikipedia.org/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>, the free dictionary.</td>
+</tr>
+</table>
+<p><b>Trading</b> can refer to:</p>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Trade" title="Trade">Trade</a>, the voluntary exchange of goods, services, or both
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/International_trade" title="International trade">International trade</a>, importing and exporting</li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Trader_(finance)" title="Trader (finance)">Trader (finance)</a>, a buyer and seller of financial instruments</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Trading&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Logrolling" title="Logrolling">Horse trading</a>, trading of votes by legislative members</li>
+</ul>
+<table id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig" style="">
+<tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"><a href="http://en.wikipedia.org/wiki/File:Disambig_gray.svg" class="image"><img alt="Disambig gray.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" width="30" height="23" /></a></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;">This <a href="http://en.wikipedia.org/wiki/Help:Disambiguation" title="Help:Disambiguation">disambiguation</a> page lists articles associated with the same title.<br />
+<small>If an <a href="http://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Trading&amp;namespace=0" class="external text" rel="nofollow">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</small></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1492/1000000
+Post-expand include size: 4131/2048000 bytes
+Template argument size: 1232/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1062058-0!1!0!default!!en!4 and timestamp 20101204111407 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/Trading">http://en.wikipedia.org/wiki/Trading</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="http://en.wikipedia.org/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">Disambiguation pages</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">All article disambiguation pages</a></span> | <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">All disambiguation pages</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Trading" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><a href="http://en.wikipedia.org/wiki/Trading"  title="View the content page [c]" accesskey="c"><span>Article</span></a></li>
+					<li  id="ca-talk"><a href="http://en.wikipedia.org/wiki/Talk:Trading"  title="Discussion about the content page [t]" accesskey="t"><span>Discussion</span></a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="http://en.wikipedia.org/wiki/Trading#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><a href="http://en.wikipedia.org/wiki/Trading" ><span>Read</span></a></li>
+					<li id="ca-edit"><a href="/w/ind
