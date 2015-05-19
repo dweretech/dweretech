@@ -1,3 +1,4 @@
+
 <?php
 session_start();
  //
@@ -72,6 +73,7 @@ srand();
 //-----------------------
 
 ?>
+
 <html>
 <meta name="description" content="My Africa Vision 2020" >
 <meta name="keywords" content="My Africa Vision 2020, NGOs, promote Trade, Tourism, Development, 
@@ -81,7 +83,10 @@ srand();
 <LINK REL="SHORTCUT ICON" HREF="images/mamafrica.ico">
 <title>My Africa Vision 2020</title>
 <script src="js/process.js"></script>
+<script src="js/dailydeals.js" type="text/javascript"></script>
+ 
 <script language="JavaScript" type="text/JavaScript">
+
 <!--
 function MM_callJS(jsStr) { //v2.0
 //alert(jsStr);
@@ -160,6 +165,7 @@ function logout(){
  
 window.location="index.php";
 }
+
 //-->
 </script>
 <style type="text/css">
@@ -213,6 +219,9 @@ a {
 </style>
 <!--MM_showHideLayers('AVMap','','hide');MM_showHideLayers('AVMapH','','hide');MM_showHideLayers('AVMapS','','show'); getText('AVbodyV',document.AVFormContent.file.value='community');getCountryText('community')/-->
 <script src="css/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript">
+	setInterval("swapImage()",1800);
+</script>
 <!-- body  onload = "getText('AVbodyV','Africa');"> <!-- document.AVFormContent.file.value='community'getText('AVCenterStage','avmap.txt') -->
 <?php
  if($challenge=='updated') {
@@ -221,31 +230,100 @@ a {
  else
     echo "<body  onload = \"getText('AVbodyV','Africa')\">";
  ?>
-<table width="958" border="0" align="center" cellpadding="4" cellspacing="0" bgcolor="#C4B484">
+<table width="958" border="0" align="center" cellpadding="4" cellspacing="0" bgcolor="#C4B484" class="AVMapShow" >
   <tr bgcolor="#C4B484" >
-    <td height="10" bgcolor="#FCFCC4" class="AVMenu"><div id="AvLogOut">  <!--| <a href="#" target="_self" onClick="getText('AVbodyV',document.AVFormContent.file.value='home')">Home</a> <a href="#" V',document.AVFormContent.file.value='about')">About us</a> //--> 
+    <td rowspan="5" valign="top" bgcolor="#FCFCC4" class="AVMenu"><div id="AvLogOut">  <!--| <a href="#" target="_self" onClick="getText('AVbodyV',document.AVFormContent.file.value='home')">Home</a> <a href="#" V',document.AVFormContent.file.value='about')">About us</a> //--> 
      
-<a href="#" target="_self" onClick="javascript:location='index.php'">HOME </a> | <a href="#" target="_self" onClick="MM_callJS('Africa')"> My Community</a> | <a href="#" onClick="M_callJS('Africa')">Trading: $1</a> |
-<a href="#" target="_self"  onClick="getText('AVLoginV','login.php')">Login</a></div></td>
-    <td width="440"><div align="center"><span class="AVHeaders">Africa Vision 2020 </span></div></td>
-    <td width="160" rowspan="3" class="AVMenu style18"> <span id="WhatIsNew" > </span>
+<a href="#" target="_self" onClick="MM_callJS('Africa')" >HOME </a> | <a href="#" target="_self" onClick="MM_callJS('Africa')"> About</a> | <a href="#" onClick="M_callJS('Africa')">Trading:</a> | <a href="#" target="_self"  onClick="getText('AVLoginV','login.php')">Login</a></div>
+    <a href="#"  onClick="getProfileText(document.formSearch.userinfo.value)"><div id="myProfile"> <?=$myname?></div></a> <?=$ssc?> 
+      <form name="formSearch" method="post" action="#" target="_self" 
+       onClick="getText('AVbodyV',document.formSearch.txtSearch.value);" >
+        <input name="button" type="button" class="AVMenu" id="button2"   value="Search"  
+        onClick="getText('AVbodyV',document.formSearch.txtSearch.value);">
+        <input type="text" name="txtSearch" id="txtSearch2" value="<?=$mystate?>"  
+          onFocus="MM_showHideLayers('AVSrch','','show');">
+        <br>
+        <!-- SearchNow(document.formSearch.txtSearch.value) /-->
+        <span class="AVSrch" id="AVSrch">
+        <input name="union" type="radio" value="country"  id="AVSrch2">
+        Country |
+        <input name="union" type="radio" value="web"  id="AVSrchWeb" 
+        onClick="DoAdmin('AVbodyV',document.formSearch.userinfo.value +';reset/'+document.formSearch.txtSearch.value )" >
+        Web </span>
+        <input type="hidden" name="userinfo" id="mySid" value="<?=$challenge?>">
+      </form>
+      <div id="ShowDealsToday" align="left" style="border-color:#0033FF" class="circular"  > Deal</div>
+     <div id="AVbodyV"> <!-- Space to place All the Application messaging -->
+        <form name="AVFormContent" id="AVFormContent"   class="AVbodyText"   >
+          <input type="hidden" name="file" value="goal" onClick="getText('AVbodyV',this.value)">
+        </form>
+    </div>     
+      <div id="AVLoginV" > </div> <!-- Space to place login and create accout box -->    </td>
+    <td width="440" height="10" valign="top"><div align="center"><span class="AVHeaders"> <h1>Africa Vision 2020 </h1></span></div></td>
+    <td width="160" rowspan="5" valign="top" class="AVMenu style18"> <span id="WhatIsNew" > </span>
       <br>
       <a href="http://www.dvlottery.state.gov" target="_blank" class="AVMenu style18">US Visa Lottery 2011</a>
-    <div align="right"></div>    <div align="right"></div></td>
+    <div align="right"></div>    <div align="right"></div>  
+      
+      <div align="left" id="MyToDo" class="AVForms2" style="visibility:hidden">
+        <div align="left"><span class="AVHeaders" style="azimuth:center">To-Do</span><span class="Style21"><br>
+            <a href="#" 
+    onClick="getText('AVCenterStage','notes.php;document.formSearch.userinfo.value')"  id="AVMapH">Notes </a> | <a href="#" onClick="getText('AVCenterStage','album.php;document.formSearch.userinfo.value')">Album</a> | <a href="#" onClick="DoAdmin('AVbodyV',document.formSearch.userinfo.value +';0')">List</a><br>
+          <span class="style19 style19"><a href="#"  onFocus="getText('AVCenterStage','notes.php;document.formSearch.userinfo.value')" onClick="DoNotes('AVCenterStage;list')">myProjects</a></span></span> <span class="AVMenu style18 style19 style19">
+        
+          </span></div>
+      </div>
+    <hr>    <div align="right"  class="AVMenu" id="AVFormMember"> <span class="style19">Member since [<span class="style28">2009</span>]<br>
+      Status:</span> <span class="style20"><span class="style30">Gold Member</span></span> <br>
+    <span class="AVForms">[<a href="#" onClick="getText('AVCenterStage','subscribe.php')">Re-New</a>]</span></div> 
+       <span class="style20"><a href="#" onClick="getText('NewsAfrica','Diversity Visa')">What's New? </a>      </span>
+       <ul>
+                <li>2020 Notes</li>
+        <li>Jobs.</li>
+        <li><a href="#" target="_self" onClick="MM_showHideLayers('AVMap','','hide');MM_showHideLayers('AVMapH','','hide');MM_showHideLayers('AVMapS','','show');getText('AVbodyV','community')" >Community.</a></li>
+       
+      </ul>
+      <p>&nbsp;</p>      <div align="center">
+        <p>***<a href="javascript:history.back(1)" class="style10"><font color=red>Please Rate this Web Site</font></a> *** </p>
+        </div>      <div id="poll" class="AVForms">
+        <p>
+        <div align="center"  >Was this web site helpful you? </div>
+        <hr>
+        <script src="js/poll.js"></script>
+        <form name="FVote" class="AVForms">
+          <div align="center">Yes:
+              <input type="radio" name="vote" 
+value="0" onClick="getVote(this.value)">
+          </div>
+          <hr>
+          <div align="center">No:
+              <input type="radio" name="vote" 
+value="1" onClick="getVote(this.value)">
+          </div>
+          
+        </form>
+        <hr>
+    </div>
+        <span class="style8">If you like a copy of this <u><strong>Web Site Rating Script</strong></u> Please use the donation $3 to our program and we will send you a copy with instructions to download or mail you a CD. Thank you!</span>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+          <input type="hidden" name="cmd2" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id2" value="374939">
+          <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit2" alt="">
+          <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+    <p>        <p>
+    </td>
   </tr>
   <tr bgcolor="#FFCC00">
-    <td height="21" bgcolor="#FCFCC4" class="AVMenu">
-    <a href="#"  onClick="getProfileText(document.formSearch.userinfo.value)"><div id="myProfile"> <?=$myname?></div></a> <?=$ssc?> </td>
-    <td width="440" rowspan="5" valign="top" bgcolor="#C4B484" class="ShowMe"> <div align="left">
-      <p><strong><img src="images/mpoll.gif" alt="My Picture" name="mypicture" width="12" height="61" hspace="2" vspace="0" border="0" align="left"><span class="AVbodyText style19">Welcome!</span> <span class="AVbodyText"> <br><strong>My
+    <td width="440" valign="top" bgcolor="#C4B484" class="ShowMe"> <div align="left">
+      <p><strong><img src="images/mpoll.gif" alt="My Picture" name="mypicture" width="13" height="82" hspace="2" vspace="0" border="0" align="left"><span class="AVbodyText style19">Welcome!</span> <span class="AVbodyText"> <br><strong>My
         place for Real-Time Resources. Know all about =&gt; <a href="#" onClick="getText('AVbodyV','Africa')">eAfrica</a></strong></span><br>
         <strong><a href="#" onClick="MM_callJS('Barter')" >Life Insurance</a> | <a href="#" onClick="MM_callJS('Tourism')">Tourism </a>| <a href="#" onClick="MM_callJS('Economic Development')">Economic
-        Development</a> | <a href="#" onClick="MM_callJS('Health care')">Health
-          Care</a> | <a href="#" onClick="MM_callJS('Technology')"  >Technology</a> | <a href="#" onClick="MM_callJS('Exploration')"  >Exploration</a> | <a href="#" onClick="MM_callJS('Minerals')">Minerals</a> | <a href="#" onClick="MM_callJS('Food')"  >Food </a>| <a href="#" onClick="MM_callJS('Agriculture')" >Agriculture</a> | <a href="#" onClick="MM_callJS('Loan')"  >Micro
-            Finance & Loans</a> | <a href="#" onClick="MM_callJS('Infrastructure')"  >Infrastructure
-        planning</a></strong> |</p> 
-</div>  
-    <hr>
+          Development</a> | <a href="#" onClick="MM_callJS('Health care')">Health
+            Care</a> | <a href="#" onClick="MM_callJS('Technology')"  >Technology</a> | <a href="#" onClick="MM_callJS('Exploration')"  >Exploration</a> | <a href="#" onClick="MM_callJS('Minerals')">Minerals</a> | <a href="#" onClick="MM_callJS('Food')"  >Food </a>| <a href="#" onClick="MM_callJS('Agriculture')" >Agriculture</a> | <a href="#" onClick="MM_callJS('Loan')"  >Micro
+            Finance & Loans</a> | <a href="#" onClick="MM_callJS('Infrastructure')"  >Infrastructure planning</a></strong> |  <a href="#" onClick="alert('Flags in ')"  >VIEW image</a></strong> </p> 
+  </div>  
+      <hr>
       <span class="style11 AVbodyText" id="AVCenterStage" ><img src="images/AFRICA_MAP.gif" width="440" height="440" border="0" usemap="#Map"   id="AVMap" class="AVMapShow"  >
       <map name="Map">
         <area shape="poly" coords="230,397,231,398" href="#">
@@ -312,109 +390,19 @@ a {
       </span>
       <span id="AFVNotes"></span>
       <table width="440" height="139"><tr><td width="421" valign="top">
-      <span  id="NewsAfrica">
-      Events
-      &gt;&gt;</span>
+        <span  id="NewsAfrica">
+          Events
+          &gt;&gt;</span>
       </td></tr></table>
     </td>
   </tr>
-  <tr valign="top">
-    <td height="0" bgcolor="#FCFCC4">
-      <form name="formSearch" method="post" action="#" target="_self" 
-       onClick="getText('AVbodyV',document.formSearch.txtSearch.value);" >
-        <input name="button" type="button" class="AVMenu" id="button2"   value="Search"  
-        onClick="getText('AVbodyV',document.formSearch.txtSearch.value);">
-        <input type="text" name="txtSearch" id="txtSearch2" value="<?=$mystate?>"  
-          onFocus="MM_showHideLayers('AVSrch','','show');">
-        <br>
-        <!-- SearchNow(document.formSearch.txtSearch.value) /-->
-        <span class="AVSrch" id="AVSrch">
-        <input name="union" type="radio" value="country"  id="AVSrch2">
-        Country |
-        <input name="union" type="radio" value="web"  id="AVSrchWeb" 
-        onClick="DoAdmin('AVbodyV',document.formSearch.userinfo.value +';reset/'+document.formSearch.txtSearch.value )" >
-        Web </span>
-        <input type="hidden" name="userinfo" id="mySid" value="<?=$challenge?>">
-      </form></td>
-  </tr>
-  <tr valign="top">
-    <td rowspan="6" valign="top" bgcolor="#FCFCC4" class="AVbodyText"> 
-     <div id="AVLoginV" > </div> <!-- Space to place login and create accout box -->
-     <div id="AVbodyV"> <!-- Space to place All the Application messaging -->
-        <form name="AVFormContent" id="AVFormContent"   class="AVbodyText"   >
-          <input type="hidden" name="file" value="goal" onClick="getText('AVbodyV',this.value)">
-        </form>
-    </div>    </td> 
-    <td width="160" height="21" align="center" valign="top" bgcolor="#C4B484"  >  
-      
-      <div align="left" id="MyToDo" class="AVForms2" style="visibility:hidden">
-        <div align="left"><span class="AVHeaders" style="azimuth:center">To-Do</span><span class="Style21"><br>
-            <a href="#" 
-    onClick="getText('AVCenterStage','notes.php;document.formSearch.userinfo.value')"  id="AVMapH">Notes </a> | <a href="#" onClick="getText('AVCenterStage','album.php;document.formSearch.userinfo.value')">Album</a> | <a href="#" onClick="DoAdmin('AVbodyV',document.formSearch.userinfo.value +';0')">List</a><br>
-          <span class="style19 style19"><a href="#"  onFocus="getText('AVCenterStage','notes.php;document.formSearch.userinfo.value')" onClick="DoNotes('AVCenterStage;list')">myProjects</a></span></span> <span class="AVMenu style18 style19 style19">
-        
-          </span></div>
-      </div>
-    <hr>
-    
-    </td>
- 
-  </tr>
-  <tr valign="top">
-    <td height="21" align="center" valign="top" bgcolor="#C4B484" ><div align="right"  class="AVMenu" id="AVFormMember"> <span class="style19">Member since [<span class="style28">2009</span>]<br>
-      Status:</span> <span class="style20"><span class="style30">Gold Member</span></span> <br>
-  <span class="AVForms">[<a href="#" onClick="getText('AVCenterStage','subscribe.php')">Re-New</a>]</span></div></td>
-  </tr>
-  <tr>
-  
-    <td height="400" valign="top" bgcolor="#C4B484" class="AVForms"> 
-       <span class="style20"><a href="#" onClick="getText('NewsAfrica','Diversity Visa')">What's
-       New? </a>      </span>
-       <ul>
-                <li>Limited Resources? Hire (:-!</li>
-        <li>Web job.</li>
-        <li><a href="#" target="_self" onClick="MM_showHideLayers('AVMap','','hide');MM_showHideLayers('AVMapH','','hide');MM_showHideLayers('AVMapS','','show');getText('AVbodyV','community')" >Your Community.</a></li>
-        <li>Counseling w/o affairs.</li>
-      </ul>
-      <p>&nbsp;</p>      <div align="center">
-        <p>***<a href="javascript:history.back(1)" class="style10"><font color=red>Please Rate this Web Site</font></a> *** </p>
-        </div>      <div id="poll" class="AVForms">
-        <p>
-        <div align="center"  >Was this web site helpful you? </div>
-        <hr>
-        <script src="js/poll.js"></script>
-        <form name="FVote" class="AVForms">
-          <div align="center">Yes:
-              <input type="radio" name="vote" 
-value="0" onClick="getVote(this.value)">
-          </div>
-          <hr>
-          <div align="center">No:
-              <input type="radio" name="vote" 
-value="1" onClick="getVote(this.value)">
-          </div>
-          
-        </form>
-        <hr>
-    </div>
-        <span class="style8">If you like a copy of this <u><strong>Web Site Rating Script</strong></u> Please use the donation $3 to our program and we will send you a copy with instructions to download or mail you a CD. Thank you!</span>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-          <input type="hidden" name="cmd2" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id2" value="374939">
-          <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit2" alt="">
-          <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-    <p></td>
   <tr>
     <td valign="top"  bgcolor="#C4B484"><div align="center" class="AVInfo"> <a href="#">Technology</a> | <a href="#">Facebook</a> | <a href="#">AllAfrica</a> | <a href="#">News</a> | <a href="#">Scholarship</a> | <a href="#">USCIS</a> |<a href="#"> US Embassy</a> </div></td>
-    <td rowspan="2" valign="top" bgcolor="#C4B484" class="AVForms"><p>
-    </td>
   <tr>
     <td valign="top"  bgcolor="#C4B484">&nbsp;</td>
   </tr>
   <tr>
     <td width="440" valign="top" bgcolor="#C4B484" class="AVbodyText">&nbsp;</td>
-    <td valign="top" bgcolor="#C4B484"></td>
   </tr>
   <tr bordercolor="#FCFCC4" bgcolor="#FCFCC4"><td colspan="3"></td>
   </tr><tr bordercolor="#FCFCC4" bgcolor="#FCFCC4">

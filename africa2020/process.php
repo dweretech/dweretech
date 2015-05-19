@@ -5,8 +5,6 @@
  //
 $UserInfo = $_REQUEST['UserInfo'];
  //echo 'found username: '.$myuname.'<br>File name is<br>';
-GLOBAL $NewsContent;
-
 $NewsContent = "<h3> DIVERSITY VISA NEWS</h3> <br> Processing ".$UserInfo ;
 
 if((strpos($UserInfo,".txt"))||(strpos($UserInfo,".php"))) {
@@ -40,6 +38,7 @@ if (file_exists($filename)) {
 else {
 //GetOnlineData($state);
 //echo "Keyword sought " . $state;
+echo $NewsContent;
 $success=GetDBData($state);
   if(!$success) {
     echo '<br> Updating '.$state.' ...  ... online <br>';
@@ -49,10 +48,12 @@ $success=GetDBData($state);
 	  GetOnlineData($state);
    //echo "<br>Country being sought " . $state . " has no data...<br>";
   }
+  
 }
-exit;
-?>
-<?php 
+
+//exit;
+// 
+//<?php 
 //-------------------------------------------
 // Defined Functions
 //-------------------------------------------
@@ -98,7 +99,7 @@ require_once('db/dbinfo.inc');
 $stateFile = "upload/".$state.".txt";
 if (file_exists($stateFile)) {
      // $content = file($stateFile);
-	 echo '<br><br>Updating from cache file: '.$stateFile.'<br>'. $stateData; 
+	// echo '<br><br>Updating from cache file: '.$stateFile.'<br>'. $stateData; 
 		$fp      = fopen($stateFile, 'r');
 		$content = fread($fp, filesize($stateFile));
 		//$content = addslashes($content);
@@ -204,17 +205,14 @@ return $success;
 // Printer State data
 ///
 function DoPrintData($News,$CountryData){
-$NewsContent = "<h3> DIVERSITY VISA NEWS</h3>";
-?>
- <table width='350' border=0 align="center" bgcolor='#FCFCC4' >
-<tr><td ><a href="#" onclick="window.location='https://www.dvlottery.state.gov/'" target="_new"><font color="#FF0000"><?=$NewsContent?></font></a></td>
+//$NewsContent = "<h3> DIVERSITY VISA NEWS</h3>";
+ echo "
+ <table width='350' border=0 align='center' bgcolor='#FCFCC4'>
+<tr><td ><a href='#' onclick=\"window.location='https://www.dvlottery.state.gov/'\" target=\"_blank\"><font color='#FF0000'>". $GLOBALS['$NewsContent ']. "</font></a></td> 
  </tr> 
- <tr><td width="796"><?=$CountryData?></td>
- </tr> 
- 
-</table>
-<?php
-return 0;
+ <tr><td width='796'>". $CountryData. " </td>  </tr> </table> ";
+
+
 }
 ?>
 
