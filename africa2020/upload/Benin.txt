@@ -1,0 +1,200 @@
+	<h1 id="firstHeading" class="firstHeading">Benin</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Benin#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Benin#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Benin_(disambiguation)" title="Benin (disambiguation)">Benin (disambiguation)</a>.</div>
+<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="http://en.wikipedia.org/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></a></div>
+</td>
+<td class="mbox-text" style="">This article <b>needs additional <a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a>.</b><br />
+<small>Please help <a href="http://en.wikipedia.org/w/index.php?title=Benin&amp;action=edit" class="external text" rel="nofollow">improve this article</a> by adding <a href="http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable references</a>. Unsourced material may be <a href="http://en.wikipedia.org/wiki/Template:Fact" title="Template:Fact" class="mw-redirect">challenged</a> and <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>. <small><i>(April 2009)</i></small></small></td>
+</tr>
+</table>
+<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#move" title="This article is move-protected due to vandalism."><img alt="This article is move-protected due to vandalism." src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Padlock-olive.svg/20px-Padlock-olive.svg.png" width="20" height="20" /></a></div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Benin
+<div style="padding-top:0.25em;"><i>République du Bénin</i></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Benin.svg" class="image" title="Flag of Benin"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/125px-Flag_of_Benin.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Benin_COA.png" class="image" title="Coat of arms of Benin"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Benin_COA.png/85px-Benin_COA.png" width="85" height="75" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Benin" title="Flag of Benin">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Benin" title="Coat of arms of Benin">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b><i>"Fraternité, Justice, Travail"</i><span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>)<br />
+"Fraternity, Justice, Labour"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/L%27Aube_Nouvelle" title="L'Aube Nouvelle">L'Aube Nouvelle</a></i><span style="white-space:nowrap;">&#160;&#160;</span><small>(French)<br />
+<i>The Dawn of a New Day</i></small><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationBenin.svg" class="image" title="Location of Benin"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LocationBenin.svg/250px-LocationBenin.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Porto-Novo" title="Porto-Novo">Porto-Novo</a><sup>1</sup><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Benin&amp;params=6_28_N_2_36_E_type:country(112,622)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">6°28′N</span> <span class="longitude">2°36′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">6.467°N 2.6°E</span><span style="display:none">﻿ / <span class="geo">6.467; 2.6</span></span></span></a></span></span></small></td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demographics_of_Benin" title="Demographics of Benin">Largest city</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Cotonou" title="Cotonou">Cotonou</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Vernacular" title="Vernacular">Vernacular</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Fon" title="Fon">Fon</a>, <a href="http://en.wikipedia.org/wiki/Yoruba" title="Yoruba">Yoruba</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Beninese; Beninois</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td>Multiparty democracy</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/President_of_Benin" title="President of Benin" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Yayi_Boni" title="Yayi Boni">Yayi Boni</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from <a href="http://en.wikipedia.org/wiki/France" title="France">France</a>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Date</td>
+<td>August 1,1960&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">112,622&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">101st</a>)<br />
+43,484&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>8,935,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Benin#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">89th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2002&#160;census</td>
+<td>6,769,914&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>79.3/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">118th<sup>3</sup></a>)<br />
+205.5/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$13.035 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Benin#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">140th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,608<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Benin#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">166th</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$6.712 billion<sup id="cite_ref-imf2_1-2" class="reference"><a href="http://en.wikipedia.org/wiki/Benin#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$828<sup id="cite_ref-imf2_1-3" class="reference"><a href="http://en.wikipedia.org/wiki/Benin#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2003)</td>
+<td>36.5&#160;(<font color="#FFCC00">medium</font>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.492&#160;(<font color="#E0584E">low</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">161st</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/West_African_CFA_franc" title="West African CFA franc">West African CFA franc</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">XOF</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/West_Africa_Time" title="West Africa Time">WAT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><i>not observed</i>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.bj" title=".bj">.bj</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>229</td>
+</tr>
+<tr style="font-size:80%;">
+<td align="right"><span style="position:relative; top:0.3em;"><sup>1</sup></span></td>
+<td colspan="2" style="padding-left:0em;">Cotonou is the seat of government.</td>
+</tr>
+<tr class="mergedrow" style="font-size:80%;">
+<td align="right"><span style="position:relative; top:0.3em;"><sup>2</sup></span></td>
+<td colspan="2" style="padding-left:0em;">Estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.</td>
+</tr>
+<tr class="mergedbottomrow" style="font-size:80%;">
+<td align="right"><span style="position:relative; top:0.3em;"><sup>3</sup></span></td>
+<td colspan="2" style="padding-left:0em;">Rank based on 2005 estimate.</td>
+</tr>
+</table>
+<p><b>Benin</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/bɨˈnɪn/</a></span>), officially the <b>Republic of Benin</b>, is a country in <a href="http://en.wikipedia.org/wiki/West_Africa" title="West Africa">West Africa</a>. It borders <a href="http://en.wikipedia.org/wiki/Togo" title="Togo">Togo</a> to the west, <a href="http://en.wikipedia.org/wiki/Nigeria" title="Nigeria">Nigeria</a> to the east and <a href="http://en.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a> and <a href="http://en.wikipedia.org/wiki/Niger" title="Niger">Niger</a> to the north; its short coastline to the south leads to the <a href="http://en.wikipedia.org/wiki/Bight_of_Benin" title="Bight of Benin">Bight of Benin</a>.</p>
+<p>Its size is just over <span style="white-space:nowrap;"><span style="white-space: nowrap">110<span style="margin-left: 0.25em">000</span></span> km<sup>2</sup></span> with a population of almost 8,500,000. Its <a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">capital</a> is the <a href="http://en.wikipedia.org/wiki/Yoruba" title="Yoruba">Yoruba</a> founded city of <a href="http://en.wikipedia.org/wiki/Porto-Novo" title="Porto-Novo">Porto-Novo</a> but the <a href="http://en.wikipedia.org/wiki/Seat_of_government" title="Seat of government">seat of government</a> is the <a href="http://en.wikipedia.org/wiki/Fon" title="Fon">Fon</a> city of <a href="http://en.wikipedia.org/wiki/Cotonou" title="Cotonou">Cotonou</a>.</p>
+<p>A democratic government between 1960 and 1972 was followed by a self-proclaimed "<a href="http://en.wikipedia.org/wiki/Marxist-Leninist" title="Marxist-Leninist" class="mw-redirect">Marxist-Leninist</a>" <a href="http://en.wikipedia.org/wiki/Dictatorship" title="Dictatorship">dictatorship</a> between 1972 and 1991, which was highly repressive and led to economic collapse. Multiparty elections have taken place since 1991. About a third of the population live below the international poverty line of <a href="http://en.wikipedia.org/wiki/United_States_dollar" title="United States dollar">US$</a>1.25 per day.<sup id="cite_ref-UNDP1_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Benin#cite_note-UNDP1-2"><span>[</span>3<span>]</span></a></sup> Main income sources are <a href="http://en.wikipedia.org/wiki/Subsistence_agriculture" title="Subsistence agriculture">subsistence agriculture</a> and <a href="http://en.wikipedia.org/wiki/Cotton" title="Cotton">cotton</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

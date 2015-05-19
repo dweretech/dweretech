@@ -1,0 +1,32 @@
+	<h1 id="firstHeading" class="firstHeading">Health care</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub"></div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Healthcare&amp;redirect=no" title="Healthcare">Healthcare</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="http://en.wikipedia.org/wiki/Healthcare#mw-head">navigation</a>,
+					<a href="http://en.wikipedia.org/wiki/Healthcare#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div class="dablink">For The Office episode, see <a href="http://en.wikipedia.org/wiki/Health_Care_(The_Office)" title="Health Care (The Office)">Health Care (The Office)</a>.</div>
+<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="http://en.wikipedia.org/wiki/File:Ambox_globe_content.svg" class="image"><img alt="Globe icon." src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" width="48" height="40" /></a></div>
+</td>
+<td class="mbox-text" style="">The examples and perspective in this article <b>may not represent a <a href="http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>. Please <a href="http://en.wikipedia.org/w/index.php?title=Health_care&amp;action=edit" class="external text" rel="nofollow">improve this article</a> and discuss the issue on the <a href="http://en.wikipedia.org/wiki/Talk:Health_care" title="Talk:Health care">talk page</a>. <small><i>(December 2010)</i></small></td>
+</tr>
+</table>
+<p><b>Health</b> <b>or</b> healthcare <b>is the treatment and prevention of <a href="http://en.wikipedia.org/wiki/Illness" title="Illness">illness</a>. Health care is delivered by professionals in <a href="http://en.wikipedia.org/wiki/Medicine" title="Medicine">medicine</a>, <a href="http://en.wikipedia.org/wiki/Dentistry" title="Dentistry">dentistry</a>, <a href="http://en.wikipedia.org/wiki/Nursing" title="Nursing">nursing</a>, <a href="http://en.wikipedia.org/wiki/Pharmacy" title="Pharmacy">pharmacy</a> and <a href="http://en.wikipedia.org/wiki/Allied_health" title="Allied health" class="mw-redirect">allied health</a>.</b></p>
+<p>The social and political issues surrounding <a href="http://en.wikipedia.org/wiki/US_healthcare_reform" title="US healthcare reform" class="mw-redirect">access to healthcare in the US</a> have led to vigorous public debate and the almost colloquial use of terms such as health care (medical management of illness), <a href="http://en.wikipedia.org/wiki/Health_insurance" title="Health insurance">health insurance</a> (reimbursement of health care costs), and <a href="http://en.wikipedia.org/wiki/Public_health" title="Public health">public health</a> (the collective state and range of health in a population).</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

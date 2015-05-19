@@ -1,0 +1,204 @@
+	<h1 id="firstHeading" class="firstHeading">Eritrea</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Eritrea#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Eritrea#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Eritrea_(disambiguation)" title="Eritrea (disambiguation)">Eritrea (disambiguation)</a>.</div>
+<table class="infobox selfref" cellpadding="3" style="clear: right; width: 22em; border-collapse: collapse; font-size: 83%; line-height: 1.2em">
+<tr>
+<td style="vertical-align: middle; width: 65px">
+<div class="center">
+<div class="floatnone"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ge%27ez.svg/65px-Ge%27ez.svg.png" width="65" height="36" /></div>
+</div>
+</td>
+<td style="vertical-align: middle"><b>This article contains <a href="http://en.wikipedia.org/wiki/Ge%27ez_script" title="Ge'ez script">Ethiopic text</a>.</b> Without proper <a href="http://en.wikipedia.org/wiki/Help:Multilingual_support_(Ethiopic)" title="Help:Multilingual support (Ethiopic)">rendering support</a>, you may see <a href="http://en.wikipedia.org/wiki/Mojibake" title="Mojibake">question marks, boxes, or other symbols</a> instead of Ethiopic characters.</td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">State of Eritrea
+<div style="padding-top:0.25em;"><i>Hagere Ertra</i><br />
+<span class="Unicode">ሃገረ ኤርትራ</span><br />
+دولة إرتريا<br />
+<i>Dawlat Iritriya</i></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Eritrea.svg" class="image" title="Flag of Eritrea"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/125px-Flag_of_Eritrea.svg.png" width="125" height="63" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Eritrea_COA-color.jpg" class="image" title="Coat of arms of Eritrea"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/8/83/Eritrea_COA-color.jpg/85px-Eritrea_COA-color.jpg" width="85" height="82" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Eritrea" title="Flag of Eritrea">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Eritrea" title="Coat of arms of Eritrea">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Ertra,_Ertra,_Ertra" title="Ertra, Ertra, Ertra">Ertra, Ertra, Ertra</a></i><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationEritrea.svg" class="image" title="Location of Eritrea"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/LocationEritrea.svg/250px-LocationEritrea.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Eritrea" title="Demographics of Eritrea">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Asmara" title="Asmara">Asmara</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Eritrea&amp;params=15_20_N_38_55_E_type:country(117,600)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">15°20′N</span> <span class="longitude">38°55′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">15.333°N 38.917°E</span><span style="display:none">﻿ / <span class="geo">15.333; 38.917</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Tigrinya_language" title="Tigrinya language">Tigrinya</a><sup>1</sup>, <a href="http://en.wikipedia.org/wiki/Arabic" title="Arabic" class="mw-redirect">Arabic</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;">Other languages</th>
+<td><a href="http://en.wikipedia.org/wiki/Tigre_language" title="Tigre language">Tigre</a>, <a href="http://en.wikipedia.org/wiki/Saho_language" title="Saho language">Saho</a>, <a href="http://en.wikipedia.org/wiki/Bilen_language" title="Bilen language" class="mw-redirect">Bilen</a>, <a href="http://en.wikipedia.org/wiki/Afar_language" title="Afar language">Afar</a>, <a href="http://en.wikipedia.org/wiki/Kunama_language" title="Kunama language">Kunama</a>, <a href="http://en.wikipedia.org/wiki/Nara_language" title="Nara language">Nara</a>, <a href="/w/index.php?title=Hedareb_language&amp;action=edit&amp;redlink=1" class="new" title="Hedareb language (page does not exist)">Hedareb</a><a href="http://cy.revues.org/document39.html" class="external autonumber" rel="nofollow">[1]</a>, <a href="http://lcweb2.loc.gov/frd/cs/profiles/Eritrea.pdf" class="external autonumber" rel="nofollow">[2]</a>.</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Eritrean</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Provisional_government" title="Provisional government">Provisional government</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_heads_of_state_of_Eritrea" title="List of heads of state of Eritrea">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Isaias_Afewerki" title="Isaias Afewerki">Isaias Afewerki</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">From <a href="http://en.wikipedia.org/wiki/Italy" title="Italy">Italy</a></td>
+<td>November 1941&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">From <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> under <a href="http://en.wikipedia.org/wiki/UN_Mandate" title="UN Mandate">UN Mandate</a></td>
+<td>1951&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">from <a href="http://en.wikipedia.org/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> <i><a href="http://en.wikipedia.org/wiki/De_facto" title="De facto">de facto</a></i></td>
+<td>24 May 1991&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">From <a href="http://en.wikipedia.org/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> <i><a href="http://en.wikipedia.org/wiki/De_jure" title="De jure">de jure</a></i></td>
+<td>24 May 1993&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">117,600&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">100th</a>)<br />
+45,405&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>5,073,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Eritrea#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">118th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2008&#160;census</td>
+<td>5,291,370&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>43.1/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">165th</a>)<br />
+111.7/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$3.743 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Eritrea#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$747<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Eritrea#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$1.479 billion<sup id="cite_ref-imf2_1-2" class="reference"><a href="http://en.wikipedia.org/wiki/Eritrea#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$295<sup id="cite_ref-imf2_1-3" class="reference"><a href="http://en.wikipedia.org/wiki/Eritrea#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color:#0AF; font-size: larger;">▬</span> 0.483&#160;(<font color="#E0584E">low</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">157th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Eritrean_nakfa" title="Eritrean nakfa">Nakfa</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">ERN</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/East_Africa_Time" title="East Africa Time">EAT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.er" title=".er">.er</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>291</td>
+</tr>
+<tr style="font-size:80%;">
+<td align="right"><span style="position:relative; top:0.3em;"><sup>1</sup></span></td>
+<td colspan="2" style="padding-left:0em;"><a href="http://cy.revues.org/document39.html" class="external autonumber" rel="nofollow">[3]</a>, <a href="http://lcweb2.loc.gov/frd/cs/profiles/Eritrea.pdf" class="external autonumber" rel="nofollow">[4]</a>.</td>
+</tr>
+</table>
+<p><b>Eritrea</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ˌɛrɪˈtreɪə/</a></span>, <span title="Pronunciation in IPA" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ˌɛrɪˈtriːə/</a></span>) (<a href="http://en.wikipedia.org/wiki/Ge%27ez_alphabet" title="Ge'ez alphabet" class="mw-redirect">Ge'ez</a>: <span class="Unicode">ኤርትራ</span> <span class="Unicode"><i>ʾErtrā</i></span>, <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: إرتريا <i>Iritriya</i>), officially the <b>State of Eritrea</b>, is a country in the <a href="http://en.wikipedia.org/wiki/Horn_of_Africa" title="Horn of Africa">Horn of Africa</a>. It is bordered by <a href="http://en.wikipedia.org/wiki/Sudan" title="Sudan">Sudan</a> in the west, <a href="http://en.wikipedia.org/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> in the south, and <a href="http://en.wikipedia.org/wiki/Djibouti" title="Djibouti">Djibouti</a> in the southeast. The east and northeast of the country have an extensive coastline on the <a href="http://en.wikipedia.org/wiki/Red_Sea" title="Red Sea">Red Sea</a>, directly across from <a href="http://en.wikipedia.org/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a> and <a href="http://en.wikipedia.org/wiki/Yemen" title="Yemen">Yemen</a>. The <a href="http://en.wikipedia.org/wiki/Dahlak_Archipelago" title="Dahlak Archipelago">Dahlak Archipelago</a> and several of the <a href="http://en.wikipedia.org/wiki/Hanish_Islands" title="Hanish Islands">Hanish Islands</a> are part of Eritrea. Its size is just under 118,000&#160;km<sup>2</sup> (45,560&#160;sq&#160;mi) with an estimated population of 5 million. The capital is <a href="http://en.wikipedia.org/wiki/Asmara" title="Asmara">Asmara</a>.</p>
+<p>Eritrea was once home to the Kingdom of <a href="http://en.wikipedia.org/wiki/D%CA%BFmt" title="Dʿmt">Dʿmt</a> and formed part of the <a href="http://en.wikipedia.org/wiki/Aksumite_Empire" title="Aksumite Empire">Aksumite Empire</a>. Italy conquered Eritrea and the <a href="http://en.wikipedia.org/wiki/Italy" title="Italy">Italian</a> government formally consolidated it into a <a href="http://en.wikipedia.org/wiki/Colony" title="Colony">colony</a> on January 1, 1890. In 1936 it became a province of <a href="http://en.wikipedia.org/wiki/Italian_East_Africa" title="Italian East Africa">Italian East Africa</a> (Africa Orientale Italiana), along with Ethiopia and <a href="http://en.wikipedia.org/wiki/Italian_Somaliland" title="Italian Somaliland">Italian Somaliland</a>. The British armed forces expelled the Italian armed forces in 1941<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Eritrea#cite_note-2"><span>[</span>3<span>]</span></a></sup> and took over the administration of the country which had been set up by the Italians. The British continued to administer the territory under a <a href="http://en.wikipedia.org/wiki/UN_Mandate" title="UN Mandate">UN Mandate</a> until 1951 when Eritrea was federated with Ethiopia as per UN resolution 390(A) under the prompting of the United States adopted in December 1950; the resolution was adopted after a referendum to consult the people of Eritrea.</p>
+<p>The strategic importance of Eritrea due to its Red Sea coastline and mineral resources was the main cause for the federation with Ethiopia, which was the first step in the annexing of Eritrea as its 14th province in 1962, even though many nations opted for the independence of Eritrea. This was the culmination of a gradual process of takeover by the Ethiopian authorities, a process which included an edict in 1959 establishing the compulsory teaching of <a href="http://en.wikipedia.org/wiki/Amharic" title="Amharic">Amharic</a>, the main language of Ethiopia, in all Eritrean schools. The lack of regard for the Eritrean population led to an Eritrean independence movement formed in the early 1960s which erupted into a 30-year long <a href="http://en.wikipedia.org/wiki/War" title="War">war</a> against successive Ethiopian governments that ended in 1991. Following a UN-supervised referendum in Eritrea dubbed <a href="http://en.wikipedia.org/wiki/UNOVER" title="UNOVER" class="mw-redirect">UNOVER</a> in which the Eritrean people overwhelmingly voted for independence from Ethiopia, Eritrea declared its independence and gained international recognition in 1993.<sup id="cite_ref-Britannica_Eritrea-page20_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Eritrea#cite_note-Britannica_Eritrea-page20-3"><span>[</span>4<span>]</span></a></sup></p>
+<p><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a> is used in the government's international communication and is the language of instruction in all formal education beyond the fifth grade.<sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/Eritrea#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>Eritrea is a single-party state - while its constitution, adopted in 1997, stipulates that the state is a presidential republic with a <a href="http://en.wikipedia.org/wiki/Unicameral" title="Unicameral" class="mw-redirect">unicameral</a> <a href="http://en.wikipedia.org/wiki/Parliamentary_system" title="Parliamentary system">parliamentary democracy</a>, it has yet to be implemented. According to the government<sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Eritrea#cite_note-5"><span>[</span>6<span>]</span></a></sup>, this is due to the prevailing border conflict with Ethiopia which began in May 1998.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

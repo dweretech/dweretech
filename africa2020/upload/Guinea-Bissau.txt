@@ -1,0 +1,188 @@
+	<h1 id="firstHeading" class="firstHeading">Guinea-Bissau</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Guinea-Bissau#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Guinea-Bissau#searchInput">search</a></div>			<!-- start content -->
+			<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Guinea-Bissau
+<div style="padding-top:0.25em;">República da Guiné-Bissau</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Guinea-Bissau.svg" class="image" title="Flag of Guinea-Bissau"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/125px-Flag_of_Guinea-Bissau.svg.png" width="125" height="63" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_Arms_of_Guinea-Bissau.png" class="image" title="Emblem of Guinea-Bissau"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Coat_of_Arms_of_Guinea-Bissau.png/85px-Coat_of_Arms_of_Guinea-Bissau.png" width="85" height="83" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau" title="Flag of Guinea-Bissau">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Emblem_of_Guinea-Bissau" title="Emblem of Guinea-Bissau">Emblem</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b><a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <span lang="pt" xml:lang="pt"><i>"Unidade, Luta, Progresso"</i></span><span style="white-space:nowrap;">&#160;&#160;</span><br />
+<small><i>"Unity, Struggle, Progress"</i></small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <span lang="pt" xml:lang="pt"><i>"Esta é a Nossa Pátria Bem Amada"</i></span><span style="white-space:nowrap;">&#160;&#160;</span><br />
+<small><i>"This is Our Well-Beloved Motherland"</i></small><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationGuineaBissau.svg" class="image" title="Location of Guinea-Bissau"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/LocationGuineaBissau.svg/250px-LocationGuineaBissau.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Guinea-Bissau" title="Demographics of Guinea-Bissau">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Bissau" title="Bissau">Bissau</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Guinea-Bissau&amp;params=11_52_N_15_36_W_type:country(36,125)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">11°52′N</span> <span class="longitude">15°36′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">11.867°N 15.6°W</span><span style="display:none">﻿ / <span class="geo">11.867; -15.6</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2"><a href="http://en.wikipedia.org/wiki/Regional_language" title="Regional language">Recognised regional&#160;languages</a></td>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Guinea-Bissau_Creole" title="Guinea-Bissau Creole">Crioulo</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Bissau-Guinean(s)<sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea-Bissau#cite_note-0"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Semi-presidential_system" title="Semi-presidential system">Semi-presidential</a> <a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/President_of_Guinea-Bissau" title="President of Guinea-Bissau" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Malam_Bacai_Sanh%C3%A1" title="Malam Bacai Sanhá">Malam Bacai Sanhá</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Heads_of_Government_of_Guinea-Bissau" title="Heads of Government of Guinea-Bissau" class="mw-redirect">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Carlos_Gomes_J%C3%BAnior" title="Carlos Gomes Júnior">Carlos Gomes</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from <a href="http://en.wikipedia.org/wiki/Portugal" title="Portugal">Portugal</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Declared</td>
+<td><span class="mw-formatted-date" title="1973-09-24"><span class="mw-formatted-date" title="09-24"><a href="http://en.wikipedia.org/wiki/September_24" title="September 24">September 24</a></span>, <a href="http://en.wikipedia.org/wiki/1973" title="1973">1973</a></span>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Recognised</td>
+<td><span class="mw-formatted-date" title="1974-09-10"><span class="mw-formatted-date" title="09-10"><a href="http://en.wikipedia.org/wiki/September_10" title="September 10">September 10</a></span>, <a href="http://en.wikipedia.org/wiki/1974" title="1974">1974</a></span>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">National Day</td>
+<td><span class="mw-formatted-date" title="09-24"><a href="http://en.wikipedia.org/wiki/September_24" title="September 24">September 24</a></span>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E9_m%C2%B2" title="1 E9 m²" class="mw-redirect">36,125&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">136th</a>)<br />
+13,948&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>22.4</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>1,611,000<sup id="cite_ref-unpop_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea-Bissau#cite_note-unpop-1"><span>[</span>2<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">148th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2002&#160;census</td>
+<td>1,345,479&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>44.1/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">154th</a>)<br />
+115.5/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$848 million<sup id="cite_ref-imf2_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea-Bissau#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$486<sup id="cite_ref-imf2_2-1" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea-Bissau#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$461 million<sup id="cite_ref-imf2_2-2" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea-Bissau#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$264<sup id="cite_ref-imf2_2-3" class="reference"><a href="http://en.wikipedia.org/wiki/Guinea-Bissau#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(1993)</td>
+<td>47&#160;(<font color="red">high</font>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.396&#160;(<font color="#E0584E">low</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">173rd</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/West_African_CFA_franc" title="West African CFA franc">West African CFA franc</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">XOF</a></code>)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/GMT" title="GMT" class="mw-redirect">GMT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0)</span></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.gw" title=".gw">.gw</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>245</td>
+</tr>
+</table>
+<p>The <b>Republic of Guinea-Bissau</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ˈɡɪni bɪˈsaʊ/</a></span>; <a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <span lang="pt" xml:lang="pt"><i>República da Guiné-Bissau</i></span>, <small>pronounced&#160;</small><span title="Pronunciation in IPA" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_Portuguese" title="Wikipedia:IPA for Portuguese">[ʁɛˈpublikɐ dɐ ɡiˈnɛ biˈsau]</a></span>) is a country in <a href="http://en.wikipedia.org/wiki/Western_Africa" title="Western Africa" class="mw-redirect">western Africa</a>, and one of the smallest states in continental Africa. It is bordered by <a href="http://en.wikipedia.org/wiki/Senegal" title="Senegal">Senegal</a> to the north, and <a href="http://en.wikipedia.org/wiki/Guinea" title="Guinea">Guinea</a> to the south and east, with the <a href="http://en.wikipedia.org/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> to its west.</p>
+<p>Its size is nearly 37,000&#160;square kilometres (14,000&#160;sq&#160;mi) with an estimated population of 1,600,000. Formerly the <a href="http://en.wikipedia.org/wiki/Portugal" title="Portugal">Portuguese</a> <a href="http://en.wikipedia.org/wiki/Colony" title="Colony">colony</a> of <a href="http://en.wikipedia.org/wiki/Portuguese_Guinea" title="Portuguese Guinea">Portuguese Guinea</a>, upon independence, the name of its capital, <a href="http://en.wikipedia.org/wiki/Bissau" title="Bissau">Bissau</a>, was added to the country's name to prevent confusion with the <a href="http://en.wikipedia.org/wiki/Guinea" title="Guinea">Republic of Guinea</a>. Guinea-Bissau's <a href="http://en.wikipedia.org/wiki/GDP_per_capita" title="GDP per capita" class="mw-redirect">GDP per capita</a> is one of the <a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">lowest in the world</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

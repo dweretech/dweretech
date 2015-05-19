@@ -1,0 +1,183 @@
+	<h1 id="firstHeading" class="firstHeading">Zimbabwe</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Zimbabwe#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Zimbabwe#searchInput">search</a></div>			<!-- start content -->
+			<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">
+<div style="padding-top:0.25em;">Republic of Zimbabwe</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Zimbabwe.svg" class="image" title="Flag of Zimbabwe"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/125px-Flag_of_Zimbabwe.svg.png" width="125" height="63" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_Arms_of_Zimbabwe.svg" class="image" title="Coat of arms of Zimbabwe"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coat_of_Arms_of_Zimbabwe.svg/85px-Coat_of_Arms_of_Zimbabwe.svg.png" width="85" height="74" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Zimbabwe" title="Flag of Zimbabwe">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Zimbabwe" title="Coat of arms of Zimbabwe">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"Unity, Freedom, Work"</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><span lang="sn-Latn" xml:lang="sn-Latn"><i><a href="http://en.wikipedia.org/wiki/National_Anthem_of_Zimbabwe" title="National Anthem of Zimbabwe">Simudzai Mureza wedu WeZimbabwe</a></i></span><span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/Shona_language" title="Shona language">Shona</a>)</small><br />
+<span lang="nd" xml:lang="nd"><i><a href="http://en.wikipedia.org/wiki/National_Anthem_of_Zimbabwe" title="National Anthem of Zimbabwe">Kalibusiswe Ilizwe leZimbabwe</a></i></span><span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/Northern_Ndebele_language" title="Northern Ndebele language">Sindebele</a>)<br />
+"Blessed be the land of Zimbabwe"</small><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationZimbabwe.svg" class="image" title="Location of Zimbabwe"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/LocationZimbabwe.svg/250px-LocationZimbabwe.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Zimbabwe" title="Demographics of Zimbabwe">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Harare" title="Harare">Harare</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Zimbabwe&amp;params=17_50_S_31_3_E_type:country(390,757)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">17°50′S</span> <span class="longitude">31°3′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">17.833°S 31.05°E</span><span style="display:none">﻿ / <span class="geo">-17.833; 31.05</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/South_African_English" title="South African English">English</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2"><a href="http://en.wikipedia.org/wiki/Regional_language" title="Regional language">Recognised regional&#160;languages</a></td>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Shona_language" title="Shona language">Shona</a>, <a href="http://en.wikipedia.org/wiki/Northern_Ndebele_language" title="Northern Ndebele language">Ndebele</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/List_of_Zimbabweans" title="List of Zimbabweans">Zimbabwean</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Semi-presidential_system" title="Semi-presidential system">Semi presidential</a>, <a href="http://en.wikipedia.org/wiki/Parliamentary_republic" title="Parliamentary republic">parliamentary</a>, <a href="http://en.wikipedia.org/wiki/Consociationalism" title="Consociationalism">consociationalist</a> <a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Zimbabwe" title="List of Presidents of Zimbabwe">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Robert_Mugabe" title="Robert Mugabe">Robert Mugabe</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Zimbabwe" title="Prime Minister of Zimbabwe">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Morgan_Tsvangirai" title="Morgan Tsvangirai">Morgan Tsvangirai</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Vice_President_of_Zimbabwe" title="Vice President of Zimbabwe">Vice President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Joice_Mujuru" title="Joice Mujuru">Joice Mujuru</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Deputy_Prime_Minister_of_Zimbabwe" title="Deputy Prime Minister of Zimbabwe">Deputy Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Thokozani_Khuphe" title="Thokozani Khuphe">Thokozani Khuphe</a><br />
+<a href="http://en.wikipedia.org/wiki/Arthur_Mutambara" title="Arthur Mutambara">Arthur Mutambara</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Southern_Rhodesia" title="Southern Rhodesia">Established</a></td>
+<td>1901&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Unilateral_Declaration_of_Independence_(Rhodesia)" title="Unilateral Declaration of Independence (Rhodesia)">Proclaimed</a></td>
+<td>11 November 1965&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Recognized</td>
+<td>18 April 1980&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">390,757&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">60th</a>)<br />
+150,871&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>1</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>12,523,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Zimbabwe#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">68th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>32/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">170th</a>)<br />
+83/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$3.145 billion<sup id="cite_ref-imf2_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Zimbabwe#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$268<sup id="cite_ref-imf2_1-1" class="reference"><a href="http://en.wikipedia.org/wiki/Zimbabwe#cite_note-imf2-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2003)</td>
+<td>56.8&#160;(<span style="color:#e0584e;">high</span>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.513&#160;(<span style="color:#ffcc00">medium</span>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">151st</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Zimbabwean_dollar" title="Zimbabwean dollar">Zimbabwean dollar</a> <sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="http://en.wikipedia.org/wiki/Zimbabwe#endnote_a">a</a></sup> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">ZWD</a></code>)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Central_Africa_Time" title="Central Africa Time">Central Africa Time</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>left</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.zw" title=".zw">.zw</a> (not currently active)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>263</td>
+</tr>
+<tr>
+<td colspan="3"><small><cite id="endnote_a" style="font-style: normal;"><a href="http://en.wikipedia.org/wiki/Zimbabwe#ref_a"><b>^a</b></a></cite>&#160; No longer in active use after it was officially suspended by the government due to <a href="http://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe" title="Hyperinflation in Zimbabwe">hyperinflation</a>. The <a href="http://en.wikipedia.org/wiki/United_States_dollar" title="United States dollar">United States dollar</a>, <a href="http://en.wikipedia.org/wiki/South_African_rand" title="South African rand">South African rand</a>, <a href="http://en.wikipedia.org/wiki/Botswanan_pula" title="Botswanan pula" class="mw-redirect">Botswanan pula</a>, <a href="http://en.wikipedia.org/wiki/Pound_sterling" title="Pound sterling">Pound sterling</a>, and <a href="http://en.wikipedia.org/wiki/Euro" title="Euro">Euro</a> are now used instead. The US dollar has been adopted as the official currency for all government transactions with the new power-sharing regime.</small></td>
+</tr>
+</table>
+<p><b>Zimbabwe</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/zɪmˈbɑːbweɪ/</a></span>), (officially the <b>Republic of Zimbabwe</b> and formerly <b><a href="http://en.wikipedia.org/wiki/Southern_Rhodesia" title="Southern Rhodesia">Southern Rhodesia</a></b>, the <b><a href="http://en.wikipedia.org/wiki/Rhodesia" title="Rhodesia">Republic of Rhodesia</a></b> and <b><a href="http://en.wikipedia.org/wiki/Zimbabwe_Rhodesia" title="Zimbabwe Rhodesia">Zimbabwe Rhodesia</a></b>) is a <a href="http://en.wikipedia.org/wiki/Landlocked_country" title="Landlocked country">landlocked country</a> located in the southern part of the <a href="http://en.wikipedia.org/wiki/Continent" title="Continent">continent</a> of <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a>, between the <a href="http://en.wikipedia.org/wiki/Zambezi" title="Zambezi">Zambezi</a> and <a href="http://en.wikipedia.org/wiki/Limpopo_River" title="Limpopo River">Limpopo</a> rivers. It is bordered by <a href="http://en.wikipedia.org/wiki/South_Africa" title="South Africa">South Africa</a> to the south, <a href="http://en.wikipedia.org/wiki/Botswana" title="Botswana">Botswana</a> to the southwest, <a href="http://en.wikipedia.org/wiki/Zambia" title="Zambia">Zambia</a> to the northwest and <a href="http://en.wikipedia.org/wiki/Mozambique" title="Mozambique">Mozambique</a> to the east. Zimbabwe has three <a href="http://en.wikipedia.org/wiki/Official_languages" title="Official languages" class="mw-redirect">official languages</a>: <a href="http://en.wikipedia.org/wiki/South_African_English" title="South African English">English</a>, <a href="http://en.wikipedia.org/wiki/Shona_language" title="Shona language">Shona</a> (a <a href="http://en.wikipedia.org/wiki/Bantu_languages" title="Bantu languages">Bantu language</a>), and <a href="http://en.wikipedia.org/wiki/Northern_Ndebele_language" title="Northern Ndebele language">Ndebele</a>.</p>
+<p>Zimbabwe began as a part of the <a href="http://en.wikipedia.org/wiki/British_Empire" title="British Empire">British</a> <a href="http://en.wikipedia.org/wiki/British_colonies" title="British colonies" class="mw-redirect">crown colony</a> of <a href="http://en.wikipedia.org/wiki/Rhodesia" title="Rhodesia">Rhodesia</a>. Today, Zimbabwe is governed by Prime Minister Morgan Tsvangirai's administration, with <a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Zimbabwe" title="List of Presidents of Zimbabwe">President</a> <a href="http://en.wikipedia.org/wiki/Robert_Mugabe" title="Robert Mugabe">Robert Mugabe</a> as Head of State. Mugabe has been in power since the country's long <a href="http://en.wikipedia.org/wiki/Rhodesian_Bush_War" title="Rhodesian Bush War">war for independence</a>. His rule has been characterized by <a href="http://en.wikipedia.org/wiki/Economy_of_Zimbabwe" title="Economy of Zimbabwe">economic</a> mismanagement, <a href="http://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe" title="Hyperinflation in Zimbabwe">hyperinflation</a>, and widespread reports of <a href="http://en.wikipedia.org/wiki/Human_rights_in_Zimbabwe" title="Human rights in Zimbabwe">human rights</a> abuses.<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Zimbabwe#cite_note-2"><span>[</span>3<span>]</span></a></sup> The collapse of the nation's economy and widespread poverty and unemployment has increased support for <a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Zimbabwe" title="Prime Minister of Zimbabwe">Prime Minister</a> <a href="http://en.wikipedia.org/wiki/Morgan_Tsvangirai" title="Morgan Tsvangirai">Morgan Tsvangirai</a> and his opposition party, <a href="http://en.wikipedia.org/wiki/Movement_for_Democratic_Change" title="Movement for Democratic Change">Movement for Democratic Change</a>, which in late 2008 agreed to share power with Mugabe.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

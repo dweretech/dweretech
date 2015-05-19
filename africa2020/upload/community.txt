@@ -1,0 +1,104 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Community</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/community#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/community#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="http://en.wikipedia.org/wiki/Community_(disambiguation)" title="Community (disambiguation)" class="mw-disambig">Community (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="http://en.wikipedia.org/wiki/File:Stonehenge_Summer_Solstice_eve_02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Stonehenge_Summer_Solstice_eve_02.jpg/220px-Stonehenge_Summer_Solstice_eve_02.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Stonehenge_Summer_Solstice_eve_02.jpg/330px-Stonehenge_Summer_Solstice_eve_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Stonehenge_Summer_Solstice_eve_02.jpg/440px-Stonehenge_Summer_Solstice_eve_02.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Stonehenge_Summer_Solstice_eve_02.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="http://en.wikipedia.org/wiki/Community_of_interest" title="Community of interest">community of interest</a> gathers at <a href="http://en.wikipedia.org/wiki/Stonehenge" title="Stonehenge">Stonehenge</a>, England, for the summer solstice.</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="http://en.wikipedia.org/wiki/Category:Community" title="Category:Community">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;background:#ccf;padding-top:0.2em;"><strong class="selflink">Community</strong></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em">
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Community.png" width="48" height="32" data-file-width="48" data-file-height="32" /></div>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lavender">Concepts</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Sense_of_community" title="Sense of community">Sense of community</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Social_capital" title="Social capital">Social capital</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lavender">Perspectives</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Community_psychology" title="Community psychology">Community psychology</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Community_studies" title="Community studies">Community studies</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lavender">Types</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Community_of_interest" title="Community of interest">Community of interest</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Community_of_practice" title="Community of practice">Community of practice</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Community_of_place" title="Community of place">Community of place</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lavender">Development</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Community_development" title="Community development">Community development</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Community_organizing" title="Community organizing">Community organizing</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lavender">See also</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Outline_of_community" title="Outline of community">Outline</a></li>
+<li><b><a href="http://en.wikipedia.org/wiki/Portal:Community" title="Portal:Community">Community portal</a></b></li>
+<li><b><a href="http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Community" title="Wikipedia:WikiProject Community">WikiProject Community</a></b></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="http://en.wikipedia.org/wiki/Template:Community" title="Template:Community"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="http://en.wikipedia.org/wiki/Template_talk:Community" title="Template talk:Community"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Community&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>A <b>community</b> is a <a href="http://en.wikipedia.org/wiki/Level_of_analysis#Meso-level" title="Level of analysis">social unit</a> of any size that shares common <a href="http://en.wikipedia.org/wiki/Value_(personal_and_cultural)" title="Value (personal and cultural)">values</a>. Although embodied or face-to-face communities are usually small, larger or more extended communities such as a <a href="http://en.wikipedia.org/wiki/Nation" title="Nation">national</a> community, <a href="http://en.wikipedia.org/wiki/International_community" title="International community">international community</a> and <a href="http://en.wikipedia.org/wiki/Virtual_community" title="Virtual community">virtual community</a> are also studied. In <a href="http://en.wikipedia.org/wiki/Human" title="Human">human</a> communities, <a href="http://en.wikipedia.org/wiki/Intention" title="Intention">intent</a>, <a href="http://en.wikipedia.org/wiki/Belief" title="Belief">belief</a>, <a href="http://en.wikipedia.org/wiki/Natural_resource" title="Natural resource">resources</a>, <a href="http://en.wikipedia.org/wiki/Preference" title="Preference">preferences</a>, <a href="http://en.wikipedia.org/wiki/Need_assessment" title="Need assessment" class="mw-redirect">needs</a>, <a href="http://en.wikipedia.org/wiki/Risk" title="Risk">risks</a>, and a number of other conditions may be present and common, affecting the <a href="http://en.wikipedia.org/wiki/Identity_(social_science)" title="Identity (social science)">identity</a> of the participants and their degree of cohesiveness.</p>
+<p>Since the advent of the <a href="http://en.wikipedia.org/wiki/Internet" title="Internet">Internet</a>, the concept of community has less geographical limitation, as <a href="http://en.wikipedia.org/wiki/People" title="People">people</a> can now gather virtually in an online community and share common interests regardless of physical location. Prior to the Internet, <a href="http://en.wikipedia.org/wiki/Virtual_community" title="Virtual community">virtual communities</a> (like social or academic organizations) were far more limited by the constraints of available communication and transportation technologies.</p>
+<p>The word "community" is derived from the <a href="http://en.wikipedia.org/wiki/Old_French" title="Old French">Old French</a> <i>comuneté</i> which is derived from the <a href="http://en.wikipedia.org/wiki/Latin" title="Latin">Latin</a> <i><a href="http://en.wikipedia.org/wiki/Communitas" title="Communitas">communitas</a></i> (from Latin <i><a href="//en.wiktionary.org/wiki/communis" class="extiw" title="wikt:communis">communis</a></i>, things held in common), a broad term for fellowship or organized society.<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/community#cite_note-1"><span>[</span>1<span>]</span></a></sup> One broad definition which incorporates all the different forms of community is "a group or network of persons who are connected (objectively) to each other by relatively durable social relations that extend beyond immediate genealogical ties, and who mutually define that relationship (subjectively) as important to their social identity and social practice."<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/community#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

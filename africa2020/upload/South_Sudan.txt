@@ -1,0 +1,178 @@
+	<h1 id="firstHeading" class="firstHeading">South Sudan</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub"></div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="http://en.wikipedia.org/wiki/South_Sudan#mw-head">navigation</a>,
+					<a href="http://en.wikipedia.org/wiki/South_Sudan#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">"Southern Sudan" redirects here. For the former autonomous regions of Sudan, see <a href="http://en.wikipedia.org/wiki/Government_of_Southern_Sudan_(1972%E2%80%931983)" title="Government of Southern Sudan (1972–1983)">Government of Southern Sudan (1972–1983)</a> and <a href="http://en.wikipedia.org/wiki/Government_of_Southern_Sudan_(2005%E2%80%932011)" title="Government of Southern Sudan (2005–2011)">Government of Southern Sudan (2005–2011)</a>.</div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;"><span class="fn org country-name">Republic of South Sudan</span></th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_South_Sudan.svg" class="image" title="Flag of South Sudan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/125px-Flag_of_South_Sudan.svg.png" width="125" height="63" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_Arms_of_South_Sudan.svg" class="image" title="Coat of arms of South Sudan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Coat_of_Arms_of_South_Sudan.svg/85px-Coat_of_Arms_of_South_Sudan.svg.png" width="85" height="84" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_South_Sudan" title="Flag of South Sudan">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_South_Sudan" title="Coat of arms of South Sudan">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b>Motto:&#160;</b>"Justice, Liberty, Prosperity"</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b>Anthem:&#160;</b>"<a href="http://en.wikipedia.org/wiki/South_Sudan_Oyee!" title="South Sudan Oyee!">South Sudan Oyee!</a>"<br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:South_Sudan_(orthographic_projection)_highlighted.svg" class="image" title="Location of South Sudan"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/South_Sudan_%28orthographic_projection%29_highlighted.svg/250px-South_Sudan_%28orthographic_projection%29_highlighted.svg.png" width="250" height="250" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b><br />
+(and largest city)</td>
+<td><a href="http://en.wikipedia.org/wiki/Juba" title="Juba">Juba</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="http://toolserver.org/~geohack/geohack.php?pagename=South_Sudan&amp;params=04_51_N_31_36_E_type:country"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">04°51′N</span> <span class="longitude">31°36′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">4.85°N 31.6°E</span><span style="display:none">﻿ / <span class="geo">4.85; 31.6</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;">Official language(s)</th>
+<td><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a><sup id="cite_ref-engwork_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-engwork-0"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-glance_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-glance-1"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2">Recognised national&#160;languages</td>
+<td style="vertical-align:middle;">All South Sudanese indigenous languages<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-2"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>South Sudanese</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_South_Sudan" title="Politics of South Sudan">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Federal_republic" title="Federal republic">Federal</a> <a href="http://en.wikipedia.org/wiki/Presidential_system" title="Presidential system">presidential</a> <a href="http://en.wikipedia.org/wiki/Representative_democracy" title="Representative democracy">democratic</a> <a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_South_Sudan" title="List of Presidents of South Sudan">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Salva_Kiir_Mayardit" title="Salva Kiir Mayardit">Salva Kiir Mayardit</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Vice-Presidents_of_South_Sudan" title="List of Vice-Presidents of South Sudan">Vice President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Riek_Machar" title="Riek Machar">Riek Machar</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/National_Legislature_of_South_Sudan" title="National Legislature of South Sudan">National Legislature</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Upper_House" title="Upper House" class="mw-redirect">Upper House</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Council_of_States_of_South_Sudan" title="Council of States of South Sudan">Council of States</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Lower_House" title="Lower House" class="mw-redirect">Lower House</a></td>
+<td><a href="http://en.wikipedia.org/wiki/National_Legislative_Assembly_of_South_Sudan" title="National Legislative Assembly of South Sudan">National Legislative Assembly</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from <a href="http://en.wikipedia.org/wiki/Sudan" title="Sudan">Sudan</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Comprehensive_Peace_Agreement" title="Comprehensive Peace Agreement">Comprehensive Peace Agreement</a></td>
+<td>6 January 2005&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Government_of_Southern_Sudan_(2005%E2%80%932011)" title="Government of Southern Sudan (2005–2011)">Autonomy</a></td>
+<td>9 July 2005&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/History_of_South_Sudan#Independence" title="History of South Sudan">Independence</a></td>
+<td>9 July 2011&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_South_Sudan" title="Geography of South Sudan">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>619,745&#160;km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">45th</a>)<br />
+239,285&#160;sq&#160;mi&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_South_Sudan" title="Demographics of South Sudan">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2008&#160;census</td>
+<td>8,260,490 <i>(disputed)</i><sup id="cite_ref-n24_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-n24-3"><span>[</span>4<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">94th</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2011&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$13.227 billion <sup id="cite_ref-NBS_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-NBS-4"><span>[</span>5<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Per capita</td>
+<td>$1,546 <sup id="cite_ref-NBS_4-1" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-NBS-4"><span>[</span>5<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/South_Sudanese_pound" title="South Sudanese pound">South Sudanese pound</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">SSP</a></code>)</td>
+</tr>
+<tr>
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/East_Africa_Time" title="East Africa Time">East Africa Time</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</span></td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO&#160;3166&#160;code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:SS" title="ISO 3166-2:SS">SS</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.ss" title=".ss">.ss</a><sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-5"><span>[</span>6<span>]</span></a></sup> (registered but not yet operational)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_South_Sudan" title="Telephone numbers in South Sudan">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_South_Sudan" title="Telephone numbers in South Sudan">+211</a><sup id="cite_ref-6" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-6"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><b>South Sudan</b> (<span style="white-space:nowrap;"><a href="//upload.wikimedia.org/wikipedia/commons/b/be/En-us-Sudan.ogg" title="Listen"><img alt="Listen" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Speakerlink.svg/11px-Speakerlink.svg.png" width="11" height="11" /></a><sup><span style="color: #00e; font: bold 80% sans-serif; padding: 0 .1em;" class="IPA"><a href="http://en.wikipedia.org/wiki/File:En-us-Sudan.ogg" title="File:En-us-Sudan.ogg">i</a></span></sup><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/</a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="secondary stress" style="border-bottom:1px dotted">ˌ</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'s' in 'sigh'" style="border-bottom:1px dotted">s</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'ou' in 'pout'" style="border-bottom:1px dotted">aʊ</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'th' in 'thigh'" style="border-bottom:1px dotted">θ</span></a></span> <span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'s' in 'sigh'" style="border-bottom:1px dotted">s</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="long 'oo' in 'food'" style="border-bottom:1px dotted">uː</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="primary stress" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'d' in 'dye'" style="border-bottom:1px dotted">d</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="short 'a' in 'bad'" style="border-bottom:1px dotted">æ</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/</a></span></span> or <span style="white-space:nowrap;"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/</a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'s' in 'sigh'" style="border-bottom:1px dotted">s</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="long 'oo' in 'food'" style="border-bottom:1px dotted">uː</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="primary stress" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'d' in 'dye'" style="border-bottom:1px dotted">d</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'a' in 'father'" style="border-bottom:1px dotted">ɑː</span></a></span><span class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/</a></span></span>), officially the <b>Republic of South Sudan</b>,<sup id="cite_ref-factbook_7-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-factbook-7"><span>[</span>8<span>]</span></a></sup> is a <a href="http://en.wikipedia.org/wiki/Landlocked_country" title="Landlocked country">landlocked country</a> located between <a href="http://en.wikipedia.org/wiki/Central_Africa" title="Central Africa">Central Africa</a> and <a href="http://en.wikipedia.org/wiki/Eastern_Africa" title="Eastern Africa" class="mw-redirect">Eastern Africa</a>. Its current capital is <a href="http://en.wikipedia.org/wiki/Juba" title="Juba">Juba</a>, which is also its largest city; the capital city is planned to be moved to the more centrally-located <a href="http://en.wikipedia.org/wiki/Ramciel" title="Ramciel">Ramciel</a> in the future.<sup id="cite_ref-BBCprofile_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-BBCprofile-8"><span>[</span>9<span>]</span></a></sup> South Sudan is bordered by <a href="http://en.wikipedia.org/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> to the east, <a href="http://en.wikipedia.org/wiki/Kenya" title="Kenya">Kenya</a> to the southeast, <a href="http://en.wikipedia.org/wiki/Uganda" title="Uganda">Uganda</a> to the south, the <a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a> to the southwest, the <a href="http://en.wikipedia.org/wiki/Central_African_Republic" title="Central African Republic">Central African Republic</a> to the west, and <a href="http://en.wikipedia.org/wiki/Sudan" title="Sudan">Sudan</a> to the north. South Sudan includes the vast <a href="http://en.wikipedia.org/wiki/Swamp" title="Swamp">swamp</a> region of the <a href="http://en.wikipedia.org/wiki/Sudd" title="Sudd">Sudd</a> formed by the <a href="http://en.wikipedia.org/wiki/White_Nile" title="White Nile">White Nile</a>, locally called the <i><a href="http://en.wikipedia.org/wiki/White_Nile" title="White Nile">Bahr al Jabal</a></i>.</p>
+<p>What are now the modern states of South Sudan and Sudan were part of <a href="http://en.wikipedia.org/wiki/Egypt" title="Egypt">Egypt</a> under the <a href="http://en.wikipedia.org/wiki/Muhammad_Ali_Dynasty" title="Muhammad Ali Dynasty">Muhammad Ali Dynasty</a>, later being governed as an <a href="http://en.wikipedia.org/wiki/Anglo-Egyptian_Sudan" title="Anglo-Egyptian Sudan">Anglo-Egyptian condominium</a> until Sudanese independence was achieved in 1956. Following the <a href="http://en.wikipedia.org/wiki/First_Sudanese_Civil_War" title="First Sudanese Civil War">First Sudanese Civil War</a>, the <a href="http://en.wikipedia.org/wiki/Southern_Sudan_Autonomous_Region" title="Southern Sudan Autonomous Region" class="mw-redirect">Southern Sudan Autonomous Region</a> was formed in 1972 and lasted until 1983. A <a href="http://en.wikipedia.org/wiki/Second_Sudanese_civil_war" title="Second Sudanese civil war" class="mw-redirect">second Sudanese civil war</a> soon developed and ended with the <a href="http://en.wikipedia.org/wiki/Comprehensive_Peace_Agreement" title="Comprehensive Peace Agreement">Comprehensive Peace Agreement</a> of 2005. Later that year, southern autonomy was restored when an <a href="http://en.wikipedia.org/wiki/Autonomous_Government_of_Southern_Sudan" title="Autonomous Government of Southern Sudan" class="mw-redirect">Autonomous Government of Southern Sudan</a> was formed. South Sudan became an independent state on 9 July 2011.<sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-9"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-10"><span>[</span>11<span>]</span></a></sup> On 14 July 2011, South Sudan became a <a href="http://en.wikipedia.org/wiki/United_Nations_member_state" title="United Nations member state" class="mw-redirect">United Nations member state</a>.<sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-11"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-12"><span>[</span>13<span>]</span></a></sup> It joined the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a> on 28 July 2011.<sup id="cite_ref-au54_13-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-au54-13"><span>[</span>14<span>]</span></a></sup></p>
+<p>South Sudan is one of the poorest countries with possibly the worst health situation in the world.<sup id="cite_ref-health_14-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Sudan#cite_note-health-14"><span>[</span>15<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

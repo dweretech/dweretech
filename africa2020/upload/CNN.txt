@@ -1,0 +1,171 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">CNN</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/CNN#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/CNN#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="http://en.wikipedia.org/wiki/CNN_(disambiguation)" title="CNN (disambiguation)" class="mw-disambig">CNN (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #bfdfff; font-size: 125%;">CNN</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="http://en.wikipedia.org/wiki/File:Cnn.svg" class="image"><img alt="Cnn.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/230px-Cnn.svg.png" width="230" height="110" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/345px-Cnn.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/460px-Cnn.svg.png 2x" data-file-width="200" data-file-height="96" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Launched</th>
+<td>June&#160;1,&#160;1980<span style="display:none">&#160;(<span class="bday dtstart published updated">1980-06-01</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Owned by</th>
+<td><a href="http://en.wikipedia.org/wiki/Turner_Broadcasting_System" title="Turner Broadcasting System">Turner Broadcasting System</a><br />
+(<a href="http://en.wikipedia.org/wiki/Time_Warner" title="Time Warner">Time Warner</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Picture format</th>
+<td><a href="http://en.wikipedia.org/wiki/1080i" title="1080i">1080i</a> (<a href="http://en.wikipedia.org/wiki/High-definition_television" title="High-definition television">HDTV</a>)<br />
+<small style="font-size:85%;">(Downgraded to <a href="http://en.wikipedia.org/wiki/Letterboxing_(filming)" title="Letterboxing (filming)">letterboxed</a> <a href="http://en.wikipedia.org/wiki/480i" title="480i">480i</a> for <a href="http://en.wikipedia.org/wiki/Standard-definition_television" title="Standard-definition television">SDTV</a> feed)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Slogan</th>
+<td><i>Go There</i><br />
+<i>This is CNN</i></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Country</th>
+<td><a href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Language</th>
+<td><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Broadcast area</th>
+<td>United States<br />
+<a href="http://en.wikipedia.org/wiki/Canada" title="Canada">Canada</a><br />
+Worldwide (via <a href="http://en.wikipedia.org/wiki/CNN_International" title="CNN International">CNN International</a>)<br />
+online (via <a href="http://en.wikipedia.org/wiki/CNNGo" title="CNNGo">CNNGo</a>)<br />
+radio (news reports on the half-hour)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Headquarters</th>
+<td><a href="http://en.wikipedia.org/wiki/CNN_Center" title="CNN Center">CNN Center</a>,<br />
+<a href="http://en.wikipedia.org/wiki/Atlanta" title="Atlanta">Atlanta</a>, <a href="http://en.wikipedia.org/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Sister channel(s)</th>
+<td><a href="http://en.wikipedia.org/wiki/CNN_International" title="CNN International">CNN International</a><br />
+<a href="http://en.wikipedia.org/wiki/CNN_Philippines" title="CNN Philippines">CNN Philippines</a><br />
+<a href="http://en.wikipedia.org/wiki/CNN-IBN" title="CNN-IBN">CNN-IBN</a><br />
+<a href="http://en.wikipedia.org/wiki/CNN_Airport_Network" title="CNN Airport Network" class="mw-redirect">CNN Airport Network</a><br />
+<a href="http://en.wikipedia.org/wiki/CNN_T%C3%BCrk" title="CNN Türk">CNN Türk</a><br />
+<a href="http://en.wikipedia.org/wiki/CNN_en_Espa%C3%B1ol" title="CNN en Español">CNN en Español</a><br />
+<a href="http://en.wikipedia.org/wiki/HLN_(TV_channel)" title="HLN (TV channel)">HLN</a><br />
+<a href="http://en.wikipedia.org/wiki/CNN_Chile" title="CNN Chile">CNN Chile</a><br />
+<a href="http://en.wikipedia.org/wiki/TNT_(TV_channel)" title="TNT (TV channel)">TNT</a><br />
+<a href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">Turner Classic Movies</a><br />
+<a href="http://en.wikipedia.org/wiki/Cartoon_Network" title="Cartoon Network">Cartoon Network</a><br />
+<a href="http://en.wikipedia.org/wiki/Boomerang_(TV_channel)" title="Boomerang (TV channel)">Boomerang</a><br />
+<a href="http://en.wikipedia.org/wiki/TruTV" title="TruTV">TruTV</a><br />
+<a href="http://en.wikipedia.org/wiki/TBS_(TV_channel)" title="TBS (TV channel)">TBS</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.cnn.com/">www<wbr />.cnn<wbr />.com</a></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #d0e5f5;">
+<div style="background-color: #bfdfff; width:100%">Availability</div>
+</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #d0e5f5;">Satellite</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/DirecTV" title="DirecTV">DirecTV</a> <small style="font-size:85%;">(U.S.)</small></th>
+<td>202 (HD/SD)<br />
+1202 (<a href="http://en.wikipedia.org/wiki/Video_on_demand" title="Video on demand">VOD</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/Dish_Network" title="Dish Network">Dish Network</a></th>
+<td>200 (HD/SD)<br />
+9436 (HD)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/Bell_TV" title="Bell TV">Bell TV</a> <small style="font-size:85%;">(Canada)</small></th>
+<td>500 (SD)<br />
+1578 (HD)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/Shaw_Direct" title="Shaw Direct">Shaw Direct</a> <small style="font-size:85%;">(Canada)</small></th>
+<td>140/500 (SD)<br />
+257/331 (HD)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/Indovision" title="Indovision">Indovision</a> <small style="font-size:85%;">(Indonesia)</small></th>
+<td>TBA</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #d0e5f5;">Cable</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/Verizon_FiOS" title="Verizon FiOS">Verizon FiOS</a> <small style="font-size:85%;">(U.S.)</small></th>
+<td>600 (HD)<br />
+60 (SD)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Available on most other U.S. cable systems</th>
+<td>Consult your local cable provider for channel availability</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #d0e5f5;">Satellite radio</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/Sirius_Satellite_Radio" title="Sirius Satellite Radio">Sirius</a> <small style="font-size:85%;">(U.S.)</small></th>
+<td>115</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/XM_Satellite_Radio" title="XM Satellite Radio">XM</a> <small style="font-size:85%;">(U.S.)</small></th>
+<td>115</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/Sirius_XM_Holdings" title="Sirius XM Holdings">Sirius XM</a> <small style="font-size:85%;">(U.S.)</small></th>
+<td>115</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #d0e5f5;"><a href="http://en.wikipedia.org/wiki/IPTV" title="IPTV">IPTV</a></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/AT%26T_U-verse" title="AT&amp;T U-verse">AT&amp;T U-verse</a> <small style="font-size:85%;">(U.S.)</small></th>
+<td>1202 (HD)<br />
+202 (SD)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Bell Fibe TV (Canada)</th>
+<td>500 (HD)<br />
+1500 (SD)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/Google_Fiber" title="Google Fiber">Google Fiber</a> <small style="font-size:85%;">(U.S.)</small></th>
+<td>101 (HD)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #d0e5f5;"><a href="http://en.wikipedia.org/wiki/Streaming_media" title="Streaming media">Streaming media</a></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">CNN.com/live</th>
+<td><a rel="nofollow" class="external text" href="http://cnn.com/live">Watch live</a><br />
+<small style="font-size:85%;">(U.S. cable subscribers only; requires login from participating television providers to access stream)</small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="http://en.wikipedia.org/wiki/Sling_TV" title="Sling TV">Sling TV</a></th>
+<td><a href="http://en.wikipedia.org/wiki/IPTV" title="IPTV">Internet Protocol television</a></td>
+</tr>
+</table>
+<p>The <b>Cable News Network</b> (<b>CNN</b>) is an <a href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> <a href="http://en.wikipedia.org/wiki/Cable_television" title="Cable television">basic cable</a> and <a href="http://en.wikipedia.org/wiki/Satellite_television" title="Satellite television">satellite television</a> channel that is owned by the <a href="http://en.wikipedia.org/wiki/Turner_Broadcasting_System" title="Turner Broadcasting System">Turner Broadcasting System</a> division of <a href="http://en.wikipedia.org/wiki/Time_Warner" title="Time Warner">Time Warner</a>.<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/CNN#cite_note-1"><span>[</span>1<span>]</span></a></sup> The <a href="http://en.wikipedia.org/wiki/United_States_cable_news" title="United States cable news">24-hour cable news</a> channel was founded in 1980 by American <a href="http://en.wikipedia.org/wiki/Media_proprietor" title="Media proprietor">media proprietor</a> <a href="http://en.wikipedia.org/wiki/Ted_Turner" title="Ted Turner">Ted Turner</a>.<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/CNN#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/CNN#cite_note-3"><span>[</span>3<span>]</span></a></sup> Upon its launch, CNN was the first television channel to provide <a href="http://en.wikipedia.org/wiki/24-hour_news_cycle" title="24-hour news cycle">24-hour</a> <a href="http://en.wikipedia.org/wiki/Television_news" title="Television news" class="mw-redirect">news</a> coverage,<sup id="cite_ref-CNNtaipei_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/CNN#cite_note-CNNtaipei-4"><span>[</span>4<span>]</span></a></sup> and was the first all-news television channel in the United States.<sup id="cite_ref-CNN20_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/CNN#cite_note-CNN20-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>While the news channel has numerous <a href="http://en.wikipedia.org/wiki/Affiliate" title="Affiliate" class="mw-redirect">affiliates</a>, CNN primarily broadcasts from the <a href="http://en.wikipedia.org/wiki/Time_Warner_Center" title="Time Warner Center">Time Warner Center</a> in <a href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a>, and studios in <a href="http://en.wikipedia.org/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a> and <a href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, its headquarters at the <a href="http://en.wikipedia.org/wiki/CNN_Center" title="CNN Center">CNN Center</a> in <a href="http://en.wikipedia.org/wiki/Atlanta" title="Atlanta">Atlanta</a> is only used for weekend programming. CNN is sometimes referred to as <b>CNN/U.S.</b> to distinguish the American channel from its international sister network, <a href="http://en.wikipedia.org/wiki/CNN_International" title="CNN International">CNN International</a>. As of August 2010, CNN is available in over 100 million U.S. households.<sup id="cite_ref-CNNdeal_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/CNN#cite_note-CNNdeal-6"><span>[</span>6<span>]</span></a></sup> Broadcast coverage of the U.S. channel extends to over 890,000 American hotel rooms,<sup id="cite_ref-CNNdeal_6-1" class="reference"><a href="http://en.wikipedia.org/wiki/CNN#cite_note-CNNdeal-6"><span>[</span>6<span>]</span></a></sup> as well as carriage on cable and satellite providers throughout <a href="http://en.wikipedia.org/wiki/Canada" title="Canada">Canada</a>. Globally, CNN programming airs through CNN International, which can be seen by viewers in over 212 countries and territories.<sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/CNN#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>As of February 2015, CNN is available to approximately 96,289,000 cable, satellite and, telco television households (82.7% of households with at least one television set) in the United States.<sup id="cite_ref-8" class="reference"><a href="http://en.wikipedia.org/wiki/CNN#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

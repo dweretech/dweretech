@@ -1,0 +1,184 @@
+	<h1 id="firstHeading" class="firstHeading">Kenya</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Kenya#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Kenya#searchInput">search</a></div>			<!-- start content -->
+			<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected due to vandalism."><img alt="This article is semi-protected due to vandalism." src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/20px-Padlock-silver-medium.svg.png" width="20" height="20" /></a></div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Kenya
+<div style="padding-top:0.25em;"><i>Jamhuri ya Kenya</i></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Kenya.svg" class="image" title="Flag of Kenya"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/125px-Flag_of_Kenya.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:EscudoKenya.PNG" class="image" title="Coat of arms of Kenya"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/EscudoKenya.PNG/85px-EscudoKenya.PNG" width="85" height="86" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Kenya" title="Flag of Kenya">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Kenya" title="Coat of arms of Kenya">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"<a href="http://en.wikipedia.org/wiki/Harambee" title="Harambee">Harambee</a>"<span style="white-space:nowrap;">&#160;&#160;</span><small>(<a href="http://en.wikipedia.org/wiki/Swahili_language" title="Swahili language">Swahili</a>)<br />
+"Let us all pull together"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Ee_Mungu_Nguvu_Yetu" title="Ee Mungu Nguvu Yetu">Ee Mungu Nguvu Yetu</a></i><small><br />
+"O God of All Creation"</small><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationKenya.svg" class="image" title="Location of Kenya"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LocationKenya.svg/250px-LocationKenya.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Kenya" title="Demographics of Kenya">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Nairobi" title="Nairobi">Nairobi</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Kenya&amp;params=1_16_S_36_48_E_type:country(580,367)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">1°16′S</span> <span class="longitude">36°48′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">1.267°S 36.8°E</span><span style="display:none">﻿ / <span class="geo">-1.267; 36.8</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Swahili" title="Swahili" class="mw-redirect">Swahili</a>, <a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a><sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-0"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Kenyan</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Semi-presidential_system" title="Semi-presidential system">Semi-presidential</a> <a href="http://en.wikipedia.org/wiki/Republic" title="Republic">Republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/President_of_Kenya" title="President of Kenya" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Mwai_Kibaki" title="Mwai Kibaki">Mwai Kibaki</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Kenya" title="Prime Minister of Kenya">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Raila_Odinga" title="Raila Odinga">Raila Odinga</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Date</td>
+<td>December 12, 1963&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Republic declared</td>
+<td>December 12, 1964&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">580,367&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">47th</a>)<br />
+224,080&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>2.3</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>39,802,000<sup id="cite_ref-unpop_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-unpop-1"><span>[</span>2<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">36th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">8 February 2007&#160;census</td>
+<td>31,138,735&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>68.6/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">140th</a>)<br />
+177.6/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$60.361 billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,711<sup id="cite_ref-imf2_2-1" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$29.564 billion<sup id="cite_ref-imf2_2-2" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$838<sup id="cite_ref-imf2_2-3" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.521&#160;(<font color="#FFCC00">medium</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">148th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Kenyan_shilling" title="Kenyan shilling">Kenyan shilling</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">KES</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/East_Africa_Time" title="East Africa Time">EAT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><i>not observed</i>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>left</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.ke" title=".ke">.ke</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>254</td>
+</tr>
+<tr>
+<td colspan="3"><small>1. According to cia.gov, estimates for this country explicitly take into account the effects of mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex, than would otherwise be expected.<sup id="cite_ref-CIA_World_factbook_Kenya_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-CIA_World_factbook_Kenya-3"><span>[</span>4<span>]</span></a></sup></small></td>
+</tr>
+</table>
+<p>The <b>Republic of Kenya</b> is a country in <a href="http://en.wikipedia.org/wiki/East_Africa" title="East Africa">East Africa</a>. Lying along the <a href="http://en.wikipedia.org/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a>, at the <a href="http://en.wikipedia.org/wiki/Equator" title="Equator">equator</a>, Kenya is bordered by <a href="http://en.wikipedia.org/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> (north), <a href="http://en.wikipedia.org/wiki/Somalia" title="Somalia">Somalia</a> (northeast), <a href="http://en.wikipedia.org/wiki/Tanzania" title="Tanzania">Tanzania</a> (south), <a href="http://en.wikipedia.org/wiki/Uganda" title="Uganda">Uganda</a> plus <a href="http://en.wikipedia.org/wiki/Lake_Victoria" title="Lake Victoria">Lake Victoria</a> (west), and <a href="http://en.wikipedia.org/wiki/Sudan" title="Sudan">Sudan</a> (northwest). The capital city is <a href="http://en.wikipedia.org/wiki/Nairobi" title="Nairobi">Nairobi</a>. Kenya spans an area about 85% the size of France or Texas. The population has grown rapidly in recent decades to nearly 38 million. Kenya has numerous wildlife reserves, containing thousands of animal species.</p>
+<p>The country is named after <a href="http://en.wikipedia.org/wiki/Mount_Kenya" title="Mount Kenya">Mount Kenya</a>, a significant landmark and the second among the <a href="http://en.wikipedia.org/wiki/Highest_mountain_peaks_of_Africa" title="Highest mountain peaks of Africa">highest mountain peaks of Africa</a>,<sup id="cite_ref-times_kenya_colony_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-times_kenya_colony-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-5"><span>[</span>6<span>]</span></a></sup> and both were originally usually pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ˈkiːnjə/</a></span><sup id="cite_ref-oed_kenya_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-oed_kenya-6"><span>[</span>7<span>]</span></a></sup> in English, though the native pronunciation and the one intended by the original transcription <i>Kenia</i> was <span title="Pronunciation in IPA" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA" title="Wikipedia:IPA">[ˈkɛnja]</a></span>.<sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-7"><span>[</span>8<span>]</span></a></sup> During the presidency of <a href="http://en.wikipedia.org/wiki/Jomo_Kenyatta" title="Jomo Kenyatta">Jomo Kenyatta</a> in the 1960s, the current English pronunciation of <span title="Pronunciation in IPA" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ˈkɛnjə/</a></span> became widespread because his name retained the native pronunciation.<sup id="cite_ref-foottit_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-foottit-8"><span>[</span>9<span>]</span></a></sup> Before 1920, the area now known as Kenya was known as the <a href="http://en.wikipedia.org/wiki/British_East_Africa" title="British East Africa">British East Africa</a> Protectorate and so there was no need to mention <i>mount</i> when referring to the mountain.<sup id="cite_ref-times_kenya_colony_4-1" class="reference"><a href="http://en.wikipedia.org/wiki/Kenya#cite_note-times_kenya_colony-4"><span>[</span>5<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

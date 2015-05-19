@@ -1,0 +1,184 @@
+	<h1 id="firstHeading" class="firstHeading">Cape Verde</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Cape_Verde#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Cape_Verde#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">This article is about the country.  For the surface feature on <a href="http://en.wikipedia.org/wiki/Mars" title="Mars">Mars</a>, see <a href="http://en.wikipedia.org/wiki/Cape_Verde_(Mars)" title="Cape Verde (Mars)">Cape Verde (Mars)</a>.</div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Cape Verde
+<div style="padding-top:0.25em;"><i>República de Cabo Verde</i></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Cape_Verde.svg" class="image" title="Flag of Cape Verde"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/125px-Flag_of_Cape_Verde.svg.png" width="125" height="74" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Cape_Verde.svg" class="image" title="National Emblem of Cape Verde"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coat_of_arms_of_Cape_Verde.svg/85px-Coat_of_arms_of_Cape_Verde.svg.png" width="85" height="85" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Cape_Verde" title="Flag of Cape Verde">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/National_Emblem_of_Cape_Verde" title="National Emblem of Cape Verde" class="mw-redirect">National Emblem</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><span lang="pt" xml:lang="pt"><i><a href="http://en.wikipedia.org/wiki/C%C3%A2ntico_da_Liberdade" title="Cântico da Liberdade">Cântico da Liberdade</a></i></span><span style="white-space:nowrap;">&#160;&#160;</span><small>(Portuguese)<br />
+<i>Song of Freedom</i></small><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationCapeVerde.svg" class="image" title="Location of Cape Verde"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/LocationCapeVerde.svg/250px-LocationCapeVerde.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Topographic_map_of_Cape_Verde-en.svg" class="image" title="Location of Cape Verde"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Topographic_map_of_Cape_Verde-en.svg/280px-Topographic_map_of_Cape_Verde-en.svg.png" width="280" height="208" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Cape_Verde" title="Demographics of Cape Verde">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Praia,_Cape_Verde" title="Praia, Cape Verde" class="mw-redirect">Praia</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Cape_Verde&amp;params=14_55_N_23_31_W_type:country(4,033)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°55′N</span> <span class="longitude">23°31′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.917°N 23.517°W</span><span style="display:none">﻿ / <span class="geo">14.917; -23.517</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2"><a href="http://en.wikipedia.org/wiki/Regional_language" title="Regional language">Recognised regional&#160;languages</a></td>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Cape_Verdean_Creole" title="Cape Verdean Creole">Cape Verdean Creole</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Cape Verdean</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Republic" title="Republic">Republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/President_of_Cape_Verde" title="President of Cape Verde" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Pedro_Pires" title="Pedro Pires">Pedro Pires</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Cape_Verde" title="Prime Minister of Cape Verde" class="mw-redirect">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_Neves" title="José Maria Neves">José Maria Neves</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">from <a href="http://en.wikipedia.org/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td><span class="mw-formatted-date" title="1975-07-05"><span class="mw-formatted-date" title="07-05"><a href="http://en.wikipedia.org/wiki/July_5" title="July 5">July 5</a></span>, <a href="http://en.wikipedia.org/wiki/1975" title="1975">1975</a></span>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E9_m%C2%B2" title="1 E9 m²" class="mw-redirect">4,033&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">172nd</a>)<br />
+1,557&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>506,000<sup id="cite_ref-unpop_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Cape_Verde#cite_note-unpop-0"><span>[</span>1<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">165th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2008&#160;census</td>
+<td>426,998<sup id="cite_ref-cia_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Cape_Verde#cite_note-cia-1"><span>[</span>2<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>125.5/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">79th</a>)<br />
+325.0/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$1.749 billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Cape_Verde#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$3,472<sup id="cite_ref-imf2_2-1" class="reference"><a href="http://en.wikipedia.org/wiki/Cape_Verde#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$1.744 billion<sup id="cite_ref-imf2_2-2" class="reference"><a href="http://en.wikipedia.org/wiki/Cape_Verde#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$3,464<sup id="cite_ref-imf2_2-3" class="reference"><a href="http://en.wikipedia.org/wiki/Cape_Verde#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.708&#160;(<font color="#FFCC00">medium</font>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">121nd</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Cape_Verdean_escudo" title="Cape Verdean escudo">Cape Verdean escudo</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">CVE</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Cape_Verde_Time" title="Cape Verde Time">CVT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>-1)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>-1)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.cv" title=".cv">.cv</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>238</td>
+</tr>
+</table>
+<p>The <b>Republic of Cape Verde</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ˌkeɪp ˈvɜ:rd/</a></span><small>&#160;(<a href="http://en.wikipedia.org/wiki/Media:Cape_Verde.ogg" title="Media:Cape Verde.ogg"><img alt="Speaker Icon.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/13px-Speaker_Icon.svg.png" width="13" height="13" /></a> <a href="http://upload.wikimedia.org/wikipedia/commons/0/02/Cape_Verde.ogg" class="internal" title="Cape Verde.ogg">listen</a>)</small>; <a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <span lang="pt" xml:lang="pt"><i>Cabo Verde</i></span>, <small>pronounced&#160;</small><span title="Pronunciation in IPA" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_Portuguese" title="Wikipedia:IPA for Portuguese">[ˈkabu ˈveɾdɨ]</a></span>) is an <a href="http://en.wikipedia.org/wiki/Island_country" title="Island country">island country</a>, spanning an <a href="http://en.wikipedia.org/wiki/Archipelago" title="Archipelago">archipelago</a> located in the <a href="http://en.wikipedia.org/wiki/Macaronesia" title="Macaronesia">Macaronesia</a> <a href="http://en.wikipedia.org/wiki/Ecoregion" title="Ecoregion">ecoregion</a> of the North <a href="http://en.wikipedia.org/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a>, off the western coast of <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a>, opposite <a href="http://en.wikipedia.org/wiki/Mauritania" title="Mauritania">Mauritania</a> and <a href="http://en.wikipedia.org/wiki/Senegal" title="Senegal">Senegal</a>.</p>
+<p>It is slightly more than 4,000&#160;km² in area with an estimated population of over 500,000. The capital of Cape Verde is <a href="http://en.wikipedia.org/wiki/Praia" title="Praia">Praia</a>. The previously <a href="http://en.wikipedia.org/wiki/Desert_island" title="Desert island">uninhabited islands</a> were discovered and <a href="http://en.wikipedia.org/wiki/Colony" title="Colony">colonized</a> by the <a href="http://en.wikipedia.org/wiki/Portugal" title="Portugal">Portuguese</a> in the 15th century, and attained <a href="http://en.wikipedia.org/wiki/Independence" title="Independence">independence</a> from Portugal in 1975.</p>
+<p>As of 2007, Cape Verde is classified as a <a href="http://en.wikipedia.org/wiki/Developing_country" title="Developing country">developing country</a> after being promoted from <a href="http://en.wikipedia.org/wiki/Least_Developed_Countries" title="Least Developed Countries">Least Developed Countries</a> status. About 20% of the population lives on less than $1.25 (U.S.) a day.<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Cape_Verde#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

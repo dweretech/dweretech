@@ -1,0 +1,11 @@
+	<h1 id="firstHeading" class="firstHeading">Adiaphora</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Adiaphora#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Adiaphora#searchInput">search</a></div>			<!-- start content -->
+			<p><b>Adiaphoron</b> (plural: <b>adiaphora</b> from the <a href="http://en.wikipedia.org/wiki/Greek_language" title="Greek language">Greek</a> ἀδιάφορα "indifferent things") was a concept used in <a href="http://en.wikipedia.org/wiki/Stoic" title="Stoic" class="mw-redirect">Stoic</a> philosophy to indicate things which were outside of moral law – that is, actions which are neither morally mandated nor morally forbidden.</p>
+<p><i>Adiaphora</i> in Christianity refer to matters not regarded as essential to <a href="http://en.wikipedia.org/wiki/Faith" title="Faith">faith</a>, but nevertheless as permissible for Christians or allowed in church. What is specifically considered adiaphora depends on the specific theology in view.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

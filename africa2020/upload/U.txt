@@ -1,0 +1,67 @@
+	<h1 id="firstHeading" class="firstHeading">U</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/U#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/U#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses of "U", see <a href="http://en.wikipedia.org/wiki/U_(disambiguation)" title="U (disambiguation)">U (disambiguation)</a>.</div>
+<table class="metadata plainlinks mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><a href="http://en.wiktionary.org/wiki/Special:Search/U" title="Search Wiktionary"><img alt="Search Wiktionary" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/40px-Wiktionary-logo-en.svg.png" width="40" height="44" /></a></td>
+<td class="mbox-text" style="">Look up <i><b><a href="http://en.wiktionary.org/wiki/U" class="extiw" title="wiktionary:U">U</a></b></i>&#160;or <i><b><a href="http://en.wiktionary.org/wiki/u" class="extiw" title="wiktionary:u">u</a></b></i> in <a href="http://en.wikipedia.org/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>, the free dictionary.</td>
+</tr>
+</table>
+<table class="infobox" style="-moz-border-radius:.25em;-webkit-border-radius:.25em;border-radius:.25em;width:17em;" cellspacing="4">
+<tr>
+<th colspan="6" style="padding:.5em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Latin_alphabet_Uu.svg" class="image" title="U"><img alt="U" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Latin_alphabet_Uu.svg/137px-Latin_alphabet_Uu.svg.png" width="137" height="37" /></a></div>
+</div>
+</th>
+</tr>
+<tr>
+<th colspan="6" style="background:#ccf;padding:.4em;-moz-border-radius:.25em;-webkit-border-radius:.25em;border-radius:.25em;">Basic <a href="http://en.wikipedia.org/wiki/Latin_alphabet" title="Latin alphabet">Latin alphabet</a></th>
+</tr>
+<tr style="text-align:center;">
+<td width="16.6667%"><a href="http://en.wikipedia.org/wiki/A" title="A">Aa</a></td>
+<td width="16.6667%"><a href="http://en.wikipedia.org/wiki/B" title="B">Bb</a></td>
+<td width="16.6667%"><a href="http://en.wikipedia.org/wiki/C" title="C">Cc</a></td>
+<td width="16.6667%"><a href="http://en.wikipedia.org/wiki/D" title="D">Dd</a></td>
+<td width="16.6667%">&#160;</td>
+<td width="16.6667%">&#160;</td>
+</tr>
+<tr style="text-align:center;">
+<td><a href="http://en.wikipedia.org/wiki/E" title="E">Ee</a></td>
+<td><a href="http://en.wikipedia.org/wiki/F" title="F">Ff</a></td>
+<td><a href="http://en.wikipedia.org/wiki/G" title="G">Gg</a></td>
+<td><a href="http://en.wikipedia.org/wiki/H" title="H">Hh</a></td>
+</tr>
+<tr style="text-align:center;">
+<td><a href="http://en.wikipedia.org/wiki/I" title="I">Ii</a></td>
+<td><a href="http://en.wikipedia.org/wiki/J" title="J">Jj</a></td>
+<td><a href="http://en.wikipedia.org/wiki/K" title="K">Kk</a></td>
+<td><a href="http://en.wikipedia.org/wiki/L" title="L">Ll</a></td>
+<td><a href="http://en.wikipedia.org/wiki/M" title="M">Mm</a></td>
+<td><a href="http://en.wikipedia.org/wiki/N" title="N">Nn</a></td>
+</tr>
+<tr style="text-align:center;">
+<td><a href="http://en.wikipedia.org/wiki/O" title="O">Oo</a></td>
+<td><a href="http://en.wikipedia.org/wiki/P" title="P">Pp</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Q" title="Q">Qq</a></td>
+<td><a href="http://en.wikipedia.org/wiki/R" title="R">Rr</a></td>
+<td><a href="http://en.wikipedia.org/wiki/S" title="S">Ss</a></td>
+<td><a href="http://en.wikipedia.org/wiki/T" title="T">Tt</a></td>
+</tr>
+<tr style="text-align:center;">
+<td><strong class="selflink">Uu</strong></td>
+<td><a href="http://en.wikipedia.org/wiki/V" title="V">Vv</a></td>
+<td><a href="http://en.wikipedia.org/wiki/W" title="W">Ww</a></td>
+<td><a href="http://en.wikipedia.org/wiki/X" title="X">Xx</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Y" title="Y">Yy</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Z" title="Z">Zz</a></td>
+</tr>
+</table>
+<p><b>U</b> is the twenty-first letter in the <a href="http://en.wikipedia.org/wiki/Basic_modern_Latin_alphabet" title="Basic modern Latin alphabet">basic modern Latin alphabet</a>. Its name in <a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ˈjuː/</a></span>) is spelled <b>u</b>;<sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/U#cite_note-0"><span>[</span>1<span>]</span></a></sup> the plural is <i>ues,</i> though this is rare.<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/U#cite_note-1"><span>[</span>2<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

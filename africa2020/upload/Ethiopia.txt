@@ -1,0 +1,240 @@
+	<h1 id="firstHeading" class="firstHeading">Ethiopia</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Ethiopia#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Ethiopia#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">This article is about the East African country.  For other uses, see <a href="http://en.wikipedia.org/wiki/Ethiopia_(disambiguation)" title="Ethiopia (disambiguation)">Ethiopia (disambiguation)</a>.</div>
+<table class="infobox selfref" cellpadding="3" style="clear: right; width: 22em; border-collapse: collapse; font-size: 83%; line-height: 1.2em">
+<tr>
+<td style="vertical-align: middle; width: 65px">
+<div class="center">
+<div class="floatnone"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ge%27ez.svg/65px-Ge%27ez.svg.png" width="65" height="36" /></div>
+</div>
+</td>
+<td style="vertical-align: middle"><b>This article contains <a href="http://en.wikipedia.org/wiki/Ge%27ez_script" title="Ge'ez script">Ethiopic text</a>.</b> Without proper <a href="http://en.wikipedia.org/wiki/Help:Multilingual_support_(Ethiopic)" title="Help:Multilingual support (Ethiopic)">rendering support</a>, you may see <a href="http://en.wikipedia.org/wiki/Mojibake" title="Mojibake">question marks, boxes, or other symbols</a> instead of Ethiopic characters.</td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Federal Democratic Republic of Ethiopia
+<div style="padding-top:0.25em;"><span lang="gez" xml:lang="gez"><span style="font-weight:normal;">የኢትዮጵያ ፌዴራላዊ<br />
+ዲሞክራሲያዊ ሪፐብሊክ</span></span><br />
+<i><span lang="gez-Latn" title="gez transliteration" class="Unicode" style="white-space:normal; text-decoration: none" xml:lang="gez-Latn">ye-Ītyōṗṗyā Fēdēralāwī Dīmōkrāsīyāwī Rīpeblīk</span></i></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Ethiopia.svg" class="image" title="Flag of Ethiopia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/125px-Flag_of_Ethiopia.svg.png" width="125" height="63" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Ethiopia.svg" class="image" title="Coat of arms of Ethiopia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coat_of_arms_of_Ethiopia.svg/85px-Coat_of_arms_of_Ethiopia.svg.png" width="85" height="85" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Ethiopia" title="Flag of Ethiopia">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Ethiopia" title="Coat of arms of Ethiopia">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><span style="line-height:1.33em;"><i><a href="http://en.wikipedia.org/wiki/Wodefit_Gesgeshi,_Widd_Innat_Ityopp%27ya" title="Wodefit Gesgeshi, Widd Innat Ityopp'ya">Wodefit Gesgeshi, Widd Innat Ityopp'ya</a></i><br />
+<small>"March Forward, Dear Mother Ethiopia"</small></span>.<br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationEthiopia.svg" class="image" title="Location of Ethiopia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/LocationEthiopia.svg/250px-LocationEthiopia.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Ethiopia" title="Demographics of Ethiopia">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Addis_Ababa" title="Addis Ababa">Addis Ababa</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Ethiopia&amp;params=9_01_N_38_44_E_type:country(1,104,300)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">9°01′N</span> <span class="longitude">38°44′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">9.017°N 38.733°E</span><span style="display:none">﻿ / <span class="geo">9.017; 38.733</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Amharic" title="Amharic">Amharic</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2"><a href="http://en.wikipedia.org/wiki/Regional_language" title="Regional language">Recognised regional&#160;languages</a></td>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Languages_of_Ethiopia" title="Languages of Ethiopia">Other languages</a> official amongst the different <a href="http://en.wikipedia.org/wiki/People_of_Ethiopia" title="People of Ethiopia">ethnicities</a> and their respective <a href="http://en.wikipedia.org/wiki/Regions_of_Ethiopia" title="Regions of Ethiopia" class="mw-redirect">regions</a>.</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_group" title="Ethnic group">Ethnic groups</a></b>&#160;</td>
+<td><a href="http://en.wikipedia.org/wiki/Oromo_people" title="Oromo people">Oromo</a> 34.5%, <a href="http://en.wikipedia.org/wiki/Amhara_people" title="Amhara people">Amhara</a> 26.91%, <a href="http://en.wikipedia.org/wiki/Somali_people" title="Somali people">Somali</a> 6.20%, <a href="http://en.wikipedia.org/wiki/Tigray_people" title="Tigray people" class="mw-redirect">Tigray</a> 6.07%; <a href="http://en.wikipedia.org/wiki/Sidama" title="Sidama" class="mw-redirect">Sidama</a> 4%, <a href="http://en.wikipedia.org/wiki/Gurage" title="Gurage">Gurage</a> 2.5%, <a href="http://en.wikipedia.org/wiki/Welayta_people" title="Welayta people">Welayta</a> 2.3%<sup id="cite_ref-bx_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-bx-0"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-Embassy_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-Embassy-1"><span>[</span>2<span>]</span></a></sup> and around eighty other small ethnic groups.</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Demographics_of_Ethiopia" title="Demographics of Ethiopia">Ethiopian</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Federal_republic" title="Federal republic">Federal</a> <a href="http://en.wikipedia.org/wiki/Parliamentary_republic" title="Parliamentary republic">Parliamentary republic</a><sup>1</sup></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Ethiopia" title="List of Presidents of Ethiopia">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Girma_Wolde-Giorgis" title="Girma Wolde-Giorgis">Girma Wolde-Giorgis</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/List_of_heads_of_government_of_Ethiopia" title="List of heads of government of Ethiopia">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Meles_Zenawi" title="Meles Zenawi">Meles Zenawi</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/History_of_Ethiopia" title="History of Ethiopia">Establishment</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Circa" title="Circa">c.</a> 10th century BC&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Traditional date</td>
+<td>980 BC&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/D%CA%BFmt" title="Dʿmt">Kingdom of Dʿmt</a></td>
+<td>8th century BC&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Kingdom_of_Aksum" title="Kingdom of Aksum" class="mw-redirect">Kingdom of Aksum</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Circa" title="Circa">c.</a> 4th century BC&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Ethiopian_Empire" title="Ethiopian Empire">Independent Abyssinia</a></td>
+<td>1137&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Partially occupied territory by <a href="http://en.wikipedia.org/wiki/Italy" title="Italy">Italy</a></td>
+<td>1936–1941&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Administered by <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> under <a href="http://en.wikipedia.org/wiki/United_Nations_Trusteeship" title="United Nations Trusteeship" class="mw-redirect">United Nations Trusteeship</a></td>
+<td>1941–1944&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/People%27s_Democratic_Republic_of_Ethiopia" title="People's Democratic Republic of Ethiopia">Constitution</a></td>
+<td>1933, 1955(Monarchy), 1987(PDRE),1995(FDRE)&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Democratic Republic</td>
+<td>1991&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E12_m%C2%B2" title="1 E12 m²" class="mw-redirect">1,104,300&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">27th</a>)<br />
+426,371&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>0.7</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2008&#160;estimate</td>
+<td>79,221,000<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-2"><span>[</span>3<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">15th²</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2007&#160;census</td>
+<td>73,918,505&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>75/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">123rd</a>)<br />
+194/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$71.111 billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$898<sup id="cite_ref-imf2_3-1" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$26.393 billion<sup id="cite_ref-imf2_3-2" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$333<sup id="cite_ref-imf2_3-3" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-imf2-3"><span>[</span>4<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(1999–00)</td>
+<td>30&#160;(<span style="color:#fc0;">medium</span>)&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2008)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.389&#160;(<span style="color:#e0584e;">low</span>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">169th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Ethiopian_birr" title="Ethiopian birr">Birr</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">ETB</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/East_Africa_Time" title="East Africa Time">EAT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.et" title=".et">.et</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>251</td>
+</tr>
+<tr style="font-size:80%;">
+<td align="right"><span style="position:relative; top:0.3em;"><sup>1</sup></span></td>
+<td colspan="2" style="padding-left:0em;">According to <i><a href="http://en.wikipedia.org/wiki/The_Economist" title="The Economist">The Economist</a></i> in its <a href="http://en.wikipedia.org/wiki/Democracy_Index" title="Democracy Index">Democracy Index</a>, Ethiopia is a "hybrid regime", with a <a href="http://en.wikipedia.org/wiki/Dominant-party_system" title="Dominant-party system">dominant-party system</a> led by the <a href="http://en.wikipedia.org/wiki/Ethiopian_People%27s_Revolutionary_Democratic_Front" title="Ethiopian People's Revolutionary Democratic Front">Ethiopian People's Revolutionary Democratic Front</a>.</td>
+</tr>
+<tr class="mergedbottomrow" style="font-size:80%;">
+<td align="right"><span style="position:relative; top:0.3em;"><sup>2</sup></span></td>
+<td colspan="2" style="padding-left:0em;">Rank based on 2005 population estimate by the United Nations.</td>
+</tr>
+</table>
+<p><b>Ethiopia</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ˌiːθiˈoʊpiə/</a></span>) (<a href="http://en.wikipedia.org/wiki/Ge%27ez_alphabet" title="Ge'ez alphabet" class="mw-redirect">Ge'ez</a>: ኢትዮጵያ <i><span lang="gez-Latn" title="gez transliteration" class="Unicode" style="white-space:normal; text-decoration: none" xml:lang="gez-Latn">ʾĪtyōṗṗyā</span></i>) , officially the <b>Federal Democratic Republic of Ethiopia</b>, is a <a href="http://en.wikipedia.org/wiki/Landlocked_country" title="Landlocked country">landlocked country</a> situated in the <a href="http://en.wikipedia.org/wiki/Horn_of_Africa" title="Horn of Africa">Horn of Africa</a>. Ethiopia is bordered by <a href="http://en.wikipedia.org/wiki/Eritrea" title="Eritrea">Eritrea</a> to the north, <a href="http://en.wikipedia.org/wiki/Sudan" title="Sudan">Sudan</a> to the west, <a href="http://en.wikipedia.org/wiki/Kenya" title="Kenya">Kenya</a> to the south, <a href="http://en.wikipedia.org/wiki/Somalia" title="Somalia">Somalia</a> to the east and <a href="http://en.wikipedia.org/wiki/Djibouti" title="Djibouti">Djibouti</a> to the northeast. Its size is 1,100,000&#160;km² with an estimated population of over 79,000,000. Its capital is <a href="http://en.wikipedia.org/wiki/Addis_Ababa" title="Addis Ababa">Addis Ababa</a>.</p>
+<p>Ethiopia is one of the oldest countries in the world and Africa's second-most populous nation.<sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-4"><span>[</span>5<span>]</span></a></sup> Ethiopia has yielded some of humanity's oldest traces,<sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-5"><span>[</span>6<span>]</span></a></sup> making the area a primary factor in the origin and developmental history of humanity,<sup id="cite_ref-Iroku.2C_Osita_2008_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-Iroku.2C_Osita_2008-6"><span>[</span>7<span>]</span></a></sup> with recent studies claiming the vicinity of present-day Addis Ababa as the point from which human beings migrated around the world.<sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-7"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-8"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-9"><span>[</span>10<span>]</span></a></sup> Ethiopian dynastic history traditionally began with the reign of Emperor <a href="http://en.wikipedia.org/wiki/Menelik_I" title="Menelik I">Menelik I</a> in 1000 BC.<sup id="cite_ref-10" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-10"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-11"><span>[</span>12<span>]</span></a></sup> The roots of the Ethiopian state are similarly deep, dating with unbroken continuity to at least the <a href="http://en.wikipedia.org/wiki/Aksumite_Empire" title="Aksumite Empire">Aksumite Empire</a> (which officially used the name "Ethiopia" in the 4th century) and its predecessor state, <a href="http://en.wikipedia.org/wiki/D%60mt" title="D`mt" class="mw-redirect">D`mt</a> (with early 1st millennium BC roots).<sup id="cite_ref-12" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-12"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-13"><span>[</span>14<span>]</span></a></sup> After a period of decentralized power in the 18th and early 19th centuries known as the <a href="http://en.wikipedia.org/wiki/Zemene_Mesafint" title="Zemene Mesafint">Zemene Mesafint</a> ("Era of the Judges/Princes"), the country was reunited in 1855 by Kassa Hailu, who became Emperor <a href="http://en.wikipedia.org/wiki/Tewodros_II_of_Ethiopia" title="Tewodros II of Ethiopia">Tewodros II</a>, beginning Ethiopia's modern history.<sup id="cite_ref-14" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-14"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-15"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-16"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-17"><span>[</span>18<span>]</span></a></sup> Ethiopia's borders underwent significant territorial reduction in the north and expansion in the south, toward its modern borders for the rest of the century owing to several migrations and commercial integration as well as conquests,<sup id="cite_ref-Marcus_18-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-Marcus-18"><span>[</span>19<span>]</span></a></sup> especially by Emperor <a href="http://en.wikipedia.org/wiki/Menelik_II_of_Ethiopia" title="Menelik II of Ethiopia">Menelik II</a> and <a href="http://en.wikipedia.org/wiki/Ras_Gobena" title="Ras Gobena" class="mw-redirect">Ras Gobena</a>, culminating in its victory over the Italians at the <a href="http://en.wikipedia.org/wiki/Battle_of_Adwa" title="Battle of Adwa">Battle of Adwa</a> in 1896, ensuring its sovereignty and freedom from colonization.<sup id="cite_ref-Marcus_18-1" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-Marcus-18"><span>[</span>19<span>]</span></a></sup> It was brutally occupied by <a href="http://en.wikipedia.org/wiki/Benito_Mussolini" title="Benito Mussolini">Benito Mussolini</a>'s <a href="http://en.wikipedia.org/wiki/Fascist_Italy" title="Fascist Italy" class="mw-redirect">Italy</a> from 1936 to 1941,<sup id="cite_ref-19" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-19"><span>[</span>20<span>]</span></a></sup> ending with its liberation by British Commonwealth and Ethiopian patriot forces.<sup id="cite_ref-20" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-20"><span>[</span>21<span>]</span></a></sup></p>
+<p>Historically, people in Ethiopia practiced some of the oldest democratic systems in the world, including the ancient Gada system.<sup id="cite_ref-21" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-21"><span>[</span>22<span>]</span></a></sup> Ethiopia has the largest number of <a href="http://en.wikipedia.org/wiki/UNESCO" title="UNESCO">UNESCO</a> <a href="http://en.wikipedia.org/wiki/World_Heritage_Sites" title="World Heritage Sites" class="mw-redirect">World Heritage Sites</a> in Africa <sup id="cite_ref-22" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-22"><span>[</span>23<span>]</span></a></sup> and the country is famous for its Olympic distance athletes, <a href="http://en.wikipedia.org/wiki/Lalibela" title="Lalibela" class="mw-redirect">rock-hewn churches</a> and as the origin of the coffee bean. Having converted during the fourth century&#160;AD, it was one of the earliest countries to officially adopt <a href="http://en.wikipedia.org/wiki/Christianity" title="Christianity">Christianity</a>, after <a href="http://en.wikipedia.org/wiki/Armenia" title="Armenia">Armenia</a>.<sup class="noprint Template-Fact" title="This claim needs references to reliable sources from August 2009" style="white-space:nowrap;">[<i><a href="http://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</a></i>]</sup> Ethiopia also has a considerable Muslim community, dating from the earliest days of <a href="http://en.wikipedia.org/wiki/Islam" title="Islam">Islam</a> – being the site of the first <a href="http://en.wikipedia.org/wiki/Hijra" title="Hijra">Hijra</a> in Islamic history, the earliest ninth-century Sultanates, the oldest Muslim settlement in Africa at <a href="http://en.wikipedia.org/wiki/Negash" title="Negash">Negash</a> and home to the holy Muslim city of Harar. The country has been secular since 1974.<sup id="cite_ref-23" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-23"><span>[</span>24<span>]</span></a></sup><sup id="cite_ref-24" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-24"><span>[</span>25<span>]</span></a></sup> Historically a relatively isolated mountain country, Ethiopia by the mid 20th century became a crossroads of global <a href="http://en.wikipedia.org/wiki/International_organization" title="International organization">international cooperation</a> under the leadership of Emperor <a href="http://en.wikipedia.org/wiki/Haile_Selassie_I" title="Haile Selassie I" class="mw-redirect">Haile Selassie I</a>. It became a member of the <a href="http://en.wikipedia.org/wiki/League_of_Nations" title="League of Nations">League of Nations</a> in 1923, signed the <a href="http://en.wikipedia.org/wiki/Declaration_by_United_Nations" title="Declaration by United Nations">Declaration by United Nations</a> in 1942, and was one of the fifty-one original members of the <a href="http://en.wikipedia.org/wiki/United_Nations" title="United Nations">United Nations</a> (UN). The headquarters of <a href="http://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Africa" title="United Nations Economic Commission for Africa">United Nations Economic Commission for Africa</a> (UNECA) is in Addis Ababa, often labeled Africa's "Diplomatic Capital," as is the headquarters of the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a> (formerly the <a href="http://en.wikipedia.org/wiki/Organisation_of_African_Unity" title="Organisation of African Unity">Organisation of African Unity</a>), of which Ethiopia was the principal founder. When several African countries gained independence, they adopted Ethiopia's national flag colors of green, yellow and red, often labeled as <a href="http://en.wikipedia.org/wiki/Pan-African_colours" title="Pan-African colours">Pan-African colours</a>.<sup id="cite_ref-25" class="reference"><a href="http://en.wikipedia.org/wiki/Ethiopia#cite_note-25"><span>[</span>26<span>]</span></a></sup> There are about forty-five <a href="http://en.wikipedia.org/wiki/Ethiopian_embassies" title="Ethiopian embassies" class="mw-redirect">Ethiopian embassies</a> and <a href="http://en.wikipedia.org/wiki/Consulates" title="Consulates" class="mw-redirect">consulates</a> around the world. In the <a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">Human Development Index</a> Ethiopia is placed 169th out of 177.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

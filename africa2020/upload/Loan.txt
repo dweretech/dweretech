@@ -1,0 +1,106 @@
+	<h1 id="firstHeading" class="firstHeading">Loan</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Loan#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Loan#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Loan_(disambiguation)" title="Loan (disambiguation)">Loan (disambiguation)</a>.</div>
+<table class="toccolours" style="float:right; margin:0 0 1.0em 1.0em; text-align:center; font-size:90%;">
+<tr>
+<td colspan="2" style="font-size:135%;"><b><a href="http://en.wikipedia.org/wiki/Finance" title="Finance">Finance</a></b>
+<p><a href="http://en.wikipedia.org/wiki/File:Banknotes.jpg" class="image"><img alt="Banknotes.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Banknotes.jpg/140px-Banknotes.jpg" width="140" height="105" /></a></p>
+<hr /></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Financial_market" title="Financial market">Financial markets</a></b><br />
+<p><a href="http://en.wikipedia.org/wiki/Bond_market" title="Bond market">Bond market</a><br />
+<a href="http://en.wikipedia.org/wiki/Stock_market" title="Stock market">Stock (Equities) Market</a><br />
+<a href="http://en.wikipedia.org/wiki/Foreign_exchange_market" title="Foreign exchange market">Foreign exchange market</a><br />
+<a href="http://en.wikipedia.org/wiki/Derivatives_market" title="Derivatives market">Derivatives market</a><br />
+<a href="http://en.wikipedia.org/wiki/Commodity_market" title="Commodity market">Commodity market</a><br />
+<a href="http://en.wikipedia.org/wiki/Money_market" title="Money market">Money market</a><br />
+<a href="http://en.wikipedia.org/wiki/Spot_market" title="Spot market">Spot (cash) Market</a><br />
+<a href="http://en.wikipedia.org/wiki/Over-the-counter_(finance)" title="Over-the-counter (finance)">OTC market</a><br />
+<a href="http://en.wikipedia.org/wiki/Real_estate" title="Real estate">Real Estate market</a><br />
+<a href="http://en.wikipedia.org/wiki/Private_equity" title="Private equity">Private equity</a></p>
+<hr /></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Financial_market_participants" title="Financial market participants">Market participants</a></b><br />
+<p><a href="http://en.wikipedia.org/wiki/Investors" title="Investors" class="mw-redirect">Investors</a><br />
+<a href="http://en.wikipedia.org/wiki/Speculators" title="Speculators" class="mw-redirect">Speculators</a><br />
+<a href="http://en.wikipedia.org/wiki/Institutional_investor" title="Institutional investor">Institutional Investors</a></p>
+<hr /></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Corporate_finance" title="Corporate finance">Corporate finance</a></b><br />
+<p><a href="http://en.wikipedia.org/wiki/Structured_finance" title="Structured finance">Structured finance</a><br />
+<a href="http://en.wikipedia.org/wiki/Capital_budgeting" title="Capital budgeting">Capital budgeting</a><br />
+<a href="http://en.wikipedia.org/wiki/Financial_risk_management" title="Financial risk management">Financial risk management</a><br />
+<a href="http://en.wikipedia.org/wiki/Mergers_and_Acquisitions" title="Mergers and Acquisitions" class="mw-redirect">Mergers and Acquisitions</a><br />
+<a href="http://en.wikipedia.org/wiki/Accounting" title="Accounting" class="mw-redirect">Accounting</a><br />
+<a href="http://en.wikipedia.org/wiki/Financial_Statements" title="Financial Statements" class="mw-redirect">Financial Statements</a><br />
+<a href="http://en.wikipedia.org/wiki/Auditing" title="Auditing" class="mw-redirect">Auditing</a><br />
+<a href="http://en.wikipedia.org/wiki/Credit_rating_agency" title="Credit rating agency">Credit rating agency</a><br />
+<a href="http://en.wikipedia.org/wiki/Leveraged_buyout" title="Leveraged buyout">Leveraged buyout</a><br />
+<a href="http://en.wikipedia.org/wiki/Venture_capital" title="Venture capital">Venture capital</a></p>
+<hr /></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Personal_finance" title="Personal finance">Personal finance</a></b><br />
+<p><a href="http://en.wikipedia.org/wiki/Credit_(finance)" title="Credit (finance)">Credit</a> and <a href="http://en.wikipedia.org/wiki/Debt" title="Debt">Debt</a><br />
+<a href="http://en.wikipedia.org/wiki/Employment_contract" title="Employment contract">Employment contract</a><br />
+<a href="http://en.wikipedia.org/wiki/Retirement" title="Retirement">Retirement</a><br />
+<a href="http://en.wikipedia.org/wiki/Financial_planner" title="Financial planner">Financial planning</a></p>
+<hr /></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Public_finance" title="Public finance">Public finance</a></b><br />
+<p><a href="http://en.wikipedia.org/wiki/Tax" title="Tax">Tax</a><br />
+<a href="http://en.wikipedia.org/wiki/Government_debt" title="Government debt">Government debt</a><br />
+<a href="http://en.wikipedia.org/wiki/Deficit_spending" title="Deficit spending">Deficit spending</a><br />
+<a href="http://en.wikipedia.org/wiki/Warrant_(of_payment)" title="Warrant (of payment)" class="mw-redirect">Warrant (of payment)</a></p>
+<hr /></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Bank" title="Bank">Banks and banking</a></b><br />
+<p><a href="http://en.wikipedia.org/wiki/Fractional-reserve_banking" title="Fractional-reserve banking">Fractional-reserve banking</a><br />
+<a href="http://en.wikipedia.org/wiki/Central_Bank" title="Central Bank" class="mw-redirect">Central Bank</a><br />
+<a href="http://en.wikipedia.org/wiki/List_of_banks" title="List of banks">List of banks</a><br />
+<a href="http://en.wikipedia.org/wiki/Deposit_(bank)" title="Deposit (bank)" class="mw-redirect">Deposits</a><br />
+<strong class="selflink">Loan</strong><br />
+<a href="http://en.wikipedia.org/wiki/Money_supply" title="Money supply">Money supply</a></p>
+<hr /></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Financial_regulation" title="Financial regulation">Financial regulation</a></b><br />
+<p><a href="http://en.wikipedia.org/wiki/Finance_designations" title="Finance designations">Finance designations</a><br />
+<a href="http://en.wikipedia.org/wiki/Accounting_scandals" title="Accounting scandals">Accounting scandals</a></p>
+<hr /></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Standards" title="Standards" class="mw-redirect">Standards</a></b><br />
+<p><a href="http://en.wikipedia.org/wiki/ISO_31000" title="ISO 31000">ISO 31000</a><br />
+<a href="http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards" title="International Financial Reporting Standards">International Financial Reporting</a></p>
+<hr /></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Economic_history" title="Economic history">Economic history</a></b><br />
+<p><a href="http://en.wikipedia.org/wiki/Stock_market_bubble" title="Stock market bubble">Stock market bubble</a><br />
+<a href="http://en.wikipedia.org/wiki/Recession" title="Recession">Recession</a><br />
+<a href="http://en.wikipedia.org/wiki/Stock_market_crash" title="Stock market crash">Stock market crash</a><br />
+<a href="http://en.wikipedia.org/wiki/History_of_private_equity_and_venture_capital" title="History of private equity and venture capital">History of private equity</a></p>
+<hr /></td>
+</tr>
+<tr>
+<td align="center">
+<div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;; font-size:xx-small;">This box: <a href="http://en.wikipedia.org/wiki/Template:Finance_sidebar" title="Template:Finance sidebar"><span title="View this template" style="">view</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/wiki/Template_talk:Finance_sidebar" title="Template talk:Finance sidebar"><span title="Discuss this template" style="">talk</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/w/index.php?title=Template:Finance_sidebar&amp;action=edit" class="external text" rel="nofollow"><span title="Edit this template" style=";">edit</span></a></div>
+</td>
+</tr>
+</table>
+<p>A <b>loan</b> is a type of <a href="http://en.wikipedia.org/wiki/Debt" title="Debt">debt</a>. Like all debt instruments, a loan entails the redistribution of financial <a href="http://en.wikipedia.org/wiki/Asset" title="Asset">assets</a> over time, between the <a href="http://en.wiktionary.org/wiki/lender" class="extiw" title="wiktionary:lender">lender</a> and the <a href="http://en.wiktionary.org/wiki/borrower" class="extiw" title="wiktionary:borrower">borrower</a>.</p>
+<p>In a loan, the borrower initially receives or <i>borrows</i> an amount of <a href="http://en.wikipedia.org/wiki/Money" title="Money">money</a>, called the <i>principal</i>, from the lender, and is obligated to <i>pay back</i> or <i>repay</i> an equal amount of money to the lender at a later time. Typically, the money is paid back in regular <i>installments</i>, or partial repayments; in an <a href="http://en.wikipedia.org/wiki/Annuity_(finance_theory)" title="Annuity (finance theory)">annuity</a>, each installment is the same amount. The loan is generally provided at a cost, referred to as <a href="http://en.wikipedia.org/wiki/Interest" title="Interest">interest</a> on the <a href="http://en.wikipedia.org/wiki/Debt" title="Debt">debt</a>, which provides an incentive for the lender to engage in the loan. In a legal loan, each of these obligations and restrictions is enforced by <a href="http://en.wikipedia.org/wiki/Contract" title="Contract">contract</a>, which can also place the borrower under additional restrictions known as <a href="http://en.wikipedia.org/wiki/Loan_covenant" title="Loan covenant">loan covenants</a>. Although this article focuses on monetary loans, in practice any material object might be lent.</p>
+<p>Acting as a provider of loans is one of the principal tasks for <a href="http://en.wikipedia.org/wiki/Financial_institution" title="Financial institution">financial institutions</a>. For other institutions, issuing of <a href="http://en.wikipedia.org/wiki/Debt" title="Debt">debt</a> contracts such as <a href="http://en.wikipedia.org/wiki/Bond_(finance)" title="Bond (finance)">bonds</a> is a typical source of funding.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

@@ -1,0 +1,335 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Sahrawi Arab Democratic Republic</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">"SADR" redirects here. For other uses, see <a href="http://en.wikipedia.org/wiki/SADR_(disambiguation)" title="SADR (disambiguation)" class="mw-redirect">SADR (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Sahrawi Arab Democratic Republic</span><br />
+<div style="padding-top:0.25em;">
+<div class="plainlist">
+<ul>
+<li><span lang="ar" xml:lang="ar">الجمهورية العربية الصحراوية الديمقراطية</span>&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>)</span></li>
+<li><span lang="es" xml:lang="es"><i>República Árabe Saharaui Democrática</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a>)</span></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg" class="image" title="Flag of Sahrawi Arab Democratic Republic"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/125px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png" width="125" height="63" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/188px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/250px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png 2x" data-file-width="600" data-file-height="300" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_the_Sahrawi_Arab_Democratic_Republic.svg" class="image" title="Coat of arms of Sahrawi Arab Democratic Republic"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Coat_of_arms_of_the_Sahrawi_Arab_Democratic_Republic.svg/85px-Coat_of_arms_of_the_Sahrawi_Arab_Democratic_Republic.svg.png" width="85" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Coat_of_arms_of_the_Sahrawi_Arab_Democratic_Republic.svg/128px-Coat_of_arms_of_the_Sahrawi_Arab_Democratic_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Coat_of_arms_of_the_Sahrawi_Arab_Democratic_Republic.svg/170px-Coat_of_arms_of_the_Sahrawi_Arab_Democratic_Republic.svg.png 2x" data-file-width="608" data-file-height="664" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Sahrawi_Arab_Democratic_Republic" title="Flag of Sahrawi Arab Democratic Republic" class="mw-redirect">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Sahrawi_Arab_Democratic_Republic" title="Coat of arms of Sahrawi Arab Democratic Republic" class="mw-redirect">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b><span lang="ar" xml:lang="ar">حرية ديمقراطية وحدة</span><br />
+<small style="font-size:85%;">"Libertad, Democracia, Unidad" (Spanish)</small><br />
+<small style="font-size:85%;">"Liberty, Democracy, Unity"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Y%C4%81_Ban%C4%ABy_As-Sahar%C4%81" title="Yā Banīy As-Saharā">Yā Banīy As-Saharā</a></i><br />
+<small style="font-size:85%;"><i>¡O hijos del Sáhara!</i> (Spanish)</small><br />
+<small style="font-size:85%;"><i>O Sons of the Sahara</i></small><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Sahrawi_Arab_Democratic_Republic_(orthographic_projection).svg" class="image" title="Areas controlled by the SADR in dark green, claimed areas in light green"><img alt="Areas controlled by the SADR in dark green, claimed areas in light green" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sahrawi_Arab_Democratic_Republic_%28orthographic_projection%29.svg/250px-Sahrawi_Arab_Democratic_Republic_%28orthographic_projection%29.svg.png" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sahrawi_Arab_Democratic_Republic_%28orthographic_projection%29.svg/375px-Sahrawi_Arab_Democratic_Republic_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sahrawi_Arab_Democratic_Republic_%28orthographic_projection%29.svg/500px-Sahrawi_Arab_Democratic_Republic_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">Areas controlled by the SADR in dark green, claimed areas in light green</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b></td>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/El_Aai%C3%BAn" title="El Aaiún">El Aaiún</a><sup>a</sup> <small style="font-size:85%;">(proclaimed)</small></li>
+<li><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Bir_Lehlou" title="Bir Lehlou">Bir Lehlou</a> <small style="font-size:85%;">(administrative)</small></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2">Largest city</th>
+<td><a href="http://en.wikipedia.org/wiki/El_Aai%C3%BAn" title="El Aaiún">El Aaiún</a> <small style="font-size:85%;">(proclaimed)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a> and <a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a></li>
+</ul>
+</div>
+<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Spoken<br />
+languages<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic#cite_note-2"><span>[</span>2<span>]</span></a></sup></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Hass%C4%81n%C4%ABya_language" title="Hassānīya language" class="mw-redirect">Hassānīya Arabic</a>,</li>
+<li><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Berber_languages" title="Berber languages">Berber languages</a></span>,</li>
+<li><a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Sahrawi_people" title="Sahrawi people">Sahrawi</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Demographics_of_the_Sahrawi_Arab_Democratic_Republic" title="Demographics of the Sahrawi Arab Democratic Republic" class="mw-redirect">Western Saharan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2">Government</th>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Single_party_state" title="Single party state" class="mw-redirect">Single-party</a> <a href="http://en.wikipedia.org/wiki/Semi-presidential_system" title="Semi-presidential system">semi-presidential</a><br />
+<a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a><sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic#cite_note-3"><span>[</span>3<span>]</span></a></sup></span></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_the_Sahrawi_Arab_Democratic_Republic" title="President of the Sahrawi Arab Democratic Republic">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Mohamed_Abdelaziz" title="Mohamed Abdelaziz">Mohamed Abdelaziz</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_the_Sahrawi_Arab_Democratic_Republic" title="Prime Minister of the Sahrawi Arab Democratic Republic">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Abdelkader_Taleb_Oumar" title="Abdelkader Taleb Oumar" class="mw-redirect">Abdelkader Taleb Oumar</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/Sahrawi_National_Council" title="Sahrawi National Council">Sahrawi National Council</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3">Sovereignty disputed <span style="font-weight:normal;">with <a href="http://en.wikipedia.org/wiki/Morocco" title="Morocco">Morocco</a></span></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Western_Sahara" title="Western Sahara">Western Sahara</a> relinquished by <a href="http://en.wikipedia.org/wiki/Spain" title="Spain">Spain</a></td>
+<td><br />
+November 14, 1975&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Republic declared</td>
+<td>February 27, 1976&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><span class="nowrap">Territory controlled</span></td>
+<td>20% to 25%<sup>d</sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3">Area</th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>266,000<sup>b</sup>&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">83rd</a>)<br />
+102,703&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3">Population</th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">September 2010&#160;estimate</td>
+<td>100,000 or 502,585<sup>c</sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">182nd</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>1.9/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">236th</a>)<br />
+4.9/sq&#160;mi</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Sahrawi_peseta" title="Sahrawi peseta">Sahrawi peseta</a> <small style="font-size:85%;">(<i>de jure</i>)</small></span></li>
+<li><a href="http://en.wikipedia.org/wiki/Algerian_dinar" title="Algerian dinar">Algerian dinar</a> <small style="font-size:85%;">(<i>de facto</i>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0)</span></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.eh" title=".eh">.eh</a><sup>e</sup></td>
+</tr>
+<tr style="font-size:85%;">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>a.</sup></span></td>
+<td colspan="2" style="padding-left:0;">Article 4 of the Sahrawi constitution. The SADR government is based in the <a href="http://en.wikipedia.org/wiki/Tindouf" title="Tindouf">Tindouf</a> refugee camps in <a href="http://en.wikipedia.org/wiki/Algeria" title="Algeria">Algeria</a>. They control the area east of the <a href="http://en.wikipedia.org/wiki/Moroccan_Wall" title="Moroccan Wall">Moroccan Wall</a> in Western Sahara which they label the "<a href="http://en.wikipedia.org/wiki/Free_Zone_(region)" title="Free Zone (region)">Free Zone</a>". Bir Lehlou is within this area.</td>
+</tr>
+<tr style="font-size:85%;" class="mergedrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>b.</sup></span></td>
+<td colspan="2" style="padding-left:0;">Area of the whole territory of <a href="http://en.wikipedia.org/wiki/Western_Sahara" title="Western Sahara">Western Sahara</a> claimed by SADR.</td>
+</tr>
+<tr style="font-size:85%;" class="mergedrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>c.</sup></span></td>
+<td colspan="2" style="padding-left:0;">500,000 is the estimate given for the population of Western Sahara based on comparative study of population growth since 1975, the date where the last census took place in Western Sahara. 100,000 is the estimated number of people living in the <a href="http://en.wikipedia.org/wiki/Tindouf_province" title="Tindouf province" class="mw-redirect">Tindouf</a> refugee camps in <a href="http://en.wikipedia.org/wiki/Algeria" title="Algeria">Algeria</a> where the SADR is headquartered.</td>
+</tr>
+<tr style="font-size:85%;" class="mergedrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>d.</sup></span></td>
+<td colspan="2" style="padding-left:0;">80% of the claimed territory is de facto <a href="http://en.wikipedia.org/wiki/Southern_Provinces" title="Southern Provinces">under Moroccan administration</a>.</td>
+</tr>
+<tr style="font-size:85%;" class="mergedbottomrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>e.</sup></span></td>
+<td colspan="2" style="padding-left:0;">Associated with Western Sahara but not yet granted to any claimant.<span style="font-size:110%;"><sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic#cite_note-4"><span>[</span>4<span>]</span></a></sup></span></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:18em;">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em;padding:0.5em 0.5em 0;">Part of a series on the</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:150%;padding-top:0.1em;"><a href="http://en.wikipedia.org/wiki/Western_Sahara_conflict" title="Western Sahara conflict">Western Sahara conflict</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;padding-bottom:1.0em;"><a href="http://en.wikipedia.org/wiki/File:Flags_of_Morocco_and_the_SADR_over_Western_Sahara_map.png" class="image"><img alt="Flags of Morocco and the SADR over Western Sahara map.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flags_of_Morocco_and_the_SADR_over_Western_Sahara_map.png/120px-Flags_of_Morocco_and_the_SADR_over_Western_Sahara_map.png" width="120" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flags_of_Morocco_and_the_SADR_over_Western_Sahara_map.png/180px-Flags_of_Morocco_and_the_SADR_over_Western_Sahara_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flags_of_Morocco_and_the_SADR_over_Western_Sahara_map.png/240px-Flags_of_Morocco_and_the_SADR_over_Western_Sahara_map.png 2x" data-file-width="542" data-file-height="505" /></a></td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lightsteelblue;padding:0.2em;">Background</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.5em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Spanish_Sahara" title="Spanish Sahara">Spanish Sahara</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Greater_Morocco" title="Greater Morocco">Greater Morocco</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Moroccan_Army_of_Liberation" title="Moroccan Army of Liberation">Moroccan Army of Liberation</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="http://en.wikipedia.org/wiki/Movement_for_the_Liberation_of_Saguia_el_Hamra_and_Wadi_el_Dhahab" title="Movement for the Liberation of Saguia el Hamra and Wadi el Dhahab">Movement for the Liberation of<br />
+Saguia el Hamra and Wadi el Dhahab</a></div>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Polisario_Front" title="Polisario Front">Polisario Front</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Sahrawi_National_Union_Party" title="Sahrawi National Union Party">Sahrawi National Union Party</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Madrid_Accords" title="Madrid Accords">Madrid Accords</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lightsteelblue;padding:0.2em;">Disputed regions</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.5em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Saguia_el-Hamra" title="Saguia el-Hamra">Saguia el-Hamra</a></li>
+<li><a href="http://en.wikipedia.org/wiki/R%C3%ADo_de_Oro" title="Río de Oro">Río de Oro</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Southern_Provinces" title="Southern Provinces">Southern Provinces</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Free_Zone_(region)" title="Free Zone (region)">Free Zone</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lightsteelblue;padding:0.2em;">Politics</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.5em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Political_status_of_Western_Sahara" title="Political status of Western Sahara">Political status of Western Sahara</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Politics_of_Morocco" title="Politics of Morocco">Politics of Morocco</a>&#160;/ <a href="http://en.wikipedia.org/wiki/Politics_of_the_Sahrawi_Arab_Democratic_Republic" title="Politics of the Sahrawi Arab Democratic Republic">of the SADR</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="http://en.wikipedia.org/wiki/Royal_Advisory_Council_for_Saharan_Affairs" title="Royal Advisory Council for Saharan Affairs">Royal Advisory Council<br />
+for Saharan Affairs</a></div>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lightsteelblue;padding:0.2em;">Rebellions</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.5em;">
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Ifni_War" title="Ifni War">Ifni War</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Zemla_Intifada" title="Zemla Intifada">Zemla Intifada</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Western_Sahara_War" title="Western Sahara War">Western Sahara War</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Independence_Intifada_(Western_Sahara)" title="Independence Intifada (Western Sahara)">Independence Intifada</a></li>
+<li><a href="http://en.wikipedia.org/wiki/First_Sahrawi_Intifada" title="First Sahrawi Intifada">First Intifada</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gdeim_Izik_protest_camp" title="Gdeim Izik protest camp">Gdeim Izik</a></li>
+<li><a href="http://en.wikipedia.org/wiki/2011_Western_Saharan_protests" title="2011 Western Saharan protests">Arab Spring protests</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lightsteelblue;padding:0.2em;">Issues</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.5em;">
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Sahrawi_refugees" title="Sahrawi refugees">Refugees</a>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Sahrawi_refugee_camps" title="Sahrawi refugee camps">Tindouf camps</a></li>
+</ul>
+</li>
+<li><a href="http://en.wikipedia.org/wiki/Moroccan_Wall" title="Moroccan Wall">Moroccan Wall</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Human_rights_in_Western_Sahara" title="Human rights in Western Sahara">Human rights</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:lightsteelblue;padding:0.2em;"><a href="http://en.wikipedia.org/wiki/Western_Sahara_peace_process" title="Western Sahara peace process">Peace process</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.5em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/List_of_United_Nations_resolutions_concerning_Western_Sahara" title="List of United Nations resolutions concerning Western Sahara">UN resolutions</a></li>
+<li><a href="http://en.wikipedia.org/wiki/1975_United_Nations_visiting_mission_to_Spanish_Sahara" title="1975 United Nations visiting mission to Spanish Sahara">UN visiting mission</a></li>
+<li><a href="http://en.wikipedia.org/wiki/United_Nations_Mission_for_the_Referendum_in_Western_Sahara" title="United Nations Mission for the Referendum in Western Sahara">UN referendum mission</a></li>
+<li><a href="http://en.wikipedia.org/wiki/International_Court_of_Justice_Advisory_Opinion_on_Western_Sahara" title="International Court of Justice Advisory Opinion on Western Sahara">ICJ Advisory Opinion</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Settlement_Plan" title="Settlement Plan">Settlement Plan</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Houston_Agreement" title="Houston Agreement">Houston Agreement</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Baker_Plan" title="Baker Plan">Baker Plan</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Manhasset_negotiations" title="Manhasset negotiations">Manhasset negotiations</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Western_Sahara_Autonomy_Proposal" title="Western Sahara Autonomy Proposal">Autonomy Proposal</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="http://en.wikipedia.org/wiki/Template:Western_Sahara_conflict" title="Template:Western Sahara conflict"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="http://en.wikipedia.org/wiki/Template_talk:Western_Sahara_conflict" title="Template talk:Western Sahara conflict"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Western_Sahara_conflict&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>Sahrawi Arab Democratic Republic</b> (<b>SADR</b>) (<a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">الجمهورية العربية الصحراوية الديمقراطية</span>‎ <i><span title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none">al-Jumhūrīyah al-‘Arabīyah aṣ-Ṣaḥrāwīyah ad-Dīmuqrāṭīyah</span></i>, <a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a>: <span lang="es" xml:lang="es"><i>República Árabe Saharaui Democrática</i></span>) is a <a href="http://en.wikipedia.org/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">partially recognized state</a> that controls a thin strip of area in the <a href="http://en.wikipedia.org/wiki/Western_Sahara" title="Western Sahara">Western Sahara</a> region and claims sovereignty over the entire territory of <a href="http://en.wikipedia.org/wiki/Western_Sahara" title="Western Sahara">Western Sahara</a>, a former <a href="http://en.wikipedia.org/wiki/Spain" title="Spain">Spanish</a> colony. SADR was proclaimed by the <a href="http://en.wikipedia.org/wiki/Polisario_Front" title="Polisario Front">Polisario Front</a> on February 27, 1976, in <a href="http://en.wikipedia.org/wiki/Bir_Lehlou" title="Bir Lehlou">Bir Lehlou</a>, Western Sahara. The SADR government controls about 20–25% of the <a href="http://en.wikipedia.org/wiki/Territory_(country_subdivision)" title="Territory (country subdivision)">territory</a> it claims.<sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic#cite_note-5"><span>[</span>5<span>]</span></a></sup> It calls the territories under its control the Liberated Territories or the <a href="http://en.wikipedia.org/wiki/Free_Zone_(region)" title="Free Zone (region)">Free Zone</a>. <a href="http://en.wikipedia.org/wiki/Morocco" title="Morocco">Morocco</a> controls and administers the rest of the disputed territory and calls these lands its <a href="http://en.wikipedia.org/wiki/Southern_Provinces" title="Southern Provinces">Southern Provinces</a>. The SADR government considers the Moroccan-held territory to be occupied territory, while Morocco considers the much smaller SADR-held territory to be a <a href="http://en.wikipedia.org/wiki/Buffer_zone" title="Buffer zone">buffer zone</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="http://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2013)">citation needed</span></a></i>]</sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

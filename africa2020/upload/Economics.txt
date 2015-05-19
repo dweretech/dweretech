@@ -1,0 +1,134 @@
+	<h1 id="firstHeading" class="firstHeading">Economics</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub"></div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="http://en.wikipedia.org/wiki/Economics#mw-head">navigation</a>,
+					<a href="http://en.wikipedia.org/wiki/Economics#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div class="dablink">This article is about the social science. For other uses, see <a href="http://en.wikipedia.org/wiki/Economics_(disambiguation)" title="Economics (disambiguation)">Economics (disambiguation)</a>. For a topical guide to this subject, see <a href="http://en.wikipedia.org/wiki/Outline_of_economics" title="Outline of economics">Outline of economics</a>.</div>
+<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="http://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Padlock-silver-slash.svg/20px-Padlock-silver-slash.svg.png" width="20" height="20" /></a></div>
+<p><b>Economics</b> is the <a href="http://en.wikipedia.org/wiki/Social_sciences" title="Social sciences">social science</a> that analyzes the <a href="http://en.wikipedia.org/wiki/Production_theory_basics" title="Production theory basics">production</a>, <a href="http://en.wikipedia.org/wiki/Distribution_(economics)" title="Distribution (economics)">distribution</a>, and <a href="http://en.wikipedia.org/wiki/Consumption_(economics)" title="Consumption (economics)">consumption</a> of <a href="http://en.wikipedia.org/wiki/Good_(economics_and_accounting)" title="Good (economics and accounting)" class="mw-redirect">goods</a> and <a href="http://en.wikipedia.org/wiki/Service_(economics)" title="Service (economics)">services</a>. The term <i>economics</i> comes from the <a href="http://en.wikipedia.org/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a> <i><span lang="grc" xml:lang="grc"><a href="http://en.wiktionary.org/wiki/%CE%BF%E1%BC%B0%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1" class="extiw" title="wikt:οἰκονομία">οἰκονομία</a></span></i> (<i><span lang="grc-Latn" xml:lang="grc-Latn">oikonomia</span>,</i> "management of a household, administration") from <i><span lang="grc" xml:lang="grc"><a href="http://en.wiktionary.org/wiki/%CE%BF%E1%BC%B6%CE%BA%CE%BF%CF%82" class="extiw" title="wikt:οἶκος">οἶκος</a></span></i> (<i><span lang="grc-Latn" xml:lang="grc-Latn">oikos</span>,</i> "house") + <i><span lang="grc" xml:lang="grc"><a href="http://en.wiktionary.org/wiki/%CE%BD%CF%8C%CE%BC%CE%BF%CF%82" class="extiw" title="wikt:νόμος">νόμος</a></span></i> (<i><span lang="grc-Latn" xml:lang="grc-Latn">nomos</span>,</i> "custom" or "law"), hence "rules of the house(hold)".<sup id="cite_ref-etymology_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Economics#cite_note-etymology-0"><span>[</span>1<span>]</span></a></sup> Current economic models emerged from the broader field of <a href="http://en.wikipedia.org/wiki/Political_economy" title="Political economy">political economy</a> in the late 19th century. A primary stimulus for the development of modern economics was the desire to use an <a href="http://en.wikipedia.org/wiki/Empirical" title="Empirical">empirical</a> approach more akin to the physical sciences.<sup id="cite_ref-Clark_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Economics#cite_note-Clark-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>Economics aims to explain how <a href="http://en.wikipedia.org/wiki/Economy" title="Economy">economies</a> work and how economic <a href="http://en.wikipedia.org/wiki/Agent_(economics)" title="Agent (economics)">agents</a> interact. Economic analysis is applied throughout society, in <a href="http://en.wikipedia.org/wiki/Business" title="Business">business</a>, <a href="http://en.wikipedia.org/wiki/Finance" title="Finance">finance</a> and <a href="http://en.wikipedia.org/wiki/Government" title="Government">government</a>, but also in <a href="http://en.wikipedia.org/wiki/Crime" title="Crime">crime</a>,<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Economics#cite_note-2"><span>[</span>3<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/Education_economics" title="Education economics">education</a>,<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Economics#cite_note-3"><span>[</span>4<span>]</span></a></sup> the <a href="http://en.wikipedia.org/wiki/Family_economics" title="Family economics">family</a>, <a href="http://en.wikipedia.org/wiki/Health_economics" title="Health economics">health</a>, <a href="http://en.wikipedia.org/wiki/Law_and_economics" title="Law and economics">law</a>, <a href="http://en.wikipedia.org/wiki/Public_choice" title="Public choice" class="mw-redirect">politics</a>, <a href="http://en.wikipedia.org/wiki/Economics_of_religion" title="Economics of religion">religion</a>,<sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/Economics#cite_note-4"><span>[</span>5<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/Institutional_economics" title="Institutional economics">social institutions</a>, war,<sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Economics#cite_note-5"><span>[</span>6<span>]</span></a></sup> and <a href="http://en.wikipedia.org/wiki/Science" title="Science">science</a>.<sup id="cite_ref-6" class="reference"><a href="http://en.wikipedia.org/wiki/Economics#cite_note-6"><span>[</span>7<span>]</span></a></sup> The expanding domain of economics in the <a href="http://en.wikipedia.org/wiki/Social_science" title="Social science" class="mw-redirect">social sciences</a> has been described as <a href="http://en.wikipedia.org/wiki/Economic_imperialism_(economics)" title="Economic imperialism (economics)">economic imperialism</a>.<sup id="cite_ref-Imperialism_7-0" class="reference"><a href="http://en.wikipedia.org/wiki/Economics#cite_note-Imperialism-7"><span>[</span>8<span>]</span></a></sup></p>
+<p>Common distinctions are drawn between various dimensions of economics. The primary textbook distinction is between <a href="http://en.wikipedia.org/wiki/Microeconomics" title="Microeconomics">microeconomics</a>, which examines the behavior of basic elements in the economy, including individual markets and agents (such as consumers and firms, buyers and sellers), and <a href="http://en.wikipedia.org/wiki/Macroeconomics" title="Macroeconomics">macroeconomics</a>, which addresses issues affecting an entire economy, including unemployment, inflation, economic growth, and monetary and fiscal policy. Other distinctions include: between <a href="http://en.wikipedia.org/wiki/Positive_economics" title="Positive economics">positive economics</a> (describing "what is") and <a href="http://en.wikipedia.org/wiki/Normative_economics" title="Normative economics">normative economics</a> (advocating "what ought to be"); between economic theory and <a href="http://en.wikipedia.org/wiki/Applied_economics" title="Applied economics">applied economics</a>; between <a href="http://en.wikipedia.org/wiki/Mainstream_economics" title="Mainstream economics">mainstream economics</a> (more "orthodox" dealing with the "rationality-individualism-equilibrium nexus") and <a href="http://en.wikipedia.org/wiki/Heterodox_economics" title="Heterodox economics">heterodox economics</a> (more "radical" dealing with the "institutions-history-social structure nexus");<sup id="cite_ref-8" class="reference"><a href="http://en.wikipedia.org/wiki/Economics#cite_note-8"><span>[</span>9<span>]</span></a></sup> and between <a href="http://en.wikipedia.org/wiki/Rational_choice_theory" title="Rational choice theory">rational</a> and <a href="http://en.wikipedia.org/wiki/Behavioral_economics" title="Behavioral economics">behavioral economics</a>.</p>
+<table style="line-height:140%; font-size: 95%; margin: 0.3em 0 0.6em 0.6em; border: 1px solid #BEBEBE; background-color:#f9f9f9; clear:right; float:right;" cellpadding="0" cellspacing="0">
+<tr>
+<td style="font-size: 120%; background:#ccccdd; border-bottom: 1px solid #BEBEBE; padding: 5px 5px 3px 5px;" align="center"><b><strong class="selflink">Economics</strong></b></td>
+</tr>
+<tr>
+<td style="text-align: center; background:#FFFFFF;"><a href="http://en.wikipedia.org/wiki/File:GDP_PPP_Per_Capita_IMF_2008.svg" class="image"><img alt="GDP PPP Per Capita IMF 2008.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/GDP_PPP_Per_Capita_IMF_2008.svg/200px-GDP_PPP_Per_Capita_IMF_2008.svg.png" width="200" height="91" /></a><br /></td>
+</tr>
+<tr>
+<td>
+<div class="NavFrame" style="border-style: none; padding: 0px; text-align: center; border-left: 0px; border-right: 0px; border-top: 0px; border-bottom: 0px;">
+<div class="NavHead" style="border-style: none; padding: 0px; background:#FFFFFF; text-align: left; font-size: 11px; height:1.9em;">&#160;&#160;<b>Economies by region</b>&#160;</div>
+<div class="NavContent" style="border-style: none; padding: 0px; background-color:transparent; font-size: 90%; text-align: center; display:none; border-top: 1px solid #BEBEBE;">
+<p><a href="http://en.wikipedia.org/wiki/Economy_of_Africa" title="Economy of Africa">Africa</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Economy_of_North_America" title="Economy of North America">North America</a><br />
+<a href="http://en.wikipedia.org/wiki/Economy_of_South_America" title="Economy of South America">South America</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Economy_of_Asia" title="Economy of Asia">Asia</a><br />
+<a href="http://en.wikipedia.org/wiki/Economy_of_Europe" title="Economy of Europe">Europe</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Economy_of_Oceania" title="Economy of Oceania">Oceania</a><br /></p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th style="background:#ddddee; font-size: 95%; border-top: 1px solid #BEBEBE; border-bottom: 1px solid #BEBEBE; padding: 0 3px 0 3px;"><a href="http://en.wikipedia.org/wiki/Outline_of_economics" title="Outline of economics">General categories</a></th>
+</tr>
+<tr>
+<td style="font-size: 90%; padding: 0 3px 0 3px;">
+<center>
+<p><a href="http://en.wikipedia.org/wiki/Microeconomics" title="Microeconomics">Microeconomics</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Macroeconomics" title="Macroeconomics">Macroeconomics</a><br />
+<a href="http://en.wikipedia.org/wiki/History_of_economic_thought" title="History of economic thought">History of economic thought</a><br />
+<a href="http://en.wikipedia.org/wiki/Economic_methodology" title="Economic methodology">Methodology</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Heterodox_economics" title="Heterodox economics">Heterodox approaches</a></p>
+</center>
+</td>
+</tr>
+<tr>
+<th style="background:#ddddee; font-size: 95%; border-top: 1px solid #BEBEBE; border-bottom: 1px solid #BEBEBE; padding: 0 3px 0 3px;"><a href="http://en.wikipedia.org/wiki/JEL_classification_codes#Mathematical_and_quantitative_methods_JEL:_C_Subcategories" title="JEL classification codes">Methods</a></th>
+</tr>
+<tr>
+<td style="font-size: 90%; padding: 0 3px 0 3px;">
+<center>
+<p><a href="http://en.wikipedia.org/wiki/Econometrics" title="Econometrics">Econometrics</a> <span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Experimental_economics" title="Experimental economics">Experimental</a> <span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Game_theory" title="Game theory">Game theory</a><br />
+<a href="http://en.wikipedia.org/wiki/Mathematical_economics" title="Mathematical economics">Mathematical</a> <span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Mathematical_optimization" title="Mathematical optimization" class="mw-redirect">Optimization</a> <span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Statistics" title="Statistics">Statistics</a></p>
+</center>
+</td>
+</tr>
+<tr>
+<th style="background:#ddddee; font-size: 95%; border-top: 1px solid #BEBEBE; border-bottom: 1px solid #BEBEBE; padding: 0 3px 0 3px;"><a href="http://en.wikipedia.org/wiki/JEL_classification_codes" title="JEL classification codes">Fields and subfields</a></th>
+</tr>
+<tr>
+<td style="font-size: 90%; padding: 0 3px 0 3px;">
+<center>
+<p><a href="http://en.wikipedia.org/wiki/Behavioral_economics" title="Behavioral economics">Behavioral</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Cultural_economics" title="Cultural economics">Cultural</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Evolutionary_economics" title="Evolutionary economics">Evolutionary</a><br />
+<a href="http://en.wikipedia.org/wiki/Economic_growth" title="Economic growth">Growth</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Development_economics" title="Development economics">Development</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Economic_history" title="Economic history">History</a><br />
+<a href="http://en.wikipedia.org/wiki/International_economics" title="International economics">International</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Economic_system" title="Economic system">Economic systems</a><br />
+<a href="http://en.wikipedia.org/wiki/Monetary_economics" title="Monetary economics">Monetary</a> <span style="color:blue">and</span> <a href="http://en.wikipedia.org/wiki/Financial_economics" title="Financial economics">Financial economics</a><br />
+<a href="http://en.wikipedia.org/wiki/Public_economics" title="Public economics">Public</a> <span style="color:blue">and</span> <a href="http://en.wikipedia.org/wiki/Welfare_economics" title="Welfare economics">Welfare economics</a><br />
+<a href="http://en.wikipedia.org/wiki/Health_economics" title="Health economics">Health</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Education_economics" title="Education economics">Education</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Welfare" title="Welfare">Welfare</a><br />
+<a href="http://en.wikipedia.org/wiki/Demographic_economics" title="Demographic economics">Population</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Labour_economics" title="Labour economics">Labour</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Managerial_economics" title="Managerial economics">Managerial</a><br />
+<a href="http://en.wikipedia.org/wiki/Business_economics" title="Business economics">Business</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Information_economics" title="Information economics">Information</a><br />
+<a href="http://en.wikipedia.org/wiki/Industrial_organization" title="Industrial organization">Industrial organization</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Law_and_economics" title="Law and economics">Law</a><br />
+<a href="http://en.wikipedia.org/wiki/Agricultural_economics" title="Agricultural economics">Agricultural</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Natural_resource_economics" title="Natural resource economics">Natural resource</a><br />
+<a href="http://en.wikipedia.org/wiki/Environmental_economics" title="Environmental economics">Environmental</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Ecological_economics" title="Ecological economics">Ecological</a><br />
+<a href="http://en.wikipedia.org/wiki/Urban_economics" title="Urban economics">Urban</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Rural_economics" title="Rural economics">Rural</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Regional_science" title="Regional science">Regional</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Economic_geography" title="Economic geography">Geography</a></p>
+</center>
+</td>
+</tr>
+<tr>
+<td style="background:#ddddee; font-size: 95%; border-top: 1px solid #BEBEBE; border-bottom: 1px solid #BEBEBE; padding: 0 3px 0 3px;" align="center"><b><a href="http://en.wikipedia.org/wiki/Category:Economics_lists" title="Category:Economics lists">Lists</a></b></td>
+</tr>
+<tr>
+<td style="font-size: 90%; padding: 0 3px 0 3px;" align="center">
+<p><a href="http://en.wikipedia.org/wiki/List_of_scholarly_journals_in_economics" title="List of scholarly journals in economics">Journals</a> · <a href="http://en.wikipedia.org/wiki/List_of_important_publications_in_economics" title="List of important publications in economics">Publications</a><br />
+<a href="http://en.wikipedia.org/wiki/Category:Economics" title="Category:Economics">Categories</a> · <a href="http://en.wikipedia.org/wiki/List_of_economics_topics" title="List of economics topics" class="mw-redirect">Topics</a> · <a href="http://en.wikipedia.org/wiki/List_of_economists" title="List of economists">Economists</a><br /></p>
+</td>
+</tr>
+<tr>
+<td>
+<div class="NavFrame" style="border-style: none; padding: 0px; text-align: center; border-left: 0px; border-right: 0px; border-top: 0px; border-bottom: 0px;">
+<div class="NavHead" style="border-style: none; padding: 0px; background:#ddddee; border-top: 1px solid #BEBEBE; text-align: center; font-size: 11px; height:1.9em;"><b><a href="http://en.wikipedia.org/wiki/Economic_ideology" title="Economic ideology">Economic ideologies</a></b>&#160;</div>
+<div class="NavContent" style="border-style: none; padding: 0px; background-color:transparent; font-size: 90%; text-align: center; display:none; border-top: 1px solid #BEBEBE;">
+<p><a href="http://en.wikipedia.org/wiki/Anarchist_economics" title="Anarchist economics">Anarchism</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Capitalism" title="Capitalism">Capitalism</a><br />
+<a href="http://en.wikipedia.org/wiki/Communism" title="Communism">Communism</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Corporatism" title="Corporatism">Corporatism</a><br />
+<a href="http://en.wikipedia.org/wiki/Economics_of_fascism" title="Economics of fascism">Fascism</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Feudalism" title="Feudalism">Feudalism</a><br />
+<a href="http://en.wikipedia.org/wiki/Georgism" title="Georgism">Georgism</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Imperialism" title="Imperialism">Imperialism</a><br />
+<a href="http://en.wikipedia.org/wiki/Islamic_economic_jurisprudence" title="Islamic economic jurisprudence">Islamic</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Laissez-faire" title="Laissez-faire">Laissez-faire</a><br />
+<a href="http://en.wikipedia.org/wiki/Leninism" title="Leninism">Leninism</a><span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Maoism" title="Maoism">Maoism</a><br />
+<a href="http://en.wikipedia.org/wiki/Market_socialism" title="Market socialism">Market socialism</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Marxism" title="Marxism">Marxism</a><br />
+<a href="http://en.wikipedia.org/wiki/Monarchy" title="Monarchy">Monarchy</a> <span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Monopolism" title="Monopolism" class="mw-redirect">Monopolism</a><br />
+<a href="http://en.wikipedia.org/wiki/Mercantilism" title="Mercantilism">Mercantilism</a> <span style="font-weight:bold;">&#160;·</span>  <a href="http://en.wikipedia.org/wiki/Neocolonialism" title="Neocolonialism">Neocolonialism</a><br />
+<a href="http://en.wikipedia.org/wiki/Oligarchy" title="Oligarchy">Oligarchy</a> <span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Oligopoly" title="Oligopoly">Oligopoly</a><br />
+<a href="http://en.wikipedia.org/wiki/Plutocracy" title="Plutocracy">Plutocracy</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Primitivism" title="Primitivism">Primitivism</a><br />
+<a href="http://en.wikipedia.org/wiki/Protectionism" title="Protectionism">Protectionism</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Socialist_economics" title="Socialist economics">Socialism</a><br />
+<a href="http://en.wikipedia.org/wiki/Syndicalism" title="Syndicalism">Syndicalism</a><span style="font-weight:bold;">&#160;·</span> <a href="http://en.wikipedia.org/wiki/Third_Way_(centrism)" title="Third Way (centrism)">Third Way</a><br /></p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="NavHead" style="border-style: none; padding: 0px; background:#ddddee; border-top: 1px solid #BEBEBE; text-align: center; font-size: 11px; height:1.9em;"><b><a href="http://en.wikipedia.org/wiki/Economy" title="Economy">The economy: concept and history</a></b></div>
+</td>
+</tr>
+<tr>
+<td style="background:#ccccdd; line-height:120%; font-size: 90%; border-top: 1px solid #BEBEBE; padding: 0 3px 0 3px;" align="center"><a href="http://en.wikipedia.org/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Business and Economics Portal</a></td>
+</tr>
+<tr>
+<th style="background:#ccccdd; line-height:110%; font-size: 80%; padding: 0 3px 0 3px;">
+<div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;; font-size:xx-small;">This box: <a href="http://en.wikipedia.org/wiki/Template:Economics_sidebar" title="Template:Economics sidebar"><span title="View this template" style="">view</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/wiki/Template_talk:Economics_sidebar" title="Template talk:Economics sidebar"><span title="Discuss this template" style="">talk</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/w/index.php?title=Template:Economics_sidebar&amp;action=edit" class="external text" rel="nofollow"><span title="Edit this template" style=";">edit</span></a></div>
+</th>
+</tr>
+</table>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

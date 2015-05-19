@@ -1,0 +1,695 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Copper</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Copper#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Copper#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="http://en.wikipedia.org/wiki/Copper_(disambiguation)" title="Copper (disambiguation)" class="mw-disambig">Copper (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em">
+<caption>Copper,&#160;&#160;<sub><span style="font-size:smaller;">29</span></sub>Cu</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="http://en.wikipedia.org/wiki/File:NatCopper.jpg" class="image"><img alt="NatCopper.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NatCopper.jpg/220px-NatCopper.jpg" width="220" height="208" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NatCopper.jpg/330px-NatCopper.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NatCopper.jpg/440px-NatCopper.jpg 2x" data-file-width="1534" data-file-height="1452" /></a>
+<div>Native copper (~4 cm in size)</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ffc0c0">General properties</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;">Name, <a href="http://en.wikipedia.org/wiki/Chemical_symbol" title="Chemical symbol" class="mw-redirect">symbol</a></th>
+<td style="line-height:1.35em;">copper, Cu</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;">Pronunciation</th>
+<td style="line-height:1.35em;"><span class="nowrap"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'k' in 'kind'" style="border-bottom:1px dotted">k</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɒ/ short 'o' in 'body'" style="border-bottom:1px dotted">ɒ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'p' in 'pie'" style="border-bottom:1px dotted">p</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ər/ 'er' in 'finger'" style="border-bottom:1px dotted">ər</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span><br />
+<span title="English pronunciation respelling" class="Unicode"><a href="http://en.wikipedia.org/wiki/Wikipedia:Pronunciation_respelling_key" title="Wikipedia:Pronunciation respelling key"><i><b><span class="smallcaps"><span class="SMALLCAPS" style="FONT-VARIANT:SMALL-CAPS;"><span class="NOCAPS" style="TEXT-TRANSFORM:LOWERCASE;">KOP</span></span></span></b>-ər</i></a></span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;">Appearance</th>
+<td style="line-height:1.35em;">red-orange metallic luster</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ffc0c0">Copper in the <a href="http://en.wikipedia.org/wiki/Periodic_table" title="Periodic table">periodic table</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;line-height:1.35em;">
+<table class="wikitable" style="text-align:center; width:100%; margin:0; border-width:1px; background:#f8f8f8;">
+<tr>
+<td>
+<table class="wikitable" style="text-align:center; margin:0 auto; background:transparent; border:none;">
+<tr>
+<td style="border:none; width:10px">
+<table class="nogrid" cellpadding="0" cellspacing="1" style="background-color:transparent; text-align: center; empty-cells: show; border:none">
+<tr>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e7ff8f;"><a href="http://en.wikipedia.org/wiki/Hydrogen" title="Hydrogen&#160;(diatomic nonmetal)"><img alt="Hydrogen&#160;(diatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td colspan="30" style="border:none"></td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#c0ffff;"><a href="http://en.wikipedia.org/wiki/Helium" title="Helium&#160;(noble gas)"><img alt="Helium&#160;(noble gas)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+</tr>
+<tr>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff6666;"><a href="http://en.wikipedia.org/wiki/Lithium" title="Lithium&#160;(alkali metal)"><img alt="Lithium&#160;(alkali metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffdead;"><a href="http://en.wikipedia.org/wiki/Beryllium" title="Beryllium&#160;(alkaline earth metal)"><img alt="Beryllium&#160;(alkaline earth metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td colspan="24" style="border:none"></td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccc99;"><a href="http://en.wikipedia.org/wiki/Boron" title="Boron&#160;(metalloid)"><img alt="Boron&#160;(metalloid)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#a1ffc3;"><a href="http://en.wikipedia.org/wiki/Carbon" title="Carbon&#160;(polyatomic nonmetal)"><img alt="Carbon&#160;(polyatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e7ff8f;"><a href="http://en.wikipedia.org/wiki/Nitrogen" title="Nitrogen&#160;(diatomic nonmetal)"><img alt="Nitrogen&#160;(diatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e7ff8f;"><a href="http://en.wikipedia.org/wiki/Oxygen" title="Oxygen&#160;(diatomic nonmetal)"><img alt="Oxygen&#160;(diatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e7ff8f;"><a href="http://en.wikipedia.org/wiki/Fluorine" title="Fluorine&#160;(diatomic nonmetal)"><img alt="Fluorine&#160;(diatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#c0ffff;"><a href="http://en.wikipedia.org/wiki/Neon" title="Neon&#160;(noble gas)"><img alt="Neon&#160;(noble gas)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+</tr>
+<tr>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff6666;"><a href="http://en.wikipedia.org/wiki/Sodium" title="Sodium&#160;(alkali metal)"><img alt="Sodium&#160;(alkali metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffdead;"><a href="http://en.wikipedia.org/wiki/Magnesium" title="Magnesium&#160;(alkaline earth metal)"><img alt="Magnesium&#160;(alkaline earth metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td colspan="24" style="border:none"></td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccccc;"><a href="http://en.wikipedia.org/wiki/Aluminium" title="Aluminium&#160;(post-transition metal)"><img alt="Aluminium&#160;(post-transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccc99;"><a href="http://en.wikipedia.org/wiki/Silicon" title="Silicon&#160;(metalloid)"><img alt="Silicon&#160;(metalloid)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#a1ffc3;"><a href="http://en.wikipedia.org/wiki/Phosphorus" title="Phosphorus&#160;(polyatomic nonmetal)"><img alt="Phosphorus&#160;(polyatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#a1ffc3;"><a href="http://en.wikipedia.org/wiki/Sulfur" title="Sulfur&#160;(polyatomic nonmetal)"><img alt="Sulfur&#160;(polyatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e7ff8f;"><a href="http://en.wikipedia.org/wiki/Chlorine" title="Chlorine&#160;(diatomic nonmetal)"><img alt="Chlorine&#160;(diatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#c0ffff;"><a href="http://en.wikipedia.org/wiki/Argon" title="Argon&#160;(noble gas)"><img alt="Argon&#160;(noble gas)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+</tr>
+<tr>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff6666;"><a href="http://en.wikipedia.org/wiki/Potassium" title="Potassium&#160;(alkali metal)"><img alt="Potassium&#160;(alkali metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffdead;"><a href="http://en.wikipedia.org/wiki/Calcium" title="Calcium&#160;(alkaline earth metal)"><img alt="Calcium&#160;(alkaline earth metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td colspan="14" style="border:none"></td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Scandium" title="Scandium&#160;(transition metal)"><img alt="Scandium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Titanium" title="Titanium&#160;(transition metal)"><img alt="Titanium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Vanadium" title="Vanadium&#160;(transition metal)"><img alt="Vanadium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Chromium" title="Chromium&#160;(transition metal)"><img alt="Chromium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Manganese" title="Manganese&#160;(transition metal)"><img alt="Manganese&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Iron" title="Iron&#160;(transition metal)"><img alt="Iron&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Cobalt" title="Cobalt&#160;(transition metal)"><img alt="Cobalt&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Nickel" title="Nickel&#160;(transition metal)"><img alt="Nickel&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0; border:1px solid black; margin:-1px;"><a href="http://en.wikipedia.org/wiki/Copper" title="Copper&#160;(transition metal)"><img alt="Copper&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Zinc" title="Zinc&#160;(transition metal)"><img alt="Zinc&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccccc;"><a href="http://en.wikipedia.org/wiki/Gallium" title="Gallium&#160;(post-transition metal)"><img alt="Gallium&#160;(post-transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccc99;"><a href="http://en.wikipedia.org/wiki/Germanium" title="Germanium&#160;(metalloid)"><img alt="Germanium&#160;(metalloid)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccc99;"><a href="http://en.wikipedia.org/wiki/Arsenic" title="Arsenic&#160;(metalloid)"><img alt="Arsenic&#160;(metalloid)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#a1ffc3;"><a href="http://en.wikipedia.org/wiki/Selenium" title="Selenium&#160;(polyatomic nonmetal)"><img alt="Selenium&#160;(polyatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e7ff8f;"><a href="http://en.wikipedia.org/wiki/Bromine" title="Bromine&#160;(diatomic nonmetal)"><img alt="Bromine&#160;(diatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#c0ffff;"><a href="http://en.wikipedia.org/wiki/Krypton" title="Krypton&#160;(noble gas)"><img alt="Krypton&#160;(noble gas)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+</tr>
+<tr>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff6666;"><a href="http://en.wikipedia.org/wiki/Rubidium" title="Rubidium&#160;(alkali metal)"><img alt="Rubidium&#160;(alkali metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffdead;"><a href="http://en.wikipedia.org/wiki/Strontium" title="Strontium&#160;(alkaline earth metal)"><img alt="Strontium&#160;(alkaline earth metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none; width:0;"></td>
+<td colspan="13" style="border:none"></td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Yttrium" title="Yttrium&#160;(transition metal)"><img alt="Yttrium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Zirconium" title="Zirconium&#160;(transition metal)"><img alt="Zirconium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Niobium" title="Niobium&#160;(transition metal)"><img alt="Niobium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Molybdenum" title="Molybdenum&#160;(transition metal)"><img alt="Molybdenum&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Technetium" title="Technetium&#160;(transition metal)"><img alt="Technetium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Ruthenium" title="Ruthenium&#160;(transition metal)"><img alt="Ruthenium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Rhodium" title="Rhodium&#160;(transition metal)"><img alt="Rhodium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Palladium" title="Palladium&#160;(transition metal)"><img alt="Palladium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Silver" title="Silver&#160;(transition metal)"><img alt="Silver&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Cadmium" title="Cadmium&#160;(transition metal)"><img alt="Cadmium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccccc;"><a href="http://en.wikipedia.org/wiki/Indium" title="Indium&#160;(post-transition metal)"><img alt="Indium&#160;(post-transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccccc;"><a href="http://en.wikipedia.org/wiki/Tin" title="Tin&#160;(post-transition metal)"><img alt="Tin&#160;(post-transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccc99;"><a href="http://en.wikipedia.org/wiki/Antimony" title="Antimony&#160;(metalloid)"><img alt="Antimony&#160;(metalloid)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccc99;"><a href="http://en.wikipedia.org/wiki/Tellurium" title="Tellurium&#160;(metalloid)"><img alt="Tellurium&#160;(metalloid)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e7ff8f;"><a href="http://en.wikipedia.org/wiki/Iodine" title="Iodine&#160;(diatomic nonmetal)"><img alt="Iodine&#160;(diatomic nonmetal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#c0ffff;"><a href="http://en.wikipedia.org/wiki/Xenon" title="Xenon&#160;(noble gas)"><img alt="Xenon&#160;(noble gas)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+</tr>
+<tr style="border:none">
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff6666;"><a href="http://en.wikipedia.org/wiki/Caesium" title="Caesium&#160;(alkali metal)"><img alt="Caesium&#160;(alkali metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffdead;"><a href="http://en.wikipedia.org/wiki/Barium" title="Barium&#160;(alkaline earth metal)"><img alt="Barium&#160;(alkaline earth metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Lanthanum" title="Lanthanum&#160;(lanthanide)"><img alt="Lanthanum&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Cerium" title="Cerium&#160;(lanthanide)"><img alt="Cerium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Praseodymium" title="Praseodymium&#160;(lanthanide)"><img alt="Praseodymium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Neodymium" title="Neodymium&#160;(lanthanide)"><img alt="Neodymium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Promethium" title="Promethium&#160;(lanthanide)"><img alt="Promethium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Samarium" title="Samarium&#160;(lanthanide)"><img alt="Samarium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Europium" title="Europium&#160;(lanthanide)"><img alt="Europium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Gadolinium" title="Gadolinium&#160;(lanthanide)"><img alt="Gadolinium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Terbium" title="Terbium&#160;(lanthanide)"><img alt="Terbium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Dysprosium" title="Dysprosium&#160;(lanthanide)"><img alt="Dysprosium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Holmium" title="Holmium&#160;(lanthanide)"><img alt="Holmium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Erbium" title="Erbium&#160;(lanthanide)"><img alt="Erbium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Thulium" title="Thulium&#160;(lanthanide)"><img alt="Thulium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Ytterbium" title="Ytterbium&#160;(lanthanide)"><img alt="Ytterbium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffbfff;"><a href="http://en.wikipedia.org/wiki/Lutetium" title="Lutetium&#160;(lanthanide)"><img alt="Lutetium&#160;(lanthanide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Hafnium" title="Hafnium&#160;(transition metal)"><img alt="Hafnium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Tantalum" title="Tantalum&#160;(transition metal)"><img alt="Tantalum&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Tungsten" title="Tungsten&#160;(transition metal)"><img alt="Tungsten&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Rhenium" title="Rhenium&#160;(transition metal)"><img alt="Rhenium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Osmium" title="Osmium&#160;(transition metal)"><img alt="Osmium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Iridium" title="Iridium&#160;(transition metal)"><img alt="Iridium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Platinum" title="Platinum&#160;(transition metal)"><img alt="Platinum&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Gold" title="Gold&#160;(transition metal)"><img alt="Gold&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Mercury_(element)" title="Mercury&#160;(transition metal)"><img alt="Mercury&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccccc;"><a href="http://en.wikipedia.org/wiki/Thallium" title="Thallium&#160;(post-transition metal)"><img alt="Thallium&#160;(post-transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccccc;"><a href="http://en.wikipedia.org/wiki/Lead" title="Lead&#160;(post-transition metal)"><img alt="Lead&#160;(post-transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccccc;"><a href="http://en.wikipedia.org/wiki/Bismuth" title="Bismuth&#160;(post-transition metal)"><img alt="Bismuth&#160;(post-transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccccc;"><a href="http://en.wikipedia.org/wiki/Polonium" title="Polonium&#160;(post-transition metal)"><img alt="Polonium&#160;(post-transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccc99;"><a href="http://en.wikipedia.org/wiki/Astatine" title="Astatine&#160;(metalloid)"><img alt="Astatine&#160;(metalloid)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#c0ffff;"><a href="http://en.wikipedia.org/wiki/Radon" title="Radon&#160;(noble gas)"><img alt="Radon&#160;(noble gas)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+</tr>
+<tr>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff6666;"><a href="http://en.wikipedia.org/wiki/Francium" title="Francium&#160;(alkali metal)"><img alt="Francium&#160;(alkali metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffdead;"><a href="http://en.wikipedia.org/wiki/Radium" title="Radium&#160;(alkaline earth metal)"><img alt="Radium&#160;(alkaline earth metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Actinium" title="Actinium&#160;(actinide)"><img alt="Actinium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Thorium" title="Thorium&#160;(actinide)"><img alt="Thorium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Protactinium" title="Protactinium&#160;(actinide)"><img alt="Protactinium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Uranium" title="Uranium&#160;(actinide)"><img alt="Uranium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Neptunium" title="Neptunium&#160;(actinide)"><img alt="Neptunium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Plutonium" title="Plutonium&#160;(actinide)"><img alt="Plutonium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Americium" title="Americium&#160;(actinide)"><img alt="Americium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Curium" title="Curium&#160;(actinide)"><img alt="Curium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Berkelium" title="Berkelium&#160;(actinide)"><img alt="Berkelium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Californium" title="Californium&#160;(actinide)"><img alt="Californium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Einsteinium" title="Einsteinium&#160;(actinide)"><img alt="Einsteinium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Fermium" title="Fermium&#160;(actinide)"><img alt="Fermium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Mendelevium" title="Mendelevium&#160;(actinide)"><img alt="Mendelevium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Nobelium" title="Nobelium&#160;(actinide)"><img alt="Nobelium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ff99cc;"><a href="http://en.wikipedia.org/wiki/Lawrencium" title="Lawrencium&#160;(actinide)"><img alt="Lawrencium&#160;(actinide)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Rutherfordium" title="Rutherfordium&#160;(transition metal)"><img alt="Rutherfordium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Dubnium" title="Dubnium&#160;(transition metal)"><img alt="Dubnium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Seaborgium" title="Seaborgium&#160;(transition metal)"><img alt="Seaborgium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Bohrium" title="Bohrium&#160;(transition metal)"><img alt="Bohrium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Hassium" title="Hassium&#160;(transition metal)"><img alt="Hassium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e8e8e8;"><a href="http://en.wikipedia.org/wiki/Meitnerium" title="Meitnerium&#160;(unknown chemical properties)"><img alt="Meitnerium&#160;(unknown chemical properties)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e8e8e8;"><a href="http://en.wikipedia.org/wiki/Darmstadtium" title="Darmstadtium&#160;(unknown chemical properties)"><img alt="Darmstadtium&#160;(unknown chemical properties)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e8e8e8;"><a href="http://en.wikipedia.org/wiki/Roentgenium" title="Roentgenium&#160;(unknown chemical properties)"><img alt="Roentgenium&#160;(unknown chemical properties)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#ffc0c0;"><a href="http://en.wikipedia.org/wiki/Copernicium" title="Copernicium&#160;(transition metal)"><img alt="Copernicium&#160;(transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e8e8e8;"><a href="http://en.wikipedia.org/wiki/Ununtrium" title="Ununtrium&#160;(unknown chemical properties)"><img alt="Ununtrium&#160;(unknown chemical properties)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#cccccc;"><a href="http://en.wikipedia.org/wiki/Flerovium" title="Flerovium&#160;(post-transition metal)"><img alt="Flerovium&#160;(post-transition metal)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e8e8e8;"><a href="http://en.wikipedia.org/wiki/Ununpentium" title="Ununpentium&#160;(unknown chemical properties)"><img alt="Ununpentium&#160;(unknown chemical properties)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e8e8e8;"><a href="http://en.wikipedia.org/wiki/Livermorium" title="Livermorium&#160;(unknown chemical properties)"><img alt="Livermorium&#160;(unknown chemical properties)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e8e8e8;"><a href="http://en.wikipedia.org/wiki/Ununseptium" title="Ununseptium&#160;(unknown chemical properties)"><img alt="Ununseptium&#160;(unknown chemical properties)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+<td style="border:none">
+<div style="position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:#e8e8e8;"><a href="http://en.wikipedia.org/wiki/Ununoctium" title="Ununoctium&#160;(unknown chemical properties)"><img alt="Ununoctium&#160;(unknown chemical properties)" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="12" height="12" style="vertical-align: top" data-file-width="1" data-file-height="1" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="vertical-align:middle; text-align:center; font-size:90%; line-height:100%; width:10px; border:none;">–<br />
+↑<br />
+<span style="font-size:110%; line-height:110%;"><b>Cu</b></span><br />
+↓<br />
+<a href="http://en.wikipedia.org/wiki/Silver" title="Silver">Ag</a></td>
+</tr>
+<tr>
+<td class="nowrap" style="text-align:center; font-size:90%; line-height:100%; padding-top:0; padding-bottom:1px; border:none;"><a href="http://en.wikipedia.org/wiki/Nickel" title="Nickel">nickel</a> ← <span style="font-size:110%; line-height:110%;"><b><strong class="selflink">copper</strong></b></span> → <a href="http://en.wikipedia.org/wiki/Zinc" title="Zinc">zinc</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Atomic_number" title="Atomic number">Atomic number</a></span></th>
+<td style="line-height:1.35em;">29</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Atomic_weight" title="Atomic weight" class="mw-redirect">Standard atomic weight</a>&#160;<span style="font-weight:normal;"><a href="http://en.wikipedia.org/wiki/Uncertainty_bracket_notation" title="Uncertainty bracket notation" class="mw-redirect">(±)</a></span></th>
+<td style="line-height:1.35em;">63.546(3)<sup id="cite_ref-IUPAC_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Copper#cite_note-IUPAC-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Names_for_sets_of_chemical_elements#Category" title="Names for sets of chemical elements">Element category</a></th>
+<td style="line-height:1.35em;"><span title="color legend: transition metal" style="display:inline-block; vertical-align:middle; width:8px; height:10px; background:#ffc0c0">&#160;</span> <a href="http://en.wikipedia.org/wiki/Transition_metal" title="Transition metal">transition metal</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Group_(periodic_table)" title="Group (periodic table)">Group</a>, <a href="http://en.wikipedia.org/wiki/Block_(periodic_table)" title="Block (periodic table)">block</a></th>
+<td style="line-height:1.35em;"><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Group_11_element" title="Group 11 element">group&#160;11</a></span>, <a href="http://en.wikipedia.org/wiki/D-block" title="D-block" class="mw-redirect">d-block</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Period_(periodic_table)" title="Period (periodic table)">Period</a></th>
+<td style="line-height:1.35em;"><a href="http://en.wikipedia.org/wiki/Period_(periodic_table)#Period_4" title="Period (periodic table)">period&#160;4</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Electron_configuration" title="Electron configuration">Electron configuration</a></th>
+<td style="line-height:1.35em;">[<a href="http://en.wikipedia.org/wiki/Argon" title="Argon">Ar</a>] 3d<sup>10</sup> 4s<sup>1</sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><span style="font-weight:normal;">per shell</span></th>
+<td style="line-height:1.35em;">2, 8, 18, 1</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ffc0c0">Physical properties</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Phase_(matter)" title="Phase (matter)">Phase</a></th>
+<td style="line-height:1.35em;"><a href="http://en.wikipedia.org/wiki/Solid" title="Solid">solid</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Melting_point" title="Melting point">Melting&#160;point</a></th>
+<td style="line-height:1.35em;">1357.77&#160;<a href="http://en.wikipedia.org/wiki/Kelvin" title="Kelvin">K</a> ​(1084.62&#160;°C, ​1984.32&#160;°F)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Boiling_point" title="Boiling point">Boiling&#160;point</a></th>
+<td style="line-height:1.35em;">2835&#160;K ​(2562&#160;°C, ​4643&#160;°F)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Density" title="Density">Density</a> <span style="font-weight:normal;">near&#160;<a href="http://en.wikipedia.org/wiki/Room_temperature" title="Room temperature">r.t.</a></span></th>
+<td style="line-height:1.35em;">8.96&#160;g·cm<sup><small>−3</small></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><span style="font-weight:normal;">when&#160;liquid, at&#160;<abbr title="melting point">m.p.</abbr></span></th>
+<td style="line-height:1.35em;">8.02&#160;g·cm<sup><small>−3</small></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Heat&#160;of&#160;fusion</a></th>
+<td style="line-height:1.35em;">13.26&#160;<a href="http://en.wikipedia.org/wiki/Kilojoule_per_mole" title="Kilojoule per mole" class="mw-redirect">kJ·mol<sup><small>−1</small></sup></a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">Heat of vaporization</a></th>
+<td style="line-height:1.35em;">300.4&#160;kJ·mol<sup><small>−1</small></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Molar_heat_capacity" title="Molar heat capacity" class="mw-redirect">Molar heat capacity</a></th>
+<td style="line-height:1.35em;">24.440&#160;J·mol<sup><small>−1</small></sup>·K<sup><small>−1</small></sup></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;line-height:1.35em;"><a href="http://en.wikipedia.org/wiki/Vapor_pressure" title="Vapor pressure"><b>vapor&#160;pressure</b></a>
+<div style="margin:0 auto;">
+<table class="wikitable" cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse; margin:0; padding:0; text-align:center;">
+<tr>
+<td>P&#160;(Pa)</td>
+<td>1</td>
+<td>10</td>
+<td>100</td>
+<td>1&#160;k</td>
+<td>10&#160;k</td>
+<td>100&#160;k</td>
+</tr>
+<tr>
+<td>at&#160;T&#160;(K)</td>
+<td>1509</td>
+<td>1661</td>
+<td>1850</td>
+<td>2089</td>
+<td>2404</td>
+<td>2834</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ffc0c0">Atomic properties</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Oxidation_state" title="Oxidation state">Oxidation states</a></th>
+<td style="line-height:1.35em;"><span class="nowrap">+1, <b>+2</b>, +3, +4</span> ​(a mildly <a href="http://en.wikipedia.org/wiki/Base_(chemistry)" title="Base (chemistry)">basic</a> oxide)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Electronegativity" title="Electronegativity">Electronegativity</a></th>
+<td style="line-height:1.35em;">Pauling&#160;scale: 1.90</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Ionization_energy" title="Ionization energy">Ionization energies</a></th>
+<td style="line-height:1.35em;">1st:&#160;745.5&#160;kJ·mol<sup><small>−1</small></sup><br />
+2nd:&#160;1957.9&#160;kJ·mol<sup><small>−1</small></sup><br />
+3rd:&#160;3555&#160;kJ·mol<sup><small>−1</small></sup><br />
+(<a href="http://en.wikipedia.org/wiki/Molar_ionization_energies_of_the_elements#copper" title="Molar ionization energies of the elements">more</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Atomic_radius" title="Atomic radius">Atomic radius</a></th>
+<td style="line-height:1.35em;">empirical: 128&#160;<a href="http://en.wikipedia.org/wiki/Picometre" title="Picometre">pm</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Covalent_radius" title="Covalent radius">Covalent radius</a></th>
+<td style="line-height:1.35em;">132±4&#160;pm</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Van_der_Waals_radius" title="Van der Waals radius">Van der Waals radius</a></th>
+<td style="line-height:1.35em;">140&#160;pm</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ffc0c0">Miscellanea</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Crystal_structure" title="Crystal structure">Crystal structure</a></th>
+<td style="line-height:1.35em;">​<a href="http://en.wikipedia.org/wiki/Cubic_crystal_system" title="Cubic crystal system">face-centered&#160;cubic</a> (fcc)
+<div style="float:right;"><a href="http://en.wikipedia.org/wiki/File:Cubic-face-centered.svg" class="image" title="Face-centered cubic crystal structure for copper"><img alt="Face-centered cubic crystal structure for copper" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cubic-face-centered.svg/50px-Cubic-face-centered.svg.png" width="50" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cubic-face-centered.svg/75px-Cubic-face-centered.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cubic-face-centered.svg/100px-Cubic-face-centered.svg.png 2x" data-file-width="109" data-file-height="127" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Speed_of_sound" title="Speed of sound">Speed of sound</a> <span style="font-weight:normal;">thin&#160;rod</span></th>
+<td style="line-height:1.35em;">(annealed)<br />
+3810&#160;m·s<sup><small>−1</small></sup> (at&#160;<abbr title="room temperature">r.t.</abbr>)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Coefficient_of_thermal_expansion" title="Coefficient of thermal expansion" class="mw-redirect">Thermal expansion</a></th>
+<td style="line-height:1.35em;">16.5&#160;µm·m<sup><small>−1</small></sup>·K<sup><small>−1</small></sup> (at&#160;25&#160;°C)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Thermal_conductivity" title="Thermal conductivity">Thermal conductivity</a></th>
+<td style="line-height:1.35em;">401&#160;W·m<sup><small>−1</small></sup>·K<sup><small>−1</small></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Electrical_resistivity_and_conductivity" title="Electrical resistivity and conductivity">Electrical resistivity</a></th>
+<td style="line-height:1.35em;">16.78&#160;nΩ·m (at&#160;20&#160;°C)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Magnetism" title="Magnetism">Magnetic ordering</a></th>
+<td style="line-height:1.35em;"><a href="http://en.wikipedia.org/wiki/Diamagnetism" title="Diamagnetism">diamagnetic</a><sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Copper#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Young%27s_modulus" title="Young's modulus">Young's modulus</a></th>
+<td style="line-height:1.35em;">110–128&#160;GPa</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Shear_modulus" title="Shear modulus">Shear modulus</a></th>
+<td style="line-height:1.35em;">48&#160;GPa</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Bulk_modulus" title="Bulk modulus">Bulk modulus</a></th>
+<td style="line-height:1.35em;">140&#160;GPa</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Poisson%27s_ratio" title="Poisson's ratio">Poisson ratio</a></th>
+<td style="line-height:1.35em;">0.34</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Mohs_scale_of_mineral_hardness" title="Mohs scale of mineral hardness">Mohs hardness</a></th>
+<td style="line-height:1.35em;">3.0</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Vickers_hardness_test" title="Vickers hardness test">Vickers hardness</a></th>
+<td style="line-height:1.35em;">343–369&#160;MPa</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Brinell_hardness_test" title="Brinell hardness test" class="mw-redirect">Brinell hardness</a></th>
+<td style="line-height:1.35em;">235–878&#160;MPa</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Registry Number</a></th>
+<td style="line-height:1.35em;">7440-50-8</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ffc0c0">History</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;">Naming</th>
+<td style="line-height:1.35em;">after <a href="http://en.wikipedia.org/wiki/Cyprus" title="Cyprus">Cyprus</a>, principal mining place in Roman era (<i><span lang="la" xml:lang="la">Cyprium</span></i>)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-top:0.225em;line-height:1.15em; padding-right:0.75em;"><a href="http://en.wikipedia.org/wiki/Timeline_of_chemical_element_discoveries" title="Timeline of chemical element discoveries">Discovery</a></th>
+<td style="line-height:1.35em;"><a href="http://en.wikipedia.org/wiki/Middle_East" title="Middle East">Middle East</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/9000_BCE" title="9000 BCE" class="mw-redirect">9000 BCE</a>)</span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ffc0c0">Most stable isotopes</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;line-height:1.35em;"><span class="noprint">Main article: <a href="http://en.wikipedia.org/wiki/Isotopes_of_copper" title="Isotopes of copper">Isotopes of copper</a></span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;line-height:1.35em;">
+<table class="wikitable" style="width:100%; border-collapse:collapse; margin:0; padding:0; text-align:center;">
+<tr>
+<th><a href="http://en.wikipedia.org/wiki/Isotope" title="Isotope">iso</a></th>
+<th><a href="http://en.wikipedia.org/wiki/Natural_abundance" title="Natural abundance">NA</a></th>
+<th><a href="http://en.wikipedia.org/wiki/Half-life" title="Half-life">half-life</a></th>
+<th><a href="http://en.wikipedia.org/wiki/Decay_mode" title="Decay mode" class="mw-redirect">DM</a></th>
+<th><a href="http://en.wikipedia.org/wiki/Decay_energy" title="Decay energy">DE</a>&#160;<span style="font-size:90%;"><span style="font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Electronvolt" title="Electronvolt">MeV</a>)</span></span></th>
+<th><a href="http://en.wikipedia.org/wiki/Decay_product" title="Decay product">DP</a></th>
+</tr>
+<tr>
+<td><sup>63</sup>Cu</td>
+<td style="text-align:right">69.15%</td>
+<td colspan="4"><sup>63</sup>Cu is <a href="http://en.wikipedia.org/wiki/Stable_isotope" title="Stable isotope" class="mw-redirect">stable</a> with 34 <a href="http://en.wikipedia.org/wiki/Neutron" title="Neutron">neutrons</a></td>
+</tr>
+<tr>
+<td rowspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Copper-64" title="Copper-64"><sup>64</sup>Cu</a></td>
+<td rowspan="2" style="; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Synthetic_radioisotope" title="Synthetic radioisotope">syn</a></td>
+<td rowspan="2" style="text-align:right; vertical-align:middle;">12.700&#160;h</td>
+<td><a href="http://en.wikipedia.org/wiki/Electron_capture" title="Electron capture">ε</a></td>
+<td>–</td>
+<td><a href="http://en.wikipedia.org/wiki/Nickel-64" title="Nickel-64" class="mw-redirect"><sup>64</sup>Ni</a></td>
+</tr>
+<tr>
+<td><a href="http://en.wikipedia.org/wiki/Beta_decay" title="Beta decay">β<sup>−</sup></a></td>
+<td>–</td>
+<td><a href="http://en.wikipedia.org/wiki/Zinc-64" title="Zinc-64" class="mw-redirect"><sup>64</sup>Zn</a></td>
+</tr>
+<tr>
+<td><sup>65</sup>Cu</td>
+<td style="text-align:right">30.85%</td>
+<td colspan="4"><sup>65</sup>Cu is stable with 36 neutrons</td>
+</tr>
+<tr>
+<td><sup>67</sup>Cu</td>
+<td style="">syn</td>
+<td style="text-align:right;">61.83&#160;h</td>
+<td>β<sup>−</sup></td>
+<td>–</td>
+<td><a href="http://en.wikipedia.org/wiki/Zinc-67" title="Zinc-67" class="mw-redirect"><sup>67</sup>Zn</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="noprint" style="text-align:center;background:#ffc0c0">
+<div class="plainlinks hlist navbar">
+<ul>
+<li class="nv-view"><a href="http://en.wikipedia.org/wiki/Template:Infobox_copper" title="Template:Infobox copper"><span title="View this template">view</span></a></li>
+<li class="nv-talk"><a href="http://en.wikipedia.org/wiki/Template_talk:Infobox_copper" title="Template talk:Infobox copper"><span title="Discuss this template">talk</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Infobox_copper&amp;action=edit"><span title="Edit this template">edit</span></a></li>
+</ul>
+</div>
+· <a href="http://en.wikipedia.org/wiki/List_of_data_references_for_chemical_elements" title="List of data references for chemical elements">references</a></td>
+</tr>
+</table>
+<p><b>Copper</b> is a <a href="http://en.wikipedia.org/wiki/Chemical_element" title="Chemical element">chemical element</a> with symbol <b>Cu</b> (from <a href="http://en.wikipedia.org/wiki/Latin_language" title="Latin language" class="mw-redirect">Latin</a>: <span lang="la" xml:lang="la"><i>cuprum</i></span>) and <a href="http://en.wikipedia.org/wiki/Atomic_number" title="Atomic number">atomic number</a> 29. It is a <a href="http://en.wikipedia.org/wiki/Ductility" title="Ductility">ductile</a> metal with very high <a href="http://en.wikipedia.org/wiki/Thermal_conductivity" title="Thermal conductivity">thermal</a> and <a href="http://en.wikipedia.org/wiki/Electrical_conductivity" title="Electrical conductivity" class="mw-redirect">electrical conductivity</a>. Pure copper is soft and malleable; a freshly exposed surface has a reddish-orange color. It is used as a conductor of heat and electricity, a building material, and a constituent of various metal <a href="http://en.wikipedia.org/wiki/Alloy" title="Alloy">alloys</a>.</p>
+<p>The metal and <a href="http://en.wikipedia.org/wiki/List_of_copper_alloys" title="List of copper alloys">its alloys</a> have been used for thousands of years. In the Roman era, copper was principally mined on <a href="http://en.wikipedia.org/wiki/Cyprus" title="Cyprus">Cyprus</a>, hence the origin of the name of the metal as <i>сyprium</i> (metal of Cyprus), later shortened to <i>сuprum</i>. Its compounds are commonly encountered as copper(II) salts, which often impart blue or green colors to minerals such as <a href="http://en.wikipedia.org/wiki/Azurite" title="Azurite">azurite</a> and <a href="http://en.wikipedia.org/wiki/Turquoise" title="Turquoise">turquoise</a> and have been widely used historically as pigments. Architectural structures built with copper corrode to give green <a href="http://en.wikipedia.org/wiki/Verdigris" title="Verdigris">verdigris</a> (or <a href="http://en.wikipedia.org/wiki/Patina" title="Patina">patina</a>). <a href="http://en.wikipedia.org/wiki/Decorative_art" title="Decorative art" class="mw-redirect">Decorative art</a> prominently features copper, both by itself and as part of pigments.</p>
+<p>Copper is essential to all living organisms as a trace <a href="http://en.wikipedia.org/wiki/Dietary_mineral" title="Dietary mineral" class="mw-redirect">dietary mineral</a> because it is a key constituent of the respiratory enzyme complex <a href="http://en.wikipedia.org/wiki/Cytochrome_c_oxidase" title="Cytochrome c oxidase">cytochrome c oxidase</a>. In <a href="http://en.wikipedia.org/wiki/Molluscs" title="Molluscs" class="mw-redirect">molluscs</a> and <a href="http://en.wikipedia.org/wiki/Crustacea" title="Crustacea" class="mw-redirect">crustacea</a> copper is a constituent of the blood pigment <a href="http://en.wikipedia.org/wiki/Hemocyanin" title="Hemocyanin">hemocyanin</a>, which is replaced by the iron-complexed <a href="http://en.wikipedia.org/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a> in fish and other <a href="http://en.wikipedia.org/wiki/Vertebrate" title="Vertebrate">vertebrates</a>. The main areas where copper is found in humans are liver, muscle and bone.<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Copper#cite_note-3"><span>[</span>3<span>]</span></a></sup> Copper compounds are used as <a href="http://en.wikipedia.org/wiki/Bacteriostatic_agent" title="Bacteriostatic agent">bacteriostatic substances</a>, <a href="http://en.wikipedia.org/wiki/Fungicide" title="Fungicide">fungicides</a>, and wood preservatives.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

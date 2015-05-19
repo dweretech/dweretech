@@ -1,0 +1,68 @@
+	<h1 id="firstHeading" class="firstHeading">Luo</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Luo#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Luo#searchInput">search</a></div>			<!-- start content -->
+			<p><b>Luo</b> may refer to:</p>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Luo_(family_of_ethnic_groups)" title="Luo (family of ethnic groups)">Luo (family of ethnic groups)</a>, a group of related African ethnic groups.</li>
+<li><a href="http://en.wikipedia.org/wiki/Luo_(Kenya_and_Tanzania)" title="Luo (Kenya and Tanzania)">Luo (Kenya and Tanzania)</a> (also called Jo-Luo), a people of Kenya and Tanzania, part of the above named group</li>
+<li><a href="http://en.wikipedia.org/wiki/Luo_languages" title="Luo languages">Luo languages</a>, a sub-group of the Nilo-Saharan languages spoken by Luo peoples</li>
+<li><a href="http://en.wikipedia.org/wiki/Luo_(surname)" title="Luo (surname)">Luo (surname)</a>, a Chinese surname written <a href="http://en.wiktionary.org/wiki/%E7%BE%85" class="extiw" title="wikt:羅">羅</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Luo_River_(Henan)" title="Luo River (Henan)">Luo River</a>, a river in China</li>
+</ul>
+<table id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig" style="">
+<tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"><a href="http://en.wikipedia.org/wiki/File:Disambig_gray.svg" class="image"><img alt="Disambig gray.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" width="30" height="23" /></a></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;">This <a href="http://en.wikipedia.org/wiki/Wikipedia:Disambiguation" title="Wikipedia:Disambiguation">disambiguation</a> page lists articles associated with the same title. If an <a href="http://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Luo&amp;namespace=0" class="external text" rel="nofollow">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1014/1000000
+Post-expand include size: 1971/2048000 bytes
+Template argument size: 460/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:960794-0!1!0!default!!en!2 and timestamp 20091022001845 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/Luo">http://en.wikipedia.org/wiki/Luo</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="http://en.wikipedia.org/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">Disambiguation pages</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">All disambiguation pages</a></span> | <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">All article disambiguation pages</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul lang="en" xml:lang="en">
+	
+				 <li id="ca-nstab-main" class="selected"><a href="http://en.wikipedia.org/wiki/Luo" title="View the content page [c]" accesskey="c">Article</a></li>
+				 <li id="ca-talk"><a href="http://en.wikipedia.org/wiki/Talk:Luo" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Luo&amp;action=edit" title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit this page</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Luo&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul lang="en" xml:lang="en">
+				<li id="pt-optin-try"><a href="http://en.wikipedia.org/w/index.php?title=Special:UsabilityInitiativeOptIn&amp;from=Luo" title="Try out new features" class="no-text-transform">Try Beta</a></li>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Luo" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5 lang="en" xml:lang="en">Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-contents"><a href="http://en.wikipedia.org/wiki/Porta

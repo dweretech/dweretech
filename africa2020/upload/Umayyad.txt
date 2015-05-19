@@ -1,0 +1,119 @@
+	<h1 id="firstHeading" class="firstHeading">Umayyad Caliphate</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Umayyad&amp;redirect=no" title="Umayyad">Umayyad</a>)</div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Umayyad#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Umayyad#searchInput">search</a></div>			<!-- start content -->
+			<table class="infobox" style="background: none; border: none; width: 290px; text-align: center; line-height: 1.4em; margin-right: 0;">
+<tr>
+<td>
+<table class="infobox geography vcard vevent" style="width:290px;">
+<tr>
+<td colspan="2" class="mergedtoprow fn org summary" align="center" style="line-height:1.2em; font-size:135%;"><b>بنو أمية<br />
+<i>Banu Umayyah</i><br />
+Umayyad Caliphate</b></td>
+</tr>
+<tr>
+<td colspan="2" style="vertical-align:middle; text-align:center; border-top: solid 1px #aaa; padding: 0.2em 0em 0.2em 0em;">
+<table width="100%" style="text-align:center; margin:0 auto; background:transparent;">
+<tr>
+<td width="50px" style="border:0; vertical-align:middle; font-size:30%; line-height: 105%;"><a href="http://en.wikipedia.org/wiki/Rashidun_Caliphate" title="Rashidun Caliphate"><span style="font-size:300%;">←</span></a> <a href="http://en.wikipedia.org/wiki/File:Flag_of_Afghanistan_pre-1901.svg" class="image"><img alt="Flag of Afghanistan pre-1901.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Afghanistan_pre-1901.svg/30px-Flag_of_Afghanistan_pre-1901.svg.png" width="30" height="18" class="thumbborder" /></a><br />
+&#160;<br />
+<a href="http://en.wikipedia.org/wiki/Visigothic_Kingdom" title="Visigothic Kingdom"><span style="font-size:300%;">←</span></a> <a href="http://en.wikipedia.org/wiki/File:Blank.png" class="image"><img alt="Blank.png" src="http://upload.wikimedia.org/wikipedia/commons/d/d2/Blank.png" width="30" height="20" class="thumbborder" /></a><br /></td>
+<td style="vertical-align:middle; text-align:center; font-size:115%; border:0"><b>661–750</b></td>
+<td width="50px" style="border:0; vertical-align: middle; text-align:right; line-height: 105%; font-size:30%;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Afghanistan_pre-1901.svg" class="image"><img alt="Flag of Afghanistan pre-1901.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Afghanistan_pre-1901.svg/30px-Flag_of_Afghanistan_pre-1901.svg.png" width="30" height="18" class="thumbborder" /></a> <a href="http://en.wikipedia.org/wiki/Abbasid_Caliphate" title="Abbasid Caliphate"><span style="font-size:300%;">→</span></a><br />
+&#160;<br />
+<a href="http://en.wikipedia.org/wiki/File:Umayyad_Flag.svg" class="image"><img alt="Umayyad Flag.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Umayyad_Flag.svg/30px-Umayyad_Flag.svg.png" width="30" height="15" class="thumbborder" /></a> <a href="http://en.wikipedia.org/wiki/Caliphate_of_Cordoba" title="Caliphate of Cordoba" class="mw-redirect"><span style="font-size:300%;">→</span></a><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" align="center">
+<p><a href="http://en.wikipedia.org/wiki/File:Umayyad_Flag.svg" class="image" title="Flag of Umayyad"><img alt="Flag of Umayyad" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Umayyad_Flag.svg/125px-Umayyad_Flag.svg.png" width="125" height="63" class="thumbborder" /></a></p>
+<p>Flag</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; font-size:95%; padding:0.6em 0em 0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Umayyad750ADloc.png" class="image" title="Location of Umayyad"><img alt="Location of Umayyad" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Umayyad750ADloc.png/250px-Umayyad750ADloc.png" width="250" height="152" /></a></div>
+</div>
+<small>Umayyad Caliphate at its greatest extent.</small></td>
+</tr>
+<tr class="mergedtoprow">
+<td width="50%"><b><a href="http://en.wikipedia.org/wiki/List_of_former_national_capitals" title="List of former national capitals">Capital</a></b></td>
+<td width="50%"><a href="http://en.wikipedia.org/wiki/Damascus" title="Damascus">Damascus</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td><b>Capital-in-exile</b></td>
+<td><a href="http://en.wikipedia.org/wiki/C%C3%B3rdoba,_Spain" title="Córdoba, Spain">Córdoba</a></td>
+</tr>
+<tr>
+<td><b>Language(s)</b></td>
+<td><a href="http://en.wikipedia.org/wiki/Arabic" title="Arabic" class="mw-redirect">Arabic</a> official, <a href="http://en.wikipedia.org/wiki/Aramaic" title="Aramaic" class="mw-redirect">Aramaic</a>, <a href="http://en.wikipedia.org/wiki/Armenian_language" title="Armenian language">Armenian</a>, <a href="http://en.wikipedia.org/wiki/Berber_languages" title="Berber languages">Berber languages</a>, <a href="http://en.wikipedia.org/wiki/Georgian_language" title="Georgian language">Georgian</a>, <a href="http://en.wikipedia.org/wiki/Greek_language" title="Greek language">Greek</a>, <a href="http://en.wikipedia.org/wiki/Hebrew" title="Hebrew" class="mw-redirect">Hebrew</a>, <a href="http://en.wikipedia.org/wiki/Kurdish_language" title="Kurdish language">Kurdish</a><sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Umayyad#cite_note-0"><span>[</span>1<span>]</span></a></sup>, <a href="http://en.wikipedia.org/wiki/Middle_Persian" title="Middle Persian">Middle Persian</a></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/State_religion" title="State religion">Religion</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Sunni_Islam" title="Sunni Islam">Sunni Islam</a></td>
+</tr>
+<tr class="mergedtoprow">
+<td><b><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Caliphate" title="Caliphate">Caliphate</a></td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Caliph" title="Caliph">Caliph</a></b></td>
+</tr>
+<tr class="mergedrow">
+<td>&#160;- 661–680</td>
+<td><a href="http://en.wikipedia.org/wiki/Muawiya_I" title="Muawiya I" class="mw-redirect">Muawiya I</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td>&#160;- 744–750</td>
+<td><a href="http://en.wikipedia.org/wiki/Marwan_II" title="Marwan II">Marwan II</a></td>
+</tr>
+<tr class="mergedtoprow">
+<td><b>History</b></td>
+<td></td>
+</tr>
+<tr class="mergedrow">
+<td>&#160;-&#160;an Umayyad army commanded by <a href="http://en.wikipedia.org/wiki/Umar_ibn_Sa%27ad" title="Umar ibn Sa'ad">Umar ibn Sa'ad</a> killed <a href="http://en.wikipedia.org/wiki/Husayn_ibn_Ali" title="Husayn ibn Ali">Husayn ibn Ali</a> at the <a href="http://en.wikipedia.org/wiki/Battle_of_Karbala" title="Battle of Karbala">Battle of Karbala</a></td>
+<td>9 October 680 AD</td>
+</tr>
+<tr class="mergedrow">
+<td>&#160;-&#160;<a href="http://en.wikipedia.org/wiki/Muawiya" title="Muawiya" class="mw-redirect">Muawiya</a> Caliph</td>
+<td>661</td>
+</tr>
+<tr class="mergedbottomrow">
+<td>&#160;-&#160;The Abbasid defeated and killed <a href="http://en.wikipedia.org/wiki/Marwan_II" title="Marwan II">Marwan II</a> / Fall of the dynasty<sup>*</sup></td>
+<td>750</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_area" title="List of countries and outlying territories by area" class="mw-redirect">Area</a></b></td>
+</tr>
+<tr class="mergedbottomrow">
+<td>&#160;-&#160;750</td>
+<td>11,100,000&#160;km<sup>2</sup> <span style="white-space:nowrap;">(4,285,734&#160;sq&#160;mi)</span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">Population</a></b></td>
+</tr>
+<tr class="mergedbottomrow">
+<td>&#160;-&#160;7th century est.</td>
+<td>62,000,000&#160;</td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></b></td>
+<td><a href="/w/index.php?title=Umayyad_Dinar&amp;action=edit&amp;redlink=1" class="new" title="Umayyad Dinar (page does not exist)">Umayyad Dinar</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The <b>Umayyad Caliphate</b> (<a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" xml:lang="ar">بنو أمية</span>‎, <i>Banu Umayyah</i>) was the second of the four <a href="http://en.wikipedia.org/wiki/Islamic" title="Islamic" class="mw-redirect">Islamic</a> <a href="http://en.wikipedia.org/wiki/Caliphate" title="Caliphate">caliphates</a> established after the death of <a href="http://en.wikipedia.org/wiki/Muhammad" title="Muhammad">Muhammad</a>. It was ruled by the Umayyad dynasty, whose name derives from <a href="http://en.wikipedia.org/wiki/Umayya_ibn_Abd_Shams" title="Umayya ibn Abd Shams">Umayya ibn Abd Shams</a>, the great-grandfather of the first Umayyad caliph. Although the Umayyad family originally came from the city of <a href="http://en.wikipedia.org/wiki/Mecca" title="Mecca">Mecca</a>, <a href="http://en.wikipedia.org/wiki/Damascus" title="Damascus">Damascus</a> was the capital of their Caliphate. Eventually, they would become the 6th <a href="http://en.wikipedia.org/wiki/List_of_largest_empires#Contiguous_Empires" title="List of largest empires">largest contiguous empire</a> to ever exist. After the Umayyads were overthrown by the <a href="http://en.wikipedia.org/wiki/Abbasid_Caliphate" title="Abbasid Caliphate">Abbasid Caliphate</a>, they relocated to <a href="http://en.wikipedia.org/wiki/Al-Andalus" title="Al-Andalus">Al-Andalus</a>, where they established the <a href="http://en.wikipedia.org/wiki/Caliphate_of_C%C3%B3rdoba" title="Caliphate of Córdoba">Caliphate of Córdoba</a>.</p>
+<p>A caliphate is the Islamic form of government representing the political unity and leadership of the Muslim world. The Caliph's position is based on the notion of a successor to Muhammad's political authority. According to Sunnis, a Caliph is ideally a member of the Quraysh tribe elected by Muslims or their representatives; and according to Shia Islam, an Imam descended in a line from the <a href="http://en.wikipedia.org/wiki/Ahl_al-Bayt" title="Ahl al-Bayt">Ahl al-Bayt</a>.</p>
+<p>The Umayyads established the largest Arab-Muslim state in history.</p>
+<p>From the time of prophet Muhammad until 1924, successive and contemporary caliphates were held by various dynasties, including the <a href="http://en.wikipedia.org/wiki/Rashidun_Caliphate" title="Rashidun Caliphate">Rashidun Caliphate</a> of the first four caliphs after Muhammad, the Umayyads based in Damascus and Córdoba, the <a href="http://en.wikipedia.org/wiki/Abbasid_Caliphate" title="Abbasid Caliphate">Abbasids</a> based in Baghdad, the <a href="http://en.wikipedia.org/wiki/Fatimid_Caliphate" title="Fatimid Caliphate">Fatimids</a> based in Cairo, and finally the Turkish <a href="http://en.wikipedia.org/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a> based in Istanbul.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

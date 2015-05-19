@@ -1,0 +1,55 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Microfinance</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Micro_Finance&amp;redirect=no" title="Micro Finance">Micro Finance</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Micro_Finance#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Micro_Finance#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<table class="collapsible" style="width:95%; background:transparent;">
+<tr>
+<th style="text-align:left; padding:0.2em 2px 0.2em 0;">This article has multiple issues. <span style="font-weight: normal;">Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Microfinance&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="http://en.wikipedia.org/wiki/Talk:Microfinance" title="Talk:Microfinance">talk page</a></b>.</span></th>
+</tr>
+<tr>
+<td>
+<table class="metadata plainlinks ambox ambox-style ambox-technical" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>may be too <a href="//en.wiktionary.org/wiki/technical#Adjective" class="extiw" title="wikt:technical">technical</a> for most readers to understand</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Microfinance&amp;action=edit">improve</a> this article to <a href="http://en.wikipedia.org/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">make it understandable to non-experts</a>, without removing the technical details. The <a href="http://en.wikipedia.org/wiki/Talk:Microfinance" title="Talk:Microfinance">talk page</a> may contain suggestions.</span> <small><i>(January 2010)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="http://en.wikipedia.org/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(February 2013)</i></small></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="http://en.wikipedia.org/wiki/File:Community-based_savings_bank_in_Cambodia.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Community-based_savings_bank_in_Cambodia.jpg/220px-Community-based_savings_bank_in_Cambodia.jpg" width="220" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Community-based_savings_bank_in_Cambodia.jpg/330px-Community-based_savings_bank_in_Cambodia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Community-based_savings_bank_in_Cambodia.jpg/440px-Community-based_savings_bank_in_Cambodia.jpg 2x" data-file-width="1595" data-file-height="1035" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Community-based_savings_bank_in_Cambodia.jpg" class="internal" title="Enlarge"></a></div>
+Community-based savings bank in <a href="http://en.wikipedia.org/wiki/Cambodia" title="Cambodia">Cambodia</a>. There are a rich variety of financial institutions which serve micro-entrepreneurs and small businesses.</div>
+</div>
+</div>
+<p><b>Microfinance</b> is a source of <a href="http://en.wikipedia.org/wiki/Financial_services" title="Financial services">financial services</a> for entrepreneurs and small businesses lacking access to <a href="http://en.wikipedia.org/wiki/Banking" title="Banking" class="mw-redirect">banking</a> and related services. The two main mechanisms for the delivery of financial services to such clients are: (1) relationship-based banking for individual entrepreneurs and small businesses; and (2) group-based models, where several entrepreneurs come together to apply for loans and other services as a group.</p>
+<p>In some regions, for example <a href="http://en.wikipedia.org/wiki/Southern_Africa" title="Southern Africa">Southern Africa</a>, microfinance is used to describe the supply of financial services to low-income employees, which is closer to the retail finance model prevalent in mainstream banking.</p>
+<p>For some, microfinance is a <a href="http://en.wikipedia.org/wiki/Social_movement" title="Social movement">movement</a> whose object is "a world in which as many poor and near-poor households as possible have permanent access to an appropriate range of high quality financial services, including not just credit but also <a href="http://en.wikipedia.org/wiki/Savings" title="Savings" class="mw-redirect">savings</a>, <a href="http://en.wikipedia.org/wiki/Insurance" title="Insurance">insurance</a>, and <a href="http://en.wikipedia.org/wiki/Remittances" title="Remittances" class="mw-redirect">fund transfers</a>."<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Micro_Finance#cite_note-1"><span>[</span>1<span>]</span></a></sup> Many of those who promote microfinance generally believe that such access will help poor people out of <a href="http://en.wikipedia.org/wiki/Poverty" title="Poverty">poverty</a>, including participants in the <a href="http://en.wikipedia.org/wiki/Microcredit_Summit_Campaign" title="Microcredit Summit Campaign">Microcredit Summit Campaign</a>. For others, microfinance is a way to promote economic development, employment and growth through the support of micro-entrepreneurs and small businesses.</p>
+<p>Microfinance is a broad category of services, which includes <a href="http://en.wikipedia.org/wiki/Microcredit" title="Microcredit">microcredit</a>. Microcredit is provision of credit services to poor clients. <a href="http://en.wikipedia.org/wiki/Microcredit" title="Microcredit">Microcredit</a> is one of the aspects of microfinance and the two are often confused. Critics may attack microcredit while referring to it indiscriminately as either 'microcredit' or 'microfinance'. Due to the broad range of microfinance services, it is difficult to assess impact, and very few studies have tried to assess its full impact.<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Micro_Finance#cite_note-2"><span>[</span>2<span>]</span></a></sup> Proponents often claim that microfinance lifts people out of poverty, but the evidence is mixed. What it does do, however, is to enhance <a href="http://en.wikipedia.org/wiki/Financial_inclusion" title="Financial inclusion">financial inclusion</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

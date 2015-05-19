@@ -1,0 +1,165 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Calling card</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Calling_card#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Calling_card#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" width="37" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="//en.wiktionary.org/wiki/Special:Search/calling_card" class="extiw" title="wiktionary:Special:Search/calling card">calling card</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<p><b>Calling card</b> may refer to:</p>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Visiting_card" title="Visiting card">Visiting card</a>, a card used socially to signify a visit made to a house if the occupant is absent, or as an introduction for oneself; the precursor to the modern business card</li>
+<li><a href="http://en.wikipedia.org/wiki/Business_card" title="Business card">Business card</a>, a small card with business information that is given for convenience and as a memory aid</li>
+<li><a href="http://en.wikipedia.org/wiki/Tart_card" title="Tart card">Tart card</a>, an ad stuck to a phone box to advertise the services of a call girl</li>
+<li><a href="http://en.wikipedia.org/wiki/Calling_card_(crime)" title="Calling card (crime)">Calling card (crime)</a>, a signature token or characteristic of a crime used by a serial criminal</li>
+<li><i><a href="http://en.wikipedia.org/wiki/Calling_Card" title="Calling Card">Calling Card</a></i>, a 1976 album by Irish blues-rock musician Rory Gallagher</li>
+<li><a href="http://en.wikipedia.org/wiki/Telephone_card" title="Telephone card">Telephone card</a>, a small card, usually resembling a credit card, used to pay for telephone services</li>
+</ul>
+<table id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig" style="" role="presentation">
+<tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"><a href="http://en.wikipedia.org/wiki/File:Disambig_gray.svg" class="image"><img alt="Disambiguation icon" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/45px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;">This <a href="http://en.wikipedia.org/wiki/Help:Disambiguation" title="Help:Disambiguation">disambiguation</a> page lists articles associated with the title <b>Calling card</b>.<br />
+<small>If an <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Calling_card&amp;namespace=0">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</small></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1238
+CPU time usage: 0.116 seconds
+Real time usage: 0.191 seconds
+Preprocessor visited node count: 1142/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3887/2097152 bytes
+Template argument size: 645/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.023/10.000 seconds
+Lua memory usage: 830 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  120.262      1 - -total
+ 53.44%   64.266      1 - Template:Wiktionary
+ 51.96%   62.488      1 - Template:Sister
+ 48.66%   58.518      1 - Template:Side_box
+ 46.48%   55.902      1 - Template:Disambig
+ 29.78%   35.809      1 - Template:Dmbox
+ 15.62%   18.790      1 - Template:Category_handler
+ 12.98%   15.604      1 - Template:Main_other
+  9.44%   11.358      2 - Template:Title_disambig_text
+  8.23%    9.898     10 - Template:Disambiguation/cat
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1091750-0!*!0!*!*!4!* and timestamp 20150504092013 and revision id 497604742
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Calling_card&amp;oldid=497604742">http://en.wikipedia.org/w/index.php?title=Calling_card&amp;oldid=497604742</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="http://en.wikipedia.org/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="http://en.wikipedia.org/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">Disambiguation pages</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="http://en.wikipedia.org/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">All article disambiguation pages</a></li><li><a href="http://en.wikipedia.org/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">All disambiguation pages</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Calling+card&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Calling+card" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="http://en.wikipedia.org/wiki/Calling_card"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="http://en.wikipedia.org/wiki/Talk:Calling_card"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="http://en.wikipedia.org/wiki/Calling_card#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="http://en.wikipedia.org/wiki/Calling_card" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Calling_card&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Calling_card&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="http://en.wikipedia.org/wiki/Calling_card#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="http://en.wikipedia.org/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="http://en.wikipedia.org/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="http://en.wikipedia.org/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="http://en.wikipedia.org/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="http://en.wikipedia.org/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="http://en.wikipedia.org/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="http://en.wikipedia.org/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/Calling_card" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Calling_card" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="http://en.wikipedia.org/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Calling_card&amp;oldid=497604742" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Calling_card&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q5022184" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Calling_card&amp;id=497604742" title="Information on how to

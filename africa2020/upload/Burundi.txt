@@ -1,0 +1,281 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Burundi</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Burundi#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Burundi#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-notice" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ambox_currentevent.svg/30px-Ambox_currentevent.svg.png" width="30" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ambox_currentevent.svg/45px-Ambox_currentevent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ambox_currentevent.svg/60px-Ambox_currentevent.svg.png 2x" data-file-width="360" data-file-height="290" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span"><b>This article documents a <a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Portal:Current events">Coup d'état</a>.</b> Information may change rapidly as the event progresses, and initial news reports may be <a href="http://en.wikipedia.org/wiki/Wikipedia:Identifying_reliable_sources#Breaking_news" title="Wikipedia:Identifying reliable sources">unreliable</a>.</span></td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Republic of Burundi</span><br />
+<div style="padding-top:0.25em;">
+<div class="plainlist">
+<ul>
+<li style="font-size:88%;"><span lang="rn" xml:lang="rn"><i>Republika y'Uburundi</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Kirundi_language" title="Kirundi language" class="mw-redirect">Kirundi</a>)</span></li>
+<li style="font-size:88%;"><span lang="fr" xml:lang="fr"><i>République du Burundi</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>)</span></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Burundi.svg" class="image" title="Flag of Burundi"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/125px-Flag_of_Burundi.svg.png" width="125" height="75" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/188px-Flag_of_Burundi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/250px-Flag_of_Burundi.svg.png 2x" data-file-width="500" data-file-height="300" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Burundi.svg" class="image" title="Coat of arms of Burundi"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coat_of_arms_of_Burundi.svg/85px-Coat_of_arms_of_Burundi.svg.png" width="85" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coat_of_arms_of_Burundi.svg/128px-Coat_of_arms_of_Burundi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coat_of_arms_of_Burundi.svg/170px-Coat_of_arms_of_Burundi.svg.png 2x" data-file-width="507" data-file-height="640" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Burundi" title="Flag of Burundi">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Burundi" title="Coat of arms of Burundi">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b>
+<div class="plainlist">
+<ul>
+<li><span lang="rn" xml:lang="rn">"Ubumwe, Ibikorwa, Amajambere"</span>&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(Kirundi)</span></li>
+<li><span lang="fr" xml:lang="fr">"Unité, Travail, Progrès"</span>&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(French)</span></li>
+<li><small style="font-size:85%;">"Unity, Work, Progress"</small>&#160;<span style="position: relative; top: 0.15em;"><sup>[a]</sup></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Burundi_bwacu" title="Burundi bwacu" class="mw-redirect">Burundi bwacu</a></i><br />
+<small style="font-size:85%;"><i>Our Burundi</i></small></td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_Burundi_AU_Africa.svg" class="image" title="Location of &#160;Burundi&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)"><img alt="Location of &#160;Burundi&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_Burundi_AU_Africa.svg/250px-Location_Burundi_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_Burundi_AU_Africa.svg/375px-Location_Burundi_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_Burundi_AU_Africa.svg/500px-Location_Burundi_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">Burundi</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b><br />
+and largest city</td>
+<td><a href="http://en.wikipedia.org/wiki/Bujumbura" title="Bujumbura">Bujumbura</a><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Burundi&amp;params=3_30_S_30_00_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">3°30′S</span> <span class="longitude">30°00′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">3.500°S 30.000°E</span><span style="display:none">﻿ / <span class="geo">-3.500; 30.000</span></span></span></a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Kirundi_language" title="Kirundi language" class="mw-redirect">Kirundi</a></li>
+<li><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Lingua_franca" title="Lingua franca">Vehicular languages</a></th>
+<td>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Kirundi_language" title="Kirundi language" class="mw-redirect">Kirundi</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Swahili_language" title="Swahili language">Swahili</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_groups" title="Ethnic groups" class="mw-redirect">Ethnic&#160;groups</a></b></td>
+<td>
+<div class="plainlist">
+<ul>
+<li>85% <a href="http://en.wikipedia.org/wiki/Hutu" title="Hutu">Hutu</a></li>
+<li>14% <a href="http://en.wikipedia.org/wiki/Tutsi" title="Tutsi">Tutsi</a></li>
+<li><span style="white-space:nowrap;">&#160;&#160;</span>1% <a href="http://en.wikipedia.org/wiki/Twa" title="Twa">Twa</a></li>
+<li>~3,000 Europeans</li>
+<li><span class="nowrap">~2,000 South Asians</span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Burundian</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Burundi" title="Politics of Burundi">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Presidential_system" title="Presidential system">Presidential</a> <a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Burundi" title="List of Presidents of Burundi">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Pierre_Nkurunziza" title="Pierre Nkurunziza">Pierre Nkurunziza</a><sup id="cite_ref-cnn01_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-cnn01-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Burundi" title="List of Presidents of Burundi">Former President</a></td>
+<td></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Vice_President_of_Burundi" title="Vice President of Burundi" class="mw-redirect">1st Vice President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Terence_Sinunguruza" title="Terence Sinunguruza" class="mw-redirect">Terence Sinunguruza</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/Parliament_of_Burundi" title="Parliament of Burundi">Parliament</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Upper_house" title="Upper house">Upper house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Senate_(Burundi)" title="Senate (Burundi)">Senate</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Lower_house" title="Lower house">Lower house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/National_Assembly_(Burundi)" title="National Assembly (Burundi)">National Assembly</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3">Status</th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.1em;">Part of <a href="http://en.wikipedia.org/wiki/Ruanda-Urundi" title="Ruanda-Urundi">Ruanda-Urundi</a><br />
+<small style="font-size:85%;">(<a href="http://en.wikipedia.org/wiki/United_Nations_trust_territories" title="United Nations trust territories" class="mw-redirect">UN trust territory</a>)</small></div>
+</td>
+<td>1945–1962&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Independence from <a href="http://en.wikipedia.org/wiki/Belgium" title="Belgium">Belgium</a></td>
+<td>1 July 1962&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Republic</td>
+<td>1 July 1966&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Burundi" title="Geography of Burundi">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>27,834&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">145th</a>)<br />
+10,745&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>7.8</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Burundi" title="Demographics of Burundi">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2014&#160;estimate</td>
+<td>10,395,931 <sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-2"><span>[</span>2<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">86th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2008&#160;census</td>
+<td>8,053,574<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>314/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">45th</a>)<br />
+814/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2014&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$8.396 billion<sup id="cite_ref-imf2_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$912<sup id="cite_ref-imf2_4-1" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2014&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$3.037 billion<sup id="cite_ref-imf2_4-2" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$330<sup id="cite_ref-imf2_4-3" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2006)</td>
+<td>33<sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-5"><span>[</span>5<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Steady"><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.389<sup id="cite_ref-HDI_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-HDI-6"><span>[</span>6<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:red">low</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">180th</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Burundian_franc" title="Burundian franc">Burundian franc</a> (FBu) (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">BIF</a>)</td>
+</tr>
+<tr>
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/Central_Africa_Time" title="Central Africa Time">CAT</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</span></td>
+</tr>
+<tr>
+<th colspan="2">Date format</th>
+<td>dd/mm/yyyy</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Burundi" title="Telephone numbers in Burundi">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B257" title="+257" class="mw-redirect">+257</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:BI" title="ISO 3166-2:BI">BI</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.bi" title=".bi">.bi</a></td>
+</tr>
+<tr style="font-size:85%;">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>a.</sup></span></td>
+<td colspan="2" style="padding-left:0;">"Ganza Sabwa" before 1966.</td>
+</tr>
+</table>
+<p><b>Burundi</b> (<span class="nowrap"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'b' in 'buy'" style="border-bottom:1px dotted">b</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'r' in 'rye'" style="border-bottom:1px dotted">r</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ʊ/ short 'oo' in 'foot'" style="border-bottom:1px dotted">ʊ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'d' in 'dye'" style="border-bottom:1px dotted">d</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɨ/ 'e' in 'roses'" style="border-bottom:1px dotted">ɨ</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span> or <span class="nowrap"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'b' in 'buy'" style="border-bottom:1px dotted">b</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'r' in 'rye'" style="border-bottom:1px dotted">r</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ʌ/ short 'u' in 'bud'" style="border-bottom:1px dotted">ʌ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'d' in 'dye'" style="border-bottom:1px dotted">d</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/i/ 'y' in 'happy'" style="border-bottom:1px dotted">i</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>), officially the <b>Republic of Burundi</b> (<a href="http://en.wikipedia.org/wiki/Kirundi_language" title="Kirundi language" class="mw-redirect">Kirundi</a>: <span lang="rn" xml:lang="rn"><i>Republika y'Uburundi</i></span>,<sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-7"><span>[</span>7<span>]</span></a></sup> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA" title="Help:IPA">[buˈɾundi]</a></span>; <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>République du Burundi</i></span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_French" title="Help:IPA for French">[buʁundi]</a></span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_French" title="Help:IPA for French">[byʁyndi]</a></span>), is a <a href="http://en.wikipedia.org/wiki/Landlocked_country" title="Landlocked country">landlocked country</a> in the <a href="http://en.wikipedia.org/wiki/African_Great_Lakes" title="African Great Lakes">African Great Lakes</a> region of <a href="http://en.wikipedia.org/wiki/Southeast_Africa" title="Southeast Africa" class="mw-redirect">Southeast Africa</a>, bordered by <a href="http://en.wikipedia.org/wiki/Rwanda" title="Rwanda">Rwanda</a> to the north, <a href="http://en.wikipedia.org/wiki/Tanzania" title="Tanzania">Tanzania</a> to the east and south, and the <a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a> to the west. It is also sometimes considered part of <a href="http://en.wikipedia.org/wiki/Central_Africa" title="Central Africa">Central Africa</a>. Burundi's capital is <a href="http://en.wikipedia.org/wiki/Bujumbura" title="Bujumbura">Bujumbura</a>. Although the country is landlocked, much of the southwestern border is adjacent to <a href="http://en.wikipedia.org/wiki/Lake_Tanganyika" title="Lake Tanganyika">Lake Tanganyika</a>.</p>
+<p>The <a href="http://en.wikipedia.org/wiki/Great_Lakes_Twa" title="Great Lakes Twa">Twa</a>, <a href="http://en.wikipedia.org/wiki/Hutu" title="Hutu">Hutu</a> and <a href="http://en.wikipedia.org/wiki/Tutsi" title="Tutsi">Tutsi</a> peoples have lived in Burundi for at least five hundred years. For more than 200 years, Burundi had an indigenous <a href="http://en.wikipedia.org/wiki/Kingdom_of_Burundi" title="Kingdom of Burundi">kingdom</a>. At the beginning of the twentieth century, <a href="http://en.wikipedia.org/wiki/German_Empire" title="German Empire">Germany</a> colonized the region. After the First World War and its defeat, it ceded the territory to <a href="http://en.wikipedia.org/wiki/Belgium" title="Belgium">Belgium</a>. The Belgians ruled Burundi and Rwanda as a European colony known as <a href="http://en.wikipedia.org/wiki/Ruanda-Urundi" title="Ruanda-Urundi">Ruanda-Urundi</a>. Their intervention exacerbated social differences between the Tutsi and Hutu, which contributed to political unrest in the region. There was civil war in Burundi as it fought for independence in the middle of the twentieth century. Presently, Burundi is governed as a <a href="http://en.wikipedia.org/wiki/Presidential_system" title="Presidential system">presidential</a> <a href="http://en.wikipedia.org/wiki/Representative_democracy" title="Representative democracy">representative democratic</a> <a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a>.</p>
+<p>Burundi is one of the five <a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">poorest countries in the world</a>. It has one of the lowest <a href="http://en.wikipedia.org/wiki/Per_capita_GDP" title="Per capita GDP" class="mw-redirect">per capita GDPs</a> of any nation in the world.<sup id="cite_ref-xlix_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-xlix-8"><span>[</span>8<span>]</span></a></sup> The country has suffered from warfare, corruption and poor access to education. Burundi is densely populated and has had substantial <a href="http://en.wikipedia.org/wiki/Emigration" title="Emigration">emigration</a> as young people seek opportunities elsewhere. According to a 2012 <i>DHL Global Connectedness Index</i>, Burundi is the least globalized of 140 surveyed countries.<sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>According to the <a href="http://en.wikipedia.org/wiki/Global_Hunger_Index" title="Global Hunger Index">Global Hunger Index</a> of 2013, Burundi has an indicator ratio of 38.8, earning the nation the distinction of being the hungriest country in the world in terms of percentage.<sup id="cite_ref-10" class="reference"><a href="http://en.wikipedia.org/wiki/Burundi#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

@@ -1,0 +1,125 @@
+	<h1 id="firstHeading" class="firstHeading">Tourism</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Tourism#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Tourism#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">"Tourist" redirects here. For other uses, see <a href="http://en.wikipedia.org/wiki/Tourist_(disambiguation)" title="Tourist (disambiguation)">Tourist (disambiguation)</a>. For the places of interest, see <a href="http://en.wikipedia.org/wiki/Tourist_attraction" title="Tourist attraction">tourist attraction</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Paris_06_Eiffelturm_4828.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Paris_06_Eiffelturm_4828.jpg/180px-Paris_06_Eiffelturm_4828.jpg" width="180" height="286" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Paris_06_Eiffelturm_4828.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/France" title="France">France</a> is the most visited country in the world in recent years.<sup id="cite_ref-WTOjune09_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tourism#cite_note-WTOjune09-0"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Tourism#cite_note-1"><span>[</span>2<span>]</span></a></sup></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Alhambradesdegeneralife.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Alhambradesdegeneralife.jpg/180px-Alhambradesdegeneralife.jpg" width="180" height="135" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Alhambradesdegeneralife.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+The <a href="http://en.wikipedia.org/wiki/Alhambra" title="Alhambra">Alhambra</a>, <a href="http://en.wikipedia.org/wiki/Granada" title="Granada">Granada</a>, <a href="http://en.wikipedia.org/wiki/Spain" title="Spain">Spain</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Times_Square_112808(2).jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Times_Square_112808%282%29.jpg/180px-Times_Square_112808%282%29.jpg" width="180" height="240" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Times_Square_112808(2).jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/Times_Square" title="Times Square">Times Square</a> in <a href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a>, <a href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:GreatWallNearBeijingWinter.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/GreatWallNearBeijingWinter.jpg/180px-GreatWallNearBeijingWinter.jpg" width="180" height="114" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:GreatWallNearBeijingWinter.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/Great_Wall_of_China" title="Great Wall of China">Great Wall of China</a>, <a href="http://en.wikipedia.org/wiki/People%27s_Republic_of_China" title="People's Republic of China">China</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/180px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg" width="180" height="106" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/Colosseum" title="Colosseum">Colosseum</a> in <a href="http://en.wikipedia.org/wiki/Rome" title="Rome">Rome</a>, <a href="http://en.wikipedia.org/wiki/Italy" title="Italy">Italy</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:TrafalgarSquare.JPG" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TrafalgarSquare.JPG/180px-TrafalgarSquare.JPG" width="180" height="234" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:TrafalgarSquare.JPG" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/Trafalgar_Square" title="Trafalgar Square">Trafalgar Square</a> in <a href="http://en.wikipedia.org/wiki/London" title="London">London</a>, <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Castle_Neuschwanstein.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Castle_Neuschwanstein.jpg/180px-Castle_Neuschwanstein.jpg" width="180" height="118" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Castle_Neuschwanstein.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/Neuschwanstein_Castle" title="Neuschwanstein Castle">Neuschwanstein Castle</a> in <a href="http://en.wikipedia.org/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="http://en.wikipedia.org/wiki/Germany" title="Germany">Germany</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:St._Michael%27s_Catheral_view.JPG" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St._Michael%27s_Catheral_view.JPG/180px-St._Michael%27s_Catheral_view.JPG" width="180" height="135" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:St._Michael%27s_Catheral_view.JPG" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/St._Michael%27s_Golden-Domed_Monastery" title="St. Michael's Golden-Domed Monastery">St. Michael's Golden-Domed Monastery</a>, <a href="http://en.wikipedia.org/wiki/Kiev" title="Kiev">Kiev</a>, <a href="http://en.wikipedia.org/wiki/Ukraine" title="Ukraine">Ukraine</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Hagia_Sophia_exterior_2007_002.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hagia_Sophia_exterior_2007_002.jpg/180px-Hagia_Sophia_exterior_2007_002.jpg" width="180" height="135" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Hagia_Sophia_exterior_2007_002.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/Hagia_Sophia" title="Hagia Sophia">Hagia Sophia</a>, <a href="http://en.wikipedia.org/wiki/Istanbul" title="Istanbul">Istanbul</a>, <a href="http://en.wikipedia.org/wiki/Turkey" title="Turkey">Turkey</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:El_Castillo_Stitch_2008_Edit_1.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/El_Castillo_Stitch_2008_Edit_1.jpg/180px-El_Castillo_Stitch_2008_Edit_1.jpg" width="180" height="115" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:El_Castillo_Stitch_2008_Edit_1.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza" title="El Castillo, Chichen Itza">"El Castillo"</a>, <a href="http://en.wikipedia.org/wiki/Chichen_Itza" title="Chichen Itza">Chichen Itza</a>, <a href="http://en.wikipedia.org/wiki/Mexico" title="Mexico">Mexico</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Tokyocinderella.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tokyocinderella.jpg/180px-Tokyocinderella.jpg" width="180" height="240" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Tokyocinderella.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/Tokyo_Disneyland" title="Tokyo Disneyland">Tokyo Disneyland</a>, <a href="http://en.wikipedia.org/wiki/Japan" title="Japan">Japan</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Hongkong_victoria_peak.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hongkong_victoria_peak.jpg/180px-Hongkong_victoria_peak.jpg" width="180" height="135" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Hongkong_victoria_peak.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+View from <a href="http://en.wikipedia.org/wiki/Victoria_Peak" title="Victoria Peak">Victoria Peak</a>, <a href="http://en.wikipedia.org/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sydney_Opera_House_-_Dec_2008.jpg/180px-Sydney_Opera_House_-_Dec_2008.jpg" width="180" height="99" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/Sydney_Opera_House" title="Sydney Opera House">Sydney Opera House</a>, <a href="http://en.wikipedia.org/wiki/Sydney" title="Sydney">Sydney</a>, <a href="http://en.wikipedia.org/wiki/Australia" title="Australia">Australia</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:All_Gizah_Pyramids.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/180px-All_Gizah_Pyramids.jpg" width="180" height="120" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:All_Gizah_Pyramids.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+The <a href="http://en.wikipedia.org/wiki/Giza_Necropolis" title="Giza Necropolis">Giza Necropolis</a> in <a href="http://en.wikipedia.org/wiki/Egypt" title="Egypt">Egypt</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Taj_Mahal_in_March_2004.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/180px-Taj_Mahal_in_March_2004.jpg" width="180" height="148" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Taj_Mahal_in_March_2004.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+The <a href="http://en.wikipedia.org/wiki/Taj_Mahal" title="Taj Mahal">Taj Mahal</a>, <a href="http://en.wikipedia.org/wiki/Agra" title="Agra">Agra</a>, <a href="http://en.wikipedia.org/wiki/India" title="India">India</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Bangkok_Grand_Palace.JPG" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bangkok_Grand_Palace.JPG/180px-Bangkok_Grand_Palace.JPG" width="180" height="240" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Bangkok_Grand_Palace.JPG" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+The <a href="http://en.wikipedia.org/wiki/Wat_Phra_Kaew" title="Wat Phra Kaew">Temple of the Emerald Buddha</a>, <a href="http://en.wikipedia.org/wiki/Grand_Palace" title="Grand Palace">Grand Palace</a>, <a href="http://en.wikipedia.org/wiki/Bangkok" title="Bangkok">Bangkok</a>, <a href="http://en.wikipedia.org/wiki/Thailand" title="Thailand">Thailand</a>.</div>
+</div>
+</div>
+<p><b>Tourism</b> is travel for <a href="http://en.wikipedia.org/wiki/Recreation" title="Recreation">recreational</a>, leisure or business purposes. The <a href="http://en.wikipedia.org/wiki/World_Tourism_Organization" title="World Tourism Organization">World Tourism Organization</a> defines <b>tourists</b> as people who "travel to and stay in places outside their usual environment for more than twenty-four (24) hours and not more than one consecutive year for leisure, business and other purposes not related to the exercise of an activity remunerated from within the place visited".<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Tourism#cite_note-2"><span>[</span>3<span>]</span></a></sup> Tourism has become a popular global leisure activity. In 2008, there were over 922 million international tourist arrivals, with a growth of 1.9% as compared to 2007. International tourism receipts grew to <a href="http://en.wikipedia.org/wiki/United_States_dollar" title="United States dollar">US$</a>944 billion (<a href="http://en.wikipedia.org/wiki/Euro" title="Euro">euro</a> 642 billion) in 2008, corresponding to an increase in <a href="http://en.wikipedia.org/wiki/Real_versus_nominal_value" title="Real versus nominal value">real terms</a> of 1.8%.<sup id="cite_ref-WTOjune09_0-1" class="reference"><a href="http://en.wikipedia.org/wiki/Tourism#cite_note-WTOjune09-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>As a result of the <a href="http://en.wikipedia.org/wiki/Late-2000s_recession" title="Late-2000s recession">Late-2000s recession</a>, international <a href="http://en.wikipedia.org/wiki/Travel_behavior" title="Travel behavior">travel demand</a> suffered a strong slowdown beginning in June 2008, with growth in international tourism arrivals worldwide falling to 2% during the boreal summer months,<sup id="cite_ref-WTO2008_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Tourism#cite_note-WTO2008-3"><span>[</span>4<span>]</span></a></sup> and this negative trend intensified as international tourist arrivals fell by 8% during the first four months of 2009.<sup id="cite_ref-WTOjune09_0-2" class="reference"><a href="http://en.wikipedia.org/wiki/Tourism#cite_note-WTOjune09-0"><span>[</span>1<span>]</span></a></sup> Thereafter this declining trend was exacerbated in some regions due to the outbreak of the <a href="http://en.wikipedia.org/wiki/2009_flu_pandemic" title="2009 flu pandemic">influenza AH1N1 virus</a>.<sup id="cite_ref-WTOjune09_0-3" class="reference"><a href="http://en.wikipedia.org/wiki/Tourism#cite_note-WTOjune09-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>Tourism is vital for many countries, such as the <a href="http://en.wikipedia.org/wiki/United_Arab_Emirates" title="United Arab Emirates">U.A.E</a>, <a href="http://en.wikipedia.org/wiki/Egypt" title="Egypt">Egypt</a>, <a href="http://en.wikipedia.org/wiki/Greece" title="Greece">Greece</a> and <a href="http://en.wikipedia.org/wiki/Thailand" title="Thailand">Thailand</a>, and many <a href="http://en.wikipedia.org/wiki/Island_nation" title="Island nation" class="mw-redirect">island nations</a>, such as <a href="http://en.wikipedia.org/wiki/The_Bahamas" title="The Bahamas">The Bahamas</a>, <a href="http://en.wikipedia.org/wiki/Fiji" title="Fiji">Fiji</a>, <a href="http://en.wikipedia.org/wiki/Maldives" title="Maldives">Maldives</a> and the <a href="http://en.wikipedia.org/wiki/Seychelles" title="Seychelles">Seychelles</a>, due to the large intake of money for businesses with their <a href="http://en.wikipedia.org/wiki/Goods_and_services" title="Goods and services">goods and services</a> and the opportunity for employment in the <a href="http://en.wikipedia.org/wiki/Tertiary_sector_of_the_economy" title="Tertiary sector of the economy">service industries</a> associated with tourism. These service industries include transportation services, such as airlines, <a href="http://en.wikipedia.org/wiki/Cruise_ship" title="Cruise ship">cruise ships</a> and taxis, <a href="http://en.wikipedia.org/wiki/Hospitality_service" title="Hospitality service">hospitality services</a>, such as accommodations, including hotels and resorts, and entertainment venues, such as <a href="http://en.wikipedia.org/wiki/Amusement_park" title="Amusement park">amusement parks</a>, <a href="http://en.wikipedia.org/wiki/Casino" title="Casino">casinos</a>, <a href="http://en.wikipedia.org/wiki/Shopping_mall" title="Shopping mall">shopping malls</a>, various <a href="http://en.wikipedia.org/wiki/Music_venue" title="Music venue">music venues</a> and the theatre.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

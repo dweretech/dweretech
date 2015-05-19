@@ -1,0 +1,244 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Namibia</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Namibia#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Namibia#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">"Namibian" redirects here. For other uses, see <a href="http://en.wikipedia.org/wiki/Namibian_(disambiguation)" title="Namibian (disambiguation)" class="mw-disambig">Namibian (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Republic of Namibia</span><br /></th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Namibia.svg" class="image" title="Flag of Namibia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/125px-Flag_of_Namibia.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/188px-Flag_of_Namibia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/250px-Flag_of_Namibia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Namibia.svg" class="image" title="Coat of arms of Namibia"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Coat_of_arms_of_Namibia.svg/85px-Coat_of_arms_of_Namibia.svg.png" width="85" height="89" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Coat_of_arms_of_Namibia.svg/128px-Coat_of_arms_of_Namibia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Coat_of_arms_of_Namibia.svg/170px-Coat_of_arms_of_Namibia.svg.png 2x" data-file-width="345" data-file-height="360" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Namibia" title="Flag of Namibia">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Namibia" title="Coat of arms of Namibia">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b>"Unity, Liberty, Justice"</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b>"<a href="http://en.wikipedia.org/wiki/Namibia,_Land_of_the_Brave" title="Namibia, Land of the Brave">Namibia, Land of the Brave</a>"<br />
+<center>
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px" poster="//en.wikipedia.org/static/1.26wmf5/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="89.158820861678" data-startoffset="0" data-mwtitle="National_Anthem_of_Namibia.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/c/ce/National_Anthem_of_Namibia.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (85 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="85373"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/c/ce/National_Anthem_of_Namibia.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_Namibia_AU_Africa.svg" class="image" title="Location of &#160;Namibia&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)"><img alt="Location of &#160;Namibia&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Location_Namibia_AU_Africa.svg/250px-Location_Namibia_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Location_Namibia_AU_Africa.svg/375px-Location_Namibia_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Location_Namibia_AU_Africa.svg/500px-Location_Namibia_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">Namibia</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b><br />
+and largest city</td>
+<td><a href="http://en.wikipedia.org/wiki/Windhoek" title="Windhoek">Windhoek</a><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Namibia&amp;params=22_34.2_S_17_5.167_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">22°34.2′S</span> <span class="longitude">17°5.167′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">22.5700°S 17.086117°E</span><span style="display:none">﻿ / <span class="geo">-22.5700; 17.086117</span></span></span></a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2">Recognised regional&#160;languages</td>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Afrikaans" title="Afrikaans">Afrikaans</a><br />
+<a href="http://en.wikipedia.org/wiki/German_language" title="German language">German</a><br />
+<a href="http://en.wikipedia.org/wiki/Kwangali_language" title="Kwangali language">Rukwangali</a><br />
+<a href="http://en.wikipedia.org/wiki/Silozi" title="Silozi" class="mw-redirect">Silozi</a><br />
+<a href="http://en.wikipedia.org/wiki/Setswana" title="Setswana" class="mw-redirect">Setswana</a><br />
+<a href="http://en.wikipedia.org/wiki/Khoekhoe_language" title="Khoekhoe language">Damara/Nama</a><br />
+<a href="http://en.wikipedia.org/wiki/Herero_language" title="Herero language">Herero</a><br />
+<a href="http://en.wikipedia.org/wiki/Oshiwambo_language" title="Oshiwambo language" class="mw-redirect">Oshiwambo</a></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_groups" title="Ethnic groups" class="mw-redirect">Ethnic&#160;groups</a></b> (2014)</td>
+<td>Ethnic groups:
+<div>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Owambo_people" title="Owambo people" class="mw-redirect">Ovambo</a>&#160;: 49.5%</li>
+<li><a href="http://en.wikipedia.org/wiki/Kavango_people" title="Kavango people">Kavango</a>: 9.2%</li>
+<li><a href="http://en.wikipedia.org/wiki/Coloured" title="Coloured">coloured</a> (including <a href="http://en.wikipedia.org/wiki/Baster" title="Baster">basters</a>): 8%</li>
+<li><a href="http://en.wikipedia.org/wiki/Herero_people" title="Herero people">Herero</a>: 7%</li>
+<li><a href="http://en.wikipedia.org/wiki/Damara_(people)" title="Damara (people)" class="mw-redirect">Damara</a>: 7%</li>
+<li><a href="http://en.wikipedia.org/wiki/White_Namibians" title="White Namibians">Namibian whites</a>: 7.0%</li>
+<li><a href="http://en.wikipedia.org/wiki/Nama_people" title="Nama people">Nama</a>: 4.7%</li>
+<li><a href="http://en.wikipedia.org/wiki/Lozi_people" title="Lozi people">lozi</a> (Caprivian): 3.5%</li>
+<li><a href="http://en.wikipedia.org/wiki/San_people" title="San people">Bushmen</a>&#160;:3%</li>
+<li><a href="http://en.wikipedia.org/wiki/Tswana_people" title="Tswana people">Tswana</a>: 0.6%</li>
+<li>others: 0.5%</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Namibian</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Namibia" title="Politics of Namibia">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="http://en.wikipedia.org/wiki/Presidential_system" title="Presidential system">presidential</a> <a href="http://en.wikipedia.org/wiki/Constitutional_republic" title="Constitutional republic" class="mw-redirect">constitutional republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_Namibia" title="President of Namibia">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Hage_Geingob" title="Hage Geingob">Hage Geingob</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Vice_President_of_Namibia" title="Vice President of Namibia">Vice President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Nickey_Iyambo" title="Nickey Iyambo">Nickey Iyambo</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Namibia" title="Prime Minister of Namibia">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Saara_Kuugongelwa" title="Saara Kuugongelwa">Saara Kuugongelwa-Amadhila</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/Parliament_of_Namibia" title="Parliament of Namibia">Parliament</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Upper_house" title="Upper house">Upper house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/National_Council_(Namibia)" title="National Council (Namibia)">National Council</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Lower_house" title="Lower house">Lower house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/National_Assembly_(Namibia)" title="National Assembly (Namibia)">National Assembly</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3">Independence from <a href="http://en.wikipedia.org/wiki/South_Africa" title="South Africa">South Africa</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Constitution_of_Namibia" title="Constitution of Namibia">Constitution</a></td>
+<td>9 February 1990&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Independence</td>
+<td>21 March 1990&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Namibia" title="Geography of Namibia">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>825,615&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">34th</a>)<br />
+318,696&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Namibia" title="Demographics of Namibia">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2011&#160;census</td>
+<td>2,113,077<sup id="cite_ref-geo_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Namibia#cite_note-geo-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>2.54/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">235th</a>)<br />
+6.6/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2014&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$18.800&#160;billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Namibia#cite_note-imf2-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$8,577<sup id="cite_ref-imf2_2-1" class="reference"><a href="http://en.wikipedia.org/wiki/Namibia#cite_note-imf2-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2014&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$13.064&#160;billion<sup id="cite_ref-imf2_2-2" class="reference"><a href="http://en.wikipedia.org/wiki/Namibia#cite_note-imf2-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$5,961<sup id="cite_ref-imf2_2-3" class="reference"><a href="http://en.wikipedia.org/wiki/Namibia#cite_note-imf2-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2009)</td>
+<td>59.7<sup id="cite_ref-undppov_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Namibia#cite_note-undppov-3"><span>[</span>3<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Steady"><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.624<sup id="cite_ref-HDI_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Namibia#cite_note-HDI-4"><span>[</span>4<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">127th</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Namibian_dollar" title="Namibian dollar">Namibian dollar</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">NAD</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/West_Africa_Time" title="West Africa Time">WAT</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><a href="http://en.wikipedia.org/wiki/West_Africa_Summer_Time" title="West Africa Summer Time" class="mw-redirect">WAST</a>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">left</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Namibia" title="Telephone numbers in Namibia">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B264" title="+264" class="mw-redirect">+264</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:NA" title="ISO 3166-2:NA">NA</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.na" title=".na">.na</a></td>
+</tr>
+</table>
+<p><b>Namibia</b> (<span class="nowrap"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'m' in 'my'" style="border-bottom:1px dotted">m</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɪ/ short 'i' in 'bid'" style="border-bottom:1px dotted">ɪ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'b' in 'buy'" style="border-bottom:1px dotted">b</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/i/ 'y' in 'happy'" style="border-bottom:1px dotted">i</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>, <span class="nowrap"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/æ/ short 'a' in 'bad'" style="border-bottom:1px dotted">æ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/-/ affix" style="border-bottom:1px dotted">-</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>),<sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Namibia#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="http://en.wikipedia.org/wiki/Namibia#cite_note-6"><span>[</span>6<span>]</span></a></sup> officially the <b>Republic of Namibia</b> (<a href="http://en.wikipedia.org/wiki/German_language" title="German language">German</a>: <span class="unicode haudio" style="white-space:nowrap;"><span class="fn"><a href="http://en.wikipedia.org/wiki/File:Republik_Namibia.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;<a href="//upload.wikimedia.org/wikipedia/commons/c/c4/Republik_Namibia.ogg" class="internal" title="Republik Namibia.ogg"><i>Republik Namibia</i></a></span>&#160;<small class="metadata audiolinkinfo" style="cursor:help;">(<a href="http://en.wikipedia.org/wiki/Wikipedia:Media_help" title="Wikipedia:Media help"><span style="cursor:help;">help</span></a>·<a href="http://en.wikipedia.org/wiki/File:Republik_Namibia.ogg" title="File:Republik Namibia.ogg"><span style="cursor:help;">info</span></a>)</small></span>; <a href="http://en.wikipedia.org/wiki/Afrikaans_language" title="Afrikaans language" class="mw-redirect">Afrikaans</a>: <span lang="af"><i>Republiek van Namibië</i></span>), and formerly South West Africa, is a country in southern Africa whose western border is the Atlantic Ocean. It shares land borders with <a href="http://en.wikipedia.org/wiki/Zambia" title="Zambia">Zambia</a> and <a href="http://en.wikipedia.org/wiki/Angola" title="Angola">Angola</a> to the north, <a href="http://en.wikipedia.org/wiki/Botswana" title="Botswana">Botswana</a> to the east and <a href="http://en.wikipedia.org/wiki/South_Africa" title="South Africa">South Africa</a> to the south and east. Although it does not border <a href="http://en.wikipedia.org/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a>, less than 200 metres of the <a href="http://en.wikipedia.org/wiki/Zambezi" title="Zambezi">Zambezi River</a> (essentially a small bulge in Botswana to achieve a Botswana/Zambia micro-border) separates them at their closest points. It gained independence from South Africa on 21 March 1990, following the <a href="http://en.wikipedia.org/wiki/Namibian_War_of_Independence" title="Namibian War of Independence">Namibian War of Independence</a>. Its capital and largest city is <a href="http://en.wikipedia.org/wiki/Windhoek" title="Windhoek">Windhoek</a>. Namibia is a member state of the United Nations (UN), the <a href="http://en.wikipedia.org/wiki/Southern_African_Development_Community" title="Southern African Development Community">Southern African Development Community</a> (SADC), the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a> (AU), and the <a href="http://en.wikipedia.org/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>.</p>
+<p>The dry lands of Namibia were inhabited since early times by <a href="http://en.wikipedia.org/wiki/San_people" title="San people">San</a>, <a href="http://en.wikipedia.org/wiki/Damara_(people)" title="Damara (people)" class="mw-redirect">Damara</a>, and <a href="http://en.wikipedia.org/wiki/Nama_people" title="Nama people">Namaqua</a>, and since about the 14th century AD by <a href="http://en.wikipedia.org/wiki/Immigrating" title="Immigrating" class="mw-redirect">immigrating</a> <a href="http://en.wikipedia.org/wiki/Bantu_peoples" title="Bantu peoples">Bantu</a> who came with the <a href="http://en.wikipedia.org/wiki/Bantu_expansion" title="Bantu expansion">Bantu expansion</a>. Most of the territory became a <a href="http://en.wikipedia.org/wiki/German_Empire" title="German Empire">German Imperial</a> protectorate in 1884 and remained a German colony until the end of <a href="http://en.wikipedia.org/wiki/World_War_I" title="World War I">World War I</a>. In 1920, the <a href="http://en.wikipedia.org/wiki/League_of_Nations" title="League of Nations">League of Nations</a> mandated the country to South Africa, which imposed its laws and, from 1948, its <a href="http://en.wikipedia.org/wiki/South_Africa_under_apartheid" title="South Africa under apartheid" class="mw-redirect">apartheid</a> policy. The port of <a href="http://en.wikipedia.org/wiki/Walvis_Bay" title="Walvis Bay">Walvis Bay</a> and the offshore <a href="http://en.wikipedia.org/wiki/Penguin_Islands" title="Penguin Islands">Penguin Islands</a> had been annexed by the <a href="http://en.wikipedia.org/wiki/British_Cape_Colony" title="British Cape Colony" class="mw-redirect">Cape Colony</a> under the British crown by 1878 and had become an integral part of the new <a href="http://en.wikipedia.org/wiki/Union_of_South_Africa" title="Union of South Africa">Union of South Africa</a> at its creation in 1910.</p>
+<p>Uprisings and demands by African leaders led the UN to assume direct responsibility over the territory. It recognised the <a href="http://en.wikipedia.org/wiki/SWAPO" title="SWAPO">South West Africa People's Organisation</a> (SWAPO) as the official representative of the Namibian people in 1973. Namibia, however, remained under South African administration during this time as South-West Africa. Following internal violence, South Africa installed an interim administration in Namibia in 1985. Namibia obtained full independence from South Africa in 1990, with the exception of <a href="http://en.wikipedia.org/wiki/Walvis_Bay" title="Walvis Bay">Walvis Bay</a> and the <a href="http://en.wikipedia.org/wiki/Penguin_Islands" title="Penguin Islands">Penguin Islands</a>, which remained under South African control until 1994.</p>
+<p>Namibia has a population of 2.1&#160;million people and a stable <a href="http://en.wikipedia.org/wiki/Multi-party_system" title="Multi-party system">multi-party</a> <a href="http://en.wikipedia.org/wiki/Parliamentary_democracy" title="Parliamentary democracy" class="mw-redirect">parliamentary democracy</a>. Agriculture, <a href="http://en.wikipedia.org/wiki/Herding" title="Herding">herding</a>, <a href="http://en.wikipedia.org/wiki/Tourism_in_Namibia" title="Tourism in Namibia">tourism</a> and the <a href="http://en.wikipedia.org/wiki/Mineral_industry_of_Namibia" title="Mineral industry of Namibia" class="mw-redirect">mining industry</a> – including mining for gem diamonds, <a href="http://en.wikipedia.org/wiki/Uranium_mining" title="Uranium mining">uranium</a>, <a href="http://en.wikipedia.org/wiki/Gold_mining" title="Gold mining">gold</a>, <a href="http://en.wikipedia.org/wiki/Silver_mining" title="Silver mining">silver</a>, and <a href="http://en.wikipedia.org/wiki/Base_metal" title="Base metal">base metals</a> – form the basis of <a href="http://en.wikipedia.org/wiki/Economy_of_Namibia" title="Economy of Namibia">Namibia's economy</a>. Given the presence of the arid <a href="http://en.wikipedia.org/wiki/Namib_Desert" title="Namib Desert">Namib Desert</a>, it is one of the <a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">least densely populated</a> countries in the world. Namibia enjoys high political, economic and social stability.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

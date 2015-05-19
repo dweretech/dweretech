@@ -1,0 +1,193 @@
+	<h1 id="firstHeading" class="firstHeading">Zaire</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Zaire#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Zaire#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Zaire_(disambiguation)" title="Zaire (disambiguation)">Zaire (disambiguation)</a>.</div>
+<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="http://en.wikipedia.org/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></a></div>
+</td>
+<td class="mbox-text" style="">This article <b>needs additional <a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a>.</b><br />
+<small>Please help <a href="http://en.wikipedia.org/w/index.php?title=Zaire&amp;action=edit" class="external text" rel="nofollow">improve this article</a> by adding <a href="http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable references</a>. Unsourced material may be <a href="http://en.wikipedia.org/wiki/Template:Fact" title="Template:Fact" class="mw-redirect">challenged</a> and <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>. <small><i>(January 2009)</i></small></small></td>
+</tr>
+</table>
+<table style="background:transparent; float:right; margin:0 0 0.5em 1em;&#160;;">
+<tr>
+<td>
+<table class="infobox" style="background: none; border: none; width: 290px; text-align: center; line-height: 1.4em; margin-right: 0;">
+<tr>
+<td>
+<table class="infobox geography vcard vevent" style="width:290px;">
+<tr>
+<td colspan="2" class="mergedtoprow fn org summary" align="center" style="line-height:1.2em; font-size:135%;"><b><span lang="fr" xml:lang="fr">République du Zaïre</span><br />
+<span lang="ln" xml:lang="ln">Repubuliki ya Zaïre</span><br />
+<span lang="sw" xml:lang="sw">Jamhuri ya Zaïre</span><br />
+Republic of Zaire¹</b></td>
+</tr>
+<tr>
+<td colspan="2" style="vertical-align:middle; text-align:center; border-top: solid 1px #aaa; padding: 0.2em 0em 0.2em 0em;">
+<table width="100%" style="text-align:center; margin:0 auto; background:transparent;">
+<tr>
+<td width="50px" style="border:0; vertical-align:middle; font-size:30%; line-height: 105%;"><a href="http://en.wikipedia.org/wiki/Republic_of_the_Congo_(L%C3%A9opoldville)" title="Republic of the Congo (Léopoldville)"><span style="font-size:300%;">←</span></a> <a href="http://en.wikipedia.org/wiki/File:Flag_of_Congo_Kinshasa_1966.svg" class="image"><img alt="Flag of Congo Kinshasa 1966.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Congo_Kinshasa_1966.svg/30px-Flag_of_Congo_Kinshasa_1966.svg.png" width="30" height="20" class="thumbborder" /></a><br /></td>
+<td style="vertical-align:middle; text-align:center; font-size:115%; border:0"><b>1965–1997</b></td>
+<td width="50px" style="border:0; vertical-align: middle; text-align:right; line-height: 105%; font-size:30%;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Congo_Kinshasa_1997.svg" class="image"><img alt="Flag of Congo Kinshasa 1997.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Congo_Kinshasa_1997.svg/30px-Flag_of_Congo_Kinshasa_1997.svg.png" width="30" height="20" class="thumbborder" /></a> <a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo"><span style="font-size:300%;">→</span></a><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable">
+<table width="100%" style="text-align:center; margin:0 auto; background:none;">
+<tr>
+<td align="center" style="border:0; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Zaire.svg" class="image" title="Flag"><img alt="Flag" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Zaire.svg/125px-Flag_of_Zaire.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="border:0; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coats_of_arms_of_Zaire_1971-1997.svg" class="image" title="Coat of arms"><img alt="Coat of arms" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Coats_of_arms_of_Zaire_1971-1997.svg/85px-Coats_of_arms_of_Zaire_1971-1997.svg.png" width="85" height="82" /></a></td>
+</tr>
+<tr style="font-size: 95%;">
+<td style="border:0; text-align:center;"><a href="http://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo" title="Flag of the Democratic Republic of the Congo">Flag</a></td>
+<td style="border:0; text-align:center;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_the_Democratic_Republic_of_the_Congo" title="Coat of arms of the Democratic Republic of the Congo">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="vertical-align:top; text-align:center; font-size:95%;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a></b><br />
+<span lang="fr" xml:lang="fr"><i>Justice - Paix - Travail</i></span><br />
+(<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a> for "Justice - Peace - Work")</td>
+</tr>
+<tr>
+<td colspan="2" style="vertical-align:top; text-align:center; font-size:95%;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a></b><br />
+<span lang="fr" xml:lang="fr"><a href="http://en.wikipedia.org/wiki/La_Za%C3%AFroise" title="La Zaïroise">La Zaïroise</a></span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; font-size:95%; padding:0.6em 0em 0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationDRCongo.svg" class="image" title="Location of Zaire"><img alt="Location of Zaire" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/LocationDRCongo.svg/250px-LocationDRCongo.svg.png" width="250" height="125" /></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%"><b><a href="http://en.wikipedia.org/wiki/List_of_former_national_capitals" title="List of former national capitals">Capital</a></b></td>
+<td width="50%"><a href="http://en.wikipedia.org/wiki/Kinshasa" title="Kinshasa">Kinshasa</a>²</td>
+</tr>
+<tr>
+<td><b>Language(s)</b></td>
+<td><a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a> (<a href="http://en.wikipedia.org/wiki/Lingala" title="Lingala" class="mw-redirect">Lingala</a>, <a href="http://en.wikipedia.org/wiki/Kongo_language" title="Kongo language">Kongo language</a>, <a href="http://en.wikipedia.org/wiki/Swahili_language" title="Swahili language">Swahili</a>, <a href="http://en.wikipedia.org/wiki/Tshiluba" title="Tshiluba" class="mw-redirect">Tshiluba</a> were national languages)</td>
+</tr>
+<tr class="mergedtoprow">
+<td><b><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></b></td>
+<td>Republic, <i>de facto</i> personal dictatorship</td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/List_of_heads_of_state_of_the_Democratic_Republic_of_the_Congo" title="List of heads of state of the Democratic Republic of the Congo">President</a></b></td>
+</tr>
+<tr class="mergedbottomrow">
+<td>&#160;- 1965–1997</td>
+<td><a href="http://en.wikipedia.org/wiki/Mobutu_Sese_Seko" title="Mobutu Sese Seko">Mobutu Sese Seko</a></td>
+</tr>
+<tr class="mergedtoprow">
+<td><b>Historical era</b></td>
+<td><a href="http://en.wikipedia.org/wiki/Cold_War" title="Cold War">Cold War</a></td>
+</tr>
+<tr class="mergedrow">
+<td>&#160;-&#160;<a href="http://en.wikipedia.org/wiki/Coup_d%27etat" title="Coup d'etat" class="mw-redirect">Coup d'etat</a></td>
+<td>24 November 1965</td>
+</tr>
+<tr class="mergedbottomrow">
+<td>&#160;-&#160;<a href="http://en.wikipedia.org/wiki/First_Congo_War" title="First Congo War">Overthrow</a> of <a href="http://en.wikipedia.org/wiki/Mobutu_Sese_Seko" title="Mobutu Sese Seko">Mobutu</a></td>
+<td>16 May 1997</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_area" title="List of countries and outlying territories by area" class="mw-redirect">Area</a></b></td>
+</tr>
+<tr class="mergedbottomrow">
+<td>&#160;-&#160;1996</td>
+<td>2,345,410&#160;km<sup>2</sup> <span style="white-space:nowrap;">(905,568&#160;sq&#160;mi)</span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">Population</a></b></td>
+</tr>
+<tr class="mergedrow">
+<td>&#160;-&#160;1996 est.</td>
+<td>46,498,539&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td>&#160;&#160;&#160;&#160; <a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>19.8&#160;/km<sup>2</sup>&#160; (51.3&#160;/sq&#160;mi)</td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Congolese_franc" title="Congolese franc">Franc</a> until 1967<br />
+<a href="http://en.wikipedia.org/wiki/Zairean_zaire" title="Zairean zaire">Zaïre</a> from 1967</td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/.zr" title=".zr">.zr</a></td>
+</tr>
+<tr>
+<td><b><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></b></td>
+<td><a href="/w/index.php?title=%2B243&amp;action=edit&amp;redlink=1" class="new" title="+243 (page does not exist)">+243</a></td>
+</tr>
+<tr>
+<td colspan="2"><small>¹ Renamed from "Democratic Republic of the Congo" ("<i>République démocratique du Congo</i>") on 27 October 1971<br />
+² Changed from Léopoldville in 1966</small></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="2" cellspacing="0" style="float:right; margin:5px 0 5px 5px; border:1px #396BAD solid; background:#efefef;">
+<tr>
+<td style="text-align:center; background:#fff;border-bottom:1px #ccc solid; font-weight:bold;"><a href="http://en.wikipedia.org/wiki/History_of_the_Democratic_Republic_of_the_Congo" title="History of the Democratic Republic of the Congo">History of DR Congo</a></td>
+</tr>
+<tr>
+<td style="text-align:center; background:#fff;"><a href="http://en.wikipedia.org/wiki/File:Contour-map_of_the_Democratic_Republic_of_the_Congo.svg" class="image"><img alt="Contour-map of the Democratic Republic of the Congo.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Contour-map_of_the_Democratic_Republic_of_the_Congo.svg/135px-Contour-map_of_the_Democratic_Republic_of_the_Congo.svg.png" width="135" height="133" /></a></td>
+</tr>
+<tr>
+<td style="padding-right:5px;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Early_Congolese_history" title="Early Congolese history">Early history</a><br />
+Migration &amp; states</li>
+<li><a href="http://en.wikipedia.org/wiki/Colonisation_of_the_Congo" title="Colonisation of the Congo">Colonization</a><br />
+Stanley (1867–1885)</li>
+<li><a href="http://en.wikipedia.org/wiki/Congo_Free_State" title="Congo Free State">Congo Free State</a><br />
+Leopold II (1885–1908)</li>
+<li><a href="http://en.wikipedia.org/wiki/Belgian_Congo" title="Belgian Congo">Belgian Congo</a><br />
+(1908–1960)</li>
+<li><a href="http://en.wikipedia.org/wiki/Congo_Crisis" title="Congo Crisis">Congo Crisis</a><br />
+First Republic (1960–1965)</li>
+<li><strong class="selflink">Zaire</strong><br />
+Mobutu regime (1965–1996)</li>
+<li><a href="http://en.wikipedia.org/wiki/Shaba_I" title="Shaba I">Shaba I</a><br />
+(1977)</li>
+<li><a href="http://en.wikipedia.org/wiki/Shaba_II" title="Shaba II">Shaba II</a><br />
+(1978)</li>
+<li><a href="http://en.wikipedia.org/wiki/First_Congo_War" title="First Congo War">First Congo War</a><br />
+Kabila's rise (1996–1998)</li>
+<li><a href="http://en.wikipedia.org/wiki/Second_Congo_War" title="Second Congo War">Second Congo War</a><br />
+Africa's Great War (1998–2003)</li>
+<li><a href="http://en.wikipedia.org/wiki/2000s_in_the_Democratic_Republic_of_the_Congo" title="2000s in the Democratic Republic of the Congo">2000s</a><br />
+(2000s)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; border-top: 1px solid #ccc;">
+<div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;; font-size:xx-small;"><a href="http://en.wikipedia.org/wiki/Template:History_of_the_DRC" title="Template:History of the DRC"><span title="View this template" style="">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/wiki/Template_talk:History_of_the_DRC" title="Template talk:History of the DRC"><span title="Discuss this template" style="">d</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/w/index.php?title=Template:History_of_the_DRC&amp;action=edit" class="external text" rel="nofollow"><span title="Edit this template" style=";">e</span></a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The <b>Republic of Zaire</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/zɑːˈɪər/</a></span>; <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>République du Zaïre</i></span> <span title="Pronunciation in IPA" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_French" title="Wikipedia:IPA for French">[za.iʁ]</a></span>) was the name of the present <a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a> between 27 October 1971, and 17 May 1997. The name of Zaire derives from the <a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <span lang="pt" xml:lang="pt"><i>Zaire</i></span>, itself an adaptation of the <a href="http://en.wikipedia.org/wiki/Kongo_language" title="Kongo language">Kongo</a> word <i>nzere</i> or <i>nzadi</i>, or "the river that swallows all rivers".<sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Zaire#cite_note-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>Known as the <a href="http://en.wikipedia.org/wiki/Belgian_Congo" title="Belgian Congo">Belgian Congo</a> up until its independence in June 1960, unrest and rebellion plagued the new government until 1965, when Lieutenant General <a href="http://en.wikipedia.org/wiki/Mobutu_Sese_Seko" title="Mobutu Sese Seko">Joseph-Désiré Mobutu</a>, by then commander-in-chief of the national army, seized control of the country and declared himself president for five years during what is now called the <a href="http://en.wikipedia.org/wiki/Congo_Crisis" title="Congo Crisis">Congo Crisis</a>. Mobutu quickly consolidated his power and was elected unopposed as president in 1970.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

@@ -1,0 +1,64 @@
+	<h1 id="firstHeading" class="firstHeading">Gospel of Matthew</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Gospel_of_Matthew#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Gospel_of_Matthew#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For the film, see <a href="http://en.wikipedia.org/wiki/The_Gospel_According_to_St._Matthew_(film)" title="The Gospel According to St. Matthew (film)">The Gospel According to St. Matthew (film)</a>.</div>
+<table class="toccolours" style="float: right; margin: 0 0 1em 1em; width: 150px;">
+<tr>
+<th><a href="http://en.wikipedia.org/wiki/The_Bible" title="The Bible" class="mw-redirect">The Bible</a></th>
+</tr>
+<tr>
+<th style="background: #ccf; text-align: center;"><a href="http://en.wikipedia.org/wiki/New_Testament" title="New Testament">New Testament</a></th>
+</tr>
+<tr>
+<td>
+<ul>
+<li><strong class="selflink">Matthew</strong></li>
+<li><a href="http://en.wikipedia.org/wiki/Gospel_of_Mark" title="Gospel of Mark">Mark</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gospel_of_Luke" title="Gospel of Luke">Luke</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gospel_of_John" title="Gospel of John">John</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Acts_of_the_Apostles" title="Acts of the Apostles">Acts</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Epistle_to_the_Romans" title="Epistle to the Romans">Romans</a></li>
+<li><a href="http://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians" title="First Epistle to the Corinthians">1 Corinthians</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians" title="Second Epistle to the Corinthians">2 Corinthians</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Epistle_to_the_Galatians" title="Epistle to the Galatians">Galatians</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Epistle_to_the_Ephesians" title="Epistle to the Ephesians">Ephesians</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Epistle_to_the_Philippians" title="Epistle to the Philippians">Philippians</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Epistle_to_the_Colossians" title="Epistle to the Colossians">Colossians</a></li>
+<li><a href="http://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians" title="First Epistle to the Thessalonians">1 Thessalonians</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians" title="Second Epistle to the Thessalonians">2 Thessalonians</a></li>
+<li><a href="http://en.wikipedia.org/wiki/First_Epistle_to_Timothy" title="First Epistle to Timothy">1 Timothy</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Second_Epistle_to_Timothy" title="Second Epistle to Timothy">2 Timothy</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Epistle_to_Titus" title="Epistle to Titus">Titus</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Epistle_to_Philemon" title="Epistle to Philemon">Philemon</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Epistle_to_the_Hebrews" title="Epistle to the Hebrews">Hebrews</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Epistle_of_James" title="Epistle of James">James</a></li>
+<li><a href="http://en.wikipedia.org/wiki/First_Epistle_of_Peter" title="First Epistle of Peter">1 Peter</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Second_Epistle_of_Peter" title="Second Epistle of Peter">2 Peter</a></li>
+<li><a href="http://en.wikipedia.org/wiki/First_Epistle_of_John" title="First Epistle of John">1 John</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Second_Epistle_of_John" title="Second Epistle of John">2 John</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Third_Epistle_of_John" title="Third Epistle of John">3 John</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Epistle_of_Jude" title="Epistle of Jude">Jude</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Book_of_Revelation" title="Book of Revelation">Revelation</a></li>
+</ul>
+<hr />
+<div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;; font-size:xx-small;">This box: <a href="http://en.wikipedia.org/wiki/Template:Books_of_the_New_Testament" title="Template:Books of the New Testament"><span title="View this template" style="">view</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/wiki/Template_talk:Books_of_the_New_Testament" title="Template talk:Books of the New Testament"><span title="Discuss this template" style="">talk</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/w/index.php?title=Template:Books_of_the_New_Testament&amp;action=edit" class="external text" rel="nofollow"><span title="Edit this template" style=";">edit</span></a></div>
+<hr />
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 0.5em;">
+<table style="background:#f9f9f9; font-size:85%; line-height:110%;">
+<tr>
+<td><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bible.malmesbury.arp.jpg/32px-Bible.malmesbury.arp.jpg" width="32" height="21" /></td>
+<td style="padding:0 0.2em;"><i><b><a href="http://en.wikipedia.org/wiki/Portal:Bible" title="Portal:Bible">Bible portal</a></b></i></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>Gospel of Matthew</b> (Gk. <span lang="grc" xml:lang="grc">Κατὰ Ματθαῖον εὐαγγέλιον</span>, <i>Kata Matthaion Euangelion</i> or <span lang="grc" xml:lang="grc">τὸ εὐαγγέλιον κατὰ Ματθαῖον</span>, <i>To Euangelion kata Matthaion</i>) is one of the four <a href="http://en.wikipedia.org/wiki/Canonical" title="Canonical">canonical</a> gospels in the <a href="http://en.wikipedia.org/wiki/New_Testament" title="New Testament">New Testament</a>. This <a href="http://en.wikipedia.org/wiki/Synoptic_gospel" title="Synoptic gospel" class="mw-redirect">synoptic gospel</a> is an account of the <a href="http://en.wikipedia.org/wiki/New_Testament_view_on_Jesus%27_life" title="New Testament view on Jesus' life">life</a> and <a href="http://en.wikipedia.org/wiki/Ministry_of_Jesus" title="Ministry of Jesus">ministry</a> of <a href="http://en.wikipedia.org/wiki/Jesus_of_Nazareth" title="Jesus of Nazareth" class="mw-redirect">Jesus of Nazareth</a>. It details his story from his <a href="http://en.wikipedia.org/wiki/Genealogy_of_Jesus" title="Genealogy of Jesus">genealogy</a> to his <a href="http://en.wikipedia.org/wiki/Great_Commission" title="Great Commission">Great Commission</a>.</p>
+<p>The <a href="http://en.wikipedia.org/wiki/Early_Christian" title="Early Christian" class="mw-redirect">Early Christian</a> tradition attributes this Gospel to <a href="http://en.wikipedia.org/wiki/Matthew_the_Evangelist" title="Matthew the Evangelist">Matthew</a>, one of Jesus' disciples.<sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Gospel_of_Matthew#cite_note-0"><span>[</span>1<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

@@ -1,0 +1,31 @@
+	<h1 id="firstHeading" class="firstHeading">Mineral</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub"></div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="http://en.wikipedia.org/wiki/Mineral#mw-head">navigation</a>,
+					<a href="http://en.wikipedia.org/wiki/Mineral#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Mineral_(disambiguation)" title="Mineral (disambiguation)">Mineral (disambiguation)</a>.</div>
+<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected due to vandalism."><img alt="Page semi-protected" src="http://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Padlock-silver-slash.svg/20px-Padlock-silver-slash.svg.png" width="20" height="20" /></a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="http://en.wikipedia.org/wiki/File:Different_minerals.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Different_minerals.jpg/250px-Different_minerals.jpg" width="250" height="192" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Different_minerals.jpg" class="internal" title="Enlarge"><img src="http://bits.wikimedia.org/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+An assortment of minerals.</div>
+</div>
+</div>
+<p>A <b>mineral</b> is a naturally occurring <a href="http://en.wikipedia.org/wiki/Solid" title="Solid">solid</a> <a href="http://en.wikipedia.org/wiki/Chemical_substance" title="Chemical substance">chemical substance</a> that is formed through <a href="http://en.wikipedia.org/wiki/Geology" title="Geology">geological</a> processes and that has a characteristic <a href="http://en.wikipedia.org/wiki/Chemical_composition" title="Chemical composition" class="mw-redirect">chemical composition</a>, a highly ordered <a href="http://en.wikipedia.org/wiki/Atomic_structure" title="Atomic structure" class="mw-redirect">atomic structure</a>, and specific <a href="http://en.wikipedia.org/wiki/Physical_property" title="Physical property">physical properties</a>. By comparison, a <a href="http://en.wikipedia.org/wiki/Rock_(geology)" title="Rock (geology)">rock</a> is an <a href="http://en.wikipedia.org/wiki/Aggregate" title="Aggregate">aggregate</a> of minerals and/or <a href="http://en.wikipedia.org/wiki/Mineraloid" title="Mineraloid">mineraloids</a> and does not have a specific chemical composition. Minerals range in composition from pure <a href="http://en.wikipedia.org/wiki/Chemical_element" title="Chemical element">elements</a> and simple <a href="http://en.wikipedia.org/wiki/Salt_(chemistry)" title="Salt (chemistry)">salts</a> to very complex <a href="http://en.wikipedia.org/wiki/Silicate" title="Silicate">silicates</a> with thousands of known forms.<sup id="cite_ref-Klein_0-0" class="reference"><a href="http://en.wikipedia.org/wiki/Mineral#cite_note-Klein-0"><span>[</span>1<span>]</span></a></sup> The study of minerals is called <a href="http://en.wikipedia.org/wiki/Mineralogy" title="Mineralogy">mineralogy</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

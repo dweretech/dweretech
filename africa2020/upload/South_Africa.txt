@@ -1,0 +1,286 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">South Africa</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/South_Africa#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/South_Africa#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the modern country.  For other uses, see <a href="http://en.wikipedia.org/wiki/South_Africa_(disambiguation)" title="South Africa (disambiguation)" class="mw-disambig">South Africa (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+<div style="padding-top:0.25em;">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background:transparent;text-align:left;padding-left:2.5em;font-size:85%;"><span style="font-size:125%;">Republic of South Africa</span></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align:center;white-space:nowrap; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0"><small style="font-size:85%;"><span style="font-weight:normal;"><i>10 other official names:</i><sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-1"><span>[</span>1<span>]</span></a></sup></span></small></li>
+<li style="line-height: inherit; margin: 0"><span lang="af"><i><small style="font-size:85%;">Republiek van Suid-Afrika</small></i></span>&#160;&#160;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Afrikaans_language" title="Afrikaans language" class="mw-redirect">Afrikaans</a>)</span></li>
+<li style="line-height: inherit; margin: 0"><span lang="nr"><i><small style="font-size:85%;">iRiphabliki yeSewula Afrika</small></i></span>&#160;&#160;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Southern_Ndebele_language" title="Southern Ndebele language">Southern Ndebele</a>)</span></li>
+<li style="line-height: inherit; margin: 0"><span lang="xh"><i><small style="font-size:85%;">iRiphabliki yomZantsi Afrika</small></i></span>&#160;&#160;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Xhosa_language" title="Xhosa language">Xhosa</a>)</span></li>
+<li style="line-height: inherit; margin: 0"><span lang="zu"><i><small style="font-size:85%;">iRiphabhuliki yaseNingizimu Afrika</small></i></span>&#160;&#160;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Zulu_language" title="Zulu language">Zulu</a>)</span></li>
+<li style="line-height: inherit; margin: 0"><span lang="ss"><i><small style="font-size:85%;">iRiphabhulikhi yeNingizimu Afrika</small></i></span>&#160;&#160;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Swati_language" title="Swati language" class="mw-redirect">Swati</a>)</span></li>
+<li style="line-height: inherit; margin: 0"><span lang="nso"><i><small style="font-size:85%;">Repabliki ya Afrika-Borwa</small></i></span>&#160;&#160;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Northern_Sotho_language" title="Northern Sotho language">Northern Sotho</a>)</span></li>
+<li style="line-height: inherit; margin: 0"><span lang="st"><i><small style="font-size:85%;">Rephaboliki ya Afrika Borwa</small></i></span>&#160;&#160;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Sotho_language" title="Sotho language">Sotho</a>)</span></li>
+<li style="line-height: inherit; margin: 0"><span lang="tn"><i><small style="font-size:85%;">Rephaboliki ya Aforika Borwa</small></i></span>&#160;&#160;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Tswana_language" title="Tswana language">Tswana</a>)</span></li>
+<li style="line-height: inherit; margin: 0"><span lang="ts"><i><small style="font-size:85%;">Riphabliki ra Afrika Dzonga</small></i></span>&#160;&#160;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Tsonga_language" title="Tsonga language">Tsonga</a>)</span></li>
+<li style="line-height: inherit; margin: 0"><span lang="ve"><i><small style="font-size:85%;">Riphabuḽiki ya Afurika Tshipembe</small></i></span>&#160;&#160;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Venda_language" title="Venda language">Venda</a>)</span></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_South_Africa.svg" class="image" title="Flag of South Africa"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/125px-Flag_of_South_Africa.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/188px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/250px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_South_Africa.png" class="image" title="Coat of arms of South Africa"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a0/Coat_of_arms_of_South_Africa.png/85px-Coat_of_arms_of_South_Africa.png" width="85" height="112" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a0/Coat_of_arms_of_South_Africa.png/128px-Coat_of_arms_of_South_Africa.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a0/Coat_of_arms_of_South_Africa.png/170px-Coat_of_arms_of_South_Africa.png 2x" data-file-width="263" data-file-height="347" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_South_Africa" title="Flag of South Africa">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_South_Africa" title="Coat of arms of South Africa">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b>"<span class="Unicode">!ke e: ǀxarra ǁke</span>"&#160;<small style="font-size:85%;">(<a href="http://en.wikipedia.org/wiki/%C7%80Xam_language" title="ǀXam language">ǀXam</a>)</small><br />
+<small style="font-size:85%;">"<a href="http://en.wikipedia.org/wiki/Unity_in_Diversity" title="Unity in Diversity" class="mw-redirect">Unity in Diversity</a>"</small></td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><a href="http://en.wikipedia.org/wiki/National_anthem_of_South_Africa" title="National anthem of South Africa">National anthem of South Africa</a><br />
+<center>
+<div class="center">
+<div class="floatnone">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px" poster="//en.wikipedia.org/static/1.26wmf4/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="122.6187755102" data-startoffset="0" data-mwtitle="South_Africa_National_Anthem.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/7/7e/South_Africa_National_Anthem.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (141 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="141351"></source><track kind="subtitles" data-mwtitle="TimedText:South_Africa_National_Anthem.ogg.af.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:South+Africa+National+Anthem.ogg.af.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="af" data-dir="ltr" label="Afrikaans (af) subtitles"></track><track kind="subtitles" data-mwtitle="TimedText:South_Africa_National_Anthem.ogg.en.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:South+Africa+National+Anthem.ogg.en.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="en" data-dir="ltr" label="English (en) subtitles"></track><track kind="subtitles" data-mwtitle="TimedText:South_Africa_National_Anthem.ogg.st.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:South+Africa+National+Anthem.ogg.st.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="st" data-dir="ltr" label="Sesotho (st) subtitles"></track><track kind="subtitles" data-mwtitle="TimedText:South_Africa_National_Anthem.ogg.xh.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:South+Africa+National+Anthem.ogg.xh.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="xh" data-dir="ltr" label="isiXhosa (xh) subtitles"></track><track kind="subtitles" data-mwtitle="TimedText:South_Africa_National_Anthem.ogg.zu.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:South+Africa+National+Anthem.ogg.zu.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="zu" data-dir="ltr" label="isiZulu (zu) subtitles"></track>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/7/7e/South_Africa_National_Anthem.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+</div>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_South_Africa_AU_Africa.svg" class="image" title="Location of &#160;South Africa&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)"><img alt="Location of &#160;South Africa&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Location_South_Africa_AU_Africa.svg/250px-Location_South_Africa_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Location_South_Africa_AU_Africa.svg/375px-Location_South_Africa_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Location_South_Africa_AU_Africa.svg/500px-Location_South_Africa_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">South Africa</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:South_Africa_-_Location_Map_(2013)_-_ZAF_-_UNOCHA.svg" class="image" title="Location of South Africa"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/South_Africa_-_Location_Map_%282013%29_-_ZAF_-_UNOCHA.svg/250px-South_Africa_-_Location_Map_%282013%29_-_ZAF_-_UNOCHA.svg.png" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/South_Africa_-_Location_Map_%282013%29_-_ZAF_-_UNOCHA.svg/375px-South_Africa_-_Location_Map_%282013%29_-_ZAF_-_UNOCHA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/South_Africa_-_Location_Map_%282013%29_-_ZAF_-_UNOCHA.svg/500px-South_Africa_-_Location_Map_%282013%29_-_ZAF_-_UNOCHA.svg.png 2x" data-file-width="254" data-file-height="254" /></a></div>
+</div>
+<div style="position:relative;top:0.3em;line-height:1.2em;font-size:85%;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b></td>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Pretoria" title="Pretoria">Pretoria</a> <small style="font-size:85%;">(executive)</small></li>
+<li><a href="http://en.wikipedia.org/wiki/Bloemfontein" title="Bloemfontein">Bloemfontein</a> <small style="font-size:85%;">(judicial)</small></li>
+<li><a href="http://en.wikipedia.org/wiki/Cape_Town" title="Cape Town">Cape Town</a> <small style="font-size:85%;">(legislative)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2">Largest city</th>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Johannesburg" title="Johannesburg">Johannesburg</a><sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-2"><span>[</span>2<span>]</span></a></sup></span></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td><sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-3"><span>[</span>Note 1<span>]</span></a></sup>
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background:transparent;text-align:left;font-weight:normal;"><a href="http://en.wikipedia.org/wiki/Languages_of_South_Africa" title="Languages of South Africa">11 languages</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; border-top:1px solid #aaa; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Afrikaans" title="Afrikaans">Afrikaans</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Northern_Sotho_language" title="Northern Sotho language">Northern Sotho</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/South_African_English" title="South African English">English</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Southern_Ndebele_language" title="Southern Ndebele language">Southern Ndebele</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Sotho_language" title="Sotho language">Southern Sotho</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Swati_language" title="Swati language" class="mw-redirect">Swazi</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Tsonga_language" title="Tsonga language">Tsonga</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Tswana_language" title="Tswana language">Tswana</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Venda_language" title="Venda language">Venda</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Xhosa_language" title="Xhosa language">Xhosa</a></li>
+<li style="line-height: inherit; margin: 0"><a href="http://en.wikipedia.org/wiki/Zulu_language" title="Zulu language">Zulu</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_groups" title="Ethnic groups" class="mw-redirect">Ethnic&#160;groups</a></b> (2014<sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-4"><span>[</span>3<span>]</span></a></sup>)</td>
+<td>
+<div class="plainlist">
+<ul>
+<li><span class="nowrap">80.2% <a href="http://en.wikipedia.org/wiki/Black_people" title="Black people">Black African</a></span></li>
+<li>8.8% <a href="http://en.wikipedia.org/wiki/Coloured" title="Coloured">Coloured</a></li>
+<li>8.4% <a href="http://en.wikipedia.org/wiki/White_South_African" title="White South African">White</a></li>
+<li>2.5% <a href="http://en.wikipedia.org/wiki/Asian_South_African" title="Asian South African">Indian or Asian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Demographics_of_South_Africa" title="Demographics of South Africa">South African</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_South_Africa" title="Politics of South Africa">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="http://en.wikipedia.org/wiki/Constitutional_democracy" title="Constitutional democracy" class="mw-redirect">constitutional</a> <a href="http://en.wikipedia.org/wiki/Parliamentary_republic" title="Parliamentary republic">parliamentary republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_South_Africa" title="President of South Africa">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Jacob_Zuma" title="Jacob Zuma">Jacob Zuma</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Deputy_President_of_South_Africa" title="Deputy President of South Africa">Deputy President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Cyril_Ramaphosa" title="Cyril Ramaphosa">Cyril Ramaphosa</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/Parliament_of_South_Africa" title="Parliament of South Africa">Parliament</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Upper_house" title="Upper house">Upper house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/National_Council_of_Provinces" title="National Council of Provinces">National Council</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Lower_house" title="Lower house">Lower house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/National_Assembly_of_South_Africa" title="National Assembly of South Africa">National Assembly</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3">Independence&#160;<span style="font-weight:normal;"><span class="nowrap">from the <a href="http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">United Kingdom</a></span></span></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Union_of_South_Africa" title="Union of South Africa">Union</a></td>
+<td>31 May 1910&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Statute_of_Westminster_1931" title="Statute of Westminster 1931">Self-governance</a></td>
+<td>11 December 1931&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/South_African_referendum,_1960" title="South African referendum, 1960" class="mw-redirect">Republic</a></td>
+<td>31 May 1961&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_South_Africa" title="Geography of South Africa">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>1,221,037&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">25th</a>)<br />
+471,443&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_South_Africa" title="Demographics of South Africa">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2014&#160;estimate</td>
+<td>54,002,000<sup id="cite_ref-newpopest_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-newpopest-5"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">25th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2011&#160;census</td>
+<td>51,770,560<sup id="cite_ref-census2011-inbrief_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-census2011-inbrief-6"><span>[</span>5<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:18</sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>42.4/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">169th</a>)<br />
+109.8/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2015&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td><span class="nowrap">$725.004 billion<sup id="cite_ref-imf2_7-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-imf2-7"><span>[</span>6<span>]</span></a></sup></span> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">30th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$13,215<sup id="cite_ref-imf2_7-1" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-imf2-7"><span>[</span>6<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">90th</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2015&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td><span class="nowrap">$323.809 billion<sup id="cite_ref-imf2_7-2" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-imf2-7"><span>[</span>6<span>]</span></a></sup></span> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">35th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$5,902<sup id="cite_ref-imf2_7-3" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-imf2-7"><span>[</span>6<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">88th</a>)</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2009)</td>
+<td>63.1<sup id="cite_ref-wb-gini_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-wb-gini-8"><span>[</span>7<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:red">very high</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Increase"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.658<sup id="cite_ref-HDI_9-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-HDI-9"><span>[</span>8<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">118th</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/South_African_rand" title="South African rand">South African rand</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">ZAR</a>)</td>
+</tr>
+<tr>
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/South_African_Standard_Time" title="South African Standard Time">SAST</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</span></td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">left</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_South_Africa" title="Telephone numbers in South Africa">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B27" title="+27" class="mw-redirect">+27</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:ZA" title="ISO 3166-2:ZA">ZA</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.za" title=".za">.za</a></td>
+</tr>
+</table>
+<p><b>South Africa</b>, officially the <b>Republic of South Africa</b> (<b>RSA</b>), is a country located in <a href="http://en.wikipedia.org/wiki/Southern_Africa" title="Southern Africa">Southern Africa</a>. It has 2,798 kilometres (1,739&#160;mi) of coastline that stretches along the South Atlantic and Indian oceans.<sup id="cite_ref-10" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-10"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-11"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-safacts_12-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-safacts-12"><span>[</span>11<span>]</span></a></sup> To the north lie the neighbouring countries of <a href="http://en.wikipedia.org/wiki/Namibia" title="Namibia">Namibia</a>, <a href="http://en.wikipedia.org/wiki/Botswana" title="Botswana">Botswana</a> and <a href="http://en.wikipedia.org/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a>; to the east are <a href="http://en.wikipedia.org/wiki/Mozambique" title="Mozambique">Mozambique</a> and <a href="http://en.wikipedia.org/wiki/Swaziland" title="Swaziland">Swaziland</a>; and within it lies <a href="http://en.wikipedia.org/wiki/Lesotho" title="Lesotho">Lesotho</a>, an <a href="http://en.wikipedia.org/wiki/Enclave_and_exclave" title="Enclave and exclave">enclave</a> surrounded by South African territory.<sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-13"><span>[</span>12<span>]</span></a></sup> South Africa is the <a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area" class="mw-redirect">25th-largest country</a> in the world by land area, and with close to <a href="http://en.wikipedia.org/wiki/Demographics_of_South_Africa" title="Demographics of South Africa">53 million people</a>, is the world's <a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">25th-most populous nation</a>.</p>
+<p>South Africa is a <a href="http://en.wikipedia.org/wiki/Multiethnic_society" title="Multiethnic society" class="mw-redirect">multiethnic society</a> encompassing a wide variety of cultures, languages, and religions. Its pluralistic makeup is reflected in the <a href="http://en.wikipedia.org/wiki/Constitution_of_South_Africa" title="Constitution of South Africa">constitution</a>'s recognition of 11 official languages, which is among the highest number of any country in the world.<sup id="cite_ref-safacts_12-1" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-safacts-12"><span>[</span>11<span>]</span></a></sup> Two of these languages are of European origin: <a href="http://en.wikipedia.org/wiki/Afrikaans" title="Afrikaans">Afrikaans</a> developed from <a href="http://en.wikipedia.org/wiki/Dutch_language" title="Dutch language">Dutch</a> and serves as the first language of most <a href="http://en.wikipedia.org/wiki/White_South_African" title="White South African">white</a> and <a href="http://en.wikipedia.org/wiki/Coloured" title="Coloured">coloured</a> South Africans, based on history; <a href="http://en.wikipedia.org/wiki/South_African_English" title="South African English">English</a> reflects the legacy of British colonialism, and is commonly used in public and commercial life, though it is fourth-ranked as a spoken first language.<sup id="cite_ref-safacts_12-2" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-safacts-12"><span>[</span>11<span>]</span></a></sup></p>
+<p>About 80 percent of South Africans are of <a href="http://en.wikipedia.org/wiki/Sub-Saharan_Africa" title="Sub-Saharan Africa">sub-Saharan African</a> ancestry,<sup id="cite_ref-census2011-inbrief_6-1" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-census2011-inbrief-6"><span>[</span>5<span>]</span></a></sup> divided among a variety of ethnic groups speaking different <a href="http://en.wikipedia.org/wiki/Bantu_languages" title="Bantu languages">Bantu languages</a>, nine of which have official status.<sup id="cite_ref-safacts_12-3" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-safacts-12"><span>[</span>11<span>]</span></a></sup> The remaining population consists of <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a>'s largest communities of <a href="http://en.wikipedia.org/wiki/Ethnic_groups_in_Europe" title="Ethnic groups in Europe">European</a> (<a href="http://en.wikipedia.org/wiki/White_South_Africans" title="White South Africans" class="mw-redirect">white</a>), <a href="http://en.wikipedia.org/wiki/Asian_people" title="Asian people">Asian</a> (<a href="http://en.wikipedia.org/wiki/Asian_South_Africans" title="Asian South Africans" class="mw-redirect">Indian</a>), and <a href="http://en.wikipedia.org/wiki/Multiracial" title="Multiracial">multiracial</a> (<a href="http://en.wikipedia.org/wiki/Coloured" title="Coloured">coloured</a>) ancestry. Since 1994, all ethnic and linguistic groups have had political representation in the country's <a href="http://en.wikipedia.org/wiki/Liberal_democracy" title="Liberal democracy">constitutional democracy</a>, which comprises a <a href="http://en.wikipedia.org/wiki/Parliamentary_republic" title="Parliamentary republic">parliamentary republic</a> and <a href="http://en.wikipedia.org/wiki/Provinces_of_South_Africa" title="Provinces of South Africa">nine provinces</a>. South Africa is often referred to as the "<a href="http://en.wikipedia.org/wiki/Rainbow_Nation" title="Rainbow Nation" class="mw-redirect">Rainbow Nation</a>," a term coined by Archbishop <a href="http://en.wikipedia.org/wiki/Desmond_Tutu" title="Desmond Tutu">Desmond Tutu</a> and later adopted by then-President <a href="http://en.wikipedia.org/wiki/Nelson_Mandela" title="Nelson Mandela">Nelson Mandela</a> as a metaphor to describe the country's newly developing multicultural diversity in the wake of segregationist <a href="http://en.wikipedia.org/wiki/Apartheid" title="Apartheid">apartheid</a> ideology.<sup id="cite_ref-14" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-14"><span>[</span>13<span>]</span></a></sup></p>
+<p>The country is one of the few in Africa never to have had a <a href="http://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat" title="Coup d'état">coup d'état</a>, and <a href="http://en.wikipedia.org/wiki/Elections_in_South_Africa" title="Elections in South Africa">regular elections</a> have been held for almost a century. But the vast majority of black South Africans were not <a href="http://en.wikipedia.org/wiki/Enfranchised" title="Enfranchised" class="mw-redirect">enfranchised</a> until 1994. During the 20th century, the black majority sought to recover its rights from the dominant white minority, with this struggle playing a large role in the country's recent history and politics. The <a href="http://en.wikipedia.org/wiki/National_Party_(South_Africa)" title="National Party (South Africa)">National Party</a> imposed <a href="http://en.wikipedia.org/wiki/Apartheid" title="Apartheid">apartheid</a> in 1948, institutionalizing previous racial segregation. After a long and sometimes violent struggle by the <a href="http://en.wikipedia.org/wiki/African_National_Congress" title="African National Congress">African National Congress</a> and other anti-apartheid activists, discriminatory laws began to be repealed or abolished from 1990 onwards.</p>
+<p>South Africa is ranked as an upper-middle income economy by the <a href="http://en.wikipedia.org/wiki/World_Bank" title="World Bank">World Bank</a>, and is considered to be a <a href="http://en.wikipedia.org/wiki/Newly_industrialized_country" title="Newly industrialized country">newly industrialised country</a>.<sup id="cite_ref-15" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-15"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-Waugh2000_16-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-Waugh2000-16"><span>[</span>15<span>]</span></a></sup> Its economy is the second-largest in Africa, and the 34th-largest in the world.<sup id="cite_ref-imf2_7-4" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-imf2-7"><span>[</span>6<span>]</span></a></sup> In terms of <a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">purchasing power parity</a>, South Africa has the <a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">seventh-highest per capita income</a> in Africa. But poverty and inequality remain widespread, with about a quarter of the population unemployed and living on less than US$1.25 a day.<sup id="cite_ref-17" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-17"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-18"><span>[</span>17<span>]</span></a></sup> Nevertheless, South Africa has been identified as a <a href="http://en.wikipedia.org/wiki/Middle_power" title="Middle power">middle power</a> in international affairs, and maintains significant regional influence.<sup id="cite_ref-19" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-19"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-Lynch2010_20-0" class="reference"><a href="http://en.wikipedia.org/wiki/South_Africa#cite_note-Lynch2010-20"><span>[</span>19<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

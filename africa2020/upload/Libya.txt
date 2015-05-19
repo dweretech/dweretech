@@ -1,0 +1,259 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Libya</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Libya#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Libya#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the country.  For other uses, see <a href="http://en.wikipedia.org/wiki/Libya_(disambiguation)" title="Libya (disambiguation)" class="mw-disambig">Libya (disambiguation)</a>.</div>
+<div class="hatnote">Not to be confused with crab genus <i><a href="http://en.wikipedia.org/wiki/Lybia" title="Lybia">Lybia</a></i>.</div>
+<table class="metadata mbox-small noprint selfref" style="border:1px solid #aaa;background-color:#f9f9f9;width: 22em;">
+<tr>
+<td style="width:1px"></td>
+<td class="mbox-text plainlist" style="vertical-align:middle; font-size:95%;"><b>This article contains <a href="http://en.wikipedia.org/wiki/Help:Special_characters" title="Help:Special characters">special characters</a>.</b> Without proper <a href="http://en.wikipedia.org/wiki/Help:Special_characters" title="Help:Special characters">rendering support</a>, you may see <a href="http://en.wikipedia.org/wiki/Replacement_character" title="Replacement character" class="mw-redirect">question marks, boxes, or other symbols</a>.</td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">State of Libya<br />
+دولة ليبيا</span><br /></th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Libya.svg" class="image" title="Flag of Libya"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/125px-Flag_of_Libya.svg.png" width="125" height="63" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/188px-Flag_of_Libya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/250px-Flag_of_Libya.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:The_emblem_on_the_passport_of_Libya.svg" class="image" title="National emblem of Libya"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_emblem_on_the_passport_of_Libya.svg/85px-The_emblem_on_the_passport_of_Libya.svg.png" width="85" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_emblem_on_the_passport_of_Libya.svg/128px-The_emblem_on_the_passport_of_Libya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_emblem_on_the_passport_of_Libya.svg/170px-The_emblem_on_the_passport_of_Libya.svg.png 2x" data-file-width="300" data-file-height="212" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Libya" title="Flag of Libya">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/National_emblem_of_Libya" title="National emblem of Libya" class="mw-redirect">National emblem</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b>
+<div class="plainlist">
+<ul>
+<li><span style="font-size: 120%;">ليبيا ليبيا ليبيا</span></li>
+<li><small style="font-size:85%;">"<a href="http://en.wikipedia.org/wiki/Libya,_Libya,_Libya" title="Libya, Libya, Libya">Libya, Libya, Libya</a>"</small><sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-2"><span>[</span>2<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_Libya_AU_Africa.svg" class="image" title="Location of &#160;Libya&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)"><img alt="Location of &#160;Libya&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Location_Libya_AU_Africa.svg/250px-Location_Libya_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Location_Libya_AU_Africa.svg/375px-Location_Libya_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Location_Libya_AU_Africa.svg/500px-Location_Libya_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">Libya</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Libya_-_Location_Map_(2013)_-_LBY_-_UNOCHA.svg" class="image" title="Location of Libya"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Libya_-_Location_Map_%282013%29_-_LBY_-_UNOCHA.svg/250px-Libya_-_Location_Map_%282013%29_-_LBY_-_UNOCHA.svg.png" width="250" height="249" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Libya_-_Location_Map_%282013%29_-_LBY_-_UNOCHA.svg/375px-Libya_-_Location_Map_%282013%29_-_LBY_-_UNOCHA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Libya_-_Location_Map_%282013%29_-_LBY_-_UNOCHA.svg/500px-Libya_-_Location_Map_%282013%29_-_LBY_-_UNOCHA.svg.png 2x" data-file-width="253" data-file-height="252" /></a></div>
+</div>
+<div style="position:relative;top:0.3em;line-height:1.2em;font-size:85%;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b></td>
+<td><a href="http://en.wikipedia.org/wiki/Tobruk" title="Tobruk">Tobruk</a> <small>(<i><a href="http://en.wikipedia.org/wiki/De_facto" title="De facto">de facto</a></i>, disputed)</small><br />
+<a href="http://en.wikipedia.org/wiki/Tripoli" title="Tripoli">Tripoli</a> <small>(<i><a href="http://en.wikipedia.org/wiki/De_jure" title="De jure">de jure</a></i>)</small></td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2">Largest city</th>
+<td><a href="http://en.wikipedia.org/wiki/Tripoli" title="Tripoli">Tripoli</a></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td><a href="http://en.wikipedia.org/wiki/Arabic" title="Arabic" class="mw-redirect">Arabic</a><sup class="reference" id="ref_arabicnote"><a href="http://en.wikipedia.org/wiki/Libya#endnote_arabicnote">[a]</a></sup></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Spoken_language" title="Spoken language">Spoken languages</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Libyan_Arabic" title="Libyan Arabic">Libyan Arabic</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Berber_languages" title="Berber languages">Amazighi</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Italian_language" title="Italian language">Italian</a> (<a href="http://en.wikipedia.org/wiki/Italian_Libya" title="Italian Libya">historical ties with Italy</a>)</li>
+<li><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a> (widely understood in the major cities)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2">Religion</th>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Islam_in_Libya" title="Islam in Libya">Islam</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Demographics_of_Libya" title="Demographics of Libya">Libyan</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Libya" title="Politics of Libya">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="http://en.wikipedia.org/wiki/Provisional_government" title="Provisional government">provisional</a> <a href="http://en.wikipedia.org/wiki/Parliamentary_republic" title="Parliamentary republic">parliamentary republic</a><br />
+(in dispute)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/List_of_heads_of_state_of_Libya" title="List of heads of state of Libya"><span class="nowrap">President of the Council</span> of Deputies</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Aguila_Saleh_Issa" title="Aguila Saleh Issa">Aguila Saleh Issa</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/List_of_heads_of_government_of_Libya" title="List of heads of government of Libya">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Abdullah_al-Thani" title="Abdullah al-Thani">Abdullah al-Thani</a> <small>(Tobruk)</small></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Council_of_Deputies" title="Council of Deputies">Council of Deputies</a></span> <small>(Tobruk)</small></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/History_of_Libya" title="History of Libya">Formation</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a> from <a href="http://en.wikipedia.org/wiki/Italy" title="Italy">Italy</a></td>
+<td>10 February 1947&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Released from <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">British</a> and <a href="http://en.wikipedia.org/wiki/French_Fourth_Republic" title="French Fourth Republic">French</a> oversight<sup class="reference" id="ref_indepnote"><a href="http://en.wikipedia.org/wiki/Libya#endnote_indepnote">[b]</a></sup></td>
+<td>24 December 1951&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/History_of_Libya_under_Muammar_Gaddafi" title="History of Libya under Muammar Gaddafi">Coup d'état by Muammar Gaddafi</a></td>
+<td>1 September 1969&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/2011_Libyan_Civil_War" title="2011 Libyan Civil War" class="mw-redirect">Revolution Day</a></td>
+<td>17 February 2011&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Battle_of_Tripoli_(2011)" title="Battle of Tripoli (2011)">Battle of Tripoli</a></td>
+<td>28 August 2011&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Handover to the <a href="http://en.wikipedia.org/wiki/General_National_Congress" title="General National Congress">General National Congress</a></td>
+<td>8 August 2012&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Libya" title="Geography of Libya">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>1,759,541&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">17th</a>)<br />
+679,359&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Libya" title="Demographics of Libya">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2014&#160;estimate</td>
+<td>6,244,174<sup id="cite_ref-spooks_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-spooks-3"><span>[</span>3<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">108th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2006&#160;census</td>
+<td>5,658,000</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>3.55/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">218th</a>)<br />
+9.2/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2013&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$70.386 billion<sup id="cite_ref-imf2_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">80th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$11,497<sup id="cite_ref-imf2_4-1" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">82nd</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2013&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$67.622 billion<sup id="cite_ref-imf2_4-2" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">68th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$11,046<sup id="cite_ref-imf2_4-3" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">62nd</a>)</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Decrease"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.784<sup id="cite_ref-HDI_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-HDI-5"><span>[</span>5<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">55th</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Libyan_dinar" title="Libyan dinar">Libyan dinar</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">LYD</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/Central_European_Time" title="Central European Time">CET</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>CEST&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Libya" title="Telephone numbers in Libya">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Libya" title="Telephone numbers in Libya">218</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:LY" title="ISO 3166-2:LY">LY</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.ly" title=".ly">.ly</a></td>
+</tr>
+<tr style="font-size:85%;">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>a.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><span class="citation wikicite" id="endnote_arabicnote"><b><a href="http://en.wikipedia.org/wiki/Libya#ref_arabicnote">^</a></b></span> <a href="http://en.wikipedia.org/wiki/Libyan_Arabic" title="Libyan Arabic">Libyan Arabic</a> and other <a href="http://en.wikipedia.org/wiki/Arabic_dialects" title="Arabic dialects" class="mw-redirect">varieties</a> and <a href="http://en.wikipedia.org/wiki/Berber_languages" title="Berber languages">Amazigh languages</a> in certain western and southern areas.. The <a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">official language</a> is simply identified as "<a href="http://en.wikipedia.org/wiki/Standard_Arabic" title="Standard Arabic" class="mw-redirect">Arabic</a>" (<a href="http://en.wikipedia.org/wiki/Libyan_interim_Constitutional_Declaration" title="Libyan interim Constitutional Declaration">Constitutional Declaration</a>, article 1).</td>
+</tr>
+<tr style="font-size:85%;" class="mergedbottomrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>b.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><span class="citation wikicite" id="endnote_indepnote"><b><a href="http://en.wikipedia.org/wiki/Libya#ref_indepnote">^</a></b></span> The <a href="http://en.wikipedia.org/wiki/Foreign_and_Commonwealth_Office#History_of_the_department" title="Foreign and Commonwealth Office">UK</a> and <a href="http://en.wikipedia.org/wiki/French_Union" title="French Union">France</a> held a <a href="http://en.wikipedia.org/wiki/Condominium_(international_law)" title="Condominium (international law)">joint condominium</a> over Libya through the <a href="http://en.wikipedia.org/wiki/United_Nations_Trusteeship_Council" title="United Nations Trusteeship Council">United Nations Trusteeship Council</a>.</td>
+</tr>
+</table>
+<p><b>Libya</b> (<a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl"><span style="font-size: 120%;">‏ليبيا</span></span>‎, <i><span title="DIN 31635 Arabic" class="Unicode" style="white-space:normal; text-decoration: none">Lībyā</span></i>; <a href="http://en.wikipedia.org/wiki/Berber_language" title="Berber language" class="mw-redirect">Berber</a>: <b>Libya</b>, <b>ⵍⵉⴱⵢⴰ</b>), officially the <b>State of Libya</b>,<sup id="cite_ref-Herald_StateofLibya_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-Herald_StateofLibya-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-state-libya_7-0" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-state-libya-7"><span>[</span>7<span>]</span></a></sup> is a country in the <a href="http://en.wikipedia.org/wiki/Maghreb" title="Maghreb">Maghreb</a> region of <a href="http://en.wikipedia.org/wiki/North_Africa" title="North Africa">North Africa</a> bordered by the <a href="http://en.wikipedia.org/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> to the north, <a href="http://en.wikipedia.org/wiki/Egypt" title="Egypt">Egypt</a> to the east, <a href="http://en.wikipedia.org/wiki/Sudan" title="Sudan">Sudan</a> to the southeast, <a href="http://en.wikipedia.org/wiki/Chad" title="Chad">Chad</a> and <a href="http://en.wikipedia.org/wiki/Niger" title="Niger">Niger</a> to the south, and <a href="http://en.wikipedia.org/wiki/Algeria" title="Algeria">Algeria</a> and <a href="http://en.wikipedia.org/wiki/Tunisia" title="Tunisia">Tunisia</a> to the west. The three traditional parts of the country are <a href="http://en.wikipedia.org/wiki/Tripolitania" title="Tripolitania">Tripolitania</a>, <a href="http://en.wikipedia.org/wiki/Fezzan" title="Fezzan">Fezzan</a> and <a href="http://en.wikipedia.org/wiki/Cyrenaica" title="Cyrenaica">Cyrenaica</a>. With an area of almost 1.8&#160;million square kilometres (700,000&#160;sq&#160;mi), Libya is the fourth largest country in Africa, and is the 17th <a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area" class="mw-redirect">largest country in the world</a>.<sup id="cite_ref-8" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-8"><span>[</span>8<span>]</span></a></sup> Libya has the 10th-largest proven <a href="http://en.wikipedia.org/wiki/Oil_reserves" title="Oil reserves">oil reserves</a> of any country in the world.<sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>The largest city and capital, <a href="http://en.wikipedia.org/wiki/Tripoli" title="Tripoli">Tripoli</a>, is located in western Libya and contains over one million<sup id="cite_ref-10" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-10"><span>[</span>10<span>]</span></a></sup> of Libya's six million people. The other large city is <a href="http://en.wikipedia.org/wiki/Benghazi" title="Benghazi">Benghazi</a>, which is located in eastern Libya.</p>
+<p>Libya has been inhabited by <a href="http://en.wikipedia.org/wiki/Berber_people" title="Berber people" class="mw-redirect">Berbers</a> since the late Bronze Age. The <a href="http://en.wikipedia.org/wiki/Phoenicia" title="Phoenicia">Phoenicians</a> established trading posts in western Libya, and Ancient Greek colonists established city-states in eastern Libya. Libya was variously ruled by <a href="http://en.wikipedia.org/wiki/Persia" title="Persia" class="mw-redirect">Persians</a>, <a href="http://en.wikipedia.org/wiki/Egypt" title="Egypt">Egyptians</a> and <a href="http://en.wikipedia.org/wiki/Ptolemaic_Kingdom" title="Ptolemaic Kingdom">Greek-Egyptians</a> before becoming a part of the Roman Empire. Libya was an early center of Christianity. After the <a href="http://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire" title="Fall of the Western Roman Empire">fall of the Western Roman Empire</a>, the area of Libya was mostly occupied by the <a href="http://en.wikipedia.org/wiki/Vandalic_Kingdom" title="Vandalic Kingdom" class="mw-redirect">Vandals</a> until the 7th century, when invasions brought <a href="http://en.wikipedia.org/wiki/Islam" title="Islam">Islam</a> and Arab colonization. In the sixteenth century, the <a href="http://en.wikipedia.org/wiki/Spanish_Empire" title="Spanish Empire">Spanish Empire</a> and the <a href="http://en.wikipedia.org/wiki/Knights_of_St_John" title="Knights of St John" class="mw-redirect">Knights of St John</a> occupied <a href="http://en.wikipedia.org/wiki/Tripoli" title="Tripoli">Tripoli</a>, until <a href="http://en.wikipedia.org/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> rule began in 1551. Libya was involved in the <a href="http://en.wikipedia.org/wiki/Barbary_Wars" title="Barbary Wars">Barbary Wars</a> of the 18th and 19th centuries. Ottoman rule continued until the twentieth-century <a href="http://en.wikipedia.org/wiki/Italian_Libya" title="Italian Libya">Italian occupation of Libya</a> and large-scale Italian <a href="http://en.wikipedia.org/wiki/Immigration" title="Immigration">immigration</a>. Italian rule ended during the <a href="http://en.wikipedia.org/wiki/Second_World_War" title="Second World War" class="mw-redirect">Second World War</a>, during which Libya was an <a href="http://en.wikipedia.org/wiki/North_African_Campaign" title="North African Campaign">important area of warfare</a>. The Italian population then went into decline. Libya became an independent kingdom in 1951.</p>
+<p>In 1969, a military <a href="http://en.wikipedia.org/wiki/Coup" title="Coup" class="mw-redirect">coup</a> overthrew <a href="http://en.wikipedia.org/wiki/Idris_of_Libya" title="Idris of Libya">King Idris I</a>, beginning a period of improved living standards and brutal suppression of dissent. Within a year of the coup, the remaining 20,000 Italians and 37,000 Jews were expelled. The most prominent coup conspirator, <a href="http://en.wikipedia.org/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a>, was ultimately able to fully concentrate power in his own hands during the <a href="http://en.wikipedia.org/wiki/Libyan_Cultural_Revolution" title="Libyan Cultural Revolution" class="mw-redirect">Libyan Cultural Revolution</a>. Muammar Gaddafi remained in power until the Libyan Revolution<sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-11"><span>[</span>11<span>]</span></a></sup> of 2011 overthrew <a href="http://en.wikipedia.org/wiki/Libyan_Arab_Jamahiriya" title="Libyan Arab Jamahiriya" class="mw-redirect">his regime</a>.<sup id="cite_ref-vision_12-0" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-vision-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-vision2_13-0" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-vision2-13"><span>[</span>13<span>]</span></a></sup> Protests in Benghazi on 15 February 2011 led to clashes with security forces and ultimately escalated into an armed conflict.<sup id="cite_ref-AmnestyRape_14-0" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-AmnestyRape-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-15"><span>[</span>15<span>]</span></a></sup> The <a href="http://en.wikipedia.org/wiki/United_Nations_Security_Council" title="United Nations Security Council">United Nations Security Council</a> authorized the use of force in <a href="http://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1973" title="United Nations Security Council Resolution 1973">U.N. Security Council Resolution 1973</a>.<sup id="cite_ref-16" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-16"><span>[</span>16<span>]</span></a></sup> The subsequent <a href="http://en.wikipedia.org/wiki/2011_military_intervention_in_Libya" title="2011 military intervention in Libya">intervention</a> by <a href="http://en.wikipedia.org/wiki/NATO" title="NATO">NATO</a> and some Arab states ensured the fall of Gaddafi. Since then, Libya has experienced instability and political violence which has severely affected both commerce and oil production.</p>
+<p>The internationally recoginized government of Libya is that of the <a href="http://en.wikipedia.org/wiki/Council_of_Deputies" title="Council of Deputies">Council of Deputies</a> elected in the <a href="http://en.wikipedia.org/wiki/Libyan_House_of_Representatives_election,_2014" title="Libyan House of Representatives election, 2014" class="mw-redirect">June 2014 elections</a>. However, its control of the country is limited by the current <a href="http://en.wikipedia.org/wiki/Libyan_Civil_War_(2014)" title="Libyan Civil War (2014)" class="mw-redirect">civil war</a>. Rival Islamist groups have set up rival governments: the <a href="http://en.wikipedia.org/wiki/Libya_Dawn" title="Libya Dawn" class="mw-redirect">Libya Dawn</a> movement's <a href="http://en.wikipedia.org/wiki/New_General_National_Congress" title="New General National Congress">new General National Congress</a> in Tripoli,<sup id="cite_ref-17" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-17"><span>[</span>17<span>]</span></a></sup> Ansar Al Sharia in <a href="http://en.wikipedia.org/wiki/Benghazi" title="Benghazi">Benghazi</a>, and the <a href="http://en.wikipedia.org/wiki/Islamic_State" title="Islamic State" class="mw-redirect">Islamic State</a> in <a href="http://en.wikipedia.org/wiki/Derna" title="Derna" class="mw-disambig">Derna</a>.</p>
+<p>The <a href="http://en.wikipedia.org/wiki/New_General_National_Congress" title="New General National Congress">new General National Congress</a> purports to be the legal continuation of the <a href="http://en.wikipedia.org/wiki/General_National_Congress" title="General National Congress">General National Congress</a>, which was <a href="http://en.wikipedia.org/wiki/Libyan_General_National_Congress_election,_2012" title="Libyan General National Congress election, 2012">elected</a> in July 2012 and was dissolved following the June 2014 elections, but purportedly reconvened by an Islamist minority of its representatives after the election results were not in their favor.<sup id="cite_ref-rival_18-0" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-rival-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-19"><span>[</span>19<span>]</span></a></sup> The Supreme Court in <a href="http://en.wikipedia.org/wiki/Libya_Dawn" title="Libya Dawn" class="mw-redirect">Libya Dawn</a>-controlled Tripoli declared the recognized government unconstitutional in November 2014,<sup id="cite_ref-20" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-20"><span>[</span>20<span>]</span></a></sup> but the internationally recognized government has rejected the ruling as made under threat of violence and continues to be recognized by the international community.<sup id="cite_ref-21" class="reference"><a href="http://en.wikipedia.org/wiki/Libya#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

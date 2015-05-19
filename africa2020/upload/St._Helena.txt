@@ -1,0 +1,127 @@
+	<h1 id="firstHeading" class="firstHeading">Saint Helena</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub">  (Redirected from <a href="/w/index.php?title=St._Helena&amp;redirect=no" title="St. Helena">St. Helena</a>)</div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/St._Helena#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/St._Helena#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Saint_Helena_(disambiguation)" title="Saint Helena (disambiguation)">Saint Helena (disambiguation)</a>.</div>
+<table class="metadata plainlinks ambox ambox-style" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="http://en.wikipedia.org/wiki/File:Ambox_style.png" class="image"><img alt="Ambox style.png" src="http://upload.wikimedia.org/wikipedia/commons/d/d6/Ambox_style.png" width="40" height="40" /></a></div>
+</td>
+<td class="mbox-text" style="">This article <b>may be <a href="http://en.wikipedia.org/wiki/Wikipedia:Article_size" title="Wikipedia:Article size">too long</a> to comfortably read and navigate.</b> Please consider splitting content into sub-articles and using this article for a <a href="http://en.wikipedia.org/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summary</a> of the key points of the subject. <small><i>(June 2009)</i></small></td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Saint Helena</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Saint_Helena.svg" class="image" title="Flag of Saint Helena"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/125px-Flag_of_Saint_Helena.svg.png" width="125" height="63" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Saint_Helena.svg" class="image" title="Coat of arms of Saint Helena"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coat_of_arms_of_Saint_Helena.svg/85px-Coat_of_arms_of_Saint_Helena.svg.png" width="85" height="120" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Saint_Helena" title="Flag of Saint Helena">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Saint_Helena" title="Coat of arms of Saint Helena">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"Loyal and Unshakeable"</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b>"<a href="http://en.wikipedia.org/wiki/God_Save_the_Queen" title="God Save the Queen">God Save the Queen</a>"<br />
+"<a href="http://en.wikipedia.org/wiki/My_Saint_Helena_Island" title="My Saint Helena Island">My Saint Helena Island</a>" (unofficial)<br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationSaintHelena.png" class="image" title="Location of Saint Helena"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/d/dd/LocationSaintHelena.png" width="250" height="115" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b></td>
+<td><a href="http://en.wikipedia.org/wiki/Jamestown,_Saint_Helena" title="Jamestown, Saint Helena">Jamestown</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_group" title="Ethnic group">Ethnic groups</a></b>&#160;</td>
+<td>50% <a href="http://en.wikipedia.org/wiki/African_people" title="African people">African</a>, 25% <a href="http://en.wikipedia.org/wiki/Europe" title="Europe">European</a>, 25% <a href="http://en.wikipedia.org/wiki/Chinese_people" title="Chinese people">Chinese</a><sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/St._Helena#cite_note-0"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td>Part of <a href="http://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/British_monarchy" title="British monarchy" class="mw-redirect">Monarch</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Elizabeth_II_of_the_United_Kingdom" title="Elizabeth II of the United Kingdom">Elizabeth II</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Governor_of_Saint_Helena" title="Governor of Saint Helena">Governor</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Andrew_Gurr_(Governor)" title="Andrew Gurr (Governor)" class="mw-redirect">Andrew Gurr</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/UK_overseas_territory" title="UK overseas territory" class="mw-redirect">UK overseas territory</a></th>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Charter granted</td>
+<td>1659&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E8_m%C2%B2" title="1 E8 m²" class="mw-redirect">420&#160;km<sup>2</sup></a>&#160;<br />
+162&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">February 2008&#160;census</td>
+<td>4,255&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>10.13/km<sup>2</sup>&#160;<br />
+26.2/sq&#160;mi</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Saint_Helena_pound" title="Saint Helena pound">Saint Helena pound</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">SHP</a></code>)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td>GMT <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0)</span></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.sh" title=".sh">.sh</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>290</td>
+</tr>
+</table>
+<p><b>Saint Helena</b> (pronounced <span title="Pronunciation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/ˌseɪnt həˈliːnə/</a></span> <i>saint hə-<span style="font-variant:small-caps;">lee</span>-nə</i>), named after <a href="http://en.wikipedia.org/wiki/Helena_of_Constantinople" title="Helena of Constantinople" class="mw-redirect">St&#160;Helena of Constantinople</a>, is an island of <a href="http://en.wikipedia.org/wiki/Volcano" title="Volcano">volcanic</a> origin in the <a href="http://en.wikipedia.org/wiki/South_Atlantic_Ocean" title="South Atlantic Ocean" class="mw-redirect">South Atlantic Ocean</a>. It is part of the <a href="http://en.wikipedia.org/wiki/British_overseas_territory" title="British overseas territory" class="mw-redirect">British overseas territory</a> of <b><a href="http://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</a></b> <sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/St._Helena#cite_note-1"><span>[</span>2<span>]</span></a></sup> which also includes <a href="http://en.wikipedia.org/wiki/Ascension_Island" title="Ascension Island">Ascension Island</a> and the islands of <a href="http://en.wikipedia.org/wiki/Tristan_da_Cunha" title="Tristan da Cunha">Tristan da Cunha</a>.</p>
+<p>The island has a history of over 500 years since it was first discovered as an uninhabited island by the <a href="http://en.wikipedia.org/wiki/Portugal" title="Portugal">Portuguese</a> in 1502. Britain's second oldest remaining colony (after <a href="http://en.wikipedia.org/wiki/Bermuda" title="Bermuda">Bermuda</a>), Saint Helena is one of the most isolated islands in the world and was for several centuries of vital strategic importance to ships sailing to Europe from Asia and South Africa. For several centuries, the British used the island as a place of exile, most notably for <a href="http://en.wikipedia.org/wiki/Napoleon_I_of_France" title="Napoleon I of France">Napoleon Bonaparte</a>, <a href="http://en.wikipedia.org/wiki/Dinuzulu_kaCetshwayo" title="Dinuzulu kaCetshwayo">Dinuzulu kaCetshwayo</a> and over 5,000 <a href="http://en.wikipedia.org/wiki/Boer" title="Boer">Boer</a> prisoners.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

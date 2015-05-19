@@ -1,0 +1,21 @@
+	<h1 id="firstHeading" class="firstHeading">Zero-based budgeting</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Zero-based_budgeting#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Zero-based_budgeting#searchInput">search</a></div>			<!-- start content -->
+			<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="http://en.wikipedia.org/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></a></div>
+</td>
+<td class="mbox-text" style="">This article <b>needs additional <a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a>.</b><br />
+<small>Please help <a href="http://en.wikipedia.org/w/index.php?title=Zero-based_budgeting&amp;action=edit" class="external text" rel="nofollow">improve this article</a> by adding <a href="http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable references</a>. Unsourced material may be <a href="http://en.wikipedia.org/wiki/Template:Fact" title="Template:Fact" class="mw-redirect">challenged</a> and <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>. <small><i>(August 2008)</i></small></small></td>
+</tr>
+</table>
+<p><b>Zero-based budgeting</b> is a technique of planning and decision-making which reverses the working process of traditional <a href="http://en.wikipedia.org/wiki/Budgeting" title="Budgeting" class="mw-redirect">budgeting</a>. In traditional incremental <a href="http://en.wikipedia.org/wiki/Budget" title="Budget">budgeting</a>, departmental managers justify only increases over the previous year budget and what has been already spent is automatically sanctioned. No reference is made to the previous level of expenditure. By contrast, in zero-based budgeting, every department function is reviewed comprehensively and all expenditures must be approved, rather than only increases.<sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Zero-based_budgeting#cite_note-0"><span>[</span>1<span>]</span></a></sup> Zero-based budgeting requires the budget request be justified in complete detail by each division manager starting from the zero-base. The zero-base is indifferent to whether the total budget is increasing or decreasing.</p>
+<p>The term "zero-based budgeting" is sometimes used in personal finance to describe the practice of budgeting every dollar of income received, and then adjusting some part of the budget downward for every other part that needs to be adjusted upward. It is more technically correct to refer to this practice as "zero-sum budgeting".</p>
+<p>Zero based budgeting also refers to the identification of a task or tasks and then funding resources to complete the task independent of current resourcing.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

@@ -1,0 +1,93 @@
+	<h1 id="firstHeading" class="firstHeading">Umayyad conquest of North Africa</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Umayyad_conquest_of_North_Africa#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Umayyad_conquest_of_North_Africa#searchInput">search</a></div>			<!-- start content -->
+			<table class="infobox vevent" style="width: 315px; border-spacing: 2px; text-align: left; font-size: 90%;">
+<tr>
+<th class="summary" colspan="2" style="background-color: #B0C4DE; text-align: center; vertical-align: middle;">Umayyad conquest of North Africa</th>
+</tr>
+<tr>
+<td colspan="2" style="background-color: #B0C4DE; text-align: center; vertical-align: middle;">Part of the <a href="http://en.wikipedia.org/wiki/Muslim_conquests" title="Muslim conquests">Muslim conquests</a> and the <a href="http://en.wikipedia.org/wiki/Byzantine-Arab_Wars" title="Byzantine-Arab Wars" class="mw-redirect">Byzantine-Arab Wars</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<table class="infobox" style="width:100%; margin:0; padding:0; border:0">
+<tr>
+<th style="padding-right:1em">Date</th>
+<td><a href="http://en.wikipedia.org/wiki/647" title="647">647</a>-<a href="http://en.wikipedia.org/wiki/709" title="709">709</a></td>
+</tr>
+<tr>
+<th style="padding-right:1em">Location</th>
+<td><span class="location">Egypt, North Africa</span></td>
+</tr>
+<tr>
+<th style="padding-right:1em">Result</th>
+<td>Muslim victory</td>
+</tr>
+<tr>
+<th style="padding-right:1em">Territorial<br />
+changes</th>
+<td>North Africa annexed by Muslims</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="background-color: #B0C4DE; text-align: center; vertical-align: middle;">Belligerents</th>
+</tr>
+<tr>
+<td style="width:50%; border-right:1px dotted #aaa;"><a href="http://en.wikipedia.org/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine Empire</a></td>
+<td style="width:50%; padding-left:0.25em"><a href="http://en.wikipedia.org/wiki/Umayyad" title="Umayyad" class="mw-redirect">Umayyad Caliphate</a></td>
+</tr>
+</table>
+<table class="navbox" cellspacing="0" style="margin: 0; float: right; clear: right; width: 315px; margin-bottom: 0.5em; margin-left: 1em;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";background-color: #B0C4DE; font-size: 90%;" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">
+<div class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;;background-color: #B0C4DE; font-size: 90%;;border:none;; font-size:xx-small;"><a href="http://en.wikipedia.org/wiki/Template:Campaignbox_Byzantine-Arab_Wars" title="Template:Campaignbox Byzantine-Arab Wars"><span title="View this template" style=";background-color: #B0C4DE; font-size: 90%;;border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/wiki/Template_talk:Campaignbox_Byzantine-Arab_Wars" title="Template talk:Campaignbox Byzantine-Arab Wars"><span title="Discuss this template" style=";background-color: #B0C4DE; font-size: 90%;;border:none;">d</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="http://en.wikipedia.org/w/index.php?title=Template:Campaignbox_Byzantine-Arab_Wars&amp;action=edit" class="external text" rel="nofollow"><span title="Edit this template" style=";background-color: #B0C4DE; font-size: 90%;;border:none;;">e</span></a></div>
+</div>
+<div style="padding: 0.2em 0; line-height: 1.3em;"><span class="" style="font-size:110%;"><a href="http://en.wikipedia.org/wiki/Byzantine%E2%80%93Arab_Wars" title="Byzantine–Arab Wars">Byzantine–Arab Wars</a></span></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<div>
+<div style="padding-bottom:0.25em;">
+<p><b>Early conflicts</b><br />
+<a href="http://en.wikipedia.org/wiki/Battle_of_Mu%27tah" title="Battle of Mu'tah">Mutah</a>&#160;– <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Tabouk" title="Battle of Tabouk">Tabouk</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Dathin" title="Battle of Dathin">Dathin</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Firaz" title="Battle of Firaz">Firaz</a><br /></span></p>
+<p><span style="white-space:nowrap"><b><a href="http://en.wikipedia.org/wiki/Muslim_conquest_of_Syria" title="Muslim conquest of Syria">Rashidun conquest of Roman Syria</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Battle_of_Qarteen" title="Battle of Qarteen">Qarteen</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Bosra" title="Battle of Bosra">Bosra</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Ajnadayn" title="Battle of Ajnadayn">Ajnadayn</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Marj-al-Rahit" title="Battle of Marj-al-Rahit">Marj-al-Rahit</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Fahl" title="Battle of Fahl">Fahl</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Siege_of_Damascus_(634)" title="Siege of Damascus (634)">Damascus</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Maraj-al-Debaj" title="Battle of Maraj-al-Debaj">Maraj-al-Debaj</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Siege_of_Emesa" title="Siege of Emesa">Emesa</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Yarmouk" title="Battle of Yarmouk">Yarmouk</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Siege_of_Jerusalem_(637)" title="Siege of Jerusalem (637)">Jerusalem</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Hazir" title="Battle of Hazir">Hazir</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Aleppo" title="Battle of Aleppo" class="mw-redirect">Aleppo</a><br /></span></p>
+<p><span style="white-space:nowrap"><b><a href="http://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt" title="Muslim conquest of Egypt">Rashidun conquest of Roman Egypt</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Battle_of_Heliopolis" title="Battle of Heliopolis">Heliopolis</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Siege_of_Alexandria_(641)" title="Siege of Alexandria (641)">Alexandria</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Nikiou" title="Battle of Nikiou">Nikiou</a><br /></span></p>
+<p><span style="white-space:nowrap"><b><strong class="selflink">Umayyad conquest of North Africa</strong></b><br />
+<a href="http://en.wikipedia.org/wiki/Umayyad_conquest_of_North_Africa#First_invasion" title="Umayyad conquest of North Africa">Sufetula</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Carthage_(698)" title="Battle of Carthage (698)">Carthage</a><br /></span></p>
+<p><span style="white-space:nowrap"><b><a href="http://en.wikipedia.org/wiki/Muslim_conquest" title="Muslim conquest" class="mw-redirect">Umayyad invasions</a> of <a href="http://en.wikipedia.org/wiki/Anatolia" title="Anatolia">Anatolia</a> and <a href="http://en.wikipedia.org/wiki/Sieges_of_Constantinople" title="Sieges of Constantinople" class="mw-redirect">Constantinople</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Battle_of_Iron_bridge" title="Battle of Iron bridge">Iron Bridge</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Siege_of_Marash" title="Siege of Marash">Kahramanmaraş</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_the_Masts" title="Battle of the Masts">Phoenix</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Siege_of_Constantinople_(674%E2%80%93678)" title="Siege of Constantinople (674–678)">1st Constantinople</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718)" title="Siege of Constantinople (717–718)">2nd Constantinople</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Battle_of_Akroinon" title="Battle of Akroinon">Akroinon</a><br /></span></p>
+<p><span style="white-space:nowrap"><b><a href="http://en.wikipedia.org/wiki/History_of_Islam_in_southern_Italy" title="History of Islam in southern Italy">Arab campaigns in Southern Italy</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Emirate_of_Sicily" title="Emirate of Sicily">Sicily</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/History_of_Islam_in_southern_Italy#Muslims_on_the_mainland" title="History of Islam in southern Italy">Mainland</a><br /></span></p>
+<p><span style="white-space:nowrap"><b><a href="http://en.wikipedia.org/wiki/Byzantine-Arab_Wars_(780_-_1180)" title="Byzantine-Arab Wars (780 - 1180)" class="mw-redirect">Later Byzantine campaigns</a></b><br />
+<a href="http://en.wikipedia.org/wiki/John_Kourkouas" title="John Kourkouas">Campaigns of John Kourkouas</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Nikephoros_II_Phokas" title="Nikephoros II Phokas" class="mw-redirect">Campaigns of Nikephoros II</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/John_I_Tzimiskes" title="John I Tzimiskes">Campaigns of John I</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Basil_II#Campaigns_against_the_Arabs" title="Basil II">Campaigns of Basil II</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/George_Maniaces" title="George Maniaces" class="mw-redirect">George Maniakes in Sicily</a>&#160;–</span> <span style="white-space:nowrap"><a href="http://en.wikipedia.org/wiki/Crusader_invasions_of_Egypt#Fourth_Crusader_invasion.2C_1168_-_1169" title="Crusader invasions of Egypt">Damietta</a></span></p>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The <b>Umayyad conquest of North Africa</b> continued the century of rapid <a href="http://en.wikipedia.org/wiki/Arab" title="Arab" class="mw-redirect">Arab</a> <a href="http://en.wikipedia.org/wiki/Muslim" title="Muslim">Muslim</a> expansion following the death of <a href="http://en.wikipedia.org/wiki/Muhammad" title="Muhammad">Muhammad</a> in 632 CE. By 640 the Arabs controlled <a href="http://en.wikipedia.org/wiki/Mesopotamia" title="Mesopotamia">Mesopotamia</a>, had invaded <a href="http://en.wikipedia.org/wiki/Armenia" title="Armenia">Armenia</a>, and were concluding their conquest of <a href="http://en.wikipedia.org/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine</a> <a href="http://en.wikipedia.org/wiki/Syria" title="Syria">Syria</a>. <a href="http://en.wikipedia.org/wiki/Damascus" title="Damascus">Damascus</a> was the seat of the <a href="http://en.wikipedia.org/wiki/Umayyad" title="Umayyad" class="mw-redirect">Umayyad</a> <a href="http://en.wikipedia.org/wiki/Caliphate" title="Caliphate">caliphate</a>. And by the end of 641 all of <a href="http://en.wikipedia.org/wiki/Egypt" title="Egypt">Egypt</a> was in Arab hands. Then, with the destruction of the <a href="http://en.wikipedia.org/wiki/Persia" title="Persia" class="mw-redirect">Persian</a> army at the <a href="http://en.wikipedia.org/wiki/Battle_of_Nihaw%C4%81nd" title="Battle of Nihawānd" class="mw-redirect">Battle of Nihawānd</a> (Nehawand) in 642, the conquest of the <a href="http://en.wikipedia.org/wiki/Persian_Empire" title="Persian Empire" class="mw-redirect">Persian Empire</a> was essentially finished.</p>
+<p>It was at this point that Arab military expeditions into <a href="http://en.wikipedia.org/wiki/North_Africa" title="North Africa">North Africa</a> were first launched by local initiative from Egypt, continuing for years and resulting in the <a href="http://en.wikipedia.org/wiki/Spread_of_Islam" title="Spread of Islam">spread of Islam</a>.</p>
+<p>In <a href="http://en.wikipedia.org/wiki/644" title="644">644</a> at Damascus, Caliph <a href="http://en.wikipedia.org/wiki/Umar" title="Umar">Umar</a> (Omar) was succeeded by <a href="http://en.wikipedia.org/wiki/Uthman_ibn_Affan" title="Uthman ibn Affan">Uthman ibn Affan</a> (Othman), during whose twelve-year rule Armenia, <a href="http://en.wikipedia.org/wiki/Cyprus" title="Cyprus">Cyprus</a>, and all of <a href="http://en.wikipedia.org/wiki/Iran" title="Iran">Iran</a>, would be added to the growing Islamic empire; <a href="http://en.wikipedia.org/wiki/Afghanistan" title="Afghanistan">Afghanistan</a> and North Africa would receive major invasions; and Muslim sea raids would range from <a href="http://en.wikipedia.org/wiki/Rhodes" title="Rhodes">Rhodes</a> to the southern coasts of the <a href="http://en.wikipedia.org/wiki/Iberian_Peninsula" title="Iberian Peninsula">Iberian Peninsula</a>. The Byzantine navy would be defeated in the eastern <a href="http://en.wikipedia.org/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

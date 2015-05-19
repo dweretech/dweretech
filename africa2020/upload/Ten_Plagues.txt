@@ -1,0 +1,17 @@
+	<h1 id="firstHeading" class="firstHeading">Plagues of Egypt</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Ten_Plagues&amp;redirect=no" title="Ten Plagues">Ten Plagues</a>)</div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Ten_Plagues#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Ten_Plagues#searchInput">search</a></div>			<!-- start content -->
+			<p>The <b>Plagues of Egypt</b> (<a href="http://en.wikipedia.org/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span style="white-space:nowrap;">מכות מצרים,</span> <i><span class="Unicode">Makot Mitzrayim</span></i>), the <b>Biblical Plagues</b> or the <b>Ten Plagues</b> (<a href="http://en.wikipedia.org/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span style="white-space:nowrap;">עשר המכות,</span> <i><span class="Unicode">Eser Ha-Makot</span></i>) are the ten calamities imposed upon <a href="http://en.wikipedia.org/wiki/Ancient_Egypt" title="Ancient Egypt">Egypt</a> by <a href="http://en.wikipedia.org/wiki/Names_of_God_in_Judaism" title="Names of God in Judaism">God</a> in the <a href="http://en.wikipedia.org/wiki/Bible" title="Bible">Bible</a> (as recounted in the <a href="http://en.wikipedia.org/wiki/Book_of_Exodus" title="Book of Exodus">Book of Exodus</a>, Chapters 7–12), to convince <a href="http://en.wikipedia.org/wiki/Pharaoh_of_the_Exodus" title="Pharaoh of the Exodus">Pharaoh</a><sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ten_Plagues#cite_note-0"><span>[</span>1<span>]</span></a></sup> to let the poorly treated <a href="http://en.wikipedia.org/wiki/Israelite" title="Israelite" class="mw-redirect">Israelite</a> slaves go. The Plagues of Egypt are recognized by <a href="http://en.wikipedia.org/wiki/Jews" title="Jews" class="mw-redirect">Jews</a>, <a href="http://en.wikipedia.org/wiki/Christians" title="Christians" class="mw-redirect">Christians</a>, and <a href="http://en.wikipedia.org/wiki/Muslims" title="Muslims" class="mw-redirect">Muslims</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:292px;"><a href="http://en.wikipedia.org/wiki/File:Martin,_John_-_The_Seventh_Plague_-_1823.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Martin%2C_John_-_The_Seventh_Plague_-_1823.jpg/290px-Martin%2C_John_-_The_Seventh_Plague_-_1823.jpg" width="290" height="198" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Martin,_John_-_The_Seventh_Plague_-_1823.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="http://en.wikipedia.org/wiki/John_Martin_(painter)" title="John Martin (painter)">John Martin</a>'s painting of the plague of hail and fire (1823).</div>
+</div>
+</div>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

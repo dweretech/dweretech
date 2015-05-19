@@ -1,0 +1,247 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Egypt</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Egypt#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Egypt#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the modern country.  For the ancient realm, see <a href="http://en.wikipedia.org/wiki/Ancient_Egypt" title="Ancient Egypt">Ancient Egypt</a>.</div>
+<div class="hatnote">For other uses, see <a href="http://en.wikipedia.org/wiki/Egypt_(disambiguation)" title="Egypt (disambiguation)" class="mw-disambig">Egypt (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Arab Republic of Egypt</span><br />
+<div style="padding-top:0.25em;"><span lang="ar"><span style="font-size: 120%;">جمهورية مصر العربية</span></span><br />
+<span style="font-size:85%"><small style="font-size:85%;">Jumhūriyyat Miṣr al-ʿArabiyyah (<a href="http://en.wikipedia.org/wiki/Arabic" title="Arabic" class="mw-redirect">Arabic</a>)</small></span><br />
+<span style="font-size:85%"><small style="font-size:85%;">Gomhoreyyet Maṣr el-ʿArabeyya (<a href="http://en.wikipedia.org/wiki/Egyptian_Arabic" title="Egyptian Arabic">Egyptian Arabic</a>)</small></span></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Egypt.svg" class="image" title="Flag of Egypt"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/125px-Flag_of_Egypt.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/188px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/250px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Egypt_(Official).svg" class="image" title="Coat of arms of Egypt"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg/85px-Coat_of_arms_of_Egypt_%28Official%29.svg.png" width="85" height="116" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg/128px-Coat_of_arms_of_Egypt_%28Official%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg/170px-Coat_of_arms_of_Egypt_%28Official%29.svg.png 2x" data-file-width="443" data-file-height="602" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Egypt" title="Flag of Egypt">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Egypt" title="Coat of arms of Egypt">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Bilady,_Bilady,_Bilady" title="Bilady, Bilady, Bilady">Bilady, Bilady, Bilady</a></i><br />
+<small style="font-size:85%;"><i>My country, my country, my country</i></small><br />
+<center>
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px" poster="//en.wikipedia.org/static/1.26wmf5/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="85.797732426304" data-startoffset="0" data-mwtitle="Bilady,_Bilady,_Bilady.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (129 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="128838"></source><track kind="subtitles" data-mwtitle="TimedText:Bilady,_Bilady,_Bilady.ogg.ar.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:Bilady,+Bilady,+Bilady.ogg.ar.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="ar" data-dir="rtl" label="العربية (ar) subtitles"></track><track kind="subtitles" data-mwtitle="TimedText:Bilady,_Bilady,_Bilady.ogg.arz.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:Bilady,+Bilady,+Bilady.ogg.arz.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="arz" data-dir="rtl" label="مصرى (arz) subtitles"></track><track kind="subtitles" data-mwtitle="TimedText:Bilady,_Bilady,_Bilady.ogg.en.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:Bilady,+Bilady,+Bilady.ogg.en.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="en" data-dir="ltr" label="English (en) subtitles"></track>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Egypt_(orthographic_projection)_highlighted.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Egypt_%28orthographic_projection%29_highlighted.svg/250px-Egypt_%28orthographic_projection%29_highlighted.svg.png" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Egypt_%28orthographic_projection%29_highlighted.svg/375px-Egypt_%28orthographic_projection%29_highlighted.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Egypt_%28orthographic_projection%29_highlighted.svg/500px-Egypt_%28orthographic_projection%29_highlighted.svg.png 2x" data-file-width="550" data-file-height="550" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b><br />
+and largest city</td>
+<td><a href="http://en.wikipedia.org/wiki/Cairo" title="Cairo">Cairo</a><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Egypt&amp;params=30_2_N_31_13_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">30°2′N</span> <span class="longitude">31°13′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">30.033°N 31.217°E</span><span style="display:none">﻿ / <span class="geo">30.033; 31.217</span></span></span></a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td><a href="http://en.wikipedia.org/wiki/Arabic" title="Arabic" class="mw-redirect">Arabic</a><sup class="reference" id="ref_offlang"><a href="http://en.wikipedia.org/wiki/Egypt#endnote_offlang">[a]</a></sup></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/National_language" title="National language">National language</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Egyptian_Arabic" title="Egyptian Arabic">Egyptian Arabic</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Egyptian_people" title="Egyptian people" class="mw-redirect">Egyptian</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Egypt" title="Politics of Egypt">Government</a></th>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="http://en.wikipedia.org/wiki/Semi-presidential_system" title="Semi-presidential system">semi-presidential</a><br />
+<a href="http://en.wikipedia.org/wiki/Republic" title="Republic">republic</a></span></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_Egypt" title="President of Egypt">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Abdel_Fattah_el-Sisi" title="Abdel Fattah el-Sisi">Abdel Fattah el-Sisi</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Egypt" title="Prime Minister of Egypt">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Ibrahim_Mahlab" title="Ibrahim Mahlab">Ibrahim Mahlab</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td>Legislation by <a href="http://en.wikipedia.org/wiki/Rule_by_decree" title="Rule by decree">presidential decree</a> <small style="font-size:85%;">(Temporarily until the <a href="http://en.wikipedia.org/wiki/House_of_Representatives_(Egypt)" title="House of Representatives (Egypt)">House of Representatives</a> is elected)</small></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3">Establishment</th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><span class="nowrap">Unification of <a href="http://en.wikipedia.org/wiki/Upper_and_Lower_Egypt" title="Upper and Lower Egypt">Upper<br />
+and Lower Egypt</a><sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-USDept_of_State.2FEgypt_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-USDept_of_State.2FEgypt-2"><span>[</span>2<span>]</span></a></sup></span><sup class="reference" id="ref_offlang"><a href="http://en.wikipedia.org/wiki/Egypt#endnote_offlang">[c]</a></sup></td>
+<td><a href="http://en.wikipedia.org/wiki/Circa" title="Circa">c.</a> 3150 BC&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Muhammad_Ali_Dynasty" title="Muhammad Ali Dynasty" class="mw-redirect">Muhammad Ali Dynasty</a> inaugurated</td>
+<td>9 July 1805<sup id="cite_ref-Crabit.C3.A8s_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-Crabit.C3.A8s-3"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Unilateral_Declaration_of_Egyptian_Independence" title="Unilateral Declaration of Egyptian Independence">Independence</a> from<br />
+the <a href="http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">United Kingdom</a></span></td>
+<td>28 February 1922&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Egyptian_Revolution_of_1952" title="Egyptian Revolution of 1952">Republic declared</a></td>
+<td>18 June 1953&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Egyptian_Revolution_of_1952" title="Egyptian Revolution of 1952">Revolution Day</a></td>
+<td>23 July 1952&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Egyptian_Constitution_of_2014" title="Egyptian Constitution of 2014">Current Constitution</a></td>
+<td>18 January 2014&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Egypt" title="Geography of Egypt">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>1,010,407.87 <sup id="cite_ref-4" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-4"><span>[</span>4<span>]</span></a></sup>&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">30th</a>)<br />
+387,048&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>0.632</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Egypt" title="Demographics of Egypt">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2015&#160;estimate</td>
+<td>88,500,000<sup id="cite_ref-popclock_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-popclock-5"><span>[</span>5<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">15th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Census_in_Egypt#2006" title="Census in Egypt" class="mw-redirect">2006</a>&#160;census</td>
+<td>72,798,000<sup id="cite_ref-pop1882-2006_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-pop1882-2006-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>84/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">126th</a>)<br />
+218/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2015&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td><span class="nowrap">$989.886 billion<sup id="cite_ref-imf2_7-0" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-imf2-7"><span>[</span>7<span>]</span></a></sup></span> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">24th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$11,194<sup id="cite_ref-imf2_7-1" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-imf2-7"><span>[</span>7<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">100th</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2015&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td><span class="nowrap">$324.267 billion<sup id="cite_ref-imf3_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-imf3-8"><span>[</span>8<span>]</span></a></sup></span> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">34th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$3,724<sup id="cite_ref-imf3_8-1" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-imf3-8"><span>[</span>8<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">115th</a>)</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2008)</td>
+<td>30.8<sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-9"><span>[</span>9<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Decrease"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.682<sup id="cite_ref-HDI_10-0" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-HDI-10"><span>[</span>10<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">110th</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Egyptian_pound" title="Egyptian pound">Egyptian pound</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">EGP</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/Eastern_European_Time" title="Eastern European Time">EET</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><a href="http://en.wikipedia.org/wiki/Eastern_European_Summer_Time" title="Eastern European Summer Time" class="mw-redirect">EEST</a>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3<sup class="reference" id="ref_dst"><a href="http://en.wikipedia.org/wiki/Egypt#endnote_dst">[b]</a></sup>)</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Egypt" title="Telephone numbers in Egypt">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B20" title="+20" class="mw-redirect">+20</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:EG" title="ISO 3166-2:EG">EG</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/.eg" title=".eg">.eg</a></li>
+<li><span lang="ar"><a href="http://en.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1." title="مصر." class="mw-redirect">مصر.</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="font-size:85%;">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>a.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><span class="citation wikicite" id="endnote_offlang"><b><a href="http://en.wikipedia.org/wiki/Egypt#ref_offlang">^</a></b></span> <a href="http://en.wikipedia.org/wiki/Modern_Standard_Arabic" title="Modern Standard Arabic">Literary Arabic</a> is the sole official language.<span style="font-size: 120%;"><sup id="cite_ref-Provisional_Constitution_11-0" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-Provisional_Constitution-11"><span>[</span>11<span>]</span></a></sup></span> <a href="http://en.wikipedia.org/wiki/Egyptian_Arabic" title="Egyptian Arabic">Egyptian Arabic</a> is the national <a href="http://en.wikipedia.org/wiki/Spoken_language" title="Spoken language">spoken language</a>. Other <a href="http://en.wikipedia.org/wiki/Languages_of_Egypt" title="Languages of Egypt">dialects and minority languages</a> are spoken regionally.</td>
+</tr>
+<tr style="font-size:85%;" class="mergedrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>b.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><span class="citation wikicite" id="endnote_dst"><b><a href="http://en.wikipedia.org/wiki/Egypt#ref_dst">^</a></b></span> <a href="http://en.wikipedia.org/wiki/Summer_time" title="Summer time" class="mw-redirect">Summer time</a> was reintroduced <a href="http://en.wikipedia.org/wiki/Daylight_saving_time_in_Egypt" title="Daylight saving time in Egypt">in 2014</a>.</td>
+</tr>
+<tr style="font-size:85%;" class="mergedbottomrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>c.</sup></span></td>
+<td colspan="2" style="padding-left:0;">"Among the peoples of the ancient Near East, only the Egyptians have stayed where they were and remained what they were, although they have changed their language once and their religion twice. In a sense, they constitute the world's oldest nation".<sup id="cite_ref-12" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-13"><span>[</span>13<span>]</span></a></sup> Arthur Goldschmidt Jr.</td>
+</tr>
+</table>
+<p><b>Egypt</b> (<span class="nowrap"><span class="noexcerpt"><a href="//upload.wikimedia.org/wikipedia/commons/b/b3/En-us-Egypt.ogg" title="Listen"><img alt="Listen" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/11px-Speakerlink-new.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/17px-Speakerlink-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/22px-Speakerlink-new.svg.png 2x" data-file-width="11" data-file-height="11" /></a><sup><span style="color: #00e; font: bold 80% sans-serif; padding: 0 .1em;" class="IPA"><a href="http://en.wikipedia.org/wiki/File:En-us-Egypt.ogg" title="File:En-us-Egypt.ogg">i</a></span></sup></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/iː/ long 'e' in 'bead'" style="border-bottom:1px dotted">iː</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/dʒ/ 'j' in 'jam'" style="border-bottom:1px dotted">dʒ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɪ/ short 'i' in 'bid'" style="border-bottom:1px dotted">ɪ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'p' in 'pie'" style="border-bottom:1px dotted">p</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'t' in 'tie'" style="border-bottom:1px dotted">t</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>; <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl">مِصر</span>‎ <i><span title="DIN 31635 Arabic" class="Unicode" style="white-space:normal; text-decoration: none">Miṣr</span></i>, <a href="http://en.wikipedia.org/wiki/Egyptian_Arabic_language" title="Egyptian Arabic language" class="mw-redirect">Egyptian Arabic</a>: <span lang="arz">مَصر</span> <span title="DIN transliteration" class="Unicode" style="white-space:normal; text-decoration: none"><i>Maṣr</i></span>) is a <a href="http://en.wikipedia.org/wiki/Transcontinental_country" title="Transcontinental country" class="mw-redirect">transcontinental country</a> spanning the <a href="http://en.wikipedia.org/wiki/North_Africa" title="North Africa">northeast corner of Africa</a> and <a href="http://en.wikipedia.org/wiki/Western_Asia" title="Western Asia">southwest corner of Asia</a>, via a <a href="http://en.wikipedia.org/wiki/Land_bridge" title="Land bridge">land bridge</a> formed by the <a href="http://en.wikipedia.org/wiki/Sinai_Peninsula" title="Sinai Peninsula">Sinai Peninsula</a>. It is the world's only contiguous <a href="http://en.wikipedia.org/wiki/Eurafrasian" title="Eurafrasian" class="mw-redirect">Eurafrasian</a> nation and most of Egypt's territory of 1,010,408 square kilometres (390,000&#160;sq&#160;mi) lies within the <a href="http://en.wikipedia.org/wiki/Nile_Valley" title="Nile Valley" class="mw-redirect">Nile Valley</a>. It is a <a href="http://en.wikipedia.org/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean country</a> and is bordered by the <a href="http://en.wikipedia.org/wiki/Gaza_Strip" title="Gaza Strip">Gaza Strip</a> and <a href="http://en.wikipedia.org/wiki/Israel" title="Israel">Israel</a> to the northeast, the <a href="http://en.wikipedia.org/wiki/Gulf_of_Aqaba" title="Gulf of Aqaba">Gulf of Aqaba</a> to the east, the <a href="http://en.wikipedia.org/wiki/Red_Sea" title="Red Sea">Red Sea</a> to the east and south, <a href="http://en.wikipedia.org/wiki/Sudan" title="Sudan">Sudan</a> to the south and <a href="http://en.wikipedia.org/wiki/Libya" title="Libya">Libya</a> to the west.</p>
+<p>With over 88 million inhabitants, Egypt is the most populous country in <a href="http://en.wikipedia.org/wiki/North_Africa" title="North Africa">North Africa</a> and the <a href="http://en.wikipedia.org/wiki/Arab_World" title="Arab World" class="mw-redirect">Arab World</a>, the third-most populous in Africa, and the fifteenth-most populous in the world. The great majority of its people live near the banks of the <a href="http://en.wikipedia.org/wiki/Nile" title="Nile">Nile</a> River, an area of about 40,000 square kilometres (15,000&#160;sq&#160;mi), where the only <a href="http://en.wikipedia.org/wiki/Arable_land" title="Arable land">arable land</a> is found. The large regions of the <a href="http://en.wikipedia.org/wiki/Sahara" title="Sahara">Sahara</a> <a href="http://en.wikipedia.org/wiki/Desert" title="Desert">desert</a>, which constitute most of Egypt's territory, are sparsely inhabited. About half of Egypt's residents live in urban areas, with most spread across the densely populated centres of greater <a href="http://en.wikipedia.org/wiki/Cairo" title="Cairo">Cairo</a>, <a href="http://en.wikipedia.org/wiki/Alexandria" title="Alexandria">Alexandria</a> and other major cities in the <a href="http://en.wikipedia.org/wiki/Nile_Delta" title="Nile Delta">Nile Delta</a>.</p>
+<p>Egypt has <a href="http://en.wikipedia.org/wiki/History_of_Egypt" title="History of Egypt">one of the longest histories</a> of any modern country, arising in the tenth millennium BCE as one of the world's first <a href="http://en.wikipedia.org/wiki/Nation_states" title="Nation states" class="mw-redirect">nation states</a>.<sup id="cite_ref-14" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-14"><span>[</span>14<span>]</span></a></sup> Considered a <a href="http://en.wikipedia.org/wiki/Cradle_of_civilization" title="Cradle of civilization">cradle of civilization</a>, <a href="http://en.wikipedia.org/wiki/Ancient_Egypt" title="Ancient Egypt">Ancient Egypt</a> experienced some of the earliest developments of writing, agriculture, urbanisation, organised religion and central government in history. Iconic monuments such as the <a href="http://en.wikipedia.org/wiki/Giza_Necropolis" title="Giza Necropolis">Giza Necropolis</a> and its <a href="http://en.wikipedia.org/wiki/Great_Sphinx_of_Giza" title="Great Sphinx of Giza">Great Sphinx</a>, as well the ruins of <a href="http://en.wikipedia.org/wiki/Memphis,_Egypt" title="Memphis, Egypt">Memphis</a>, <a href="http://en.wikipedia.org/wiki/Thebes,_Egypt" title="Thebes, Egypt">Thebes</a>, <a href="http://en.wikipedia.org/wiki/Karnak" title="Karnak">Karnak</a>, and the <a href="http://en.wikipedia.org/wiki/Valley_of_the_Kings" title="Valley of the Kings">Valley of the Kings</a>, reflect this legacy and remain a significant focus of archaeological study and popular interest worldwide. Egypt's rich cultural heritage is an integral part of its national identity, having endured and at times assimilated various foreign influences, including Greek, Persian, Roman, Arab, Ottoman, and European.</p>
+<p>Modern Egypt is considered to be a <a href="http://en.wikipedia.org/wiki/Regional_power" title="Regional power">regional</a> and <a href="http://en.wikipedia.org/wiki/Middle_power" title="Middle power">middle power</a>, with significant cultural, political, and military influence in <a href="http://en.wikipedia.org/wiki/North_Africa" title="North Africa">North Africa</a>, the <a href="http://en.wikipedia.org/wiki/Middle_East" title="Middle East">Middle East</a> and the <a href="http://en.wikipedia.org/wiki/Muslim_world" title="Muslim world">Muslim world</a>.<sup id="cite_ref-15" class="reference"><a href="http://en.wikipedia.org/wiki/Egypt#cite_note-15"><span>[</span>15<span>]</span></a></sup> Its economy is <a href="http://en.wikipedia.org/wiki/Economy_of_Egypt" title="Economy of Egypt">one of the largest and most diversified</a> in the Middle East, with sectors such as tourism, agriculture, industry and services at almost equal production levels. In <a href="http://en.wikipedia.org/wiki/Egyptian_Revolution_of_2011" title="Egyptian Revolution of 2011">2011</a>, longtime President <a href="http://en.wikipedia.org/wiki/Hosni_Mubarak" title="Hosni Mubarak">Hosni Mubarak</a> stepped down amid mass protests. Later elections saw the rise of the <a href="http://en.wikipedia.org/wiki/Muslim_Brotherhood" title="Muslim Brotherhood">Muslim Brotherhood</a>, which was ousted by the <a href="http://en.wikipedia.org/wiki/Egyptian_Armed_Forces" title="Egyptian Armed Forces">army</a> a year later amid mass protests.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

@@ -1,0 +1,165 @@
+	<h1 id="firstHeading" class="firstHeading">Somalia</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Somalia#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Somalia#searchInput">search</a></div>			<!-- start content -->
+			<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Somalia
+<div style="padding-top:0.25em;"><span lang="so" xml:lang="so"><i>Jamhuuriyadda Soomaaliya</i></span><br />
+<span lang="ar" dir="rtl" xml:lang="ar">جمهورية الصومال</span>‎<br />
+<span lang="ar" dir="rtl" xml:lang="ar"><i>Jumhūriyyat as-Sūmāl</i></span>‎</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Somalia.svg" class="image" title="Flag of Somalia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/125px-Flag_of_Somalia.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Somalia.png" class="image" title="Coat of arms of Somalia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Coat_of_arms_of_Somalia.png/85px-Coat_of_arms_of_Somalia.png" width="85" height="65" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Somalia" title="Flag of Somalia">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Somalia" title="Coat of arms of Somalia">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><span lang="so" xml:lang="so"><i><a href="http://en.wikipedia.org/wiki/Somalia,_Wake_Up" title="Somalia, Wake Up">Soomaaliyeey Toosoow</a></i></span><br />
+Somalia, Wake Up<br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationSomalia.svg" class="image" title="Location of Somalia"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/LocationSomalia.svg/250px-LocationSomalia.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Somalia" title="Demographics of Somalia">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Mogadishu" title="Mogadishu">Mogadishu</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Somalia&amp;params=2_02_N_45_21_E_type:country(637,661)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">2°02′N</span> <span class="longitude">45°21′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">2.033°N 45.35°E</span><span style="display:none">﻿ / <span class="geo">2.033; 45.35</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Somali_language" title="Somali language">Somali</a>, <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a><sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-0"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2009factbook_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-2009factbook-1"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Somali_people" title="Somali people">Somali</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Coalition_Government" title="Coalition Government" class="mw-redirect">Coalition Government</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/President_of_Somalia" title="President of Somalia" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Sharif_Ahmed" title="Sharif Ahmed">Sharif Ahmed</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Prime_Minister_of_Somalia" title="Prime Minister of Somalia">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Omar_Abdirashid_Ali_Sharmarke" title="Omar Abdirashid Ali Sharmarke">Omar Abdirashid Ali Sharmarke</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+<td>from <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> and <a href="http://en.wikipedia.org/wiki/Italy" title="Italy">Italy</a>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Date</td>
+<td>26 June and 1 July 1960&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">637,661&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">41st</a>)<br />
+246,201&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>1.6</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>9,133,000<sup id="cite_ref-unpop_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-unpop-2"><span>[</span>3<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">85th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>14.3/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">198th</a>)<br />
+37.1/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2007&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$7.599 billion&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)"><small>153rd</small></a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$795<sup id="cite_ref-3" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-3"><span>[</span>4<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita"><small>222nd</small></a>)</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2009)</td>
+<td>N/A&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">Not Ranked</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Somali_shilling" title="Somali shilling">Somali shilling</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">SOS</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/East_Africa_Time" title="East Africa Time">EAT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.so" title=".so">.so</a> (currently not operating)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>252</td>
+</tr>
+<tr class="mergedrow" style="font-size:80%;">
+<td align="right"><span style="position:relative; top:0.3em;"><sup>2</sup></span></td>
+<td colspan="2" style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/BBC_News" title="BBC News">BBC News</a><sup id="cite_ref-BBC_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-BBC-4"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow" style="font-size:80%;">
+<td align="right"><span style="position:relative; top:0.3em;"><sup>3</sup></span></td>
+<td colspan="2" style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Transitional_Federal_Charter_of_the_Somali_Republic" title="Transitional Federal Charter of the Somali Republic">Transitional Federal Charter of the Somali Republic</a></td>
+</tr>
+</table>
+<p><b>Somalia</b> (<a href="http://en.wikipedia.org/wiki/Somali_language" title="Somali language">Somali</a>: <span lang="so" xml:lang="so"><i>Soomaaliya</i></span>; <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" xml:lang="ar">الصومال</span>‎ <span lang="ar-Latn" title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none" xml:lang="ar-Latn"><i>aṣ-Ṣūmāl</i></span>), officially the <b>Republic of Somalia</b> (<a href="http://en.wikipedia.org/wiki/Somali_language" title="Somali language">Somali</a>: <span lang="so" xml:lang="so"><i>Jamhuuriyadda Soomaaliya</i></span>, <a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" xml:lang="ar">جمهورية الصومال</span>‎ <span lang="ar-Latn" title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none" xml:lang="ar-Latn"><i>Jumhūriyyat aṣ-Ṣūmāl</i></span>) and formerly known as the <b>Somali Democratic Republic</b>, is a country located in the <a href="http://en.wikipedia.org/wiki/Horn_of_Africa" title="Horn of Africa">Horn of Africa</a>. It is bordered by <a href="http://en.wikipedia.org/wiki/Djibouti" title="Djibouti">Djibouti</a> to the northwest, <a href="http://en.wikipedia.org/wiki/Kenya" title="Kenya">Kenya</a> to the southwest, the <a href="http://en.wikipedia.org/wiki/Gulf_of_Aden" title="Gulf of Aden">Gulf of Aden</a> with <a href="http://en.wikipedia.org/wiki/Yemen" title="Yemen">Yemen</a> to the north, the <a href="http://en.wikipedia.org/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> to the east, and <a href="http://en.wikipedia.org/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> to the west.</p>
+<p>In antiquity, Somalia was an important center for <a href="http://en.wikipedia.org/wiki/Commerce" title="Commerce">commerce</a> with the rest of the <a href="http://en.wikipedia.org/wiki/Ancient" title="Ancient" class="mw-redirect">ancient world</a>. Its <a href="http://en.wikipedia.org/wiki/Sailors" title="Sailors" class="mw-redirect">sailors</a> and <a href="http://en.wikipedia.org/wiki/Merchants" title="Merchants" class="mw-redirect">merchants</a> were the main suppliers of <a href="http://en.wikipedia.org/wiki/Frankincense" title="Frankincense">frankincense</a>, <a href="http://en.wikipedia.org/wiki/Myrrh" title="Myrrh">myrrh</a> and <a href="http://en.wikipedia.org/wiki/Spices" title="Spices" class="mw-redirect">spices</a>, items which were considered valuable luxuries by the <a href="http://en.wikipedia.org/wiki/Ancient_Egyptians" title="Ancient Egyptians" class="mw-redirect">Ancient Egyptians</a>, <a href="http://en.wikipedia.org/wiki/Phoenicia" title="Phoenicia">Phoenicians</a>, <a href="http://en.wikipedia.org/wiki/Mycenaean_Greece" title="Mycenaean Greece">Mycenaeans</a> and <a href="http://en.wikipedia.org/wiki/Babylon" title="Babylon">Babylonians</a> with whom the <a href="http://en.wikipedia.org/wiki/Somali_people" title="Somali people">Somali people</a> traded.<sup id="cite_ref-5" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-6"><span>[</span>7<span>]</span></a></sup> According to most scholars, Somalia is also where the ancient <a href="http://en.wikipedia.org/wiki/Land_of_Punt" title="Land of Punt">Kingdom of Punt</a> was situated.<sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-7"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-8"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-9"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-10"><span>[</span>11<span>]</span></a></sup> The ancient Puntites were a nation of people that had close relations with <a href="http://en.wikipedia.org/wiki/Pharaoh" title="Pharaoh">Pharaonic Egypt</a> during the times of <a href="http://en.wikipedia.org/wiki/Pharaoh" title="Pharaoh">Pharaoh</a> <a href="http://en.wikipedia.org/wiki/Sahure" title="Sahure">Sahure</a> and <a href="http://en.wikipedia.org/wiki/Queen_regnant" title="Queen regnant">Queen</a> <a href="http://en.wikipedia.org/wiki/Hatshepsut" title="Hatshepsut">Hatshepsut</a>. The <a href="http://en.wikipedia.org/wiki/Architecture_of_Somalia" title="Architecture of Somalia">pyramidal structures</a>, <a href="http://en.wikipedia.org/wiki/Temples" title="Temples" class="mw-redirect">temples</a> and ancient houses of <a href="http://en.wikipedia.org/wiki/Masonry" title="Masonry">dressed stone</a> littered around Somalia are said to date from this period.<sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-11"><span>[</span>12<span>]</span></a></sup> In the classical era, several ancient city-states such as <a href="http://en.wikipedia.org/wiki/Opone" title="Opone" class="mw-redirect">Opone</a>, <a href="http://en.wikipedia.org/wiki/Cape_Guardafui" title="Cape Guardafui">Mosyllon</a> and <a href="http://en.wikipedia.org/wiki/Malao" title="Malao" class="mw-redirect">Malao</a> that competed with the <a href="http://en.wikipedia.org/wiki/Sabaeans" title="Sabaeans">Sabaeans</a>, <a href="http://en.wikipedia.org/wiki/Parthians" title="Parthians" class="mw-redirect">Parthians</a> and <a href="http://en.wikipedia.org/wiki/Axumite_Empire" title="Axumite Empire" class="mw-redirect">Axumites</a> for the wealthy <a href="http://en.wikipedia.org/wiki/Indo" title="Indo">Indo</a>-<a href="http://en.wikipedia.org/wiki/Greco" title="Greco">Greco</a>-<a href="http://en.wikipedia.org/wiki/Ancient_Rome" title="Ancient Rome">Roman</a> trade also flourished in Somalia.<sup id="cite_ref-12" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-12"><span>[</span>13<span>]</span></a></sup></p>
+<p>The <a href="http://en.wikipedia.org/wiki/History_of_Islam" title="History of Islam" class="mw-redirect">birth of Islam</a> on the opposite side of Somalia's <a href="http://en.wikipedia.org/wiki/Red_Sea" title="Red Sea">Red Sea</a> coast meant that Somali merchants, sailors and <a href="http://en.wikipedia.org/wiki/Expatriate" title="Expatriate">expatriates</a> living in the <a href="http://en.wikipedia.org/wiki/Arabian_Peninsula" title="Arabian Peninsula">Arabian Peninsula</a> gradually came under the influence of the new religion through their converted <a href="http://en.wikipedia.org/wiki/Arab" title="Arab" class="mw-redirect">Arab</a> <a href="http://en.wikipedia.org/wiki/Muslim" title="Muslim">Muslim</a> trading partners. With the migration of fleeing Muslim families from the <a href="http://en.wikipedia.org/wiki/Islamic_world" title="Islamic world" class="mw-redirect">Islamic world</a> to Somalia in the early centuries of <a href="http://en.wikipedia.org/wiki/Islam" title="Islam">Islam</a> and the peaceful conversion of the Somali population by <a href="http://en.wikipedia.org/wiki/Islam_in_Somalia" title="Islam in Somalia">Somali Muslim scholars</a> in the following centuries, the ancient city-states eventually transformed into Islamic <a href="http://en.wikipedia.org/wiki/Mogadishu" title="Mogadishu">Mogadishu</a>, <a href="http://en.wikipedia.org/wiki/Berbera" title="Berbera">Berbera</a>, <a href="http://en.wikipedia.org/wiki/Zeila" title="Zeila">Zeila</a>, <a href="http://en.wikipedia.org/wiki/Barawa" title="Barawa">Barawa</a> and <a href="http://en.wikipedia.org/wiki/Merka" title="Merka" class="mw-redirect">Merka</a>, which were part of the Berberi civilization. The city of Mogadishu came to be known as the <i>City of Islam</i>,<sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-13"><span>[</span>14<span>]</span></a></sup> and controlled the East African <a href="http://en.wikipedia.org/wiki/Gold" title="Gold">gold</a> <a href="http://en.wikipedia.org/wiki/Trade" title="Trade">trade</a> for several centuries.<sup id="cite_ref-14" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-14"><span>[</span>15<span>]</span></a></sup> In the Middle Ages, several powerful Somali <a href="http://en.wikipedia.org/wiki/Empire" title="Empire">empires</a> dominated the regional trade including the <a href="http://en.wikipedia.org/wiki/Ajuuraan_State" title="Ajuuraan State">Ajuuraan State</a>, which excelled in <a href="http://en.wikipedia.org/wiki/Hydraulic" title="Hydraulic" class="mw-redirect">hydraulic</a> <a href="http://en.wikipedia.org/wiki/Engineering" title="Engineering">engineering</a> and <a href="http://en.wikipedia.org/wiki/Fortress" title="Fortress" class="mw-redirect">fortress</a> <a href="http://en.wikipedia.org/wiki/Building" title="Building">building</a>,<sup id="cite_ref-15" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-15"><span>[</span>16<span>]</span></a></sup> the <a href="http://en.wikipedia.org/wiki/Sultanate_of_Adal" title="Sultanate of Adal" class="mw-redirect">Sultanate of Adal</a>, whose <a href="http://en.wikipedia.org/wiki/General" title="General" class="mw-redirect">general</a> <a href="http://en.wikipedia.org/wiki/Ahmed_Gurey" title="Ahmed Gurey" class="mw-redirect">Ahmed Gurey</a> was the first African <a href="http://en.wikipedia.org/wiki/Commander" title="Commander">commander</a> in history to use <a href="http://en.wikipedia.org/wiki/Cannon" title="Cannon">cannon</a> <a href="http://en.wikipedia.org/wiki/Warfare" title="Warfare">warfare</a> on the continent during Adal's <a href="http://en.wikipedia.org/wiki/Ethiopian%E2%80%93Adal_War" title="Ethiopian–Adal War">conquest</a> of the <a href="http://en.wikipedia.org/wiki/Ethiopian_Empire" title="Ethiopian Empire">Ethiopian Empire</a>,<sup id="cite_ref-16" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-16"><span>[</span>17<span>]</span></a></sup> and the <a href="http://en.wikipedia.org/wiki/Gobroon_Dynasty" title="Gobroon Dynasty">Gobroon Dynasty</a>, whose military dominance forced governors of the <a href="http://en.wikipedia.org/wiki/Oman" title="Oman">Omani empire</a> north of the city of <a href="http://en.wikipedia.org/wiki/Lamu" title="Lamu">Lamu</a> to pay <a href="http://en.wikipedia.org/wiki/Tribute" title="Tribute">tribute</a> to the <a href="http://en.wikipedia.org/wiki/Somali_people" title="Somali people">Somali</a> <a href="http://en.wikipedia.org/wiki/Sultan" title="Sultan">Sultan</a> <a href="http://en.wikipedia.org/wiki/Ahmed_Yusuf(Gobroon)" title="Ahmed Yusuf(Gobroon)" class="mw-redirect">Ahmed Yusuf</a>.<sup id="cite_ref-17" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-17"><span>[</span>18<span>]</span></a></sup> In the late <a href="http://en.wikipedia.org/wiki/19th_century" title="19th century">19th century</a> after the <a href="http://en.wikipedia.org/wiki/Berlin_conference" title="Berlin conference" class="mw-redirect">Berlin conference</a> had ended, <a href="http://en.wikipedia.org/wiki/European_empires" title="European empires" class="mw-redirect">European empires</a> sailed with their armies to the <a href="http://en.wikipedia.org/wiki/Horn_of_Africa" title="Horn of Africa">Horn of Africa</a>. The <a href="http://en.wikipedia.org/wiki/Imperialism" title="Imperialism">imperial</a> clouds wavering over Somalia alarmed the <a href="http://en.wikipedia.org/wiki/Dervish_State" title="Dervish State">Dervish</a> leader <a href="http://en.wikipedia.org/wiki/Muhammad_Abdullah_Hassan" title="Muhammad Abdullah Hassan" class="mw-redirect">Muhammad Abdullah Hassan</a>, who gathered Somali soldiers from across the Horn of Africa and began one of the longest colonial resistance wars ever.</p>
+<p>Somalia was never formally colonized.<sup id="cite_ref-18" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-18"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-19"><span>[</span>20<span>]</span></a></sup><sup id="cite_ref-20" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-20"><span>[</span>21<span>]</span></a></sup> The <a href="http://en.wikipedia.org/wiki/Dervish_State" title="Dervish State">Dervish State</a> successfully repulsed the <a href="http://en.wikipedia.org/wiki/British_empire" title="British empire" class="mw-redirect">British empire</a> four times and forced it to retreat to the coastal region.<sup id="cite_ref-21" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-21"><span>[</span>22<span>]</span></a></sup> As a result of its fame in the <a href="http://en.wikipedia.org/wiki/Middle_East" title="Middle East">Middle East</a> and <a href="http://en.wikipedia.org/wiki/Europe" title="Europe">Europe</a>, the Dervish state was recognized as an ally by the <a href="http://en.wikipedia.org/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a> and the <a href="http://en.wikipedia.org/wiki/German_empire" title="German empire" class="mw-redirect">German empire</a>,<sup id="cite_ref-22" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-22"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-23" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-23"><span>[</span>24<span>]</span></a></sup> and remained throughout <a href="http://en.wikipedia.org/wiki/World_War_I" title="World War I">World War I</a> the only independent Muslim power on the continent. After a quarter of a century holding the British at bay, the Dervishes were finally defeated in <a href="http://en.wikipedia.org/wiki/1920" title="1920">1920</a> when Britain for the first time in Africa used <a href="http://en.wikipedia.org/wiki/Aeroplanes" title="Aeroplanes" class="mw-redirect">aeroplanes</a> when it bombed the Dervish capital of <a href="http://en.wikipedia.org/wiki/Taleex" title="Taleex">Taleex</a>. As a result of this bombardment, former Dervish territories were turned into a <a href="http://en.wikipedia.org/wiki/Protectorate" title="Protectorate">protectorate</a> of Britain. <a href="http://en.wikipedia.org/wiki/Italy" title="Italy">Italy</a> similarly faced the same opposition from <a href="http://en.wikipedia.org/wiki/Somali" title="Somali">Somali</a> <a href="http://en.wikipedia.org/wiki/Sultans" title="Sultans" class="mw-redirect">Sultans</a> and armies and did not acquire full control of parts of modern Somalia until the <a href="http://en.wikipedia.org/wiki/Fascist" title="Fascist" class="mw-redirect">Fascist era</a> in late <a href="http://en.wikipedia.org/wiki/1927" title="1927">1927</a>. This occupation lasted till <a href="http://en.wikipedia.org/wiki/1941" title="1941">1941</a> and was replaced by a <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">British</a> <a href="http://en.wikipedia.org/wiki/Military_administration" title="Military administration">military administration</a>. Northern Somalia would remain a <a href="http://en.wikipedia.org/wiki/Protectorate" title="Protectorate">protectorate</a> while southern Somalia became a <a href="http://en.wikipedia.org/wiki/Trusteeship" title="Trusteeship">trusteeship</a>. The Union of the two regions in <a href="http://en.wikipedia.org/wiki/1960" title="1960">1960</a> formed the Somali Democratic Republic.</p>
+<p>Due to its ancient brotherly ties with the <a href="http://en.wikipedia.org/wiki/Arab_world" title="Arab world" class="mw-redirect">Arab world</a>, Somalia was accepted in <a href="http://en.wikipedia.org/wiki/1974" title="1974">1974</a> as a member of the <a href="http://en.wikipedia.org/wiki/Arab_League" title="Arab League">Arab League</a>. To strengthen its relationship with the rest of the African continent, Somalia joined other African nations when it founded the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a>, and began to support the <a href="http://en.wikipedia.org/wiki/ANC" title="ANC">ANC</a> in <a href="http://en.wikipedia.org/wiki/South_Africa" title="South Africa">South Africa</a> against the <a href="http://en.wikipedia.org/wiki/Apartheid" title="Apartheid" class="mw-redirect">apartheid</a> regime<sup id="cite_ref-24" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-24"><span>[</span>25<span>]</span></a></sup> and the <a href="http://en.wikipedia.org/wiki/Eritrean" title="Eritrean">Eritrean</a> <a href="http://en.wikipedia.org/wiki/Secessionists" title="Secessionists" class="mw-redirect">secessionists</a> in <a href="http://en.wikipedia.org/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> during the <a href="http://en.wikipedia.org/wiki/Eritrean_War_of_Independence" title="Eritrean War of Independence">Eritrean War of Independence</a>.<sup id="cite_ref-25" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-25"><span>[</span>26<span>]</span></a></sup> A Muslim country, Somalia is one of the founding members of the <a href="http://en.wikipedia.org/wiki/Organisation_of_the_Islamic_Conference" title="Organisation of the Islamic Conference">Organisation of the Islamic Conference</a> and is also a member of the <a href="http://en.wikipedia.org/wiki/UN" title="UN" class="mw-redirect">UN</a> and <a href="http://en.wikipedia.org/wiki/Non-Aligned_Movement" title="Non-Aligned Movement">NAM</a>. Despite suffering from <a href="http://en.wikipedia.org/wiki/Somali_Civil_War" title="Somali Civil War">civil strife</a> and instability, Somalia has also managed to sustain a <a href="http://en.wikipedia.org/wiki/Free_market" title="Free market">free market</a> <a href="http://en.wikipedia.org/wiki/Economy" title="Economy">economy</a> which, according to the <a href="http://en.wikipedia.org/wiki/UN" title="UN" class="mw-redirect">UN</a>, outperforms those of many other countries in Africa.<sup id="cite_ref-26" class="reference"><a href="http://en.wikipedia.org/wiki/Somalia#cite_note-26"><span>[</span>27<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

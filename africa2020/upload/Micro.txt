@@ -1,0 +1,89 @@
+	<h1 id="firstHeading" class="firstHeading">Micro</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Micro#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Micro#searchInput">search</a></div>			<!-- start content -->
+			<table class="metadata plainlinks mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><a href="http://en.wiktionary.org/wiki/Special:Search/Micro" title="Search Wiktionary"><img alt="Search Wiktionary" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/40px-Wiktionary-logo-en.svg.png" width="40" height="44" /></a></td>
+<td class="mbox-text" style="">Look up <i><b><a href="http://en.wiktionary.org/wiki/micro-" class="extiw" title="wiktionary:micro-">micro-</a></b></i> in <a href="http://en.wikipedia.org/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>, the free dictionary.</td>
+</tr>
+</table>
+<p><b>Micro</b> is an English prefix of Greek origin that is most commonly known for its usage in the word <a href="http://en.wikipedia.org/wiki/Microscopic" title="Microscopic" class="mw-redirect">microscopic</a>, the prefix refers to an object as being smaller than scale of focus, in contrast with <a href="http://en.wikipedia.org/wiki/Macroscopic" title="Macroscopic" class="mw-redirect">macro</a>. Some examples of the prefix "micro" are <a href="http://en.wikipedia.org/wiki/Microwave" title="Microwave">microwave</a>, <a href="http://en.wikipedia.org/wiki/Microphone" title="Microphone">microphone</a>, <a href="http://en.wikipedia.org/wiki/Integrated_circuit" title="Integrated circuit">microchip</a> and <a href="http://en.wikipedia.org/wiki/Microorganism" title="Microorganism">micro-organism</a>.</p>
+<ul>
+<li><b><a href="http://en.wikipedia.org/wiki/Micro-" title="Micro-">micro-</a></b> is a prefix in the <a href="http://en.wikipedia.org/wiki/SI" title="SI" class="mw-redirect">SI</a> and other systems of units denoting a factor of 10<sup>−6</sup> (one millionth). Symbol, µ
+<ul>
+<li>Micro as shorthand for an SI based measurement, in the case of <a href="http://en.wikipedia.org/wiki/Blood_lead_level" title="Blood lead level">blood lead level</a> for example, 10 micros would be 10 micrograms per deciliter.</li>
+</ul>
+</li>
+<li>A shortened reference to <a href="http://en.wikipedia.org/wiki/Microeconomics" title="Microeconomics">microeconomics</a>, <a href="http://en.wikipedia.org/wiki/Microsociology" title="Microsociology">microsociology</a>, <a href="http://en.wikipedia.org/wiki/Microbiology" title="Microbiology">microbiology</a> or similar fields of science</li>
+<li><a href="http://en.wikipedia.org/wiki/Microcomputer" title="Microcomputer">Microcomputer</a> (semi-obsolete usage)</li>
+<li><a href="http://en.wikipedia.org/wiki/Microcontroller" title="Microcontroller">Microcontroller</a>, electronics, microcontroller (also MCU or µC) is a functional computer system-on-a-chip</li>
+<li><a href="http://en.wikipedia.org/wiki/Micromanagement_(computer_gaming)" title="Micromanagement (computer gaming)" class="mw-redirect">Micromanagement (computer gaming)</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Micro_DBMS" title="Micro DBMS">Micro DBMS</a>, an early relational database management system</li>
+<li>The <a href="http://en.wikipedia.org/wiki/Micro_programming_language" title="Micro programming language">Micro programming language</a>, a simple programming language used in teaching <a href="http://en.wikipedia.org/wiki/Compiler_construction" title="Compiler construction">compiler construction</a> techniques</li>
+<li><a href="http://en.wikipedia.org/wiki/Microchip_(comics)" title="Microchip (comics)">Microchip (comics)</a>, a supporting character in <i><a href="http://en.wikipedia.org/wiki/The_Punisher" title="The Punisher" class="mw-redirect">The Punisher</a></i> comics (often known as Micro)</li>
+<li><a href="http://en.wikipedia.org/wiki/Mikro" title="Mikro">Mikro</a>, a <a href="http://en.wikipedia.org/wiki/Greece" title="Greece">Greek</a> <a href="http://en.wikipedia.org/wiki/Electronic_music" title="Electronic music">electronic music</a> group</li>
+<li><a href="http://en.wikipedia.org/wiki/Micro_(car)" title="Micro (car)">Micro (car)</a> is the first car company from Sri Lanka</li>
+<li>"The Micro" is an Argentinean and Chilean slang term for buses in the public transportation system (as in "I'm waiting for the micro,").</li>
+<li><a href="http://en.wikipedia.org/wiki/Microhouse" title="Microhouse">Microhouse</a>, a subgenre of <a href="http://en.wikipedia.org/wiki/House_music" title="House music">House music</a></li>
+</ul>
+<p><br /></p>
+<table id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig" style="">
+<tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"><a href="http://en.wikipedia.org/wiki/File:Disambig_gray.svg" class="image"><img alt="Disambig gray.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" width="30" height="23" /></a></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;">This <a href="http://en.wikipedia.org/wiki/Wikipedia:Disambiguation" title="Wikipedia:Disambiguation">disambiguation</a> page lists articles associated with the same title. If an <a href="http://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Micro&amp;namespace=0" class="external text" rel="nofollow">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1180/1000000
+Post-expand include size: 3352/2048000 bytes
+Template argument size: 848/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7806447-0!1!0!default!!en!2 and timestamp 20091021211058 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/Micro">http://en.wikipedia.org/wiki/Micro</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="http://en.wikipedia.org/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">Disambiguation pages</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">All disambiguation pages</a></span> | <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">All article disambiguation pages</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul lang="en" xml:lang="en">
+	
+				 <li id="ca-nstab-main" class="selected"><a href="http://en.wikipedia.org/wiki/Micro" title="View the content page [c]" accesskey="c">Article</a></li>
+				 <li id="ca-talk"><a href="http://en.wikipedia.org/wiki/Talk:Micro" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=Micro&amp;action=edit" title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit this page</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=Micro&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul lang="en" xml:lang="en">
+				<li id="pt-optin-try"><a href="http://en.wikipedia.org/w/index.php?title=Special:UsabilityInitiativeOptIn&amp;from=Micro" title="Try out new features" class="no-text-transform">Try Beta</a></li>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Micro" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5 lang="en" xml:lang="en">Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-contents"><a href="http://en.wikipedia.org/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+				<li id="n-featuredcontent"><a href="http://en.wikipedia.org/wiki/Portal:Featured_content" title="Featured content — the best of Wikipedia">Featured content</a></li>
+				<li id="n-currentevents"><a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-randompage"><a href="http://en.wikipedia.org/wiki/Specia

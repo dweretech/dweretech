@@ -1,0 +1,255 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Equatorial Guinea</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">Not to be confused with <a href="http://en.wikipedia.org/wiki/Guinea" title="Guinea">Guinea</a>, <a href="http://en.wikipedia.org/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a>, or <a href="http://en.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a>.</div>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Republic of Equatorial Guinea</span><br />
+<div style="padding-top:0.25em;">
+<div class="plainlist">
+<ul>
+<li style="font-size:88%;"><span lang="es" xml:lang="es"><i>República de Guinea Ecuatorial</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a>)</span></li>
+<li style="font-size:88%;"><span lang="fr" xml:lang="fr"><i>République de Guinée équatoriale</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>)</span></li>
+<li style="font-size:88%;"><span lang="pt" xml:lang="pt"><i>República da Guiné Equatorial</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>)</span></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Equatorial_Guinea.svg" class="image" title="Flag of Equatorial Guinea"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/125px-Flag_of_Equatorial_Guinea.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/188px-Flag_of_Equatorial_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/250px-Flag_of_Equatorial_Guinea.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Equatorial_Guinea.svg" class="image" title="Coat of arms of Equatorial Guinea"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Coat_of_arms_of_Equatorial_Guinea.svg/85px-Coat_of_arms_of_Equatorial_Guinea.svg.png" width="85" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Coat_of_arms_of_Equatorial_Guinea.svg/128px-Coat_of_arms_of_Equatorial_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Coat_of_arms_of_Equatorial_Guinea.svg/170px-Coat_of_arms_of_Equatorial_Guinea.svg.png 2x" data-file-width="1277" data-file-height="1527" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea" title="Flag of Equatorial Guinea">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Equatorial_Guinea" title="Coat of arms of Equatorial Guinea">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b>
+<div class="plainlist">
+<ul>
+<li><span lang="es" xml:lang="es">"Unidad, Paz, Justicia"</span>&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(Spanish)</span></li>
+<li><small style="font-size:85%;">"Unity, Peace, Justice"</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><span lang="es" xml:lang="es"><i><a href="http://en.wikipedia.org/wiki/Caminemos_pisando_las_sendas_de_nuestra_inmensa_felicidad" title="Caminemos pisando las sendas de nuestra inmensa felicidad">Caminemos pisando las sendas de nuestra inmensa felicidad</a></i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(Spanish)</span><br />
+<small style="font-size:85%;"><i>Let us walk the paths of our immense happiness</i></small></td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_Equatorial_Guinea_AU_Africa.svg" class="image" title="Location of &#160;Equatorial Guinea&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)"><img alt="Location of &#160;Equatorial Guinea&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Location_Equatorial_Guinea_AU_Africa.svg/250px-Location_Equatorial_Guinea_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Location_Equatorial_Guinea_AU_Africa.svg/375px-Location_Equatorial_Guinea_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Location_Equatorial_Guinea_AU_Africa.svg/500px-Location_Equatorial_Guinea_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">Equatorial Guinea</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b></td>
+<td><a href="http://en.wikipedia.org/wiki/Malabo" title="Malabo">Malabo</a><sup>b</sup><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Equatorial_Guinea&amp;params=3_45_N_8_47_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">3°45′N</span> <span class="longitude">8°47′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">3.750°N 8.783°E</span><span style="display:none">﻿ / <span class="geo">3.750; 8.783</span></span></span></a></span></span></td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2">Largest city</th>
+<td><a href="http://en.wikipedia.org/wiki/Bata,_Equatorial_Guinea" title="Bata, Equatorial Guinea">Bata</a></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td><a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a> (national)<br />
+<a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a><br />
+<a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2">Recognised regional&#160;languages</td>
+<td style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Fang_language" title="Fang language">Fang</a><br />
+<a href="http://en.wikipedia.org/wiki/Bube_language" title="Bube language">Bube</a><br />
+<a href="http://en.wikipedia.org/wiki/Igbo_language" title="Igbo language">Igbo</a><br />
+<a href="http://en.wikipedia.org/wiki/West_African_Pidgin_English" title="West African Pidgin English">Pidgin English</a><br />
+<a href="http://en.wikipedia.org/wiki/Annobonese_language" title="Annobonese language" class="mw-redirect">Annobonese</a><sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_groups" title="Ethnic groups" class="mw-redirect">Ethnic&#160;groups</a></b> (1994<sup id="cite_ref-CIA_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-CIA-3"><span>[</span>3<span>]</span></a></sup>)</td>
+<td>
+<div class="plainlist">
+<ul>
+<li>85.7% <a href="http://en.wikipedia.org/wiki/Fang_people" title="Fang people" class="mw-redirect">Fang</a></li>
+<li>6.5% <a href="http://en.wikipedia.org/wiki/Bubi_people" title="Bubi people">Bubi</a></li>
+<li>3.6% <a href="http://en.wikipedia.org/wiki/Demographics_of_Equatorial_Guinea#Peoples_considered_as_natives" title="Demographics of Equatorial Guinea">Ndowe</a></li>
+<li>1.6% <a href="http://en.wikipedia.org/wiki/Annobon" title="Annobon" class="mw-redirect">Annobon</a></li>
+<li>1.1% <a href="http://en.wikipedia.org/wiki/Kwasio_people" title="Kwasio people">Bujeba <small style="font-size:85%;">(Kwasio)</small></a></li>
+<li>1.4% others<sup>a</sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li>Equatorial Guinean</li>
+<li><span class="nowrap">Equatoguinean</span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Equatorial_Guinea" title="Politics of Equatorial Guinea">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Single-party_state" title="Single-party state">Single-party</a> <a href="http://en.wikipedia.org/wiki/Semi-presidential_system" title="Semi-presidential system">semi-presidential republic</a> (Family Inheritance System)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/List_of_Presidents_of_Equatorial_Guinea" title="List of Presidents of Equatorial Guinea" class="mw-redirect">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Teodoro_Obiang_Nguema_Mbasogo" title="Teodoro Obiang Nguema Mbasogo">Teodoro Obiang Nguema Mbasogo</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/List_of_Prime_Ministers_of_Equatorial_Guinea" title="List of Prime Ministers of Equatorial Guinea" class="mw-redirect">Prime Minister</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Vicente_Ehate_Tomi" title="Vicente Ehate Tomi">Vicente Ehate Tomi</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/Parliament_of_Equatorial_Guinea" title="Parliament of Equatorial Guinea">Parliament</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Upper_house" title="Upper house">Upper house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Senate_(Equatorial_Guinea)" title="Senate (Equatorial Guinea)">Senate</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Lower_house" title="Lower house">Lower house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Chamber_of_Deputies_(Equatorial_Guinea)" title="Chamber of Deputies (Equatorial Guinea)">Chamber of Deputies</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3">Independence</th>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">from <a href="http://en.wikipedia.org/wiki/Francoist_Spain" title="Francoist Spain">Spain</a></td>
+<td>12 October 1968&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Equatorial_Guinea" title="Geography of Equatorial Guinea">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>28,050&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">144th</a>)<br />
+10,830&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Equatorial_Guinea" title="Demographics of Equatorial Guinea">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2012&#160;estimate</td>
+<td>1,622,000<sup id="cite_ref-unpop_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-unpop-4"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">150th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>24.1/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">187th</a>)<br />
+62.4/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2010&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$19.286 billion<sup id="cite_ref-weo_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-weo-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$25,929<sup id="cite_ref-weo_5-1" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-weo-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2013&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$15.580 billion<sup id="cite_ref-weo_5-2" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-weo-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$20,581<sup id="cite_ref-weo_5-3" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-weo-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Decrease"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.556<sup id="cite_ref-HDI_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-HDI-6"><span>[</span>6<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">144th</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Central_African_CFA_franc" title="Central African CFA franc">Central African CFA franc</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">XAF</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/West_Africa_Time" title="West Africa Time">WAT</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Equatorial_Guinea" title="Telephone numbers in Equatorial Guinea">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B240" title="+240" class="mw-redirect">+240</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:GQ" title="ISO 3166-2:GQ">GQ</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.gq" title=".gq">.gq</a></td>
+</tr>
+<tr style="font-size:85%;">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>a.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><span class="nowrap">Including <a href="http://en.wikipedia.org/wiki/Equatoguinean_Spanish" title="Equatoguinean Spanish">Equatoguinean Spanish</a> (<i>Español ecuatoguineano</i>).</span></td>
+</tr>
+<tr style="font-size:85%;" class="mergedbottomrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>b.</sup></span></td>
+<td colspan="2" style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Oyala" title="Oyala">Oyala</a> (under construction).</td>
+</tr>
+</table>
+<p><b>Equatorial Guinea</b> (<a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a>: <span lang="es" xml:lang="es"><i>Guinea Ecuatorial</i></span>,<sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-7"><span>[</span>a<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>Guinée équatoriale</i></span>, <a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <span lang="pt" xml:lang="pt"><i>Guiné Equatorial</i></span>), officially the <b>Republic of Equatorial Guinea</b> (<a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a>: <span lang="es" xml:lang="es"><i>República de Guinea Ecuatorial</i></span>, <a href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>République de Guinée équatoriale</i></span>, <a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <span lang="pt" xml:lang="pt"><i>República da Guiné Equatorial</i></span>),<sup id="cite_ref-8" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-8"><span>[</span>b<span>]</span></a></sup> is a country located in <a href="http://en.wikipedia.org/wiki/Middle_Africa" title="Middle Africa" class="mw-redirect">Central Africa</a>, with an area of 28,000 square kilometres (11,000&#160;sq&#160;mi). Formerly the colony of <a href="http://en.wikipedia.org/wiki/Spanish_Guinea" title="Spanish Guinea">Spanish Guinea</a>, its post-independence name evokes its location near both the equator and the Gulf of Guinea. Equatorial Guinea is the only sovereign African state in which <a href="http://en.wikipedia.org/wiki/Spanish_language" title="Spanish language">Spanish</a> is an official language. As of 2012, the country has a population of 1.6 million.<sup id="cite_ref-unpop_4-1" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-unpop-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Equatorial Guinea consists of two parts, an insular and a mainland region. The <a href="http://en.wikipedia.org/wiki/Islands_of_Equatorial_Guinea" title="Islands of Equatorial Guinea" class="mw-redirect">insular region</a> consists of the islands of <a href="http://en.wikipedia.org/wiki/Bioko" title="Bioko">Bioko</a> (formerly <i>Fernando Pó</i>) in the <a href="http://en.wikipedia.org/wiki/Gulf_of_Guinea" title="Gulf of Guinea">Gulf of Guinea</a> and <a href="http://en.wikipedia.org/wiki/Annob%C3%B3n_Province" title="Annobón Province">Annobón</a>, a small volcanic island south of the <a href="http://en.wikipedia.org/wiki/Equator" title="Equator">equator</a>. Bioko Island is the northernmost part of Equatorial Guinea and is the site of the country's capital, <a href="http://en.wikipedia.org/wiki/Malabo" title="Malabo">Malabo</a>. The island nation of <a href="http://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="São Tomé and Príncipe">São Tomé and Príncipe</a> is located between Bioko and Annobón. The mainland region, <a href="http://en.wikipedia.org/wiki/R%C3%ADo_Muni" title="Río Muni">Río Muni</a>, is bordered by <a href="http://en.wikipedia.org/wiki/Cameroon" title="Cameroon">Cameroon</a> on the north and <a href="http://en.wikipedia.org/wiki/Gabon" title="Gabon">Gabon</a> on the south and east. It is the location of <a href="http://en.wikipedia.org/wiki/Bata,_Equatorial_Guinea" title="Bata, Equatorial Guinea">Bata</a>, Equatorial Guinea's largest city, and <a href="http://en.wikipedia.org/wiki/Oyala" title="Oyala">Oyala</a>, the country's planned future capital. Rio Muni also includes several small offshore islands, such as <a href="http://en.wikipedia.org/wiki/Corisco" title="Corisco">Corisco</a>, <a href="http://en.wikipedia.org/wiki/Elobey_Grande" title="Elobey Grande">Elobey Grande</a>, and <a href="http://en.wikipedia.org/wiki/Elobey_Chico" title="Elobey Chico">Elobey Chico</a>.</p>
+<p>Since the mid-1990s, Equatorial Guinea has become one of sub-Sahara's largest oil producers. With a population of almost two million, it is the richest country per capita in Africa,<sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-9"><span>[</span>7<span>]</span></a></sup> and its gross domestic product (GDP) per capita ranks 69th in the world;<sup id="cite_ref-10" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-10"><span>[</span>8<span>]</span></a></sup> However, the wealth is distributed very unevenly and few people have benefited from the oil riches. The country ranks 144th on the UN's 2014 <a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">Human Development Index</a>. The UN says that less than half of the population has access to clean drinking water and that 20% of children die before reaching five.</p>
+<p>The authoritarian <a href="http://en.wikipedia.org/wiki/Regime" title="Regime">regime</a> ruling Equatorial Guinea has one of the worst human rights records in the world, consistently ranking among the "worst of the worst" in <a href="http://en.wikipedia.org/wiki/Freedom_House" title="Freedom House">Freedom House</a>'s <a href="http://en.wikipedia.org/wiki/Freedom_in_the_World" title="Freedom in the World">annual survey of political and civil rights</a>.<sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-11"><span>[</span>9<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/Reporters_Without_Borders" title="Reporters Without Borders">Reporters Without Borders</a> ranks President <a href="http://en.wikipedia.org/wiki/Teodoro_Obiang_Nguema_Mbasogo" title="Teodoro Obiang Nguema Mbasogo">Teodoro Obiang Nguema Mbasogo</a> among its "predators" of press freedom.<sup id="cite_ref-12" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-12"><span>[</span>10<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/Human_trafficking_in_Equatorial_Guinea" title="Human trafficking in Equatorial Guinea">Human trafficking</a> is a significant problem, with the US Trafficking in Persons Report, 2012, stating that "Equatorial Guinea is a source and destination for women and children subjected to forced labor and sex trafficking." The report rates Equatorial Guinea as a "Tier 3" country, the lowest (worst) ranking: "Countries whose governments do not fully comply with the minimum standards and are not making significant efforts to do so."<sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/Equatorial_Guinea#cite_note-13"><span>[</span>11<span>]</span></a></sup></p>
+<p>The country is a member of the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a>, <a href="http://en.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie" title="Organisation internationale de la Francophonie">Francophonie</a> and <a href="http://en.wikipedia.org/wiki/Community_of_Portuguese_Language_Countries" title="Community of Portuguese Language Countries">CPLP</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

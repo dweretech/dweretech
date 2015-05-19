@@ -1,0 +1,112 @@
+	<h1 id="firstHeading" class="firstHeading">UN (disambiguation)</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Un&amp;redirect=no" title="Un">Un</a>)</div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Un#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Un#searchInput">search</a></div>			<!-- start content -->
+			<table class="metadata plainlinks mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><a href="http://en.wiktionary.org/wiki/Special:Search/UN_(disambiguation)" title="Search Wiktionary"><img alt="Search Wiktionary" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/40px-Wiktionary-logo-en.svg.png" width="40" height="44" /></a></td>
+<td class="mbox-text" style="">Look up <i><b><a href="http://en.wiktionary.org/wiki/un" class="extiw" title="wiktionary:un">un</a></b></i> in <a href="http://en.wikipedia.org/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>, the free dictionary.</td>
+</tr>
+</table>
+<p><b>UN</b> usually refers to the <a href="http://en.wikipedia.org/wiki/United_Nations" title="United Nations">United Nations</a>, an international organization.</p>
+<p><b>UN</b> or <b>Un</b> may also stand for or refer to:</p>
+<p>In <b>education</b>:</p>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/University_of_the_Nations" title="University of the Nations">University of the Nations</a></li>
+<li><a href="http://en.wikipedia.org/wiki/University_of_Nebraska" title="University of Nebraska" class="mw-redirect">University of Nebraska</a></li>
+<li><a href="http://en.wikipedia.org/wiki/University_of_Nevada" title="University of Nevada">University of Nevada</a></li>
+<li><a href="http://en.wikipedia.org/wiki/University_of_New_Hampshire" title="University of New Hampshire">University of New Hampshire</a></li>
+<li><a href="http://en.wikipedia.org/wiki/University_of_New_Mexico" title="University of New Mexico">University of New Mexico</a></li>
+<li><a href="http://en.wikipedia.org/wiki/University_of_North_Carolina" title="University of North Carolina">University of North Carolina</a></li>
+<li><a href="http://en.wikipedia.org/wiki/University_of_North_Dakota" title="University of North Dakota">University of North Dakota</a></li>
+</ul>
+<p>In <b>organizations</b>:</p>
+<ul>
+<li>The former Quebec political party "<a href="http://en.wikipedia.org/wiki/Union_Nationale" title="Union Nationale">Union Nationale</a>"</li>
+</ul>
+<p>In <b>military</b>:</p>
+<ul>
+<li>The <a href="http://en.wikipedia.org/wiki/Allies_of_World_War_II" title="Allies of World War II">Allies of World War II</a></li>
+</ul>
+<p>In <b>technology</b>:</p>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/User_(computing)" title="User (computing)">User-name</a>, one who uses a computer system</li>
+</ul>
+<p>In <b>music</b>:</p>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/United_Nations_(band)" title="United Nations (band)">United Nations</a>, a screamo supergroup</li>
+<li><a href="http://en.wikipedia.org/wiki/Uniting_Nations" title="Uniting Nations">Uniting Nations</a>, a UK dance act.</li>
+<li><a href="http://en.wikipedia.org/wiki/Un_(album)" title="Un (album)">Un</a>, an album by anarchist band Chumbawamba</li>
+</ul>
+<p>In <b>other uses</b>:</p>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/UN_number" title="UN number">UN number</a>, a four-digit number that identifies a hazardous substance</li>
+<li>the IATA code for <a href="http://en.wikipedia.org/wiki/Transaero_Airlines" title="Transaero Airlines">Transaero Airlines</a></li>
+<li><a href="http://en.wikipedia.org/wiki/7_Up" title="7 Up">Uncola</a>, a soft drink</li>
+<li><a href="http://en.wikipedia.org/wiki/UNStudio" title="UNStudio">UNStudio</a>, a Dutch architectural practice</li>
+<li><a href="http://en.wikipedia.org/wiki/Un,_India" title="Un, India">Un, India</a>, a town in Uttar Pradesh, India</li>
+<li><a href="http://en.wikipedia.org/wiki/Un,_Gujarat" title="Un, Gujarat">Un, Gujarat</a>, a town in Gujarat, India</li>
+<li>Un, a village in <a href="http://en.wikipedia.org/wiki/Lum_Choar" title="Lum Choar">Lum Choar</a>, Cambodia</li>
+<li><a href="http://en.wikipedia.org/wiki/Uncyclopedia" title="Uncyclopedia">Uncyclopedia</a>, a wiki</li>
+<li><a href="/w/index.php?title=Uranium_Nitride&amp;action=edit&amp;redlink=1" class="new" title="Uranium Nitride (page does not exist)">Uranium Nitride</a>, an inorganic compound</li>
+<li>A prefix meaning "not"</li>
+</ul>
+<table id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig" style="">
+<tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"><a href="http://en.wikipedia.org/wiki/File:Disambig_gray.svg" class="image"><img alt="Disambig gray.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" width="30" height="23" /></a></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;">This <a href="http://en.wikipedia.org/wiki/Wikipedia:Disambiguation" title="Wikipedia:Disambiguation">disambiguation</a> page lists articles associated with the same title. If an <a href="http://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/UN_(disambiguation)&amp;namespace=0" class="external text" rel="nofollow">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1180/1000000
+Post-expand include size: 3496/2048000 bytes
+Template argument size: 866/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1367783-0!1!0!default!!en!2 and timestamp 20091027060655 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/UN_(disambiguation)">http://en.wikipedia.org/wiki/UN_(disambiguation)</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="http://en.wikipedia.org/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">Disambiguation pages</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">All disambiguation pages</a></span> | <span dir='ltr'><a href="http://en.wikipedia.org/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">All article disambiguation pages</a></span></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul lang="en" xml:lang="en">
+	
+				 <li id="ca-nstab-main" class="selected"><a href="http://en.wikipedia.org/wiki/UN_(disambiguation)" title="View the content page [c]" accesskey="c">Article</a></li>
+				 <li id="ca-talk"><a href="http://en.wikipedia.org/wiki/Talk:UN_(disambiguation)" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-edit"><a href="/w/index.php?title=UN_(disambiguation)&amp;action=edit" title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit this page</a></li>
+				 <li id="ca-history"><a href="/w/index.php?title=UN_(disambiguation)&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul lang="en" xml:lang="en">
+				<li id="pt-optin-try"><a href="http://en.wikipedia.org/w/index.php?title=Special:UsabilityInitiativeOptIn&amp;from=UN_%28disambiguation%29" title="Try out new features" class="no-text-transform">Try Beta</a></li>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=UN_(disambiguation)" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5 lang="en" xml:lang="en">Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-contents"><a href="http://en.wikipedia.org/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+				<li id="n-featuredcontent"><a href="http://en.wikipedia.org/wiki/Portal:Featured_content" title="Featured content — the best of Wikipedia">Featured content</a></li>
+				<li id="n-currentevents"><a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-randompage"><a href="http://en.wikipedia.org/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random artic

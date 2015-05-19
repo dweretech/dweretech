@@ -1,0 +1,327 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Nigeria</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Nigeria#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Nigeria#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the country.  For other uses, see <a href="http://en.wikipedia.org/wiki/Nigeria_(disambiguation)" title="Nigeria (disambiguation)" class="mw-disambig">Nigeria (disambiguation)</a>.</div>
+<div class="hatnote">Not to be confused with the neighbouring country <a href="http://en.wikipedia.org/wiki/Niger" title="Niger">Niger</a>.</div>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Federal Republic of Nigeria</span><br />
+<div style="padding-top:0.25em;">
+<div class="plainlist">
+<ul>
+<li style="font-size:78%;"><span lang="ha"><i>Jamhuriyar Taraiyar Nijeriya</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Hausa_language" title="Hausa language">Hausa</a>)</span></li>
+<li style="font-size:78%;"><span lang="ig"><i>Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Igbo_language" title="Igbo language">Igbo</a>)</span></li>
+<li style="font-size:78%;"><span lang="yo"><i>Orílẹ̀-èdè Olómìnira Àpapọ̀ Nàìjíríà</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Yoruba_language" title="Yoruba language">Yoruba</a>)</span></li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Nigeria.svg" class="image" title="Flag of Nigeria"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/125px-Flag_of_Nigeria.svg.png" width="125" height="63" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/188px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/250px-Flag_of_Nigeria.svg.png 2x" data-file-width="2400" data-file-height="1200" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_Arms_of_Nigeria.svg" class="image" title="Coat of arms of Nigeria"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coat_of_Arms_of_Nigeria.svg/85px-Coat_of_Arms_of_Nigeria.svg.png" width="85" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coat_of_Arms_of_Nigeria.svg/128px-Coat_of_Arms_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coat_of_Arms_of_Nigeria.svg/170px-Coat_of_Arms_of_Nigeria.svg.png 2x" data-file-width="1498" data-file-height="1276" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Nigeria" title="Flag of Nigeria">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Nigeria" title="Coat of arms of Nigeria">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b>"Unity and Faith, Peace and Progress"</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><i><a href="http://en.wikipedia.org/wiki/Arise,_O_Compatriots" title="Arise, O Compatriots">Arise, O Compatriots</a></i><br />
+<div class="center">
+<div class="floatnone">
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px" poster="//en.wikipedia.org/static/1.26wmf4/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="48.326530612245" data-startoffset="0" data-mwtitle="United_States_Navy_Band_-_Arise_O_Compatriots.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_Arise_O_Compatriots.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (156 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="156388"></source><track kind="subtitles" data-mwtitle="TimedText:United_States_Navy_Band_-_Arise_O_Compatriots.ogg.en.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:United+States+Navy+Band+-+Arise+O+Compatriots.ogg.en.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="en" data-dir="ltr" label="English (en) subtitles"></track>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_Arise_O_Compatriots.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_Nigeria_AU_Africa.svg" class="image" title="Location of &#160;Nigeria&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)"><img alt="Location of &#160;Nigeria&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Location_Nigeria_AU_Africa.svg/250px-Location_Nigeria_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Location_Nigeria_AU_Africa.svg/375px-Location_Nigeria_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Location_Nigeria_AU_Africa.svg/500px-Location_Nigeria_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">Nigeria</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b></td>
+<td><a href="http://en.wikipedia.org/wiki/Abuja" title="Abuja">Abuja</a><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nigeria&amp;params=9_4_N_7_29_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">9°4′N</span> <span class="longitude">7°29′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">9.067°N 7.483°E</span><span style="display:none">﻿ / <span class="geo">9.067; 7.483</span></span></span></a></span></span></td>
+</tr>
+<tr class="mergedbottomrow">
+<th colspan="2">Largest city</th>
+<td><a href="http://en.wikipedia.org/wiki/Lagos" title="Lagos">Lagos</a><br />
+<small style="font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nigeria&amp;params=6_27_N_3_23_E_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">6°27′N</span> <span class="longitude">3°23′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">6.450°N 3.383°E</span><span style="display:none">﻿ / <span class="geo">6.450; 3.383</span></span></span></a></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td>English</td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Major languages</th>
+<td>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Hausa_language" title="Hausa language">Hausa</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Igbo_language" title="Igbo language">Igbo</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Yoruba_language" title="Yoruba language">Yoruba</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Other languages<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-1"><span>[</span>1<span>]</span></a></sup></th>
+<td>
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background:transparent;text-align:left;font-weight:normal;">List</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0">
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Edo_language" title="Edo language">Edo</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Efik_language" title="Efik language">Efik</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Fula_language" title="Fula language">Fulani</a></li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Idoma_language" title="Idoma language">Idoma</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Ijaw_languages" title="Ijaw languages">Ijaw</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Kanuri_language" title="Kanuri language">Kanuri</a></li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Itsekiri" title="Itsekiri" class="mw-redirect">Itsekiri</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Urhobo-Isoko" title="Urhobo-Isoko">Urhobo-Isoko</a></li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Igala" title="Igala" class="mw-redirect">Igala</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Igbira" title="Igbira" class="mw-redirect">Igbira</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Nupe_language" title="Nupe language">Nupe</a></li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Ibibio_language" title="Ibibio language">Ibibio</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gwari" title="Gwari" class="mw-redirect">Gwari</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Tiv_language" title="Tiv language">Tiv</a></li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Berom_language" title="Berom language">Birom</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Margi_language" title="Margi language">Margi</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Jukun_Takum_language" title="Jukun Takum language">Jukun</a></li>
+</ul>
+</div>
+<a href="http://en.wikipedia.org/wiki/Katab" title="Katab" class="mw-redirect">Katab</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_groups" title="Ethnic groups" class="mw-redirect">Ethnic&#160;groups</a></b> (2014<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-2"><span>[</span>2<span>]</span></a></sup>)</td>
+<td>
+<div class="plainlist">
+<ul>
+<li>21% <a href="http://en.wikipedia.org/wiki/Yoruba_people" title="Yoruba people">Yoruba</a></li>
+<li>21% <a href="http://en.wikipedia.org/wiki/Hausa_people" title="Hausa people">Hausa</a></li>
+<li>18% <a href="http://en.wikipedia.org/wiki/Igbo_people" title="Igbo people">Igbo</a></li>
+<li>11% <a href="http://en.wikipedia.org/wiki/Fula_people" title="Fula people">Fula</a></li>
+<li>7% <a href="http://en.wikipedia.org/wiki/Ibibio-Efik_languages" title="Ibibio-Efik languages">Efik-Ibibio</a></li>
+<li>4% <a href="http://en.wikipedia.org/wiki/Kanuri_people" title="Kanuri people">Kanuri</a></li>
+<li>3% <a href="http://en.wikipedia.org/wiki/Edo_(ethnic_group)" title="Edo (ethnic group)" class="mw-redirect">Edo</a></li>
+<li>2% <a href="http://en.wikipedia.org/wiki/Tiv_people" title="Tiv people">Tiv</a></li>
+<li>2% <a href="http://en.wikipedia.org/wiki/Ijaw_people" title="Ijaw people">Ijaw</a></li>
+<li>2% <a href="http://en.wikipedia.org/wiki/Nupe_people" title="Nupe people">Nupe</a></li>
+<li>1% <a href="http://en.wikipedia.org/wiki/Bura_people" title="Bura people" class="mw-redirect">Bura</a></li>
+<li>8% <a href="http://en.wikipedia.org/wiki/Demographics_of_Nigeria" title="Demographics of Nigeria">others</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Nigerian_people" title="Nigerian people" class="mw-redirect">Nigerian</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Nigeria" title="Politics of Nigeria">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Federalism" title="Federalism">Federal</a> <a href="http://en.wikipedia.org/wiki/Presidential_republic" title="Presidential republic" class="mw-redirect">presidential republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_Nigeria" title="President of Nigeria">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Goodluck_Jonathan" title="Goodluck Jonathan">Goodluck Jonathan</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Vice_President_of_Nigeria" title="Vice President of Nigeria">Vice President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Namadi_Sambo" title="Namadi Sambo">Namadi Sambo</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_Nigeria" title="President of Nigeria">President-elect</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Muhammadu_Buhari" title="Muhammadu Buhari">Muhammadu Buhari</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/National_Assembly_of_Nigeria" title="National Assembly of Nigeria" class="mw-redirect">National Assembly</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Upper_house" title="Upper house">Upper house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Senate_of_Nigeria" title="Senate of Nigeria" class="mw-redirect">Senate</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Lower_house" title="Lower house">Lower house</a></td>
+<td><a href="http://en.wikipedia.org/wiki/House_of_Representatives_of_Nigeria" title="House of Representatives of Nigeria" class="mw-redirect">House of Representatives</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/History_of_Nigeria" title="History of Nigeria">Independence</a>&#160;<span style="font-weight:normal;">from the United Kingdom</span></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Unification of <a href="http://en.wikipedia.org/wiki/Protectorate_of_Southern_Nigeria" title="Protectorate of Southern Nigeria" class="mw-redirect">Southern</a> and <a href="http://en.wikipedia.org/wiki/Protectorate_of_Northern_Nigeria" title="Protectorate of Northern Nigeria" class="mw-redirect">Northern Nigeria</a></td>
+<td>1914&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Declared and recognised</td>
+<td>1 October 1960&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Republic declared</td>
+<td>1 October 1963&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Nigeria" title="Geography of Nigeria">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>923,768&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">32nd</a>)<br />
+356,667&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>1.4</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Nigeria" title="Demographics of Nigeria">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2013&#160;estimate</td>
+<td>174,507,539<sup id="cite_ref-factbook_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-factbook-3"><span>[</span>3<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">7th</a>)</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2006&#160;census</td>
+<td>140,431,790</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>188.9/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">71st</a>)<br />
+489.3/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2015&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$1.109 trillion<sup id="cite_ref-imf2_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">20th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$6,204<sup id="cite_ref-imf2_4-1" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">125th</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2015&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$515.431 billion<sup id="cite_ref-imf2_4-2" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">21st</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$2,884<sup id="cite_ref-imf2_4-3" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-imf2-4"><span>[</span>4<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">128th</a>)</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2010)</td>
+<td>48.8<sup id="cite_ref-wb-gini_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-wb-gini-5"><span>[</span>5<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Increase"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.504<sup id="cite_ref-HDI_6-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-HDI-6"><span>[</span>6<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:red">low</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">152nd</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Nigerian_naira" title="Nigerian naira">Naira</a> (₦) (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">NGN</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/West_Africa_Time" title="West Africa Time">WAT</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><span class="nowrap">not observed</span>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Nigeria" title="Telephone numbers in Nigeria">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B234" title="+234" class="mw-redirect">+234</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:NG" title="ISO 3166-2:NG">NG</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.ng" title=".ng">.ng</a></td>
+</tr>
+</table>
+<p><b>Nigeria</b> <span class="nowrap"><span class="noexcerpt"><a href="//upload.wikimedia.org/wikipedia/commons/7/72/En-us-Nigeria.ogg" title="Listen"><img alt="Listen" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/11px-Speakerlink-new.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/17px-Speakerlink-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/22px-Speakerlink-new.svg.png 2x" data-file-width="11" data-file-height="11" /></a><sup><span style="color: #00e; font: bold 80% sans-serif; padding: 0 .1em;" class="IPA"><a href="http://en.wikipedia.org/wiki/File:En-us-Nigeria.ogg" title="File:En-us-Nigeria.ogg">i</a></span></sup></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/aɪ/ long 'i' in 'bide'" style="border-bottom:1px dotted">aɪ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/dʒ/ 'j' in 'jam'" style="border-bottom:1px dotted">dʒ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɪər/ 'ear' in 'beard'" style="border-bottom:1px dotted">ɪər</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/i/ 'y' in 'happy'" style="border-bottom:1px dotted">i</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>, officially the <b>Federal Republic of Nigeria</b>, is a <a href="http://en.wikipedia.org/wiki/Federation" title="Federation">federal</a> <a href="http://en.wikipedia.org/wiki/Constitutional_republic" title="Constitutional republic" class="mw-redirect">constitutional republic</a> comprising <a href="http://en.wikipedia.org/wiki/States_of_Nigeria" title="States of Nigeria">36 states</a> and its <a href="http://en.wikipedia.org/wiki/Federal_Capital_Territory,_Nigeria" title="Federal Capital Territory, Nigeria">Federal Capital Territory</a>, <a href="http://en.wikipedia.org/wiki/Abuja" title="Abuja">Abuja</a>. Nigeria is located in <a href="http://en.wikipedia.org/wiki/West_Africa" title="West Africa">West Africa</a> and shares land borders with the Republic of <a href="http://en.wikipedia.org/wiki/Benin" title="Benin">Benin</a> in the west, <a href="http://en.wikipedia.org/wiki/Chad" title="Chad">Chad</a> and <a href="http://en.wikipedia.org/wiki/Cameroon" title="Cameroon">Cameroon</a> in the east, and <a href="http://en.wikipedia.org/wiki/Niger" title="Niger">Niger</a> in the north. Its coast in the south lies on the <a href="http://en.wikipedia.org/wiki/Gulf_of_Guinea" title="Gulf of Guinea">Gulf of Guinea</a> in the Atlantic Ocean.</p>
+<p>Present-day Nigeria has been the site of numerous kingdoms and tribal states for millennia. The modern state originated from British colonial rule beginning in the 19th century, and the merging of the <a href="http://en.wikipedia.org/wiki/Southern_Nigeria_Protectorate" title="Southern Nigeria Protectorate">Southern Nigeria Protectorate</a> and <a href="http://en.wikipedia.org/wiki/Northern_Nigeria_Protectorate" title="Northern Nigeria Protectorate">Northern Nigeria Protectorate</a> in 1914. The British set up administrative and legal structures whilst practicing <a href="http://en.wikipedia.org/wiki/Indirect_rule" title="Indirect rule">indirect rule</a> through traditional <a href="http://en.wikipedia.org/wiki/Chiefdoms" title="Chiefdoms" class="mw-redirect">chiefdoms</a>. Nigeria became a formally independent federation in 1960, and plunged into a <a href="http://en.wikipedia.org/wiki/Nigerian_Civil_War" title="Nigerian Civil War">civil war</a> from 1967–1970. It has since alternated between democratically-elected civilian governments and military dictatorships, with its 2011 presidential elections being viewed as the first to be conducted reasonably freely and fairly.<sup id="cite_ref-New_York_7-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-New_York-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Nigeria is often referred to as the "Giant of Africa", owing to its large population and economy.<sup id="cite_ref-giant_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-giant-8"><span>[</span>8<span>]</span></a></sup> With approximately 174 million inhabitants, Nigeria is the most populous country in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a> and the <a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population" class="mw-redirect">seventh most populous country in the world</a>. Nigeria has one of the largest <a href="http://en.wikipedia.org/wiki/Youth_in_Nigeria" title="Youth in Nigeria">populations of youth</a> in the world.<sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Profile_10-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-Profile-10"><span>[</span>10<span>]</span></a></sup> The country is viewed as a <a href="http://en.wikipedia.org/wiki/Multinational_state" title="Multinational state">multinational state</a>, as it is inhabited by over 500 ethnic groups, of which the three largest are the <a href="http://en.wikipedia.org/wiki/Hausa_people" title="Hausa people">Hausa</a>, <a href="http://en.wikipedia.org/wiki/Igbo_people" title="Igbo people">Igbo</a> and <a href="http://en.wikipedia.org/wiki/Yoruba_people" title="Yoruba people">Yoruba</a>; these ethnic groups speak over 500 different languages, and are identified with wide variety of cultures.<sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-12"><span>[</span>12<span>]</span></a></sup> Regarding religion, Nigeria is divided roughly in half between <a href="http://en.wikipedia.org/wiki/Christianity" title="Christianity">Christians</a>, who live mostly in the southern and central parts of the country, and <a href="http://en.wikipedia.org/wiki/Islam" title="Islam">Muslims</a>, concentrated mostly in the northern and southwestern regions. A minority of the population practice religions indigenous to Nigeria, such as those native to <a href="http://en.wikipedia.org/wiki/Odinani" title="Odinani">Igbo</a> and <a href="http://en.wikipedia.org/wiki/Yoruba_religion" title="Yoruba religion">Yoruba</a> peoples.</p>
+<p>In 2014, Nigeria's economy (GDP) became the largest in Africa, worth more than $500 billion and $1 trillion in terms of <a href="http://en.wikipedia.org/wiki/Nominal_GDP" title="Nominal GDP" class="mw-redirect">nominal GDP</a> and <a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">purchasing power parity</a> respectively. It overtook <a href="http://en.wikipedia.org/wiki/South_Africa" title="South Africa">South Africa</a> to become the world's 21st (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">nominal</a>) and 20th (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">PPP</a>) largest economy in 2015;<sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-14"><span>[</span>14<span>]</span></a></sup> furthermore, the debt-to-GDP ratio is only 11 percent (8 percent below the 2012 ratio).<sup id="cite_ref-15" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-NigeriaTradesmark_16-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-NigeriaTradesmark-16"><span>[</span>16<span>]</span></a></sup> The country's oil reserves have played a major role in its growing wealth and influence. Nigeria is considered to be an <a href="http://en.wikipedia.org/wiki/Emerging_markets" title="Emerging markets">emerging market</a> by the <a href="http://en.wikipedia.org/wiki/World_Bank" title="World Bank">World Bank</a><sup id="cite_ref-17" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-17"><span>[</span>17<span>]</span></a></sup> and has been identified as a <a href="http://en.wikipedia.org/wiki/Regional_power" title="Regional power">regional power</a> on the African continent.<sup id="cite_ref-NigeriaTradesmark_16-1" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-NigeriaTradesmark-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-19"><span>[</span>19<span>]</span></a></sup> Nigeria is considered to be a <a href="http://en.wikipedia.org/wiki/Middle_power" title="Middle power">middle power</a> in the world,<sup id="cite_ref-Cooper_et_al_20-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-Cooper_et_al-20"><span>[</span>20<span>]</span></a></sup><sup id="cite_ref-21" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-21"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-Mace-Belanger_22-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-Mace-Belanger-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-Solomon_23-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-Solomon-23"><span>[</span>23<span>]</span></a></sup> and has also been identified as an <a href="http://en.wikipedia.org/wiki/Emerging_power" title="Emerging power">emerging power</a>;<sup id="cite_ref-24" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-24"><span>[</span>24<span>]</span></a></sup><sup id="cite_ref-25" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-25"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-26" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-26"><span>[</span>26<span>]</span></a></sup> it is a member of the <a href="http://en.wikipedia.org/wiki/MINT_(economics)" title="MINT (economics)">MINT</a> group of countries, which are widely seen as the globe's next "<a href="http://en.wikipedia.org/wiki/BRIC" title="BRIC">BRIC</a>-like" economies. It is also listed among the "<a href="http://en.wikipedia.org/wiki/Next_Eleven" title="Next Eleven">Next Eleven</a>" economies set to become among the biggest in the world. Nigeria is a member of the <a href="http://en.wikipedia.org/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>, the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a>, <a href="http://en.wikipedia.org/wiki/OPEC" title="OPEC">OPEC</a>, and the <a href="http://en.wikipedia.org/wiki/United_Nations" title="United Nations">United Nations</a> among other international organizations.</p>
+<p>Since 2002, the North East of the country has seen sectarian violence by <a href="http://en.wikipedia.org/wiki/Boko_Haram" title="Boko Haram">Boko Haram</a>, an Islamist movement that seeks to abolish the secular system of government and establish <a href="http://en.wikipedia.org/wiki/Sharia_law" title="Sharia law" class="mw-redirect">Sharia law</a> in the country.<sup id="cite_ref-AJAN_27-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-AJAN-27"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-Olugbode_28-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-Olugbode-28"><span>[</span>28<span>]</span></a></sup> Nigerian President <a href="http://en.wikipedia.org/wiki/Goodluck_Jonathan" title="Goodluck Jonathan">Goodluck Jonathan</a> in May 2014 claimed that <a href="http://en.wikipedia.org/wiki/Boko_Haram" title="Boko Haram">Boko Haram</a> attacks have left at least 12,000 people dead and 8,000 people crippled.<sup id="cite_ref-May_17.2C_2014_29-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-May_17.2C_2014-29"><span>[</span>29<span>]</span></a></sup> At the same time, neighboring countries, <a href="http://en.wikipedia.org/wiki/Benin" title="Benin">Benin</a>, <a href="http://en.wikipedia.org/wiki/Chad" title="Chad">Chad</a>, <a href="http://en.wikipedia.org/wiki/Cameroon" title="Cameroon">Cameroon</a> and <a href="http://en.wikipedia.org/wiki/Niger" title="Niger">Niger</a> joined Nigeria in a united effort to combat Boko Haram in the aftermath of a <a href="http://en.wikipedia.org/wiki/2014_Chibok_kidnapping" title="2014 Chibok kidnapping" class="mw-redirect">world media highlighted kidnapping of 276 schoolgirls</a> and the spread of Boko Haram attacks to these countries.<sup id="cite_ref-AfricaUnited_30-0" class="reference"><a href="http://en.wikipedia.org/wiki/Nigeria#cite_note-AfricaUnited-30"><span>[</span>30<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

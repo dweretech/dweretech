@@ -1,0 +1,219 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Angola</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Angola#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Angola#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="http://en.wikipedia.org/wiki/Angola_(disambiguation)" title="Angola (disambiguation)" class="mw-disambig">Angola (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Republic of Angola</span><br />
+<div style="padding-top:0.25em;"><span lang="pt" xml:lang="pt"><i>República de Angola</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>)</span></div>
+</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Angola.svg" class="image" title="Flag of Angola"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/125px-Flag_of_Angola.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/188px-Flag_of_Angola.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/250px-Flag_of_Angola.svg.png 2x" data-file-width="450" data-file-height="300" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Angola.svg" class="image" title="Emblem of Angola"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Coat_of_arms_of_Angola.svg/85px-Coat_of_arms_of_Angola.svg.png" width="85" height="104" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Coat_of_arms_of_Angola.svg/128px-Coat_of_arms_of_Angola.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Coat_of_arms_of_Angola.svg/170px-Coat_of_arms_of_Angola.svg.png 2x" data-file-width="200" data-file-height="245" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Angola" title="Flag of Angola">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Emblem_of_Angola" title="Emblem of Angola">Emblem</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><span lang="pt" xml:lang="pt"><i><a href="http://en.wikipedia.org/wiki/Angola_Avante" title="Angola Avante">Angola Avante</a>!</i></span>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>)</span><br />
+<small style="font-size:85%;"><i>Forward Angola!</i></small></td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_Angola_AU_Africa.svg" class="image" title="Location of &#160;Angola&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)"><img alt="Location of &#160;Angola&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Location_Angola_AU_Africa.svg/250px-Location_Angola_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Location_Angola_AU_Africa.svg/375px-Location_Angola_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Location_Angola_AU_Africa.svg/500px-Location_Angola_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">Angola</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b><br />
+and largest city</td>
+<td><a href="http://en.wikipedia.org/wiki/Luanda" title="Luanda">Luanda</a><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Angola&amp;params=8_50_S_13_20_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">8°50′S</span> <span class="longitude">13°20′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">8.833°S 13.333°E</span><span style="display:none">﻿ / <span class="geo">-8.833; 13.333</span></span></span></a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td><a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
+</tr>
+<tr>
+<td colspan="2">Recognised national&#160;languages</td>
+<td style="vertical-align:middle;">
+<div class="plainlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Kongo_language" title="Kongo language">Kikongo</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Chokwe_language" title="Chokwe language">Chokwe</a></li>
+<li><a href="http://en.wikipedia.org/wiki/South_Mbundu_language" title="South Mbundu language" class="mw-redirect">Umbundu</a></li>
+<li><a href="http://en.wikipedia.org/wiki/North_Mbundu_language" title="North Mbundu language" class="mw-redirect">Kimbundu</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Ganguela_language" title="Ganguela language" class="mw-redirect">Ganguela</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Kwanyama_dialect" title="Kwanyama dialect">Kwanyama</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_groups" title="Ethnic groups" class="mw-redirect">Ethnic&#160;groups</a></b> (2000)</td>
+<td>
+<div class="plainlist">
+<ul>
+<li>36% <a href="http://en.wikipedia.org/wiki/Ovimbundu" title="Ovimbundu">Ovimbundu</a></li>
+<li>25% <a href="http://en.wikipedia.org/wiki/Northern_Mbundu_people" title="Northern Mbundu people" class="mw-redirect">Ambundu</a></li>
+<li>13% <a href="http://en.wikipedia.org/wiki/Bakongo" title="Bakongo" class="mw-redirect">Bakongo</a></li>
+<li><span class="nowrap">22% other African</span></li>
+<li>2% <a href="http://en.wikipedia.org/wiki/Mestico" title="Mestico" class="mw-redirect">Mestiço</a></li>
+<li>1% Chinese</li>
+<li>1% <a href="http://en.wikipedia.org/wiki/White_Africans_of_European_ancestry" title="White Africans of European ancestry">European</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Angolan_people" title="Angolan people" class="mw-redirect">Angolan</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Angola" title="Politics of Angola">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="http://en.wikipedia.org/wiki/Presidential_system" title="Presidential system">presidential</a> republic</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_Angola" title="President of Angola">President</a></td>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Jos%C3%A9_Eduardo_dos_Santos" title="José Eduardo dos Santos">José Eduardo dos Santos</a></span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Vice_President_of_Angola" title="Vice President of Angola">Vice President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Manuel_Vicente" title="Manuel Vicente">Manuel Vicente</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/National_Assembly_(Angola)" title="National Assembly (Angola)">National Assembly</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Angolan_War_of_Independence" title="Angolan War of Independence">Independence</a></th>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">from <a href="http://en.wikipedia.org/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td>11 November 1975&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Angola" title="Geography of Angola">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>1,246,700&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">23rd</a>)<br />
+481,354&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>negligible</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Angola" title="Demographics of Angola">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2014&#160;census</td>
+<td>24,383,301<sup id="cite_ref-unpop_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Angola#cite_note-unpop-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>14.8/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">199th</a>)<br />
+38.4/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2014&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$139.059&#160;billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Angola#cite_note-imf2-2"><span>[</span>2<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">64th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$6,484<sup id="cite_ref-imf2_2-1" class="reference"><a href="http://en.wikipedia.org/wiki/Angola#cite_note-imf2-2"><span>[</span>2<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">107th</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2014&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$129.785&#160;billion<sup id="cite_ref-imf2_2-2" class="reference"><a href="http://en.wikipedia.org/wiki/Angola#cite_note-imf2-2"><span>[</span>2<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">61st</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$6,052<sup id="cite_ref-imf2_2-3" class="reference"><a href="http://en.wikipedia.org/wiki/Angola#cite_note-imf2-2"><span>[</span>2<span>]</span></a></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">91st</a>)</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2009)</td>
+<td>42.7<sup id="cite_ref-wb-gini_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Angola#cite_note-wb-gini-3"><span>[</span>3<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Steady"><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.526<sup id="cite_ref-HDI_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Angola#cite_note-HDI-4"><span>[</span>4<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:red">low</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">149th</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Angolan_kwanza" title="Angolan kwanza">Kwanza</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">AOA</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/West_Africa_Time" title="West Africa Time">WAT</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td>not observed&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1)</td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Angola" title="Telephone numbers in Angola">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B244" title="+244" class="mw-redirect">+244</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:AO" title="ISO 3166-2:AO">AO</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.ao" title=".ao">.ao</a></td>
+</tr>
+</table>
+<p><b>Angola</b> <span class="nowrap"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/æ/ short 'a' in 'bad'" style="border-bottom:1px dotted">æ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'g' in 'guy'" style="border-bottom:1px dotted">ɡ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/oʊ/ long 'o' in 'bode'" style="border-bottom:1px dotted">oʊ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'l' in 'lie'" style="border-bottom:1px dotted">l</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>, officially the <b>Republic of Angola</b> (<a href="http://en.wikipedia.org/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <span lang="pt" xml:lang="pt"><i>República de Angola</i></span> <small>pronounced:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_Portuguese_and_Galician" title="Help:IPA for Portuguese and Galician">[ʁɛˈpublikɐ dɨ ɐ̃ˈɡɔlɐ]</a></span>; <a href="http://en.wikipedia.org/wiki/Kikongo" title="Kikongo" class="mw-redirect">Kikongo</a>, <a href="http://en.wikipedia.org/wiki/Kimbundu" title="Kimbundu">Kimbundu</a>, <a href="http://en.wikipedia.org/wiki/Umbundu" title="Umbundu">Umbundu</a>: <i>Repubilika ya Ngola</i>), is a <a href="http://en.wikipedia.org/wiki/Country" title="Country">country</a> in <a href="http://en.wikipedia.org/wiki/Southern_Africa" title="Southern Africa">Southern Africa</a>. It is the seventh-largest country in Africa, and is bordered by <a href="http://en.wikipedia.org/wiki/Namibia" title="Namibia">Namibia</a> to the south, the <a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a> to the north, <a href="http://en.wikipedia.org/wiki/Zambia" title="Zambia">Zambia</a> to the east, and the <a href="http://en.wikipedia.org/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> to west. The <a href="http://en.wikipedia.org/wiki/Enclave_and_exclave" title="Enclave and exclave">exclave</a> province of <a href="http://en.wikipedia.org/wiki/Cabinda_Province" title="Cabinda Province">Cabinda</a> has borders with the <a href="http://en.wikipedia.org/wiki/Republic_of_the_Congo" title="Republic of the Congo">Republic of the Congo</a> and the <a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a>. The capital and largest city is <a href="http://en.wikipedia.org/wiki/Luanda" title="Luanda">Luanda</a>, which is home to 2.8 million of Angola's 24.3 million people.</p>
+<p>Although its territory has been inhabited since the <a href="http://en.wikipedia.org/wiki/Paleolithic_Era" title="Paleolithic Era" class="mw-redirect">Paleolithic Era</a>, modern Angola has its roots in Portuguese colonization, which began with mostly coastal settlements and trading posts established in the 16th century. In the 19th century, settlers slowly and hesitantly began to establish themselves in the interior. Angola as a <a href="http://en.wikipedia.org/wiki/Portuguese_West_Africa" title="Portuguese West Africa" class="mw-redirect">Portuguese colony</a> encompassing the present territory was not established until the early 20th century, after <a href="http://en.wikipedia.org/wiki/Mbunda_people" title="Mbunda people">Mbunda</a> resistance ended following the abduction of their King, <a href="http://en.wikipedia.org/wiki/Mwene_Mbandu_Kapova_I_of_Mbunda" title="Mwene Mbandu Kapova I of Mbunda">Mwene Mbandu I Lyondthzi Kapova</a>.<sup id="cite_ref-SeeRene_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Angola#cite_note-SeeRene-5"><span>[</span>5<span>]</span></a></sup> Independence was achieved in 1975, after a <a href="http://en.wikipedia.org/wiki/Angolan_War_of_Independence" title="Angolan War of Independence">protracted liberation war</a>. That same year, Angola descended into an intense <a href="http://en.wikipedia.org/wiki/Angolan_Civil_War" title="Angolan Civil War">civil war that lasted until 2002</a>.</p>
+<p>Angola has vast mineral and petroleum reserves, and its economy has on average grown at a double-digit pace since the 1990s, especially following the end of the civil war. In spite of this, standards of living remain low for the majority of the population, and <a href="http://en.wikipedia.org/wiki/Life_expectancy" title="Life expectancy">life expectancy</a> and <a href="http://en.wikipedia.org/wiki/Infant_mortality" title="Infant mortality">infant mortality rates</a> in Angola are among the worst in the world.<sup id="cite_ref-6" class="reference"><a href="http://en.wikipedia.org/wiki/Angola#cite_note-6"><span>[</span>6<span>]</span></a></sup> Angola is considered to be economically disparate, with the majority of the nation's <a href="http://en.wikipedia.org/wiki/Wealth_concentration" title="Wealth concentration">wealth concentrated</a> in a disproportionately small sector of the population.</p>
+<p>Angola is a member state of the United Nations, <a href="http://en.wikipedia.org/wiki/OPEC" title="OPEC">OPEC</a>, <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a>, the <a href="http://en.wikipedia.org/wiki/Community_of_Portuguese_Language_Countries" title="Community of Portuguese Language Countries">Community of Portuguese Language Countries</a>, the <a href="http://en.wikipedia.org/wiki/Latin_Union" title="Latin Union">Latin Union</a> and the <a href="http://en.wikipedia.org/wiki/Southern_African_Development_Community" title="Southern African Development Community">Southern African Development Community</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

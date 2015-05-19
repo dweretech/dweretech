@@ -1,0 +1,62 @@
+	<h1 id="firstHeading" class="firstHeading">School</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/School#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/School#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">This article is about institutions for learning. For the concept of "schooling", see <a href="http://en.wikipedia.org/wiki/Education" title="Education">Education</a>. For other uses of the word "school", see <a href="http://en.wikipedia.org/wiki/School_(disambiguation)" title="School (disambiguation)">School (disambiguation)</a> or <a href="http://en.wikipedia.org/wiki/Educational_institution" title="Educational institution" class="mw-redirect">Educational institution</a>.</div>
+<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="This article is semi-protected." src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/20px-Padlock-silver-medium.svg.png" width="20" height="20" /></a></div>
+<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="http://en.wikipedia.org/wiki/File:Ambox_content.png" class="image"><img alt="Ambox content.png" src="http://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png" width="40" height="40" /></a></div>
+</td>
+<td class="mbox-text" style="">
+<div>
+<div style="text-align:left;"><b>This article has multiple issues.</b> Please help <b><a href="http://en.wikipedia.org/w/index.php?title=School&amp;action=edit" class="external text" rel="nofollow">improve the article</a></b> or discuss these issues on the <b><a href="http://en.wikipedia.org/wiki/Talk:School" title="Talk:School">talk page</a></b>.</div>
+<ul>
+<li>It needs <b>additional <a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">references or sources</a> for <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a>.</b> <small>Tagged since July 2007.</small><br /></li>
+<li>It may require general <b><a href="http://en.wikipedia.org/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>. <small>Tagged since April 2007.</small><br /></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="http://en.wikipedia.org/wiki/File:Lmspic.png" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Lmspic.png/250px-Lmspic.png" width="250" height="138" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Lmspic.png" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+School building and recreation area in England</div>
+</div>
+</div>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 0.5em;">
+<table style="background:#f9f9f9; font-size:85%; line-height:110%; width:150pxpx;">
+<tr>
+<td><img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/f/f5/New_School.svg/27px-New_School.svg.png" width="27" height="28" /></td>
+<td style="padding:0 0.2em;"><i><b><a href="http://en.wikipedia.org/wiki/Portal:Schools" title="Portal:Schools">Schools portal</a></b></i></td>
+</tr>
+</table>
+</div>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 0.5em;">
+<table style="background:#f9f9f9; font-size:85%; line-height:110%; width:150pxpx;">
+<tr>
+<td><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/23px-Platopainting.jpg" width="23" height="28" /></td>
+<td style="padding:0 0.2em;"><i><b><a href="http://en.wikipedia.org/wiki/Portal:University" title="Portal:University">University portal</a></b></i></td>
+</tr>
+</table>
+</div>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 0.5em;">
+<table style="background:#f9f9f9; font-size:85%; line-height:110%; width:150pxpx;">
+<tr>
+<td><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nuvola_apps_bookcase.png/28px-Nuvola_apps_bookcase.png" width="28" height="28" /></td>
+<td style="padding:0 0.2em;"><i><b><a href="http://en.wikipedia.org/wiki/Portal:Education" title="Portal:Education">Education portal</a></b></i></td>
+</tr>
+</table>
+</div>
+<p>A <b>school</b> (from <a href="http://en.wikipedia.org/wiki/Greek_language" title="Greek language">Greek</a> <span lang="grc" xml:lang="grc">σχολή</span> <i>(<span lang="grc-Latn" xml:lang="grc-Latn">scholē</span></i>), originally meaning "<a href="http://en.wikipedia.org/wiki/Leisure" title="Leisure">leisure</a>", and also "that in which leisure is employed", "school"),<sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/School#cite_note-0"><span>[</span>1<span>]</span></a></sup> is an <a href="http://en.wikipedia.org/wiki/Institution" title="Institution">institution</a> designed to allow and encourage <a href="http://en.wikipedia.org/wiki/Student" title="Student">students</a> (or "pupils") to <a href="http://en.wikipedia.org/wiki/Education" title="Education">learn</a>, under the supervision of <a href="http://en.wikipedia.org/wiki/Teacher" title="Teacher">teachers</a>. Most countries have systems of formal <a href="http://en.wikipedia.org/wiki/Education" title="Education">education</a>, which is commonly <a href="http://en.wikipedia.org/wiki/Compulsory_education" title="Compulsory education">compulsory</a>. In these systems, students progress through a series of schools. The names for these schools vary by country (discussed in the <i>Regional</i> section below), but generally include <a href="http://en.wikipedia.org/wiki/Primary_school" title="Primary school">primary school</a> for young children and <a href="http://en.wikipedia.org/wiki/Secondary_school" title="Secondary school">secondary school</a> for teenagers who have completed primary education.</p>
+<p>In addition to these core schools, students in a given country may also have access to and attend schools both before and after primary and secondary education. <a href="http://en.wikipedia.org/wiki/Kindergarten" title="Kindergarten">Kindergarten</a> or <a href="http://en.wikipedia.org/wiki/Education" title="Education">pre-school</a> provide some schooling to very young children (typically ages 3-5). <a href="http://en.wikipedia.org/wiki/University" title="University">University</a>, <a href="http://en.wikipedia.org/wiki/Vocational_school" title="Vocational school">vocational school</a>, <a href="http://en.wikipedia.org/wiki/College" title="College">college</a> or <a href="http://en.wikipedia.org/wiki/Seminary" title="Seminary">seminary</a> may be available after (or in lieu of) secondary school. A school may also be dedicated to one particular field, such as a school of economics or a school of dance. <a href="http://en.wikipedia.org/wiki/Alternative_school" title="Alternative school">Alternative schools</a> may provide nontraditional curriculum and methods.</p>
+<p>There are also non-government schools, called private schools. Private schools may be for children with special needs when the government does not supply for them; religious, such as <a href="http://en.wikipedia.org/wiki/Christian_Schools" title="Christian Schools" class="mw-redirect">Christian Schools</a>, <a href="/w/index.php?title=Khalsa_Schools&amp;action=edit&amp;redlink=1" class="new" title="Khalsa Schools (page does not exist)">Khalsa Schools</a>, <a href="/w/index.php?title=Torah_Schools&amp;action=edit&amp;redlink=1" class="new" title="Torah Schools (page does not exist)">Torah Schools</a> and others; or schools that have a higher standard of education or seek to foster other personal achievements. Schools for adults include institutions of <a href="http://en.wikipedia.org/wiki/Corporate_training" title="Corporate training" class="mw-redirect">corporate training</a> and <a href="http://en.wikipedia.org/wiki/Military_education_and_training" title="Military education and training">Military education and training</a>.</p>
+<p>In <a href="http://en.wikipedia.org/wiki/Homeschooling" title="Homeschooling">homeschooling</a> and <a href="http://en.wikipedia.org/wiki/E-learning" title="E-learning" class="mw-redirect">online schools</a>, teaching and learning take place outside of a traditional school building.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

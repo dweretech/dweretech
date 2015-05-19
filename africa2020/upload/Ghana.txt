@@ -1,0 +1,189 @@
+	<h1 id="firstHeading" class="firstHeading">Ghana</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Ghana#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Ghana#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">Not to be confused with <a href="http://en.wikipedia.org/wiki/Guinea" title="Guinea">Guinea</a>&#160;or <a href="http://en.wikipedia.org/wiki/Guyana" title="Guyana">Guyana</a>.</div>
+<table class="infobox geography vcard" style="width: 22em; font-size: 88%">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow fn org country-name" style="line-height:1.2em; padding:0.25em 0.33em 0.33em; font-size:1.25em;">Republic of Ghana</th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%; background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Ghana.svg" class="image" title="Flag of Ghana"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/125px-Flag_of_Ghana.svg.png" width="125" height="83" class="thumbborder" /></a></td>
+<td align="center" style="width:auto; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Ghana.png" class="image" title="Coat of arms of Ghana"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Ghana.png/85px-Coat_of_arms_of_Ghana.png" width="85" height="74" /></a></td>
+</tr>
+<tr>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Flag_of_Ghana" title="Flag of Ghana">Flag</a></small></td>
+<td align="center"><small><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Ghana" title="Coat of arms of Ghana">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/Motto" title="Motto">Motto</a>:&#160;</b>"Freedom and Justice"</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="line-height:1.2em; text-align:center;"><b><a href="http://en.wikipedia.org/wiki/National_anthem" title="National anthem">Anthem</a>:&#160;</b><i><a href="http://en.wikipedia.org/wiki/God_Bless_Our_Homeland_Ghana" title="God Bless Our Homeland Ghana">God Bless Our Homeland Ghana</a></i><sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-0"><span>[</span>1<span>]</span></a></sup><br /></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; padding:0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:LocationGhana.svg" class="image" title="Location of Ghana"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/LocationGhana.svg/250px-LocationGhana.svg.png" width="250" height="125" /></a></div>
+</div>
+<div style="position:relative; top:0.3em;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Capital_(political)" title="Capital (political)">Capital</a></b><br />
+<a href="http://en.wikipedia.org/wiki/Demographics_of_Ghana" title="Demographics of Ghana">(and largest city)</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Accra" title="Accra">Accra</a><br />
+<small><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Ghana&amp;params=5_33_N_0_15_W_type:country(238,535)" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">5°33′N</span> <span class="longitude">0°15′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.55°N 0.25°W</span><span style="display:none">﻿ / <span class="geo">5.55; -0.25</span></span></span></a></span></span></small></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle; white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">Official languages</a></th>
+<td><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Ghanaian</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Government" title="Government">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Constitutional_democracy" title="Constitutional democracy" class="mw-redirect">Constitutional democracy</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/President_of_Ghana" title="President of Ghana">President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/John_Atta_Mills" title="John Atta Mills">John Atta Mills</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Vice-President_of_Ghana" title="Vice-President of Ghana">Vice-President</a></td>
+<td><a href="http://en.wikipedia.org/wiki/John_Dramani_Mahama" title="John Dramani Mahama">John Dramani Mahama</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Speaker_of_Parliament" title="Speaker of Parliament" class="mw-redirect">Speaker of Parliament</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Joyce_Bamford-Addo" title="Joyce Bamford-Addo">Joyce Bamford-Addo</a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Chief_Justice" title="Chief Justice">Chief Justice</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Georgina_Theodora_Wood" title="Georgina Theodora Wood">Georgina Theodora Wood</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2">Independence</th>
+<td>from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Declared</td>
+<td>6 March 1957&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Republic</td>
+<td>1 July 1960&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Current Constitution</td>
+<td>28 April 1992&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td><a href="http://en.wikipedia.org/wiki/1_E11_m%C2%B2" title="1 E11 m²" class="mw-redirect">238,535&#160;km<sup>2</sup></a>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_and_outlying_territories_by_total_area" title="List of countries and outlying territories by total area">81st</a>)<br />
+92,098&#160;<a href="http://en.wikipedia.org/wiki/Square_mile" title="Square mile">sq&#160;mi</a>&#160;</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Water" title="Water">Water</a>&#160;(<a href="http://en.wikipedia.org/wiki/Percent" title="Percent" class="mw-redirect">%</a>)</td>
+<td>3.5</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Population" title="Population">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">2009&#160;estimate</td>
+<td>23,837,000<sup id="cite_ref-unpop_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-unpop-1"><span>[</span>2<span>]</span></a></sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population" title="List of countries by population">48th</a>)</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Population_density" title="Population density">Density</a></td>
+<td>99.9/km<sup>2</sup>&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_population_density" title="List of countries by population density" class="mw-redirect">103rd</a>)<br />
+258.8/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$34.214 billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$1,518<sup id="cite_ref-imf2_2-1" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b> (nominal)</td>
+<td>2008&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Total</td>
+<td>$16.654 billion<sup id="cite_ref-imf2_2-2" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;"><a href="http://en.wikipedia.org/wiki/Per_capita" title="Per capita">Per capita</a></td>
+<td>$739<sup id="cite_ref-imf2_2-3" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-imf2-2"><span>[</span>3<span>]</span></a></sup>&#160;</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b>&#160;(2007)</td>
+<td><span style="color: #0c0; font-size: larger;">▲</span> 0.553&#160;(<span style="color:#fc0;">medium</span>)&#160;(<a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">136th</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/Currency" title="Currency">Currency</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Ghanaian_cedi" title="Ghanaian cedi">Ghanaian cedi</a> (<code><a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">GHS</a></code>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/GMT" title="GMT" class="mw-redirect">GMT</a> <span style="white-space:nowrap;">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>0)</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;">Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</td>
+<td><a href="http://en.wikipedia.org/wiki/GMT" title="GMT" class="mw-redirect">GMT</a>&#160;(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>0)</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Right-_and_left-hand_traffic" title="Right- and left-hand traffic">Drives on the</a></th>
+<td>right</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.gh" title=".gh">.gh</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/List_of_country_calling_codes" title="List of country calling codes">Calling code</a></th>
+<td>+233</td>
+</tr>
+</table>
+<p>The <b>Republic of Ghana</b> is a country in <a href="http://en.wikipedia.org/wiki/West_Africa" title="West Africa">West Africa</a> which borders <a href="http://en.wikipedia.org/wiki/C%C3%B4te_d%27Ivoire" title="Côte d'Ivoire">Côte d'Ivoire</a> (Ivory Coast) to the west, <a href="http://en.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a> to the north, <a href="http://en.wikipedia.org/wiki/Togo" title="Togo">Togo</a> to the east, and the <a href="http://en.wikipedia.org/wiki/Gulf_of_Guinea" title="Gulf of Guinea">Gulf of Guinea</a> to the south. The word <i>Ghana</i> means "Warrior King,"<sup id="cite_ref-warriorking_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-warriorking-3"><span>[</span>4<span>]</span></a></sup> and was the source of the name "Guinea" (via French <i>Guinoye</i>), which has been used to refer to the West African coast (reflected in the <a href="http://en.wikipedia.org/wiki/Gulf_of_Guinea" title="Gulf of Guinea">Gulf of Guinea</a>).</p>
+<p>Ghana was inhabited in pre-colonial times by a number of ancient predominantly <a href="http://en.wikipedia.org/wiki/Akan" title="Akan">Akan</a> Kingdoms, including the <a href="http://en.wikipedia.org/wiki/Akwamu" title="Akwamu">Akwamu</a> on the eastern coast, the inland <a href="http://en.wikipedia.org/wiki/Ashanti_Empire" title="Ashanti Empire">Ashanti Empire</a> and various <a href="http://en.wikipedia.org/wiki/Fante" title="Fante">Fante</a> and, also non Akan states like the <a href="http://en.wikipedia.org/wiki/Ga" title="Ga" class="mw-redirect">Ga</a> and <a href="http://en.wikipedia.org/wiki/Ewe" title="Ewe">Ewe</a> along the coast and inland. Trade with European states flourished after contact with the <a href="http://en.wikipedia.org/wiki/Portuguese_Empire" title="Portuguese Empire">Portuguese</a> in the 15th century, and the <a href="http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">British</a> established a <a href="http://en.wikipedia.org/wiki/Crown_colony" title="Crown colony">crown colony</a>, <a href="http://en.wikipedia.org/wiki/Gold_Coast_(British_colony)" title="Gold Coast (British colony)">Gold Coast</a>, in 1874.<sup id="cite_ref-colestablish_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-colestablish-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>The <a href="http://en.wikipedia.org/wiki/Gold_Coast_(British_colony)" title="Gold Coast (British colony)">Gold Coast</a> achieved independence from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> in 1957, becoming the first <a href="http://en.wikipedia.org/wiki/Sub-Saharan_Africa" title="Sub-Saharan Africa">Sub-Saharan African</a> nation to do so<sup id="cite_ref-independence_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-independence-5"><span>[</span>6<span>]</span></a></sup> <sup id="cite_ref-6" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-7"><span>[</span>8<span>]</span></a></sup> and the name Ghana was chosen for the new nation to reflect the ancient <a href="http://en.wikipedia.org/wiki/Empire_of_Ghana" title="Empire of Ghana" class="mw-redirect">Empire of Ghana</a>, which once extended throughout much of west Africa. Ghana is a member of many international organisations including the <a href="http://en.wikipedia.org/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>, the <a href="http://en.wikipedia.org/wiki/Economic_Community_of_West_African_States" title="Economic Community of West African States">Economic Community of West African States</a>, the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a> and the <a href="http://en.wikipedia.org/wiki/United_Nations" title="United Nations">United Nations</a>. Ghana is the second largest producer of <a href="http://en.wikipedia.org/wiki/Cocoa" title="Cocoa">cocoa</a> in the world and is also home to <a href="http://en.wikipedia.org/wiki/Lake_Volta" title="Lake Volta">Lake Volta</a>, the largest artificial lake in the world<sup id="cite_ref-8" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-8"><span>[</span>9<span>]</span></a></sup>. Ghana is also very well known in the football world. On October 16, 2009, it became the first African nation to win the <a href="http://en.wikipedia.org/wiki/FIFA_U-20_World_Cup" title="FIFA U-20 World Cup">FIFA U-20 World Cup</a> by defeating <a href="http://en.wikipedia.org/wiki/Brazil" title="Brazil">Brazil</a> 4-3 in a penalty shootout<sup id="cite_ref-9" class="reference"><a href="http://en.wikipedia.org/wiki/Ghana#cite_note-9"><span>[</span>10<span>]</span></a></sup>.</p>
+<p><br /></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

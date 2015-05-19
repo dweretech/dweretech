@@ -1,0 +1,105 @@
+	<h1 id="firstHeading" class="firstHeading">Pharaoh</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Pharaoh#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Pharaoh#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">For other uses, see <a href="http://en.wikipedia.org/wiki/Pharaoh_(disambiguation)" title="Pharaoh (disambiguation)">Pharaoh (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="http://en.wikipedia.org/wiki/File:Pharaoh.svg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pharaoh.svg/180px-Pharaoh.svg.png" width="180" height="350" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:Pharaoh.svg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+After <a href="http://en.wikipedia.org/wiki/Djoser" title="Djoser">Djoser</a> of the third dynasty, pharaohs usually were depicted wearing the <a href="http://en.wikipedia.org/wiki/Nemes" title="Nemes">Nemes</a> headdress, a false beard, and an ornate kilt</div>
+</div>
+</div>
+<table style="border-collapse:collapse; border:2px solid peru; margin:0.5em 1em; text-align:center; clear:right; float:right; margin-right:0;">
+<tr>
+<th style="background:navajowhite; border-bottom:2px solid peru; padding:0.5em;">nesu-bit<br />
+"King of Upper<br />
+and Lower Egypt"<br />
+<br />
+in <a href="http://en.wikipedia.org/wiki/Egyptian_hieroglyphs" title="Egyptian hieroglyphs">hieroglyphs</a></th>
+</tr>
+<tr>
+<td style="padding:1em;background:white">
+<table border='0' cellspacing='0' cellpadding='0' style='display:inline;' class='mw-hierotable' dir='ltr'>
+<tr>
+<td>
+<table border='0' cellspacing='0' cellpadding='0'>
+<tr>
+<td align='center' valign='middle'><img style='margin:1px;' height='31px' src='/w/extensions/wikihiero/img/hiero_M23.png' title='M23 [sw]' alt='sw' /><br />
+<img style='margin:1px;' height='8px' src='/w/extensions/wikihiero/img/hiero_X1.png' title='X1 [t]' alt='t' /></td>
+<td align='center' valign='middle'><img style='margin:1px;' height='31px' src='/w/extensions/wikihiero/img/hiero_L2.png' title='L2' alt='L2' /><br />
+<img style='margin:1px;' height='8px' src='/w/extensions/wikihiero/img/hiero_X1.png' title='X1 [t]' alt='t' /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br />
+<br />
+<table border='0' cellspacing='0' cellpadding='0' style='display:inline;' class='mw-hierotable' dir='ltr'>
+<tr>
+<td>
+<table border='0' cellspacing='0' cellpadding='0'>
+<tr>
+<td align='center' valign='middle'><img style='margin:1px;' height='38px' src='/w/extensions/wikihiero/img/hiero_A43.png' title='A43' alt='A43' /></td>
+<td align='center' valign='middle'><img style='margin:1px;' height='37px' src='/w/extensions/wikihiero/img/hiero_A45.png' title='A45' alt='A45' /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br />
+<br />
+<table border='0' cellspacing='0' cellpadding='0' style='display:inline;' class='mw-hierotable' dir='ltr'>
+<tr>
+<td>
+<table border='0' cellspacing='0' cellpadding='0'>
+<tr>
+<td align='center' valign='middle'><img style='margin:1px;' height='30px' src='/w/extensions/wikihiero/img/hiero_S1.png' title='S1' alt='S1' /><br />
+<img style='margin:1px;' height='9px' src='/w/extensions/wikihiero/img/hiero_X1.png' title='X1 [t]' alt='t' /></td>
+<td align='center' valign='middle'><img style='margin:1px;' height='31px' src='/w/extensions/wikihiero/img/hiero_S3.png' title='S3' alt='S3' /><br />
+<img style='margin:1px;' height='8px' src='/w/extensions/wikihiero/img/hiero_X1.png' title='X1 [t]' alt='t' /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br />
+<br />
+<table border='0' cellspacing='0' cellpadding='0' style='display:inline;' class='mw-hierotable' dir='ltr'>
+<tr>
+<td>
+<table border='0' cellspacing='0' cellpadding='0'>
+<tr>
+<td align='center' valign='middle'><img style='margin:1px;' height='38px' src='/w/extensions/wikihiero/img/hiero_S2.png' title='S2' alt='S2' /></td>
+<td align='center' valign='middle'><img style='margin:1px;' height='38px' src='/w/extensions/wikihiero/img/hiero_S4.png' title='S4' alt='S4' /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br />
+<br />
+<table border='0' cellspacing='0' cellpadding='0' style='display:inline;' class='mw-hierotable' dir='ltr'>
+<tr>
+<td>
+<table border='0' cellspacing='0' cellpadding='0'>
+<tr>
+<td align='center' valign='middle'><img style='margin:1px;' height='38px' src='/w/extensions/wikihiero/img/hiero_S5.png' title='S5' alt='S5' /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><b>Pharaoh</b> is a title used in many modern discussions of the <a href="http://en.wikipedia.org/wiki/Ancient_Egypt" title="Ancient Egypt">ancient Egyptian</a> rulers of all periods.<sup id="cite_ref-0" class="reference"><a href="http://en.wikipedia.org/wiki/Pharaoh#cite_note-0"><span>[</span>1<span>]</span></a></sup> In antiquity this title began to be used for the ruler who was the religious and political leader of united ancient Egypt. This was true only during the <a href="http://en.wikipedia.org/wiki/New_Kingdom" title="New Kingdom">New Kingdom</a>, specifically during the middle of the <a href="http://en.wikipedia.org/wiki/Eighteenth_dynasty_of_Egypt" title="Eighteenth dynasty of Egypt">eighteenth dynasty</a>. For simplification however, there is a general acceptance amongst modern writers to use the term to relate to all periods.</p>
+<p>Pharaoh meaning "Great House", originally referred to the king's palace but by the reign of <a href="http://en.wikipedia.org/wiki/Thutmose_III" title="Thutmose III">Thutmose III</a> (ca. 1479-1425 BCE) in the <a href="http://en.wikipedia.org/wiki/New_Kingdom" title="New Kingdom">New Kingdom</a> had become a form of address for the person of the king.<sup id="cite_ref-1" class="reference"><a href="http://en.wikipedia.org/wiki/Pharaoh#cite_note-1"><span>[</span>2<span>]</span></a></sup> The <a href="http://en.wikipedia.org/wiki/Egyptian_language" title="Egyptian language">Egyptian</a> term for the ruler himself was <i><span lang="egy-Latn" xml:lang="egy-Latn">nsw(t)-bjt(j)</span></i> (rendered in <a href="http://en.wikipedia.org/wiki/Babylonian_language" title="Babylonian language" class="mw-redirect">Babylonian</a> as <i><span lang="akk-Latn" xml:lang="akk-Latn">insibya</span></i>; Egyptological pronunciation "Nesu(t)-Bit(i)"), "King of <a href="http://en.wikipedia.org/wiki/Upper_and_Lower_Egypt" title="Upper and Lower Egypt">Upper and Lower Egypt</a>", literally "he of the <a href="http://en.wikipedia.org/wiki/Sedge" title="Sedge">sedge</a> and the <a href="http://en.wikipedia.org/wiki/Bee" title="Bee">bee</a>" (properly <i><span lang="egy-Latn" xml:lang="egy-Latn">nj-sw.t-bj.t)</span></i>), the sedge and the bee being the symbols for Upper and Lower Egypt, respectively. Also <i><span lang="egy-Latn" xml:lang="egy-Latn">nsw.t-t3wj</span></i> "King of the Two Lands".</p>
+<p>This double kingship was expressed in the <a href="http://en.wikipedia.org/wiki/Pschent" title="Pschent">Pschent</a>, the double crown combining the red crown of Lower Egypt (<a href="http://en.wikipedia.org/wiki/Deshret" title="Deshret">Deshret</a>) and the white crown of Upper Egypt (<a href="http://en.wikipedia.org/wiki/Hedjet" title="Hedjet">Hedjet</a>).</p>
+<p>Initially the rulers were considered the sons of the cow deity <a href="http://en.wikipedia.org/wiki/Bat_(goddess)" title="Bat (goddess)">Bat</a> and eventually <a href="http://en.wikipedia.org/wiki/Hathor" title="Hathor">Hathor</a> and they occupied her throne to rule the country and officiate in religious rites. There is evidence that the ruler may have been sacrificed after a certain period of time in the earliest rituals but soon was replaced by a specially selected bull. The pharaohs were believed later in the culture to be the <a href="http://en.wikipedia.org/wiki/Incarnation" title="Incarnation">incarnations</a> of the deity <a href="http://en.wikipedia.org/wiki/Horus" title="Horus">Horus</a> in life<sup id="cite_ref-2" class="reference"><a href="http://en.wikipedia.org/wiki/Pharaoh#cite_note-2"><span>[</span>3<span>]</span></a></sup> and <a href="http://en.wikipedia.org/wiki/Osiris" title="Osiris">Osiris</a> in death. Once the cult of Isis and Osiris became prominent, pharaohs were viewed as a bridge between the god <a href="http://en.wikipedia.org/wiki/Osiris" title="Osiris">Osiris</a> and human beings; and after death the pharaoh was believed to unite with <a href="http://en.wikipedia.org/wiki/Osiris" title="Osiris">Osiris</a>. The royal line was <a href="http://en.wikipedia.org/wiki/Matriarchal" title="Matriarchal" class="mw-redirect">matriarchal</a> and a relationship with the royal women through birth or marriage (or both) determined the right to rule. The royal women played important roles in the religious rituals and governance of the country, sometimes participating alongside the pharaoh.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"

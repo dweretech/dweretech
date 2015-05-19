@@ -1,0 +1,249 @@
+	<h1 id="firstHeading" class="firstHeading" lang="en">Sierra Leone</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub"></div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="http://en.wikipedia.org/wiki/Sierra_Leone#mw-head">navigation</a>, 					<a href="http://en.wikipedia.org/wiki/Sierra_Leone#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox geography vcard" style="width:22em; font-size:88%;">
+<tr class="adr">
+<th colspan="3" align="center" class="mergedtoprow" style="padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><span class="fn org country-name">Republic of Sierra Leone</span><br /></th>
+</tr>
+<tr class="mergedtoprow">
+<td class="maptable" colspan="3" align="center" style="padding:0.5em 0;">
+<table align="center" style="width:100%;background:none;">
+<tr>
+<td align="center" style="width:58%; vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Flag_of_Sierra_Leone.svg" class="image" title="Flag of Sierra Leone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/125px-Flag_of_Sierra_Leone.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/188px-Flag_of_Sierra_Leone.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/250px-Flag_of_Sierra_Leone.svg.png 2x" data-file-width="450" data-file-height="300" /></a></td>
+<td align="center" style="width:auto;vertical-align:middle;"><a href="http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Sierra_Leone.svg" class="image" title="Coat of arms of Sierra Leone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coat_of_arms_of_Sierra_Leone.svg/85px-Coat_of_arms_of_Sierra_Leone.svg.png" width="85" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coat_of_arms_of_Sierra_Leone.svg/128px-Coat_of_arms_of_Sierra_Leone.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coat_of_arms_of_Sierra_Leone.svg/170px-Coat_of_arms_of_Sierra_Leone.svg.png 2x" data-file-width="1035" data-file-height="843" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Flag_of_Sierra_Leone" title="Flag of Sierra Leone">Flag</a></td>
+<td align="center" style="font-size:85%;"><a href="http://en.wikipedia.org/wiki/Coat_of_arms_of_Sierra_Leone" title="Coat of arms of Sierra Leone">Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;line-height:1.2em;"><b>Motto:&#160;</b>"Unity, Freedom, Justice"</td>
+</tr>
+<tr>
+<td class="anthem" colspan="3" style="text-align:center;line-height:1.2em;"><b>Anthem:&#160;</b><i><a href="http://en.wikipedia.org/wiki/High_We_Exalt_Thee,_Realm_of_the_Free" title="High We Exalt Thee, Realm of the Free">High We Exalt Thee, Realm of the Free</a></i><br />
+<center>
+<div class="mediaContainer" style="position:relative;display:block;width:220px"><audio id="mwe_player_0" style="width:220px" poster="//en.wikipedia.org/static/1.26wmf4/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" class="kskin" data-durationhint="46.132244897959" data-startoffset="0" data-mwtitle="National_Anthem_of_Sierra_Leone_by_US_Navy_Band.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/5/57/National_Anthem_of_Sierra_Leone_by_US_Navy_Band.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (122 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="121988"></source><track kind="subtitles" data-mwtitle="TimedText:National_Anthem_of_Sierra_Leone_by_US_Navy_Band.ogg.en.srt" data-mwprovider="wikimediacommons" type="text/x-srt" src="//commons.wikimedia.org/w/index.php?title=:National+Anthem+of+Sierra+Leone+by+US+Navy+Band.ogg.en.srt&amp;action=raw&amp;ctype=text%2Fx-srt" srclang="en" data-dir="ltr" label="English (en) subtitles"></track>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/5/57/National_Anthem_of_Sierra_Leone_by_US_Navy_Band.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Location_Sierra_Leone_AU_Africa.svg" class="image" title="Location of &#160;Sierra Leone&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)&#160; –&#160; [Legend]"><img alt="Location of &#160;Sierra Leone&#160;&#160;(dark blue)–&#160;in Africa&#160;&#160;(light blue &amp;&#160;dark grey)–&#160;in the African Union&#160;&#160;(light blue)&#160; –&#160; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Location_Sierra_Leone_AU_Africa.svg/250px-Location_Sierra_Leone_AU_Africa.svg.png" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Location_Sierra_Leone_AU_Africa.svg/375px-Location_Sierra_Leone_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Location_Sierra_Leone_AU_Africa.svg/500px-Location_Sierra_Leone_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</div>
+<div style="padding:0.3em;line-height:1.2em;font-size:85%;">
+<div style="text-align:center;font-size:11px;line-height:1.15em;"><span style="font-size:11px;">Location of <span style="font-size:2px;">&#160;</span><strong class="selflink">Sierra Leone</strong><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+<p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&#160;in <a href="http://en.wikipedia.org/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue &amp;&#160;dark grey</span>)<br />
+–&#160;in the <a href="http://en.wikipedia.org/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span style="white-space:nowrap;">&#160;&#160;</span></span>(<span style="font-size:9px;">light blue</span>)&#160; –&#160; [<span style="font-size:10px;"><a href="http://en.wikipedia.org/wiki/File:Location_Sierra_Leone_AU_Africa.svg" title="File:Location Sierra Leone AU Africa.svg">Legend</a></span>]</p>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="3" style="padding:0.6em 0 0.3em;text-align:center;">
+<div class="center">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Sierra_Leone_-_Location_Map_(2012)_-_SLE_-_UNOCHA.svg" class="image" title="Location of Sierra Leone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sierra_Leone_-_Location_Map_%282012%29_-_SLE_-_UNOCHA.svg/250px-Sierra_Leone_-_Location_Map_%282012%29_-_SLE_-_UNOCHA.svg.png" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sierra_Leone_-_Location_Map_%282012%29_-_SLE_-_UNOCHA.svg/375px-Sierra_Leone_-_Location_Map_%282012%29_-_SLE_-_UNOCHA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sierra_Leone_-_Location_Map_%282012%29_-_SLE_-_UNOCHA.svg/500px-Sierra_Leone_-_Location_Map_%282012%29_-_SLE_-_UNOCHA.svg.png 2x" data-file-width="250" data-file-height="250" /></a></div>
+</div>
+<div style="position:relative;top:0.3em;line-height:1.2em;font-size:85%;"></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Capital</b><br />
+and largest city</td>
+<td><a href="http://en.wikipedia.org/wiki/Freetown" title="Freetown">Freetown</a><br />
+<span style="white-space:nowrap;font-size:85%;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Sierra_Leone&amp;params=8_29.067_N_13_14.067_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">8°29.067′N</span> <span class="longitude">13°14.067′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">8.484450°N 13.234450°W</span><span style="display:none">﻿ / <span class="geo">8.484450; -13.234450</span></span></span></a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Official languages</th>
+<td><a href="http://en.wikipedia.org/wiki/English_language" title="English language">English</a> <a href="http://en.wikipedia.org/wiki/Bengali_language" title="Bengali language">Bengali</a> (honorary official language)<sup id="cite_ref-dailytimes_1-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-dailytimes-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2" style="white-space:nowrap;">Spoken languages</th>
+<td>
+<div class="hlist">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Temne_language" title="Temne language">Temne</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Mende_language" title="Mende language">Mende</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Krio_language" title="Krio language">Krio</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Ethnic_groups" title="Ethnic groups" class="mw-redirect">Ethnic&#160;groups</a></b> (2008)</td>
+<td>
+<div class="plainlist">
+<ul>
+<li>35% <a href="http://en.wikipedia.org/wiki/Temne_people" title="Temne people">Temne</a></li>
+<li>31% <a href="http://en.wikipedia.org/wiki/Mende_people" title="Mende people">Mende</a></li>
+<li>8% <a href="http://en.wikipedia.org/wiki/Limba_people_(Sierra_Leone)" title="Limba people (Sierra Leone)">Limba</a></li>
+<li>5% <a href="http://en.wikipedia.org/wiki/Kono_people" title="Kono people">Kono</a></li>
+<li>2% <a href="http://en.wikipedia.org/wiki/Sierra_Leone_Creole_people" title="Sierra Leone Creole people">Krio (Creole)</a></li>
+<li>2% <a href="http://en.wikipedia.org/wiki/Mandingo_people_of_Sierra_Leone" title="Mandingo people of Sierra Leone">Mandingo</a></li>
+<li>2% <a href="http://en.wikipedia.org/wiki/Loko_people" title="Loko people">Loko</a></li>
+<li>15% others</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td>Sierra Leonean,</td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Politics_of_Sierra_Leone" title="Politics of Sierra Leone">Government</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="http://en.wikipedia.org/wiki/Presidential_system" title="Presidential system">presidential</a> <a href="http://en.wikipedia.org/wiki/Constitutional_republic" title="Constitutional republic" class="mw-redirect">constitutional republic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/President_of_Sierra_Leone" title="President of Sierra Leone">President</a></td>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Ernest_Bai_Koroma" title="Ernest Bai Koroma">Ernest Bai Koroma</a> <small style="font-size:85%;">(<a href="http://en.wikipedia.org/wiki/All_People%27s_Congress" title="All People's Congress">APC</a>)</small></span></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Vice_President_of_Sierra_Leone" title="Vice President of Sierra Leone">Vice-President</a></td>
+<td><span class="nowrap"><a href="/w/index.php?title=Victor_Bockarie_Foh&amp;action=edit&amp;redlink=1" class="new" title="Victor Bockarie Foh (page does not exist)">Victor Bockarie Foh</a>&#160;<small style="font-size:85%;">(APC)</small></span></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Speaker_of_the_House_of_Parliament_of_Sierra_Leone" title="Speaker of the House of Parliament of Sierra Leone">Speaker of Parliament</a></td>
+<td><span class="nowrap"><a href="http://en.wikipedia.org/wiki/Sheku_Badara_Bashiru_Dumbuya" title="Sheku Badara Bashiru Dumbuya">S.B.B. Dumbuya</a> <small style="font-size:85%;">(APC)</small></span></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;"><a href="http://en.wikipedia.org/wiki/Chief_Justice" title="Chief Justice">Chief Justice</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Umu_Hawa_Tejan-Jalloh" title="Umu Hawa Tejan-Jalloh">Umu Hawa Tejan-Jalloh</a></td>
+</tr>
+<tr>
+<th colspan="2">Legislature</th>
+<td><a href="http://en.wikipedia.org/wiki/Parliament_of_Sierra_Leone" title="Parliament of Sierra Leone">Parliament</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Independence" title="Independence">Independence</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">from the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td>27 April 1961&#160;</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Republic declared</td>
+<td>19 April 1971&#160;</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Geography_of_Sierra_Leone" title="Geography of Sierra Leone">Area</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>71,740&#160;km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">119th</a>)<br />
+27,699&#160;sq&#160;mi</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Water&#160;(%)</td>
+<td>1.1</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="3"><a href="http://en.wikipedia.org/wiki/Demographics_of_Sierra_Leone" title="Demographics of Sierra Leone">Population</a></th>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">2013&#160;estimate</td>
+<td>6,190,280<sup id="cite_ref-Stat.sl_2-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-Stat.sl-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Density</td>
+<td>79.4/km<sup><small>2</small></sup> (<a href="http://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_population_density" title="List of sovereign states and dependent territories by population density">114th<sup>a</sup></a>)<br />
+205.6/sq&#160;mi</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(<a href="http://en.wikipedia.org/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</td>
+<td>2012&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$8.276&#160;billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-imf2-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$1,344<sup id="cite_ref-imf2_3-1" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-imf2-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></b>&#160;(nominal)</td>
+<td>2012&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Total</td>
+<td>$3.777&#160;billion<sup id="cite_ref-imf2_3-2" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-imf2-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em;padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;">Per capita</td>
+<td>$613<sup id="cite_ref-imf2_3-3" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-imf2-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Gini_coefficient" title="Gini coefficient">Gini</a></b>&#160;(2011)</td>
+<td>35.4<sup id="cite_ref-wb-gini_4-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-wb-gini-4"><span>[</span>4<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Human_Development_Index" title="Human Development Index">HDI</a></b> (2013)</td>
+<td><span title="Increase"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /></span>&#160;0.374<sup id="cite_ref-HDI_5-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-HDI-5"><span>[</span>5<span>]</span></a></sup><br />
+<span style="white-space:nowrap;"><span style="color:red">low</span></span>&#160;<b>·</b> <a href="http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">183rd</a></td>
+</tr>
+<tr>
+<th colspan="2" style="vertical-align:middle;">Currency</th>
+<td><a href="http://en.wikipedia.org/wiki/Sierra_Leonean_leone" title="Sierra Leonean leone">Leone</a> (<a href="http://en.wikipedia.org/wiki/ISO_4217" title="ISO 4217">SLL</a>)</td>
+</tr>
+<tr>
+<th colspan="2">Time zone</th>
+<td><a href="http://en.wikipedia.org/wiki/Greenwich_Mean_Time" title="Greenwich Mean Time">GMT</a> <span class="nowrap">(<a href="http://en.wikipedia.org/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0)</span></td>
+</tr>
+<tr>
+<th colspan="2">Drives on the</th>
+<td>right<sup>b</sup></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Sierra_Leone" title="Telephone numbers in Sierra Leone">Calling code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/%2B232" title="+232" class="mw-redirect">+232</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="white-space:nowrap;"><a href="http://en.wikipedia.org/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td><a href="http://en.wikipedia.org/wiki/ISO_3166-2:SL" title="ISO 3166-2:SL">SL</a></td>
+</tr>
+<tr>
+<th colspan="2"><a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+<td><a href="http://en.wikipedia.org/wiki/.sl" title=".sl">.sl</a></td>
+</tr>
+<tr style="font-size:85%;">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>a.</sup></span></td>
+<td colspan="2" style="padding-left:0;">Rank based on 2007 figures.</td>
+</tr>
+<tr style="font-size:85%;" class="mergedbottomrow">
+<td align="right"><span style="position: relative; top: 0.3em;"><sup>b.</sup></span></td>
+<td colspan="2" style="padding-left:0;">Since 1 March 1971.</td>
+</tr>
+</table>
+<p><b>Sierra Leone</b> (<span class="nowrap"><span class="noexcerpt"><a href="//upload.wikimedia.org/wikipedia/commons/d/da/En-us-Sierra_Leone.ogg" title="Listen"><img alt="Listen" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/11px-Speakerlink-new.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/17px-Speakerlink-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/22px-Speakerlink-new.svg.png 2x" data-file-width="11" data-file-height="11" /></a><sup><span style="color: #00e; font: bold 80% sans-serif; padding: 0 .1em;" class="IPA"><a href="http://en.wikipedia.org/wiki/File:En-us-Sierra_Leone.ogg" title="File:En-us-Sierra Leone.ogg">i</a></span></sup></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'s' in 'sigh'" style="border-bottom:1px dotted">s</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɪ/ short 'i' in 'bid'" style="border-bottom:1px dotted">ɪ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɛər/ 'are' in 'bare'" style="border-bottom:1px dotted">ɛər</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ə/ 'a' in 'about'" style="border-bottom:1px dotted">ə</span></a></span> <span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'l' in 'lie'" style="border-bottom:1px dotted">l</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɪ/ short 'i' in 'bid'" style="border-bottom:1px dotted">ɪ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/oʊ/ long 'o' in 'bode'" style="border-bottom:1px dotted">oʊ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/i/ 'y' in 'happy'" style="border-bottom:1px dotted">i</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English">,</a></span> <span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/-/ affix" style="border-bottom:1px dotted">-</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'l' in 'lie'" style="border-bottom:1px dotted">l</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɪ/ short 'i' in 'bid'" style="border-bottom:1px dotted">ɪ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/oʊ/ long 'o' in 'bode'" style="border-bottom:1px dotted">oʊ</span></a></span><span class="IPA nopopups"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="http://en.wikipedia.org/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>),<sup id="cite_ref-6" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-6"><span>[</span>6<span>]</span></a></sup> officially the <b>Republic of Sierra Leone</b>, is a country in <a href="http://en.wikipedia.org/wiki/West_Africa" title="West Africa">West Africa</a>. It is bordered by <a href="http://en.wikipedia.org/wiki/Guinea" title="Guinea">Guinea</a> in the north-east, <a href="http://en.wikipedia.org/wiki/Liberia" title="Liberia">Liberia</a> in the south-east, and the <a href="http://en.wikipedia.org/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> in the south-west. Sierra Leone has a <a href="http://en.wikipedia.org/wiki/Tropical_climate" title="Tropical climate">tropical climate</a>, with a diverse environment ranging from <a href="http://en.wikipedia.org/wiki/Savannah" title="Savannah" class="mw-redirect">savannah</a> to <a href="http://en.wikipedia.org/wiki/Rainforests" title="Rainforests" class="mw-redirect">rainforests</a>. Sierra Leone has a total area of 71,740&#160;km<sup>2</sup> (27,699&#160;sq&#160;mi)<sup id="cite_ref-Sierra_Leone_7-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-Sierra_Leone-7"><span>[</span>7<span>]</span></a></sup> and an estimated population of 6 million (2011 United Nations estimate).<sup id="cite_ref-Sierra_Leone_profile_8-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-Sierra_Leone_profile-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-Sierra_Leone_Geography_9-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-Sierra_Leone_Geography-9"><span>[</span>9<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/Freetown" title="Freetown">Freetown</a> is the capital, largest city, and its economic and political centre. <a href="http://en.wikipedia.org/wiki/Bo,_Sierra_Leone" title="Bo, Sierra Leone">Bo</a> is the second largest city and second major economic center in the country. The country is divided into four geographical regions: the <a href="http://en.wikipedia.org/wiki/Northern_Province,_Sierra_Leone" title="Northern Province, Sierra Leone">Northern Province</a>, <a href="http://en.wikipedia.org/wiki/Eastern_Province,_Sierra_Leone" title="Eastern Province, Sierra Leone">Eastern Province</a>, <a href="http://en.wikipedia.org/wiki/Southern_Province,_Sierra_Leone" title="Southern Province, Sierra Leone">Southern Province</a> and the <a href="http://en.wikipedia.org/wiki/Western_Area" title="Western Area">Western Area</a>, which are further divided into <a href="http://en.wikipedia.org/wiki/Districts_of_Sierra_Leone" title="Districts of Sierra Leone">fourteen districts</a>.</p>
+<p>About sixteen <a href="http://en.wikipedia.org/wiki/Ethnic_groups" title="Ethnic groups" class="mw-redirect">ethnic groups</a> inhabit Sierra Leone, each with their own language and custom. The two largest and most influential are the <a href="http://en.wikipedia.org/wiki/Temne_people" title="Temne people">Temne</a> and the <a href="http://en.wikipedia.org/wiki/Mende_people" title="Mende people">Mende people</a>. The Temne are predominantly found in the north of the country, while the Mende are predominant in the south-east. Although English is the <a href="http://en.wikipedia.org/wiki/Official_language" title="Official language">official language</a> spoken at schools and government administration, the <a href="http://en.wikipedia.org/wiki/Krio_language" title="Krio language">Krio language</a> is the most widely spoken language in the country and unites all the different ethnic groups in the country, especially in their trade and social interaction with each other.</p>
+<p>Sierra Leone is a predominantly <a href="http://en.wikipedia.org/wiki/Muslim" title="Muslim">Muslim</a> country,<sup id="cite_ref-r1_10-0" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-r1-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-12"><span>[</span>12<span>]</span></a></sup> though with an influential <a href="http://en.wikipedia.org/wiki/Christian" title="Christian">Christian</a> minority. Sierra Leone is regarded as one of the most religiously tolerant nations in the world. Muslims and Christians collaborate and interact with each other peacefully. Religious violence is very rare in the country.</p>
+<p>Sierra Leone has relied on mining, especially <a href="http://en.wikipedia.org/wiki/Diamonds" title="Diamonds" class="mw-redirect">diamonds</a>, for its economic base. It is also among the largest producers of <a href="http://en.wikipedia.org/wiki/Titanium" title="Titanium">titanium</a> and <a href="http://en.wikipedia.org/wiki/Bauxite" title="Bauxite">bauxite</a>, a major producer of <a href="http://en.wikipedia.org/wiki/Gold" title="Gold">gold</a>, and has one of the world's largest deposits of <a href="http://en.wikipedia.org/wiki/Rutile" title="Rutile">rutile</a>. Sierra Leone is home to the third-largest natural harbour in the world. Despite exploitation of this natural wealth, 70% of its people live in <a href="http://en.wikipedia.org/wiki/Poverty" title="Poverty">poverty</a>.<sup id="cite_ref-13" class="reference"><a href="http://en.wikipedia.org/wiki/Sierra_Leone#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>Sierra Leone became independent in 1961. <a href="http://en.wikipedia.org/wiki/Government_corruption" title="Government corruption" class="mw-redirect">Government corruption</a> and mismanagement of the country's natural resources contributed to the <a href="http://en.wikipedia.org/wiki/Sierra_Leone_Civil_War" title="Sierra Leone Civil War">Sierra Leone Civil War</a> (1991 to 2002), which over more than a decade devastated the country. It left more than 50,000 people dead, much of the country's infrastructure destroyed, and over two million people displaced as <a href="http://en.wikipedia.org/wiki/Refugees" title="Refugees" class="mw-redirect">refugees</a> in neighbouring countries.</p>
+<p>More recently, the <a href="http://en.wikipedia.org/wiki/2014_Ebola_outbreak" title="2014 Ebola outbreak" class="mw-redirect">2014 Ebola outbreak</a> threatens to lead the country into a <a href="http://en.wikipedia.org/wiki/Humanitarian_crisis" title="Humanitarian crisis">humanitarian crisis</a> situation and a negative spiral of weaker economic growth. The country has an extremely <a href="http://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy" title="List of countries by life expectancy">low life expectancy</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle"

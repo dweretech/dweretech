@@ -1,0 +1,108 @@
+	<h1 id="firstHeading" class="firstHeading">Alexandria</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub"></h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="http://en.wikipedia.org/wiki/Alexandria#column-one">navigation</a>, <a href="http://en.wikipedia.org/wiki/Alexandria#searchInput">search</a></div>			<!-- start content -->
+			<div class="dablink">This article is about the city in Egypt.  For other uses, see <a href="http://en.wikipedia.org/wiki/Alexandria_(disambiguation)" title="Alexandria (disambiguation)">Alexandria (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:23em; text-align:left">
+<tr>
+<th colspan="2" style="width:100%; text-align:center; font-size:1.25em; white-space:nowrap"><span class="fn org">Alexandria</span><br />
+<span class="nickname">إسكندرية <i>Eskendereyya</i></span><br />
+<span class="nickname">Ⲣⲁⲕⲟⲧⲉ <i>Rakote</i></span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; padding:0.7em 0.8em">
+<div class="floatnone"><a href="http://en.wikipedia.org/wiki/File:Alexandria_12-9-2005.JPG" class="image" title="Alexandria in winter"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alexandria_12-9-2005.JPG/310px-Alexandria_12-9-2005.JPG" width="310" height="163" /></a></div>
+<small>Alexandria in winter</small></td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align:center"><a href="http://en.wikipedia.org/wiki/Nickname" title="Nickname">Nickname</a>(s): <span class="nickname">Pearl of the <a href="http://en.wikipedia.org/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean</a></span></td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align:center" align="center">
+<center>
+<div style="width: 252px; float:none; clear:none;">
+<div style="position: relative; padding: 0px; width: 250px"><a href="http://en.wikipedia.org/wiki/File:Egypt_location_map.svg" class="image" title="Alexandria is located in Egypt"><img alt="Alexandria is located in Egypt" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Egypt_location_map.svg/250px-Egypt_location_map.svg.png" width="250" height="227" /></a><br />
+<div style="position: absolute; z-index: 2; top: 8.3%; left: 43.6%; height: 0; width: 0; margin: 0; padding: 0;">
+<div style="position: relative; text-align: center; left: -3px; top: -3px; width: 6px; font-size: 6px;"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" width="6" height="6" /></div>
+<div style="font-size: 90%; line-height: 110%; position: relative; top: -1.5em; width: 6em; left: 0.5em; text-align: left;"><span style="padding: 1px;">Alexandria</span></div>
+</div>
+</div>
+<div style="font-size: 90%"></div>
+</div>
+<small>Location in Egypt</small></center>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center; padding-bottom:0.7em">Coordinates: <span style="white-space: nowrap;"><span class="plainlinks nourlexpansion"><a href="http://stable.toolserver.org/geohack/geohack.php?pagename=Alexandria&amp;params=31_12_N_29_55_E_type:city_region:EG" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">31°12′N</span> <span class="longitude">29°55′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">31.2°N 29.917°E</span><span style="display:none">﻿ / <span class="geo">31.2; 29.917</span></span></span></a></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th>Country</th>
+<td><span class="flagicon"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/22px-Flag_of_Egypt.svg.png" width="22" height="15" class="thumbborder" />&#160;</span><a href="http://en.wikipedia.org/wiki/Egypt" title="Egypt">Egypt</a></td>
+</tr>
+<tr class="mergedrow">
+<th><a href="http://en.wikipedia.org/wiki/Governorates_of_Egypt" title="Governorates of Egypt">Governates</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Alexandria_Governorate" title="Alexandria Governorate">Alexandria Governorate</a></td>
+</tr>
+<tr class="mergedrow">
+<th>Founded</th>
+<td>332 BC</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Government</b></td>
+</tr>
+<tr class="mergedrow">
+<th>&#160;-&#160;Governor</th>
+<td><a href="http://en.wikipedia.org/wiki/Adel_Labib" title="Adel Labib">Adel Labib</a></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b><a href="http://en.wikipedia.org/wiki/Area" title="Area">Area</a></b></td>
+</tr>
+<tr class="mergedrow">
+<th>&#160;-&#160;Total</th>
+<td>1,034.4&#160;sq&#160;mi&#160;(2,679&#160;km<sup>2</sup>)</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Population</b> (2006)</td>
+</tr>
+<tr class="mergedrow">
+<th>&#160;-&#160;Total</th>
+<td>4,110,015</td>
+</tr>
+<tr class="mergedrow">
+<td>&#160;</td>
+<td><small>CAPMS 2006 Census</small></td>
+</tr>
+<tr class="mergedtoprow">
+<th><a href="http://en.wikipedia.org/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Egypt_Standard_Time" title="Egypt Standard Time">EST</a> (<a href="http://en.wikipedia.org/wiki/UTC%2B2" title="UTC+2">UTC+2</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th style="white-space:nowrap">&#160;-&#160;Summer&#160;(<a href="http://en.wikipedia.org/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</th>
+<td>+3 (<a href="http://en.wikipedia.org/wiki/UTC" title="UTC" class="mw-redirect">UTC</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th><a href="http://en.wikipedia.org/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th>
+<td>++3</td>
+</tr>
+<tr class="mergedtoprow">
+<th>Website</th>
+<td><a href="http://www.alexandria.gov.eg/default.aspx" class="external text" rel="nofollow">Official website</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="http://en.wikipedia.org/wiki/File:CornicheAlexandria.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/5/59/CornicheAlexandria.jpg/320px-CornicheAlexandria.jpg" width="320" height="240" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://en.wikipedia.org/wiki/File:CornicheAlexandria.jpg" class="internal" title="Enlarge"><img src="/skins-1.5/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Alexandria during summer.</div>
+</div>
+</div>
+<p><b>Alexandria</b> (<a href="http://en.wikipedia.org/wiki/Arabic_language" title="Arabic language">Arabic</a>: <i><span lang="ar" xml:lang="ar">الإسكندرية</span></i> <i>al-Iskandariyya</i>; <a href="http://en.wikipedia.org/wiki/Coptic_language" title="Coptic language">Coptic</a>: <i><span lang="cop-Copt" style="font-size:125%;font-family:'New Athena Unicode', 'MPH 2B Damase', 'Arial Coptic', 'Quivira', 'Analecta';" xml:lang="cop-Copt">Ⲣⲁⲕⲟⲧⲉ</span></i> <i><span class="Unicode">Rakotə</span></i>; <a href="http://en.wikipedia.org/wiki/Greek_language" title="Greek language">Greek</a>: <i><span lang="grc" xml:lang="grc">Ἀλεξάνδρεια</span></i>; <a href="http://en.wikipedia.org/wiki/Egyptian_Arabic" title="Egyptian Arabic">Egyptian Arabic</a>: <i>اسكندريه</i> <i>Eskendereyya</i>), with a population of 4.1 million, is the second-largest city in <a href="http://en.wikipedia.org/wiki/Egypt" title="Egypt">Egypt</a>, and is the country's largest seaport, serving about 80% of Egypt's imports and exports. Alexandria is also an important tourist resort.</p>
+<p>Alexandria extends about 32&#160;km (20&#160;mi) along the <a href="http://en.wikipedia.org/wiki/Coast" title="Coast">coast</a> of the <a href="http://en.wikipedia.org/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> in north-central Egypt. It is home to the <i><a href="http://en.wikipedia.org/wiki/Bibliotheca_Alexandrina" title="Bibliotheca Alexandrina">Bibliotheca Alexandrina</a></i> (<i>the new <a href="http://en.wikipedia.org/wiki/Library_of_Alexandria" title="Library of Alexandria">Library</a></i>), and is an important industrial center because of its <a href="http://en.wikipedia.org/wiki/Natural_gas" title="Natural gas">natural gas</a> and <a href="http://en.wikipedia.org/wiki/Pipeline_transport" title="Pipeline transport">oil pipelines</a> from <a href="http://en.wikipedia.org/wiki/Suez" title="Suez">Suez</a>, another city in Egypt. Alexandria was also an important trading post between <a href="http://en.wikipedia.org/wiki/Europe" title="Europe">Europe</a> and <a href="http://en.wikipedia.org/wiki/Asia" title="Asia">Asia</a>, because it profited from the easy overland connection between the Mediterranean Sea and the <a href="http://en.wikipedia.org/wiki/Red_Sea" title="Red Sea">Red Sea</a>.</p>
+<p>In <a href="http://en.wikipedia.org/wiki/Ancient_history" title="Ancient history">ancient times</a>, Alexandria was one of the most famous cities in the world. It was founded around a small <a href="http://en.wikipedia.org/wiki/Ancient_Egypt" title="Ancient Egypt">pharaonic</a> town <i>c.</i> 331 BC by <a href="http://en.wikipedia.org/wiki/Alexander_the_Great" title="Alexander the Great">Alexander the Great</a>. It remained Egypt's capital for nearly a thousand years, until the <a href="http://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt" title="Muslim conquest of Egypt">Muslim conquest of Egypt</a> in 641 AD when a new capital was founded at <a href="http://en.wikipedia.org/wiki/Fustat" title="Fustat">Fustat</a> (Fustat was later absorbed into <a href="http://en.wikipedia.org/wiki/Cairo" title="Cairo">Cairo</a>).</p>
+<p>Alexandria was known because of its <a href="http://en.wikipedia.org/wiki/Lighthouse_of_Alexandria" title="Lighthouse of Alexandria">lighthouse</a> (<i>Pharos</i>), one of the <i><a href="http://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World" title="Seven Wonders of the Ancient World">Seven Wonders of the Ancient World</a></i>; its <a href="http://en.wikipedia.org/wiki/Library_of_Alexandria" title="Library of Alexandria">library</a> (the largest library in the ancient world); and the <a href="http://en.wikipedia.org/wiki/Catacombs_of_Kom_el_Shoqafa" title="Catacombs of Kom el Shoqafa">Catacombs of Kom el Shoqafa</a>, one of the <a href="http://en.wikipedia.org/wiki/Seven_Wonders_of_the_World#Seven_Wonders_lists_about_the_Middle_Ages" title="Seven Wonders of the World" class="mw-redirect">Seven Wonders of the Middle Ages</a>. Ongoing <a href="http://en.wikipedia.org/wiki/Maritime_archaeology" title="Maritime archaeology">maritime archaeology</a> in the harbor of Alexandria, which began in 1994, is revealing details of Alexandria both before the arrival of Alexander, when a city named <a href="http://en.wikipedia.org/wiki/Rhacotis" title="Rhacotis">Rhacotis</a> existed there, and during the <a href="http://en.wikipedia.org/wiki/Ptolemaic_dynasty" title="Ptolemaic dynasty">Ptolemaic dynasty</a>.</p>
+<div class="toclimit-3">
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle"
